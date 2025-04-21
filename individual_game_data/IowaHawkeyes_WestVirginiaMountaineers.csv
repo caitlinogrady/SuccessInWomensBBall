@@ -1,0 +1,323 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jump Ball won by Iowa,0,0,1,600,2400,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on JJ Quinerly.,0,0,1,587,2387,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Layup.,0,0,1,579,2379,Iowa Hawkeyes,layup,True,False,False,Caitlin Clark,False,,23.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson Block.,0,0,1,579,2379,West Virginia Mountaineers,block,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields Defensive Rebound.,0,0,1,579,2379,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson made Three Point Jumper. Assisted by Jordan Harrison.,0,3,1,567,2367,West Virginia Mountaineers,three point jumper,True,True,True,Kyah Watson,True,Jordan Harrison,49.0,-2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Turnover.,0,3,1,556,2356,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly Steal.,0,3,1,556,2356,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson made Layup. Assisted by JJ Quinerly.,0,5,1,549,2349,West Virginia Mountaineers,layup,True,True,False,Kyah Watson,True,JJ Quinerly,22.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Three Point Jumper.,0,5,1,523,2323,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,42.0,23.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,West Virginia Defensive Rebound.,0,5,1,523,2323,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields missed Three Point Jumper.,0,5,1,491,2291,West Virginia Mountaineers,three point jumper,True,False,True,Lauren Fields,False,,45.0,14.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kylee Blacksten Offensive Rebound.,0,5,1,491,2291,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,West Virginia  Turnover.,0,5,1,488,2288,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin Turnover.,0,5,1,477,2277,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kylee Blacksten Steal.,0,5,1,477,2277,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson missed Three Point Jumper.,0,5,1,466,2266,West Virginia Mountaineers,three point jumper,True,False,True,Kyah Watson,False,,2.0,6.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin Defensive Rebound.,0,5,1,466,2266,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter made Layup.,2,5,1,454,2254,Iowa Hawkeyes,layup,True,True,False,Sydney Affolter,False,,29.0,1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields missed Three Point Jumper.,2,5,1,441,2241,West Virginia Mountaineers,three point jumper,True,False,True,Lauren Fields,False,,49.0,3.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter Defensive Rebound.,2,5,1,441,2241,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Three Point Jumper.,5,5,1,424,2224,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,False,,44.0,22.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kylee Blacksten made Three Point Jumper. Assisted by Kyah Watson.,5,8,1,397,2197,West Virginia Mountaineers,three point jumper,True,True,True,Kylee Blacksten,True,Kyah Watson,1.0,3.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Jordan Harrison.,5,8,1,388,2188,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Caitlin Clark.,5,8,1,370,2170,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Turnover.,5,8,1,370,2170,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly made Three Point Jumper. Assisted by Jordan Harrison.,5,11,1,347,2147,West Virginia Mountaineers,three point jumper,True,True,True,JJ Quinerly,True,Jordan Harrison,19.0,24.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Sydney Affolter.,5,11,1,347,2147,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke made Layup. Assisted by Kate Martin.,7,11,1,329,2129,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,True,Kate Martin,24.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Kylee Blacksten.,7,11,1,329,2129,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke made Free Throw.,8,11,1,329,2129,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields missed Three Point Jumper.,8,11,1,320,2120,West Virginia Mountaineers,three point jumper,True,False,True,Lauren Fields,False,,49.0,8.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Defensive Rebound.,8,11,1,320,2120,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kylie Feuerbach missed Three Point Jumper.,8,11,1,299,2099,Iowa Hawkeyes,three point jumper,True,False,True,Kylie Feuerbach,False,,48.0,1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Offensive Rebound.,8,11,1,299,2099,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Gabbie Marshall missed Three Point Jumper.,8,11,1,294,2094,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,8.0,21.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly Defensive Rebound.,8,11,1,294,2094,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly made Layup.,8,13,1,286,2086,West Virginia Mountaineers,layup,True,True,False,JJ Quinerly,False,,26.0,0.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Three Point Jumper.,11,13,1,275,2075,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,False,,35.0,24.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly missed Jumper.,11,13,1,259,2059,West Virginia Mountaineers,jumper,True,False,False,JJ Quinerly,False,,29.0,12.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Defensive Rebound.,11,13,1,259,2059,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke made Layup. Assisted by Caitlin Clark.,13,13,1,253,2053,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,True,Caitlin Clark,28.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison Turnover.,13,13,1,229,2029,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kylie Feuerbach Steal.,13,13,1,229,2029,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers, Official TV Timeout,13,13,1,229,2029,,tv timeout,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Addison O'Grady missed Layup.,13,13,1,203,2003,Iowa Hawkeyes,layup,True,False,False,Addison O'Grady,False,,23.0,3.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kylee Blacksten Block.,13,13,1,203,2003,West Virginia Mountaineers,block,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison Defensive Rebound.,13,13,1,203,2003,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway Turnover.,13,13,1,197,1997,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Three Point Jumper.,16,13,1,183,1983,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,False,,25.0,29.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson missed Layup.,16,13,1,153,1953,West Virginia Mountaineers,layup,True,False,False,Kyah Watson,False,,27.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Defensive Rebound.,16,13,1,153,1953,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Turnover.,16,13,1,138,1938,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly Steal.,16,13,1,138,1938,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Kylie Feuerbach.,16,13,1,131,1931,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway made Free Throw.,16,14,1,131,1931,West Virginia Mountaineers,free throw,True,True,False,Jayla Hemingway,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway made Free Throw.,16,15,1,131,1931,West Virginia Mountaineers,free throw,True,True,False,Jayla Hemingway,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Three Point Jumper.,16,15,1,117,1917,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,38.0,24.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jump Ball won by West Virginia,16,15,1,117,1917,West Virginia Mountaineers,jump ball,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison Defensive Rebound.,16,15,1,117,1917,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway missed Layup.,16,15,1,97,1897,West Virginia Mountaineers,layup,True,False,False,Jayla Hemingway,False,,22.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Block.,16,15,1,97,1897,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Defensive Rebound.,16,15,1,97,1897,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Turnover.,16,15,1,79,1879,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson Steal.,16,15,1,79,1879,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson missed Three Point Jumper.,16,15,1,74,1874,West Virginia Mountaineers,three point jumper,True,False,True,Kyah Watson,False,,39.0,20.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter Defensive Rebound.,16,15,1,74,1874,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin made Jumper. Assisted by Sydney Affolter.,18,15,1,65,1865,Iowa Hawkeyes,jumper,True,True,False,Kate Martin,True,Sydney Affolter,30.0,12.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly missed Layup.,18,15,1,31,1831,West Virginia Mountaineers,layup,True,False,False,JJ Quinerly,False,,22.0,1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Block.,18,15,1,31,1831,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Defensive Rebound.,18,15,1,31,1831,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Kylee Blacksten.,18,15,1,1,1801,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter made Free Throw.,19,15,1,1,1801,Iowa Hawkeyes,free throw,True,True,False,Sydney Affolter,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter made Free Throw.,20,15,1,1,1801,Iowa Hawkeyes,free throw,True,True,False,Sydney Affolter,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,End of 1st Quarter,20,15,1,0,1800,,end,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jump Ball won by Iowa,20,15,2,600,1800,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Three Point Jumper.,20,15,2,592,1792,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,22.0,27.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin Offensive Rebound.,20,15,2,592,1792,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter missed Three Point Jumper.,20,15,2,585,1785,Iowa Hawkeyes,three point jumper,True,False,True,Sydney Affolter,False,,35.0,24.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,West Virginia Defensive Rebound.,20,15,2,585,1785,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway missed Three Point Jumper.,20,15,2,571,1771,West Virginia Mountaineers,three point jumper,True,False,True,Jayla Hemingway,False,,48.0,5.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Defensive Rebound.,20,15,2,571,1771,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke missed Layup.,20,15,2,550,1750,Iowa Hawkeyes,layup,True,False,False,Hannah Stuelke,False,,21.0,1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,West Virginia Defensive Rebound.,20,15,2,550,1750,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway missed Three Point Jumper.,20,15,2,527,1727,West Virginia Mountaineers,three point jumper,True,False,True,Jayla Hemingway,False,,47.0,9.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Defensive Rebound.,20,15,2,527,1727,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Jordan Harrison.,20,15,2,513,1713,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Kyah Watson.,20,15,2,513,1713,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Turnover.,20,15,2,508,1708,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields Steal.,20,15,2,508,1708,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson missed Jumper.,20,15,2,485,1685,West Virginia Mountaineers,jumper,True,False,False,Kyah Watson,False,,21.0,4.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin Defensive Rebound.,20,15,2,485,1685,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter made Layup. Assisted by Caitlin Clark.,22,15,2,477,1677,Iowa Hawkeyes,layup,True,True,False,Sydney Affolter,True,Caitlin Clark,28.0,1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly made Jumper.,22,17,2,451,1651,West Virginia Mountaineers,jumper,True,True,False,JJ Quinerly,False,,20.0,0.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Jumper.,22,17,2,435,1635,Iowa Hawkeyes,jumper,True,False,False,Caitlin Clark,False,,11.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson Defensive Rebound.,22,17,2,435,1635,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson missed Three Point Jumper.,22,17,2,404,1604,West Virginia Mountaineers,three point jumper,True,False,True,Kyah Watson,False,,43.0,19.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Tirzah Moore Offensive Rebound.,22,17,2,404,1604,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Tirzah Moore made Layup.,22,19,2,398,1598,West Virginia Mountaineers,layup,True,True,False,Tirzah Moore,False,,21.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke made Layup. Assisted by Caitlin Clark.,24,19,2,377,1577,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,True,Caitlin Clark,28.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway missed Three Point Jumper.,24,19,2,349,1549,West Virginia Mountaineers,three point jumper,True,False,True,Jayla Hemingway,False,,4.0,13.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson Offensive Rebound.,24,19,2,349,1549,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway missed Layup.,24,19,2,343,1543,West Virginia Mountaineers,layup,True,False,False,Jayla Hemingway,False,,27.0,1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin Defensive Rebound.,24,19,2,343,1543,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Iowa  Turnover.,24,19,2,308,1508,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly Turnover.,24,19,2,298,1498,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Steal.,24,19,2,298,1498,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Layup.,26,19,2,293,1493,Iowa Hawkeyes,layup,True,True,False,Caitlin Clark,False,,21.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly Turnover.,26,19,2,266,1466,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers, Official TV Timeout,26,19,2,266,1466,,tv timeout,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin missed Layup.,26,19,2,234,1434,Iowa Hawkeyes,layup,True,False,False,Kate Martin,False,,24.0,3.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Tirzah Moore Defensive Rebound.,26,19,2,234,1434,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Tirzah Moore missed Layup.,26,19,2,218,1418,West Virginia Mountaineers,layup,True,False,False,Tirzah Moore,False,,22.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Block.,26,19,2,218,1418,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,West Virginia Offensive Rebound.,26,19,2,218,1418,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway missed Layup.,26,19,2,207,1407,West Virginia Mountaineers,layup,True,False,False,Jayla Hemingway,False,,26.0,1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kylie Feuerbach Defensive Rebound.,26,19,2,207,1407,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Jayla Hemingway.,26,19,2,201,1401,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Turnover.,26,19,2,195,1395,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson Steal.,26,19,2,195,1395,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway made Three Point Jumper. Assisted by Jordan Harrison.,26,22,2,186,1386,West Virginia Mountaineers,three point jumper,True,True,True,Jayla Hemingway,True,Jordan Harrison,2.0,4.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Three Point Jumper.,26,22,2,168,1368,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,27.0,27.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields Defensive Rebound.,26,22,2,168,1368,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson made Layup.,26,24,2,135,1335,West Virginia Mountaineers,layup,True,True,False,Kyah Watson,False,,27.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Three Point Jumper.,26,24,2,123,1323,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,26.0,29.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields Defensive Rebound.,26,24,2,123,1323,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway missed Three Point Jumper.,26,24,2,107,1307,West Virginia Mountaineers,three point jumper,True,False,True,Jayla Hemingway,False,,48.0,10.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter Defensive Rebound.,26,24,2,107,1307,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Turnover.,26,24,2,82,1282,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson Turnover.,26,24,2,60,1260,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin missed Three Point Jumper.,26,24,2,39,1239,Iowa Hawkeyes,three point jumper,True,False,True,Kate Martin,False,,49.0,0.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison Defensive Rebound.,26,24,2,39,1239,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Gabbie Marshall.,26,24,2,9,1209,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway missed Three Point Jumper.,26,24,2,4,1204,West Virginia Mountaineers,three point jumper,True,False,True,Jayla Hemingway,False,,49.0,4.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway Offensive Rebound.,26,24,2,4,1204,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway missed Layup.,26,24,2,3,1203,West Virginia Mountaineers,layup,True,False,False,Jayla Hemingway,False,,27.0,1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Iowa Defensive Rebound.,26,24,2,3,1203,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,End of 2nd Quarter,26,24,2,0,1200,,end,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jump Ball won by West Virginia,26,24,3,600,1200,West Virginia Mountaineers,jump ball,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly missed Three Point Jumper.,26,24,3,580,1180,West Virginia Mountaineers,three point jumper,True,False,True,JJ Quinerly,False,,5.0,14.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Defensive Rebound.,26,24,3,580,1180,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke missed Layup.,26,24,3,567,1167,Iowa Hawkeyes,layup,True,False,False,Hannah Stuelke,False,,22.0,1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kylee Blacksten Block.,26,24,3,567,1167,West Virginia Mountaineers,block,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields Defensive Rebound.,26,24,3,567,1167,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields missed Three Point Jumper.,26,24,3,547,1147,West Virginia Mountaineers,three point jumper,True,False,True,Lauren Fields,False,,47.0,8.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter Defensive Rebound.,26,24,3,547,1147,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Layup.,28,24,3,534,1134,Iowa Hawkeyes,layup,True,True,False,Caitlin Clark,False,,24.0,4.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on JJ Quinerly.,28,24,3,534,1134,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Free Throw.,28,24,3,534,1134,Iowa Hawkeyes,free throw,True,False,False,Caitlin Clark,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Offensive Rebound.,28,24,3,534,1134,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Kylee Blacksten.,28,24,3,525,1125,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Gabbie Marshall missed Jumper.,28,24,3,514,1114,Iowa Hawkeyes,jumper,True,False,False,Gabbie Marshall,False,,26.0,10.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Offensive Rebound.,28,24,3,514,1114,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin missed Three Point Jumper.,28,24,3,496,1096,Iowa Hawkeyes,three point jumper,True,False,True,Kate Martin,False,,46.0,13.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields Defensive Rebound.,28,24,3,496,1096,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kylee Blacksten made Layup. Assisted by Jordan Harrison.,28,26,3,485,1085,West Virginia Mountaineers,layup,True,True,False,Kylee Blacksten,True,Jordan Harrison,28.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Three Point Jumper. Assisted by Kate Martin.,31,26,3,460,1060,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,True,Kate Martin,48.0,8.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly missed Jumper.,31,26,3,431,1031,West Virginia Mountaineers,jumper,True,False,False,JJ Quinerly,False,,28.0,8.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Iowa Defensive Rebound.,31,26,3,431,1031,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Gabbie Marshall missed Three Point Jumper.,31,26,3,416,1016,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,39.0,21.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter Offensive Rebound.,31,26,3,416,1016,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter made Two Point Tip Shot.,33,26,3,416,1016,Iowa Hawkeyes,two point tip shot,True,True,False,Sydney Affolter,False,,25.0,1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,West Virginia  Timeout,33,26,3,398,998,West Virginia Mountaineers,timeout,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kylee Blacksten missed Three Point Jumper.,33,26,3,378,978,West Virginia Mountaineers,three point jumper,True,False,True,Kylee Blacksten,False,,1.0,0.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Defensive Rebound.,33,26,3,378,978,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter missed Three Point Jumper.,33,26,3,369,969,Iowa Hawkeyes,three point jumper,True,False,True,Sydney Affolter,False,,48.0,7.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Offensive Rebound.,33,26,3,369,969,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Three Point Jumper. Assisted by Sydney Affolter.,36,26,3,360,960,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,True,Sydney Affolter,39.0,25.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kylee Blacksten missed Three Point Jumper.,36,26,3,340,940,West Virginia Mountaineers,three point jumper,True,False,True,Kylee Blacksten,False,,17.0,24.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Gabbie Marshall Defensive Rebound.,36,26,3,340,940,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Kylee Blacksten.,36,26,3,327,927,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Tirzah Moore.,36,26,3,320,920,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke made Free Throw.,37,26,3,320,920,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke made Free Throw.,38,26,3,320,920,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly Turnover.,38,26,3,311,911,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Gabbie Marshall Steal.,38,26,3,311,911,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin Turnover.,38,26,3,304,904,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly made Three Point Jumper. Assisted by Jordan Harrison.,38,29,3,292,892,West Virginia Mountaineers,three point jumper,True,True,True,JJ Quinerly,True,Jordan Harrison,4.0,14.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers, Official TV Timeout,38,29,3,271,871,,tv timeout,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Turnover.,38,29,3,267,867,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly Steal.,38,29,3,267,867,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway made Layup. Assisted by JJ Quinerly.,38,31,3,260,860,West Virginia Mountaineers,layup,True,True,False,Jayla Hemingway,True,JJ Quinerly,28.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Sydney Affolter.,38,31,3,247,847,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter Turnover.,38,31,3,247,847,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Gabbie Marshall.,38,31,3,228,828,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison made Free Throw.,38,32,3,228,828,West Virginia Mountaineers,free throw,True,True,False,Jordan Harrison,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison missed Free Throw.,38,32,3,228,828,West Virginia Mountaineers,free throw,True,False,False,Jordan Harrison,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter Defensive Rebound.,38,32,3,228,828,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin missed Jumper.,38,32,3,218,818,Iowa Hawkeyes,jumper,True,False,False,Kate Martin,False,,33.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson Defensive Rebound.,38,32,3,218,818,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly made Three Point Jumper. Assisted by Jayla Hemingway.,38,35,3,193,793,West Virginia Mountaineers,three point jumper,True,True,True,JJ Quinerly,True,Jayla Hemingway,47.0,12.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Hannah Stuelke.,38,35,3,167,767,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Turnover.,38,35,3,167,767,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Tirzah Moore missed Jumper.,38,35,3,157,757,West Virginia Mountaineers,jumper,True,False,False,Tirzah Moore,False,,20.0,6.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Defensive Rebound.,38,35,3,157,757,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Kyah Watson.,38,35,3,149,749,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Free Throw.,39,35,3,149,749,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Free Throw.,40,35,3,149,749,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson made Three Point Jumper. Assisted by Jordan Harrison.,40,38,3,137,737,West Virginia Mountaineers,three point jumper,True,True,True,Kyah Watson,True,Jordan Harrison,1.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Turnover.,40,38,3,118,718,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison Steal.,40,38,3,118,718,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly missed Layup.,40,38,3,109,709,West Virginia Mountaineers,layup,True,False,False,JJ Quinerly,False,,22.0,0.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Iowa Defensive Rebound.,40,38,3,109,709,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Three Point Jumper.,40,38,3,91,691,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,4.0,13.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin Offensive Rebound.,40,38,3,91,691,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin made Layup.,42,38,3,85,685,Iowa Hawkeyes,layup,True,True,False,Kate Martin,False,,27.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Kyah Watson.,42,38,3,85,685,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin made Free Throw.,43,38,3,85,685,Iowa Hawkeyes,free throw,True,True,False,Kate Martin,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway missed Three Point Jumper.,43,38,3,72,672,West Virginia Mountaineers,three point jumper,True,False,True,Jayla Hemingway,False,,48.0,8.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin Defensive Rebound.,43,38,3,72,672,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Jumper.,45,38,3,49,649,Iowa Hawkeyes,jumper,True,True,False,Caitlin Clark,False,,26.0,5.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Jayla Hemingway.,45,38,3,49,649,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Free Throw.,46,38,3,49,649,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Tirzah Moore Turnover.,46,38,3,30,630,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Steal.,46,38,3,30,630,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on JJ Quinerly.,46,38,3,1,601,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin made Free Throw.,47,38,3,1,601,Iowa Hawkeyes,free throw,True,True,False,Kate Martin,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin made Free Throw.,48,38,3,1,601,Iowa Hawkeyes,free throw,True,True,False,Kate Martin,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin missed Free Throw.,48,38,3,1,601,Iowa Hawkeyes,free throw,True,False,False,Kate Martin,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Tirzah Moore Defensive Rebound.,48,38,3,1,601,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,End of 3rd Quarter,48,38,3,0,600,,end,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jump Ball won by Iowa,48,38,4,600,600,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Layup.,48,38,4,590,590,Iowa Hawkeyes,layup,True,False,False,Caitlin Clark,False,,22.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields Block.,48,38,4,590,590,West Virginia Mountaineers,block,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Tirzah Moore Defensive Rebound.,48,38,4,590,590,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Tirzah Moore made Layup.,48,40,4,572,572,West Virginia Mountaineers,layup,True,True,False,Tirzah Moore,False,,24.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Hannah Stuelke.,48,40,4,572,572,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Tirzah Moore missed Free Throw.,48,40,4,572,572,West Virginia Mountaineers,free throw,True,False,False,Tirzah Moore,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin Defensive Rebound.,48,40,4,572,572,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin Turnover.,48,40,4,553,553,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly missed Layup.,48,40,4,531,531,West Virginia Mountaineers,layup,True,False,False,JJ Quinerly,False,,23.0,3.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Block.,48,40,4,531,531,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,West Virginia Offensive Rebound.,48,40,4,531,531,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson made Three Point Jumper. Assisted by Jordan Harrison.,48,43,4,526,526,West Virginia Mountaineers,three point jumper,True,True,True,Kyah Watson,True,Jordan Harrison,49.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Three Point Jumper.,48,43,4,490,490,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,15.0,22.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison Defensive Rebound.,48,43,4,490,490,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison Turnover.,48,43,4,485,485,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Jordan Harrison.,48,43,4,485,485,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Jayla Hemingway.,48,43,4,482,482,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Jayla Hemingway.,48,43,4,473,473,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Gabbie Marshall missed Three Point Jumper.,48,43,4,464,464,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,1.0,-1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson Defensive Rebound.,48,43,4,464,464,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields missed Three Point Jumper.,48,43,4,444,444,West Virginia Mountaineers,three point jumper,True,False,True,Lauren Fields,False,,43.0,17.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Defensive Rebound.,48,43,4,444,444,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Lauren Fields.,48,43,4,433,433,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke missed Free Throw.,48,43,4,433,433,Iowa Hawkeyes,free throw,True,False,False,Hannah Stuelke,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Iowa Deadball Team Rebound.,48,43,4,433,433,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke missed Free Throw.,48,43,4,433,433,Iowa Hawkeyes,free throw,True,False,False,Hannah Stuelke,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,West Virginia Defensive Rebound.,48,43,4,433,433,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields missed Three Point Jumper.,48,43,4,416,416,West Virginia Mountaineers,three point jumper,True,False,True,Lauren Fields,False,,42.0,19.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Defensive Rebound.,48,43,4,416,416,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Three Point Jumper.,48,43,4,387,387,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,40.0,18.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson Defensive Rebound.,48,43,4,387,387,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson missed Layup.,48,43,4,371,371,West Virginia Mountaineers,layup,True,False,False,Kyah Watson,False,,23.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison Offensive Rebound.,48,43,4,371,371,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly missed Three Point Jumper.,48,43,4,366,366,West Virginia Mountaineers,three point jumper,True,False,True,JJ Quinerly,False,,2.0,3.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison Offensive Rebound.,48,43,4,366,366,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison made Two Point Tip Shot.,48,45,4,366,366,West Virginia Mountaineers,two point tip shot,True,True,False,Jordan Harrison,False,,25.0,1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Three Point Jumper.,48,45,4,341,341,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,32.0,28.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway Defensive Rebound.,48,45,4,341,341,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway made Three Point Jumper. Assisted by Tirzah Moore.,48,48,4,318,318,West Virginia Mountaineers,three point jumper,True,True,True,Jayla Hemingway,True,Tirzah Moore,48.0,4.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Iowa  Timeout,48,48,4,307,307,Iowa Hawkeyes,timeout,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on JJ Quinerly.,48,48,4,286,286,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter made Free Throw.,49,48,4,286,286,Iowa Hawkeyes,free throw,True,True,False,Sydney Affolter,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter made Free Throw.,50,48,4,286,286,Iowa Hawkeyes,free throw,True,True,False,Sydney Affolter,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Tirzah Moore missed Layup.,50,48,4,267,267,West Virginia Mountaineers,layup,True,False,False,Tirzah Moore,False,,28.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin Defensive Rebound.,50,48,4,267,267,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Layup.,50,48,4,254,254,Iowa Hawkeyes,layup,True,False,False,Caitlin Clark,False,,22.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Iowa Offensive Rebound.,50,48,4,254,254,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin missed Jumper.,50,48,4,243,243,Iowa Hawkeyes,jumper,True,False,False,Kate Martin,False,,21.0,5.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly Defensive Rebound.,50,48,4,243,243,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Hannah Stuelke.,50,48,4,239,239,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway missed Three Point Jumper.,50,48,4,230,230,West Virginia Mountaineers,three point jumper,True,False,True,Jayla Hemingway,False,,1.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,West Virginia Offensive Rebound.,50,48,4,230,230,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,West Virginia  Timeout,50,48,4,224,224,West Virginia Mountaineers,timeout,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Tirzah Moore made Layup. Assisted by Jordan Harrison.,50,50,4,223,223,West Virginia Mountaineers,layup,True,True,False,Tirzah Moore,True,Jordan Harrison,22.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Tirzah Moore.,50,50,4,190,190,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Free Throw.,51,50,4,190,190,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Free Throw.,52,50,4,190,190,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Gabbie Marshall.,52,50,4,180,180,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly made Layup.,52,52,4,178,178,West Virginia Mountaineers,layup,True,True,False,JJ Quinerly,False,,28.0,1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark missed Layup.,52,52,4,164,164,Iowa Hawkeyes,layup,True,False,False,Caitlin Clark,False,,27.0,3.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson Defensive Rebound.,52,52,4,164,164,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,JJ Quinerly missed Three Point Jumper.,52,52,4,135,135,West Virginia Mountaineers,three point jumper,True,False,True,JJ Quinerly,False,,12.0,21.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Gabbie Marshall Block.,52,52,4,135,135,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter Defensive Rebound.,52,52,4,135,135,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter made Layup.,54,52,4,123,123,Iowa Hawkeyes,layup,True,True,False,Sydney Affolter,False,,25.0,1.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Kyah Watson.,54,52,4,123,123,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Sydney Affolter made Free Throw.,55,52,4,123,123,Iowa Hawkeyes,free throw,True,True,False,Sydney Affolter,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jayla Hemingway missed Three Point Jumper.,55,52,4,102,102,West Virginia Mountaineers,three point jumper,True,False,True,Jayla Hemingway,False,,2.0,7.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark Defensive Rebound.,55,52,4,102,102,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke missed Layup.,55,52,4,84,84,Iowa Hawkeyes,layup,True,False,False,Hannah Stuelke,False,,27.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Offensive Rebound.,55,52,4,84,84,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on JJ Quinerly.,55,52,4,67,67,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke made Free Throw.,56,52,4,67,67,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke missed Free Throw.,56,52,4,67,67,Iowa Hawkeyes,free throw,True,False,False,Hannah Stuelke,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson Defensive Rebound.,56,52,4,67,67,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison missed Layup.,56,52,4,54,54,West Virginia Mountaineers,layup,True,False,False,Jordan Harrison,False,,22.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke Defensive Rebound.,56,52,4,54,54,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Jordan Harrison.,56,52,4,45,45,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Free Throw.,57,52,4,45,45,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Free Throw.,58,52,4,45,45,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Jordan Harrison missed Three Point Jumper.,58,52,4,41,41,West Virginia Mountaineers,three point jumper,True,False,True,Jordan Harrison,False,,41.0,20.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin Defensive Rebound.,58,52,4,41,41,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Tirzah Moore.,58,52,4,34,34,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke made Free Throw.,59,52,4,34,34,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Hannah Stuelke made Free Throw.,60,52,4,34,34,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Sydney Affolter.,60,52,4,25,25,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Tirzah Moore made Layup. Assisted by Jordan Harrison.,60,54,4,22,22,West Virginia Mountaineers,layup,True,True,False,Tirzah Moore,True,Jordan Harrison,24.0,2.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Iowa  Timeout,60,54,4,22,22,Iowa Hawkeyes,timeout,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Jordan Harrison.,60,54,4,21,21,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Free Throw.,61,54,4,21,21,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Free Throw.,62,54,4,21,21,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,West Virginia  Timeout,62,54,4,21,21,West Virginia Mountaineers,timeout,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kyah Watson missed Three Point Jumper.,62,54,4,18,18,West Virginia Mountaineers,three point jumper,True,False,True,Kyah Watson,False,,48.0,10.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kate Martin Defensive Rebound.,62,54,4,18,18,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Foul on Tirzah Moore.,62,54,4,7,7,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Free Throw.,63,54,4,7,7,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Caitlin Clark made Free Throw.,64,54,4,7,7,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Lauren Fields missed Three Point Jumper.,64,54,4,3,3,West Virginia Mountaineers,three point jumper,True,False,True,Lauren Fields,False,,43.0,16.0
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,Kylee Blacksten Offensive Rebound.,64,54,4,3,3,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637588,Iowa Hawkeyes,West Virginia Mountaineers,End of Game,64,54,4,0,0,,end,False,False,False,,False,,,

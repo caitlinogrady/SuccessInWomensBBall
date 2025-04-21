@@ -1,0 +1,359 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637568,Syracuse Orange,Arizona Wildcats,Jump Ball won by Arizona,0,0,1,600,2400,Arizona Wildcats,jump ball,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham made Layup. Assisted by Jada Williams.,0,2,1,592,2392,Arizona Wildcats,layup,True,True,False,Breya Cunningham,True,Jada Williams,23.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Jumper.,2,2,1,570,2370,Syracuse Orange,jumper,True,True,False,Dyaisha Fair,False,,25.0,6.0
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham missed Layup.,2,2,1,553,2353,Arizona Wildcats,layup,True,False,False,Breya Cunningham,False,,22.0,1.0
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham Offensive Rebound.,2,2,1,553,2353,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham missed Two Point Tip Shot.,2,2,1,553,2353,Arizona Wildcats,two point tip shot,True,False,False,Breya Cunningham,False,,25.0,1.0
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse Defensive Rebound.,2,2,1,553,2353,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham Turnover.,2,2,1,542,2342,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Steal.,2,2,1,542,2342,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham made Layup. Assisted by Helena Pueyo.,2,4,1,535,2335,Arizona Wildcats,layup,True,True,False,Breya Cunningham,True,Helena Pueyo,23.0,1.0
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood made Layup. Assisted by Alaina Rice.,4,4,1,511,2311,Syracuse Orange,layup,True,True,False,Kyra Wood,True,Alaina Rice,24.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Layup. Assisted by Breya Cunningham.,4,6,1,492,2292,Arizona Wildcats,layup,True,True,False,Skylar Jones,True,Breya Cunningham,22.0,0.0
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Breya Cunningham.,4,6,1,472,2272,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice missed Free Throw.,4,6,1,472,2272,Syracuse Orange,free throw,True,False,False,Alaina Rice,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse Deadball Team Rebound.,4,6,1,472,2272,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice made Free Throw.,5,6,1,472,2272,Syracuse Orange,free throw,True,True,False,Alaina Rice,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham made Layup. Assisted by Jada Williams.,5,8,1,461,2261,Arizona Wildcats,layup,True,True,False,Breya Cunningham,True,Jada Williams,24.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Turnover.,5,8,1,450,2250,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Steal.,5,8,1,450,2250,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Jumper.,5,10,1,430,2230,Arizona Wildcats,jumper,True,True,False,Skylar Jones,False,,29.0,7.0
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice missed Jumper.,5,10,1,397,2197,Syracuse Orange,jumper,True,False,False,Alaina Rice,False,,38.0,12.0
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Defensive Rebound.,5,10,1,397,2197,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez made Three Point Jumper. Assisted by Helena Pueyo.,5,13,1,392,2192,Arizona Wildcats,three point jumper,True,True,True,Esmery Martinez,True,Helena Pueyo,42.0,19.0
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse  Timeout,5,13,1,392,2192,Syracuse Orange,timeout,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats, Official TV Timeout,5,13,1,392,2192,,tv timeout,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Sophie Burrows made Layup. Assisted by Alyssa Latham.,7,13,1,379,2179,Syracuse Orange,layup,True,True,False,Sophie Burrows,True,Alyssa Latham,27.0,1.0
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams Turnover.,7,13,1,362,2162,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Izabel Varejao missed Jumper.,7,13,1,343,2143,Syracuse Orange,jumper,True,False,False,Izabel Varejao,False,,25.0,7.0
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Defensive Rebound.,7,13,1,343,2143,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Jumper.,7,15,1,336,2136,Arizona Wildcats,jumper,True,True,False,Skylar Jones,False,,26.0,5.0
+401637568,Syracuse Orange,Arizona Wildcats,Sophie Burrows missed Three Point Jumper.,7,15,1,325,2125,Syracuse Orange,three point jumper,True,False,True,Sophie Burrows,False,,6.0,17.0
+401637568,Syracuse Orange,Arizona Wildcats,Arizona Defensive Rebound.,7,15,1,325,2125,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Isis Beh Turnover.,7,15,1,310,2110,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham Steal.,7,15,1,310,2110,Syracuse Orange,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats, Official TV Timeout,7,15,1,295,2095,,tv timeout,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Izabel Varejao made Jumper. Assisted by Dyaisha Fair.,9,15,1,284,2084,Syracuse Orange,jumper,True,True,False,Izabel Varejao,True,Dyaisha Fair,21.0,7.0
+401637568,Syracuse Orange,Arizona Wildcats,Isis Beh Turnover.,9,15,1,270,2070,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Izabel Varejao Steal.,9,15,1,270,2070,Syracuse Orange,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham made Layup. Assisted by Dyaisha Fair.,11,15,1,262,2062,Syracuse Orange,layup,True,True,False,Alyssa Latham,True,Dyaisha Fair,27.0,1.0
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Sophie Burrows.,11,15,1,251,2051,Syracuse Orange,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones missed Free Throw.,11,15,1,251,2051,Arizona Wildcats,free throw,True,False,False,Skylar Jones,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Arizona Deadball Team Rebound.,11,15,1,251,2051,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Free Throw.,11,16,1,251,2051,Arizona Wildcats,free throw,True,True,False,Skylar Jones,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Sophie Burrows made Three Point Jumper. Assisted by Dyaisha Fair.,14,16,1,240,2040,Syracuse Orange,three point jumper,True,True,True,Sophie Burrows,True,Dyaisha Fair,2.0,0.0
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo missed Jumper.,14,16,1,217,2017,Arizona Wildcats,jumper,True,False,False,Helena Pueyo,False,,43.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Offensive Rebound.,14,16,1,217,2017,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Turnover.,14,16,1,199,1999,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Turnover.,14,16,1,198,1998,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Steal.,14,16,1,198,1998,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Courtney Blakely missed Jumper.,14,16,1,188,1988,Arizona Wildcats,jumper,True,False,False,Courtney Blakely,False,,24.0,5.0
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Defensive Rebound.,14,16,1,188,1988,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Turnover.,14,16,1,186,1986,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Steal.,14,16,1,186,1986,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Georgia Woolley.,14,16,1,186,1986,Syracuse Orange,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones missed Free Throw.,14,16,1,186,1986,Arizona Wildcats,free throw,True,False,False,Skylar Jones,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Arizona Deadball Team Rebound.,14,16,1,186,1986,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Free Throw.,14,17,1,186,1986,Arizona Wildcats,free throw,True,True,False,Skylar Jones,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham Turnover.,14,17,1,169,1969,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Steal.,14,17,1,169,1969,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez missed Layup.,14,17,1,162,1962,Arizona Wildcats,layup,True,False,False,Esmery Martinez,False,,28.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice Defensive Rebound.,14,17,1,162,1962,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Sophie Burrows missed Three Point Jumper.,14,17,1,154,1954,Syracuse Orange,three point jumper,True,False,True,Sophie Burrows,False,,5.0,15.0
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Defensive Rebound.,14,17,1,154,1954,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Courtney Blakely missed Three Point Jumper.,14,17,1,122,1922,Arizona Wildcats,three point jumper,True,False,True,Courtney Blakely,False,,36.0,26.0
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse Defensive Rebound.,14,17,1,122,1922,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Breya Cunningham.,14,17,1,114,1914,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Free Throw.,15,17,1,114,1914,Syracuse Orange,free throw,True,True,False,Dyaisha Fair,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair missed Free Throw.,15,17,1,114,1914,Syracuse Orange,free throw,True,False,False,Dyaisha Fair,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Defensive Rebound.,15,17,1,114,1914,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams made Jumper. Assisted by Isis Beh.,15,19,1,98,1898,Arizona Wildcats,jumper,True,True,False,Jada Williams,True,Isis Beh,19.0,18.0
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice missed Jumper.,15,19,1,81,1881,Syracuse Orange,jumper,True,False,False,Alaina Rice,False,,22.0,8.0
+401637568,Syracuse Orange,Arizona Wildcats,Saniaa Wilson Offensive Rebound.,15,19,1,81,1881,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Saniaa Wilson missed Layup.,15,19,1,78,1878,Syracuse Orange,layup,True,False,False,Saniaa Wilson,False,,28.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Saniaa Wilson Offensive Rebound.,15,19,1,78,1878,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Sophie Burrows missed Jumper.,15,19,1,77,1877,Syracuse Orange,jumper,True,False,False,Sophie Burrows,False,,9.0,5.0
+401637568,Syracuse Orange,Arizona Wildcats,Courtney Blakely Defensive Rebound.,15,19,1,77,1877,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez missed Three Point Jumper.,15,19,1,63,1863,Arizona Wildcats,three point jumper,True,False,True,Esmery Martinez,False,,4.0,14.0
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice Defensive Rebound.,15,19,1,63,1863,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice missed Layup.,15,19,1,55,1855,Syracuse Orange,layup,True,False,False,Alaina Rice,False,,23.0,4.0
+401637568,Syracuse Orange,Arizona Wildcats,Saniaa Wilson Offensive Rebound.,15,19,1,55,1855,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Jada Williams.,15,19,1,48,1848,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Saniaa Wilson missed Layup.,15,19,1,46,1846,Syracuse Orange,layup,True,False,False,Saniaa Wilson,False,,28.0,3.0
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Block.,15,19,1,46,1846,Arizona Wildcats,block,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse Offensive Rebound.,15,19,1,46,1846,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Saniaa Wilson Turnover.,15,19,1,46,1846,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Steal.,15,19,1,46,1846,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Layup.,15,21,1,34,1834,Arizona Wildcats,layup,True,True,False,Skylar Jones,False,,29.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair missed Jumper.,15,21,1,17,1817,Syracuse Orange,jumper,True,False,False,Dyaisha Fair,False,,17.0,15.0
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse Offensive Rebound.,15,21,1,17,1817,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Sophie Burrows missed Three Point Jumper.,15,21,1,3,1803,Syracuse Orange,three point jumper,True,False,True,Sophie Burrows,False,,1.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Defensive Rebound.,15,21,1,3,1803,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,End of 1st Quarter,15,21,1,0,1800,,end,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jump Ball won by Syracuse,15,21,2,600,1800,Syracuse Orange,jump ball,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Helena Pueyo.,15,21,2,580,1780,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham made Jumper.,17,21,2,574,1774,Syracuse Orange,jumper,True,True,False,Alyssa Latham,False,,22.0,6.0
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams missed Three Point Jumper.,17,21,2,553,1753,Arizona Wildcats,three point jumper,True,False,True,Jada Williams,False,,27.0,26.0
+401637568,Syracuse Orange,Arizona Wildcats,Izabel Varejao Defensive Rebound.,17,21,2,553,1753,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Turnover.,17,21,2,546,1746,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Isis Beh Steal.,17,21,2,546,1746,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones missed Three Point Jumper.,17,21,2,530,1730,Arizona Wildcats,three point jumper,True,False,True,Skylar Jones,False,,3.0,11.0
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Defensive Rebound.,17,21,2,530,1730,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley made Layup.,19,21,2,524,1724,Syracuse Orange,layup,True,True,False,Georgia Woolley,False,,23.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Jumper. Assisted by Jada Williams.,19,23,2,490,1690,Arizona Wildcats,jumper,True,True,False,Skylar Jones,True,Jada Williams,6.0,6.0
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Three Point Jumper.,22,23,2,474,1674,Syracuse Orange,three point jumper,True,True,True,Dyaisha Fair,False,,44.0,16.0
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez made Jumper. Assisted by Skylar Jones.,22,25,2,459,1659,Arizona Wildcats,jumper,True,True,False,Esmery Martinez,True,Skylar Jones,38.0,13.0
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham missed Layup.,22,25,2,442,1642,Syracuse Orange,layup,True,False,False,Alyssa Latham,False,,28.0,0.0
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Block.,22,25,2,442,1642,Arizona Wildcats,block,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham Offensive Rebound.,22,25,2,442,1642,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham missed Two Point Tip Shot.,22,25,2,442,1642,Syracuse Orange,two point tip shot,True,False,False,Alyssa Latham,False,,25.0,1.0
+401637568,Syracuse Orange,Arizona Wildcats,Arizona Defensive Rebound.,22,25,2,442,1642,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Alyssa Latham.,22,25,2,439,1639,Syracuse Orange,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams made Three Point Jumper. Assisted by Esmery Martinez.,22,28,2,431,1631,Arizona Wildcats,three point jumper,True,True,True,Jada Williams,True,Esmery Martinez,5.0,14.0
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham missed Jumper.,22,28,2,399,1599,Syracuse Orange,jumper,True,False,False,Alyssa Latham,False,,21.0,19.0
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Defensive Rebound.,22,28,2,399,1599,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Turnover.,22,28,2,387,1587,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair Steal.,22,28,2,387,1587,Syracuse Orange,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair Turnover.,22,28,2,383,1583,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Steal.,22,28,2,383,1583,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams made Three Point Jumper. Assisted by Skylar Jones.,22,31,2,362,1562,Arizona Wildcats,three point jumper,True,True,True,Jada Williams,True,Skylar Jones,18.0,26.0
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice Turnover.,22,31,2,337,1537,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Steal.,22,31,2,337,1537,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Isis Beh missed Layup.,22,31,2,329,1529,Arizona Wildcats,layup,True,False,False,Isis Beh,False,,23.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Defensive Rebound.,22,31,2,329,1529,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair missed Three Point Jumper.,22,31,2,319,1519,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,13.0,24.0
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Defensive Rebound.,22,31,2,319,1519,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams missed Three Point Jumper.,22,31,2,310,1510,Arizona Wildcats,three point jumper,True,False,True,Jada Williams,False,,47.0,11.0
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Defensive Rebound.,22,31,2,310,1510,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Esmery Martinez.,22,31,2,290,1490,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats, Official TV Timeout,22,31,2,290,1490,,tv timeout,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Izabel Varejao missed Free Throw.,22,31,2,290,1490,Syracuse Orange,free throw,True,False,False,Izabel Varejao,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse Deadball Team Rebound.,22,31,2,290,1490,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Izabel Varejao missed Free Throw.,22,31,2,290,1490,Syracuse Orange,free throw,True,False,False,Izabel Varejao,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Defensive Rebound.,22,31,2,290,1490,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones missed Three Point Jumper.,22,31,2,270,1470,Arizona Wildcats,three point jumper,True,False,True,Skylar Jones,False,,48.0,0.0
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice Defensive Rebound.,22,31,2,270,1470,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Esmery Martinez.,22,31,2,258,1458,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse  Turnover.,22,31,2,258,1458,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo missed Three Point Jumper.,22,31,2,232,1432,Arizona Wildcats,three point jumper,True,False,True,Helena Pueyo,False,,34.0,23.0
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham Defensive Rebound.,22,31,2,232,1432,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair missed Jumper.,22,31,2,210,1410,Syracuse Orange,jumper,True,False,False,Dyaisha Fair,False,,21.0,11.0
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood Offensive Rebound.,22,31,2,210,1410,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Sophie Burrows Turnover.,22,31,2,201,1401,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams missed Jumper.,22,31,2,182,1382,Arizona Wildcats,jumper,True,False,False,Jada Williams,False,,39.0,7.0
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice Defensive Rebound.,22,31,2,182,1382,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Jada Williams.,22,31,2,173,1373,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice made Free Throw.,23,31,2,173,1373,Syracuse Orange,free throw,True,True,False,Alaina Rice,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice missed Free Throw.,23,31,2,173,1373,Syracuse Orange,free throw,True,False,False,Alaina Rice,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood Offensive Rebound.,23,31,2,173,1373,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood made Layup. Assisted by Kennedi Perkins.,25,31,2,152,1352,Syracuse Orange,layup,True,True,False,Kyra Wood,True,Kennedi Perkins,23.0,3.0
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Turnover.,25,31,2,135,1335,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Steal.,25,31,2,135,1335,Syracuse Orange,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair missed Three Point Jumper.,25,31,2,125,1325,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,3.0,11.0
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham Offensive Rebound.,25,31,2,125,1325,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham made Layup.,27,31,2,122,1322,Syracuse Orange,layup,True,True,False,Alyssa Latham,False,,25.0,3.0
+401637568,Syracuse Orange,Arizona Wildcats,Arizona  Timeout,27,31,2,122,1322,Arizona Wildcats,timeout,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo made Jumper. Assisted by Courtney Blakely.,27,33,2,111,1311,Arizona Wildcats,jumper,True,True,False,Helena Pueyo,True,Courtney Blakely,26.0,15.0
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Turnover.,27,33,2,82,1282,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Courtney Blakely Steal.,27,33,2,82,1282,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Courtney Blakely made Layup.,27,35,2,78,1278,Arizona Wildcats,layup,True,True,False,Courtney Blakely,False,,23.0,1.0
+401637568,Syracuse Orange,Arizona Wildcats,Kennedi Perkins Turnover.,27,35,2,58,1258,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams Steal.,27,35,2,58,1258,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Isis Beh Turnover.,27,35,2,45,1245,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood Steal.,27,35,2,45,1245,Syracuse Orange,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Layup.,29,35,2,41,1241,Syracuse Orange,layup,True,True,False,Dyaisha Fair,False,,23.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Courtney Blakely.,29,35,2,41,1241,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Free Throw.,30,35,2,41,1241,Syracuse Orange,free throw,True,True,False,Dyaisha Fair,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo made Jumper.,30,37,2,30,1230,Arizona Wildcats,jumper,True,True,False,Helena Pueyo,False,,36.0,9.0
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Jumper.,32,37,2,21,1221,Syracuse Orange,jumper,True,True,False,Dyaisha Fair,False,,29.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo missed Jumper.,32,37,2,2,1202,Arizona Wildcats,jumper,True,False,False,Helena Pueyo,False,,41.0,4.0
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood Defensive Rebound.,32,37,2,2,1202,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,End of 2nd Quarter,32,37,2,0,1200,,end,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jump Ball won by Arizona,32,37,3,600,1200,Arizona Wildcats,jump ball,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones missed Three Point Jumper.,32,37,3,588,1188,Arizona Wildcats,three point jumper,True,False,True,Skylar Jones,False,,44.0,17.0
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Offensive Rebound.,32,37,3,588,1188,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Alyssa Latham.,32,37,3,579,1179,Syracuse Orange,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Free Throw.,32,38,3,579,1179,Arizona Wildcats,free throw,True,True,False,Skylar Jones,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Free Throw.,32,39,3,579,1179,Arizona Wildcats,free throw,True,True,False,Skylar Jones,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Izabel Varejao missed Three Point Jumper.,32,39,3,570,1170,Syracuse Orange,three point jumper,True,False,True,Izabel Varejao,False,,41.0,20.0
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse Offensive Rebound.,32,39,3,570,1170,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair Turnover.,32,39,3,566,1166,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Steal.,32,39,3,566,1166,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Turnover.,32,39,3,559,1159,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham Steal.,32,39,3,559,1159,Syracuse Orange,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Three Point Jumper. Assisted by Georgia Woolley.,35,39,3,551,1151,Syracuse Orange,three point jumper,True,True,True,Dyaisha Fair,True,Georgia Woolley,14.0,25.0
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams Turnover.,35,39,3,534,1134,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Skylar Jones.,35,39,3,513,1113,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley made Three Point Jumper. Assisted by Kennedi Perkins.,38,39,3,511,1111,Syracuse Orange,three point jumper,True,True,True,Georgia Woolley,True,Kennedi Perkins,6.0,16.0
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Izabel Varejao.,38,39,3,490,1090,Syracuse Orange,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams made Free Throw.,38,40,3,490,1090,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams made Free Throw.,38,41,3,490,1090,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair missed Jumper.,38,41,3,477,1077,Syracuse Orange,jumper,True,False,False,Dyaisha Fair,False,,28.0,11.0
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham Defensive Rebound.,38,41,3,477,1077,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones missed Three Point Jumper.,38,41,3,469,1069,Arizona Wildcats,three point jumper,True,False,True,Skylar Jones,False,,2.0,6.0
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham Offensive Rebound.,38,41,3,469,1069,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones missed Jumper.,38,41,3,458,1058,Arizona Wildcats,jumper,True,False,False,Skylar Jones,False,,25.0,9.0
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham Defensive Rebound.,38,41,3,458,1058,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Izabel Varejao missed Jumper.,38,41,3,445,1045,Syracuse Orange,jumper,True,False,False,Izabel Varejao,False,,13.0,4.0
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham Defensive Rebound.,38,41,3,445,1045,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Izabel Varejao.,38,41,3,433,1033,Syracuse Orange,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham missed Free Throw.,38,41,3,433,1033,Arizona Wildcats,free throw,True,False,False,Breya Cunningham,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Arizona Deadball Team Rebound.,38,41,3,433,1033,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham missed Free Throw.,38,41,3,433,1033,Arizona Wildcats,free throw,True,False,False,Breya Cunningham,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Offensive Rebound.,38,41,3,433,1033,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez made Layup.,38,43,3,429,1029,Arizona Wildcats,layup,True,True,False,Esmery Martinez,False,,24.0,3.0
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Skylar Jones.,38,43,3,419,1019,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley made Free Throw.,39,43,3,419,1019,Syracuse Orange,free throw,True,True,False,Georgia Woolley,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley missed Free Throw.,39,43,3,419,1019,Syracuse Orange,free throw,True,False,False,Georgia Woolley,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Defensive Rebound.,39,43,3,419,1019,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams Turnover.,39,43,3,392,992,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Turnover.,39,43,3,370,970,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Steal.,39,43,3,370,970,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo made Layup.,39,45,3,366,966,Arizona Wildcats,layup,True,True,False,Helena Pueyo,False,,24.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair missed Three Point Jumper.,39,45,3,350,950,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,40.0,21.0
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse Offensive Rebound.,39,45,3,350,950,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Esmery Martinez.,39,45,3,350,950,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Three Point Jumper.,42,45,3,340,940,Syracuse Orange,three point jumper,True,True,True,Dyaisha Fair,False,,12.0,22.0
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham Turnover.,42,45,3,322,922,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair Steal.,42,45,3,322,922,Syracuse Orange,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Breya Cunningham.,42,45,3,314,914,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Kennedi Perkins missed Free Throw.,42,45,3,314,914,Syracuse Orange,free throw,True,False,False,Kennedi Perkins,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse Deadball Team Rebound.,42,45,3,314,914,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Kennedi Perkins missed Free Throw.,42,45,3,314,914,Syracuse Orange,free throw,True,False,False,Kennedi Perkins,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Defensive Rebound.,42,45,3,314,914,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Turnover.,42,45,3,302,902,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair Steal.,42,45,3,302,902,Syracuse Orange,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair missed Three Point Jumper.,42,45,3,296,896,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,5.0,15.0
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Defensive Rebound.,42,45,3,296,896,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Layup.,42,47,3,289,889,Arizona Wildcats,layup,True,True,False,Skylar Jones,False,,25.0,3.0
+401637568,Syracuse Orange,Arizona Wildcats,Kennedi Perkins made Layup.,44,47,3,270,870,Syracuse Orange,layup,True,True,False,Kennedi Perkins,False,,22.0,1.0
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Esmery Martinez.,44,47,3,257,857,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Turnover.,44,47,3,257,857,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats, Official TV Timeout,44,47,3,257,857,,tv timeout,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice missed Three Point Jumper.,44,47,3,249,849,Syracuse Orange,three point jumper,True,False,True,Alaina Rice,False,,8.0,19.0
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood Offensive Rebound.,44,47,3,249,849,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood missed Jumper.,44,47,3,243,843,Syracuse Orange,jumper,True,False,False,Kyra Wood,False,,24.0,6.0
+401637568,Syracuse Orange,Arizona Wildcats,Arizona Defensive Rebound.,44,47,3,243,843,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Saniaa Wilson.,44,47,3,242,842,Syracuse Orange,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones missed Layup.,44,47,3,230,830,Arizona Wildcats,layup,True,False,False,Skylar Jones,False,,23.0,4.0
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Offensive Rebound.,44,47,3,230,830,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Saniaa Wilson.,44,47,3,230,830,Syracuse Orange,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Free Throw.,44,48,3,230,830,Arizona Wildcats,free throw,True,True,False,Skylar Jones,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Free Throw.,44,49,3,230,830,Arizona Wildcats,free throw,True,True,False,Skylar Jones,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Courtney Blakely.,44,49,3,208,808,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice made Free Throw.,45,49,3,208,808,Syracuse Orange,free throw,True,True,False,Alaina Rice,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice missed Free Throw.,45,49,3,208,808,Syracuse Orange,free throw,True,False,False,Alaina Rice,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Defensive Rebound.,45,49,3,208,808,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Isis Beh missed Layup.,45,49,3,190,790,Arizona Wildcats,layup,True,False,False,Isis Beh,False,,27.0,1.0
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham Defensive Rebound.,45,49,3,190,790,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham made Layup. Assisted by Alaina Rice.,47,49,3,179,779,Syracuse Orange,layup,True,True,False,Alyssa Latham,True,Alaina Rice,22.0,1.0
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Turnover.,47,49,3,158,758,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair Steal.,47,49,3,158,758,Syracuse Orange,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham missed Three Point Jumper.,47,49,3,146,746,Syracuse Orange,three point jumper,True,False,True,Alyssa Latham,False,,19.0,24.0
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse Offensive Rebound.,47,49,3,146,746,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Jada Williams.,47,49,3,146,746,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice missed Free Throw.,47,49,3,146,746,Syracuse Orange,free throw,True,False,False,Alaina Rice,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse Deadball Team Rebound.,47,49,3,146,746,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice made Free Throw.,48,49,3,146,746,Syracuse Orange,free throw,True,True,False,Alaina Rice,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Alaina Rice.,48,49,3,126,726,Syracuse Orange,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Free Throw.,48,50,3,126,726,Arizona Wildcats,free throw,True,True,False,Skylar Jones,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Free Throw.,48,51,3,126,726,Arizona Wildcats,free throw,True,True,False,Skylar Jones,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham missed Jumper.,48,51,3,113,713,Syracuse Orange,jumper,True,False,False,Alyssa Latham,False,,12.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood Offensive Rebound.,48,51,3,113,713,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Skylar Jones.,48,51,3,94,694,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood missed Free Throw.,48,51,3,94,694,Syracuse Orange,free throw,True,False,False,Kyra Wood,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse Deadball Team Rebound.,48,51,3,94,694,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood made Free Throw.,49,51,3,94,694,Syracuse Orange,free throw,True,True,False,Kyra Wood,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams missed Jumper.,49,51,3,69,669,Arizona Wildcats,jumper,True,False,False,Jada Williams,False,,14.0,14.0
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood Defensive Rebound.,49,51,3,69,669,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair missed Three Point Jumper.,49,51,3,47,647,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,18.0,25.0
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Defensive Rebound.,49,51,3,47,647,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Turnover.,49,51,3,22,622,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair Steal.,49,51,3,22,622,Syracuse Orange,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Layup. Assisted by Kennedi Perkins.,51,51,3,17,617,Syracuse Orange,layup,True,True,False,Dyaisha Fair,True,Kennedi Perkins,25.0,3.0
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams Turnover.,51,51,3,11,611,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Kennedi Perkins Steal.,51,51,3,11,611,Syracuse Orange,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,End of 3rd Quarter,51,51,3,0,600,,end,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jump Ball won by Syracuse,51,51,4,600,600,Syracuse Orange,jump ball,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood missed Layup.,51,51,4,581,581,Syracuse Orange,layup,True,False,False,Kyra Wood,False,,21.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Block.,51,51,4,581,581,Arizona Wildcats,block,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams Defensive Rebound.,51,51,4,581,581,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jump Ball won by Arizona,51,51,4,572,572,Arizona Wildcats,jump ball,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams missed Jumper.,51,51,4,550,550,Arizona Wildcats,jumper,True,False,False,Jada Williams,False,,28.0,10.0
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Defensive Rebound.,51,51,4,550,550,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Jada Williams.,51,51,4,549,549,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Kennedi Perkins made Jumper.,53,51,4,524,524,Syracuse Orange,jumper,True,True,False,Kennedi Perkins,False,,26.0,9.0
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Alyssa Latham.,53,51,4,503,503,Syracuse Orange,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams made Free Throw.,53,52,4,503,503,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams made Free Throw.,53,53,4,503,503,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice Turnover.,53,53,4,472,472,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Steal.,53,53,4,472,472,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Turnover.,53,53,4,471,471,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Kennedi Perkins made Jumper.,55,53,4,437,437,Syracuse Orange,jumper,True,True,False,Kennedi Perkins,False,,19.0,7.0
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams missed Three Point Jumper.,55,53,4,417,417,Arizona Wildcats,three point jumper,True,False,True,Jada Williams,False,,18.0,26.0
+401637568,Syracuse Orange,Arizona Wildcats,Isis Beh Offensive Rebound.,55,53,4,417,417,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Layup.,55,55,4,411,411,Arizona Wildcats,layup,True,True,False,Skylar Jones,False,,28.0,1.0
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Turnover.,55,55,4,407,407,Syracuse Orange,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Steal.,55,55,4,407,407,Arizona Wildcats,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo made Layup.,55,57,4,397,397,Arizona Wildcats,layup,True,True,False,Helena Pueyo,False,,27.0,1.0
+401637568,Syracuse Orange,Arizona Wildcats,Alyssa Latham made Jumper. Assisted by Dyaisha Fair.,57,57,4,387,387,Syracuse Orange,jumper,True,True,False,Alyssa Latham,True,Dyaisha Fair,27.0,8.0
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo made Three Point Jumper. Assisted by Skylar Jones.,57,60,4,366,366,Arizona Wildcats,three point jumper,True,True,True,Helena Pueyo,True,Skylar Jones,46.0,12.0
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley missed Three Point Jumper.,57,60,4,346,346,Syracuse Orange,three point jumper,True,False,True,Georgia Woolley,False,,45.0,14.0
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood Offensive Rebound.,57,60,4,346,346,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair missed Three Point Jumper.,57,60,4,333,333,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,10.0,21.0
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Offensive Rebound.,57,60,4,333,333,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley made Layup.,59,60,4,329,329,Syracuse Orange,layup,True,True,False,Georgia Woolley,False,,27.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse  Timeout,59,60,4,327,327,Syracuse Orange,timeout,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats, Official TV Timeout,59,60,4,327,327,,tv timeout,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo Turnover.,59,60,4,313,313,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair missed Jumper.,59,60,4,292,292,Syracuse Orange,jumper,True,False,False,Dyaisha Fair,False,,24.0,9.0
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Defensive Rebound.,59,60,4,292,292,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones made Layup.,59,62,4,271,271,Arizona Wildcats,layup,True,True,False,Skylar Jones,False,,25.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Alaina Rice missed Jumper.,59,62,4,253,253,Syracuse Orange,jumper,True,False,False,Alaina Rice,False,,22.0,1.0
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham Block.,59,62,4,253,253,Arizona Wildcats,block,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham Defensive Rebound.,59,62,4,253,253,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham made Layup. Assisted by Skylar Jones.,59,64,4,241,241,Arizona Wildcats,layup,True,True,False,Breya Cunningham,True,Skylar Jones,24.0,3.0
+401637568,Syracuse Orange,Arizona Wildcats,Kennedi Perkins made Jumper.,61,64,4,213,213,Syracuse Orange,jumper,True,True,False,Kennedi Perkins,False,,23.0,17.0
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Alyssa Latham.,61,64,4,196,196,Syracuse Orange,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats, Official TV Timeout,61,64,4,196,196,,tv timeout,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams made Free Throw.,61,65,4,196,196,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams made Free Throw.,61,66,4,196,196,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley missed Three Point Jumper.,61,66,4,181,181,Syracuse Orange,three point jumper,True,False,True,Georgia Woolley,False,,2.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Defensive Rebound.,61,66,4,181,181,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Turnover.,61,66,4,173,173,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Jumper.,63,66,4,165,165,Syracuse Orange,jumper,True,True,False,Dyaisha Fair,False,,23.0,8.0
+401637568,Syracuse Orange,Arizona Wildcats,Esmery Martinez Turnover.,63,66,4,141,141,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair Steal.,63,66,4,141,141,Syracuse Orange,steal,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Helena Pueyo.,63,66,4,138,138,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair missed Three Point Jumper.,63,66,4,126,126,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,44.0,16.0
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Offensive Rebound.,63,66,4,126,126,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Jumper.,65,66,4,111,111,Syracuse Orange,jumper,True,True,False,Dyaisha Fair,False,,17.0,8.0
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse  Timeout,65,66,4,111,111,Syracuse Orange,timeout,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams missed Jumper.,65,66,4,81,81,Arizona Wildcats,jumper,True,False,False,Jada Williams,False,,21.0,9.0
+401637568,Syracuse Orange,Arizona Wildcats,Georgia Woolley Block.,65,66,4,81,81,Syracuse Orange,block,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Kyra Wood Defensive Rebound.,65,66,4,81,81,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Three Point Jumper.,68,66,4,74,74,Syracuse Orange,three point jumper,True,True,True,Dyaisha Fair,False,,36.0,23.0
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Skylar Jones.,68,66,4,65,65,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Turnover.,68,66,4,65,65,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Esmery Martinez.,68,66,4,64,64,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Jumper.,70,66,4,46,46,Syracuse Orange,jumper,True,True,False,Dyaisha Fair,False,,29.0,9.0
+401637568,Syracuse Orange,Arizona Wildcats,Arizona  Timeout,70,66,4,45,45,Arizona Wildcats,timeout,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams missed Three Point Jumper.,70,66,4,42,42,Arizona Wildcats,three point jumper,True,False,True,Jada Williams,False,,35.0,23.0
+401637568,Syracuse Orange,Arizona Wildcats,Syracuse Defensive Rebound.,70,66,4,42,42,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Courtney Blakely.,70,66,4,32,32,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Free Throw.,71,66,4,32,32,Syracuse Orange,free throw,True,True,False,Dyaisha Fair,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Free Throw.,72,66,4,32,32,Syracuse Orange,free throw,True,True,False,Dyaisha Fair,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Arizona  Timeout,72,66,4,32,32,Arizona Wildcats,timeout,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Helena Pueyo made Three Point Jumper. Assisted by Skylar Jones.,72,69,4,20,20,Arizona Wildcats,three point jumper,True,True,True,Helena Pueyo,True,Skylar Jones,48.0,2.0
+401637568,Syracuse Orange,Arizona Wildcats,Foul on Isis Beh.,72,69,4,19,19,Arizona Wildcats,foul,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Free Throw.,73,69,4,19,19,Syracuse Orange,free throw,True,True,False,Dyaisha Fair,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Dyaisha Fair made Free Throw.,74,69,4,19,19,Syracuse Orange,free throw,True,True,False,Dyaisha Fair,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Arizona  Timeout,74,69,4,19,19,Arizona Wildcats,timeout,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams missed Three Point Jumper.,74,69,4,17,17,Arizona Wildcats,three point jumper,True,False,True,Jada Williams,False,,41.0,21.0
+401637568,Syracuse Orange,Arizona Wildcats,Breya Cunningham Offensive Rebound.,74,69,4,17,17,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams missed Three Point Jumper.,74,69,4,4,4,Arizona Wildcats,three point jumper,True,False,True,Jada Williams,False,,41.0,21.0
+401637568,Syracuse Orange,Arizona Wildcats,Skylar Jones Offensive Rebound.,74,69,4,4,4,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,Jada Williams missed Three Point Jumper.,74,69,4,2,2,Arizona Wildcats,three point jumper,True,False,True,Jada Williams,False,,44.0,16.0
+401637568,Syracuse Orange,Arizona Wildcats,Sophie Burrows Defensive Rebound.,74,69,4,2,2,Syracuse Orange,rebound,False,False,False,,False,,,
+401637568,Syracuse Orange,Arizona Wildcats,End of Game,74,69,4,0,0,,end,False,False,False,,False,,,

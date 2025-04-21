@@ -1,0 +1,360 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Jump Ball won by USC,0,0,1,600,2400,USC Trojans,jump ball,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins Turnover.,0,0,1,585,2385,USC Trojans,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook Steal.,0,0,1,585,2385,Texas A&M-Corpus Christi Islanders,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado made Layup.,0,2,1,566,2366,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Mireia Aguado,False,,27.0,3.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Three Point Jumper.,3,2,1,543,2343,USC Trojans,three point jumper,True,True,True,JuJu Watkins,False,,27.0,24.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen missed Jumper.,3,2,1,543,2343,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Paige Allen,False,,29.0,6.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins Block.,3,2,1,543,2343,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook missed Jumper.,3,2,1,507,2307,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Alecia Westbrook,False,,26.0,6.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kaitlyn Davis Defensive Rebound.,3,2,1,507,2307,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kaitlyn Davis Block.,3,2,1,507,2307,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes made Three Point Jumper. Assisted by Kaitlyn Davis.,6,2,1,496,2296,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,True,Kaitlyn Davis,35.0,22.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Violeta Verano missed Jumper.,6,2,1,466,2266,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Violeta Verano,False,,12.0,11.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen Offensive Rebound.,6,2,1,466,2266,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Violeta Verano Turnover.,6,2,1,452,2252,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Layup. Assisted by Kayla Padilla.,8,2,1,442,2242,USC Trojans,layup,True,True,False,JuJu Watkins,True,Kayla Padilla,22.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen missed Jumper.,8,2,1,420,2220,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Paige Allen,False,,31.0,16.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Defensive Rebound.,8,2,1,420,2220,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins missed Three Point Jumper.,8,2,1,413,2213,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,16.0,24.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook Defensive Rebound.,8,2,1,413,2213,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook missed Jumper.,8,2,1,384,2184,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Alecia Westbrook,False,,24.0,11.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook Offensive Rebound.,8,2,1,384,2184,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook missed Jumper.,8,2,1,381,2181,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Alecia Westbrook,False,,24.0,11.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Defensive Rebound.,8,2,1,381,2181,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Rayah Marshall.,8,2,1,367,2167,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Turnover.,8,2,1,367,2167,USC Trojans,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado missed Layup.,8,2,1,356,2156,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Mireia Aguado,False,,28.0,2.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kaitlyn Davis Block.,8,2,1,356,2156,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Offensive Rebound.,8,2,1,356,2156,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen missed Jumper.,8,2,1,340,2140,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Paige Allen,False,,22.0,5.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Block.,8,2,1,340,2140,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen Offensive Rebound.,8,2,1,340,2140,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen missed Layup.,8,2,1,340,2140,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Paige Allen,False,,24.0,2.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kaitlyn Davis Block.,8,2,1,340,2140,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Defensive Rebound.,8,2,1,340,2140,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes missed Three Point Jumper.,8,2,1,330,2130,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,38.0,20.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kaitlyn Davis Offensive Rebound.,8,2,1,330,2130,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall made Layup.,10,2,1,324,2124,USC Trojans,layup,True,True,False,Rayah Marshall,False,,27.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Violeta Verano missed Three Point Jumper.,10,2,1,306,2106,Texas A&M-Corpus Christi Islanders,three point jumper,True,False,True,Violeta Verano,False,,45.0,13.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla Defensive Rebound.,10,2,1,306,2106,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders, Official TV Timeout,10,2,1,288,2088,,tv timeout,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kaitlyn Davis made Jumper. Assisted by JuJu Watkins.,12,2,1,278,2078,USC Trojans,jumper,True,True,False,Kaitlyn Davis,True,JuJu Watkins,22.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Nabaweeyah McGill missed Three Point Jumper.,12,2,1,259,2059,Texas A&M-Corpus Christi Islanders,three point jumper,True,False,True,Nabaweeyah McGill,False,,28.0,24.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Williams Defensive Rebound.,12,2,1,259,2059,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins missed Layup.,12,2,1,247,2047,USC Trojans,layup,True,False,False,JuJu Watkins,False,,25.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Nabaweeyah McGill Defensive Rebound.,12,2,1,247,2047,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Nabaweeyah McGill missed Layup.,12,2,1,233,2033,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Nabaweeyah McGill,False,,22.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins Defensive Rebound.,12,2,1,233,2033,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kaitlyn Davis made Layup. Assisted by JuJu Watkins.,14,2,1,227,2027,USC Trojans,layup,True,True,False,Kaitlyn Davis,True,JuJu Watkins,23.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen missed Three Point Jumper.,14,2,1,192,1992,Texas A&M-Corpus Christi Islanders,three point jumper,True,False,True,Paige Allen,False,,28.0,24.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt Offensive Rebound.,14,2,1,192,1992,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Nabaweeyah McGill Turnover.,14,2,1,184,1984,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes Steal.,14,2,1,184,1984,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Tymberlin Criswell.,14,2,1,178,1978,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins missed Free Throw.,14,2,1,178,1978,USC Trojans,free throw,True,False,False,JuJu Watkins,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,USC Deadball Team Rebound.,14,2,1,178,1978,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Free Throw.,15,2,1,178,1978,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt missed Layup.,15,2,1,163,1963,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Annukka Willstedt,False,,27.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins Block.,15,2,1,163,1963,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Offensive Rebound.,15,2,1,163,1963,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook missed Layup.,15,2,1,153,1953,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Alecia Westbrook,False,,22.0,2.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Clarice Akunwafo Block.,15,2,1,153,1953,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins Defensive Rebound.,15,2,1,153,1953,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins missed Layup.,15,2,1,145,1945,USC Trojans,layup,True,False,False,JuJu Watkins,False,,28.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook Defensive Rebound.,15,2,1,145,1945,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Tymberlin Criswell missed Layup.,15,2,1,136,1936,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Tymberlin Criswell,False,,22.0,2.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Clarice Akunwafo Block.,15,2,1,136,1936,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen Offensive Rebound.,15,2,1,136,1936,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen missed Layup.,15,2,1,126,1926,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Paige Allen,False,,21.0,2.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins Block.,15,2,1,126,1926,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen Offensive Rebound.,15,2,1,126,1926,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen missed Layup.,15,2,1,126,1926,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Paige Allen,False,,24.0,3.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Williams Defensive Rebound.,15,2,1,126,1926,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes made Layup.,17,2,1,121,1921,USC Trojans,layup,True,True,False,McKenzie Forbes,False,,23.0,2.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi  Timeout,17,2,1,116,1916,Texas A&M-Corpus Christi Islanders,timeout,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders, Official TV Timeout,17,2,1,116,1916,,tv timeout,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook missed Jumper.,17,2,1,104,1904,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Alecia Westbrook,False,,39.0,15.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Williams Defensive Rebound.,17,2,1,104,1904,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Mireia Aguado.,17,2,1,98,1898,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall missed Jumper.,17,2,1,83,1883,USC Trojans,jumper,True,False,False,Rayah Marshall,False,,20.0,-1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado Defensive Rebound.,17,2,1,83,1883,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Nabaweeyah McGill missed Jumper.,17,2,1,71,1871,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Nabaweeyah McGill,False,,26.0,4.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Block.,17,2,1,71,1871,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Defensive Rebound.,17,2,1,71,1871,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla missed Three Point Jumper.,17,2,1,61,1861,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,42.0,17.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook Defensive Rebound.,17,2,1,61,1861,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook Turnover.,17,2,1,56,1856,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Williams Steal.,17,2,1,56,1856,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Williams made Layup.,19,2,1,50,1850,USC Trojans,layup,True,True,False,Kayla Williams,False,,27.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Tymberlin Criswell Turnover.,19,2,1,21,1821,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Williams Steal.,19,2,1,21,1821,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall made Layup. Assisted by Kaitlyn Davis.,21,2,1,10,1810,USC Trojans,layup,True,True,False,Rayah Marshall,True,Kaitlyn Davis,26.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook made Layup. Assisted by Violeta Verano.,21,4,1,2,1802,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Alecia Westbrook,True,Violeta Verano,23.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,End of 1st Quarter,21,4,1,0,1800,,end,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Jump Ball won by Texas A&M-Corpus Christi,21,4,2,600,1800,Texas A&M-Corpus Christi Islanders,jump ball,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt missed Three Point Jumper.,21,4,2,592,1792,Texas A&M-Corpus Christi Islanders,three point jumper,True,False,True,Annukka Willstedt,False,,40.0,19.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kaitlyn Davis Defensive Rebound.,21,4,2,592,1792,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Paige Allen.,21,4,2,571,1771,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla missed Free Throw.,21,4,2,571,1771,USC Trojans,free throw,True,False,False,Kayla Padilla,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,USC Deadball Team Rebound.,21,4,2,571,1771,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla made Free Throw.,22,4,2,571,1771,USC Trojans,free throw,True,True,False,Kayla Padilla,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado Turnover.,22,4,2,547,1747,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla Steal.,22,4,2,547,1747,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Dominique Darius missed Layup.,22,4,2,541,1741,USC Trojans,layup,True,False,False,Dominique Darius,False,,27.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,USC Offensive Rebound.,22,4,2,541,1741,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins missed Three Point Jumper.,22,4,2,533,1733,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,21.0,24.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla Offensive Rebound.,22,4,2,533,1733,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kaitlyn Davis Turnover.,22,4,2,523,1723,USC Trojans,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado Steal.,22,4,2,523,1723,Texas A&M-Corpus Christi Islanders,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado made Layup. Assisted by Annukka Willstedt.,22,6,2,517,1717,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Mireia Aguado,True,Annukka Willstedt,27.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes Turnover.,22,6,2,502,1702,USC Trojans,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt Steal.,22,6,2,502,1702,Texas A&M-Corpus Christi Islanders,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt missed Layup.,22,6,2,497,1697,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Annukka Willstedt,False,,23.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Offensive Rebound.,22,6,2,497,1697,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook made Jumper. Assisted by Violeta Verano.,22,8,2,483,1683,Texas A&M-Corpus Christi Islanders,jumper,True,True,False,Alecia Westbrook,True,Violeta Verano,16.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla missed Three Point Jumper.,22,8,2,470,1670,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,20.0,24.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Violeta Verano Defensive Rebound.,22,8,2,470,1670,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Rayah Marshall.,22,8,2,454,1654,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook made Free Throw.,22,9,2,454,1654,Texas A&M-Corpus Christi Islanders,free throw,True,True,False,Alecia Westbrook,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook made Free Throw.,22,10,2,454,1654,Texas A&M-Corpus Christi Islanders,free throw,True,True,False,Alecia Westbrook,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes missed Three Point Jumper.,22,10,2,444,1644,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,33.0,23.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen Defensive Rebound.,22,10,2,444,1644,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Violeta Verano Turnover.,22,10,2,425,1625,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Taylor Bigby Steal.,22,10,2,425,1625,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kaitlyn Davis missed Jumper.,22,10,2,412,1612,USC Trojans,jumper,True,False,False,Kaitlyn Davis,False,,21.0,4.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt Defensive Rebound.,22,10,2,412,1612,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado missed Layup.,22,10,2,389,1589,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Mireia Aguado,False,,28.0,3.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla Defensive Rebound.,22,10,2,389,1589,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Annukka Willstedt.,22,10,2,381,1581,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Jumper. Assisted by McKenzie Forbes.,24,10,2,377,1577,USC Trojans,jumper,True,True,False,JuJu Watkins,True,McKenzie Forbes,24.0,17.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Jaeda Whitner made Three Point Jumper.,24,13,2,359,1559,Texas A&M-Corpus Christi Islanders,three point jumper,True,True,True,Jaeda Whitner,False,,19.0,23.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,USC  Turnover.,24,13,2,323,1523,USC Trojans,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,USC  Timeout,24,13,2,323,1523,USC Trojans,timeout,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders, Official TV Timeout,24,13,2,323,1523,,tv timeout,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Tymberlin Criswell made Layup. Assisted by Annukka Willstedt.,24,15,2,321,1521,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Tymberlin Criswell,True,Annukka Willstedt,23.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes Turnover.,24,15,2,307,1507,USC Trojans,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Jaeda Whitner Turnover.,24,15,2,295,1495,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Williams Steal.,24,15,2,295,1495,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Tymberlin Criswell.,24,15,2,290,1490,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Williams missed Free Throw.,24,15,2,290,1490,USC Trojans,free throw,True,False,False,Kayla Williams,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,USC Deadball Team Rebound.,24,15,2,290,1490,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Williams missed Free Throw.,24,15,2,290,1490,USC Trojans,free throw,True,False,False,Kayla Williams,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Clarice Akunwafo Offensive Rebound.,24,15,2,290,1490,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Jump Ball won by USC,24,15,2,286,1486,USC Trojans,jump ball,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes made Jumper.,26,15,2,268,1468,USC Trojans,jumper,True,True,False,McKenzie Forbes,False,,29.0,15.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook Turnover.,26,15,2,248,1448,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Annukka Willstedt.,26,15,2,224,1424,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Free Throw.,27,15,2,224,1424,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Free Throw.,28,15,2,224,1424,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado Turnover.,28,15,2,218,1418,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins Steal.,28,15,2,218,1418,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Layup.,30,15,2,214,1414,USC Trojans,layup,True,True,False,JuJu Watkins,False,,27.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado Turnover.,30,15,2,205,1405,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins Steal.,30,15,2,205,1405,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins missed Jumper.,30,15,2,200,1400,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,29.0,9.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins Offensive Rebound.,30,15,2,200,1400,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes missed Jumper.,30,15,2,190,1390,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,23.0,9.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook Defensive Rebound.,30,15,2,190,1390,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Jaeda Whitner missed Three Point Jumper.,30,15,2,180,1380,Texas A&M-Corpus Christi Islanders,three point jumper,True,False,True,Jaeda Whitner,False,,7.0,15.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,USC Defensive Rebound.,30,15,2,180,1380,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Williams missed Layup.,30,15,2,162,1362,USC Trojans,layup,True,False,False,Kayla Williams,False,,29.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Violeta Verano Block.,30,15,2,162,1362,Texas A&M-Corpus Christi Islanders,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,USC Offensive Rebound.,30,15,2,162,1362,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Jumper. Assisted by Kayla Williams.,32,15,2,157,1357,USC Trojans,jumper,True,True,False,JuJu Watkins,True,Kayla Williams,22.0,12.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Alecia Westbrook.,32,15,2,157,1357,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Free Throw.,33,15,2,157,1357,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen made Three Point Jumper.,33,18,2,136,1336,Texas A&M-Corpus Christi Islanders,three point jumper,True,True,True,Paige Allen,False,,15.0,22.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins missed Three Point Jumper.,33,18,2,113,1313,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,12.0,22.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen Defensive Rebound.,33,18,2,113,1313,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Kayla Williams.,33,18,2,98,1298,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt missed Three Point Jumper.,33,18,2,81,1281,Texas A&M-Corpus Christi Islanders,three point jumper,True,False,True,Annukka Willstedt,False,,41.0,18.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen Offensive Rebound.,33,18,2,81,1281,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt made Layup. Assisted by Paige Allen.,33,20,2,72,1272,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Annukka Willstedt,True,Paige Allen,27.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Taylor Bigby made Three Point Jumper. Assisted by Kayla Williams.,36,20,2,58,1258,USC Trojans,three point jumper,True,True,True,Taylor Bigby,True,Kayla Williams,48.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Violeta Verano Turnover.,36,20,2,36,1236,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kaitlyn Davis missed Jumper.,36,20,2,19,1219,USC Trojans,jumper,True,False,False,Kaitlyn Davis,False,,25.0,5.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Sasha Shishkina Defensive Rebound.,36,20,2,19,1219,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Sasha Shishkina Block.,36,20,2,19,1219,Texas A&M-Corpus Christi Islanders,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Jump Ball won by Texas A&M-Corpus Christi,36,20,2,18,1218,Texas A&M-Corpus Christi Islanders,jump ball,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen missed Jumper.,36,20,2,4,1204,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Paige Allen,False,,23.0,18.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Deadball Team Rebound.,36,20,2,4,1204,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,End of 2nd Quarter,36,20,2,0,1200,,end,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Jump Ball won by USC,36,20,3,600,1200,USC Trojans,jump ball,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla missed Three Point Jumper.,36,20,3,588,1188,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,2.0,-2.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Offensive Rebound.,36,20,3,588,1188,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall made Layup.,38,20,3,588,1188,USC Trojans,layup,True,True,False,Rayah Marshall,False,,25.0,2.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado made Layup. Assisted by Violeta Verano.,38,22,3,568,1168,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Mireia Aguado,True,Violeta Verano,27.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Jumper.,40,22,3,550,1150,USC Trojans,jumper,True,True,False,JuJu Watkins,False,,22.0,16.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt missed Layup.,40,22,3,531,1131,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Annukka Willstedt,False,,28.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins Defensive Rebound.,40,22,3,531,1131,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla made Three Point Jumper. Assisted by McKenzie Forbes.,43,22,3,509,1109,USC Trojans,three point jumper,True,True,True,Kayla Padilla,True,McKenzie Forbes,46.0,11.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook missed Jumper.,43,22,3,487,1087,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Alecia Westbrook,False,,8.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt Offensive Rebound.,43,22,3,487,1087,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt made Layup.,43,24,3,481,1081,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Annukka Willstedt,False,,26.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes missed Three Point Jumper.,43,24,3,466,1066,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,11.0,19.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Violeta Verano Defensive Rebound.,43,24,3,466,1066,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook made Layup. Assisted by Violeta Verano.,43,26,3,456,1056,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Alecia Westbrook,True,Violeta Verano,27.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Jumper. Assisted by Kayla Padilla.,45,26,3,440,1040,USC Trojans,jumper,True,True,False,JuJu Watkins,True,Kayla Padilla,18.0,9.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on McKenzie Forbes.,45,26,3,423,1023,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Kaitlyn Davis.,45,26,3,414,1014,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook missed Free Throw.,45,26,3,414,1014,Texas A&M-Corpus Christi Islanders,free throw,True,False,False,Alecia Westbrook,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Deadball Team Rebound.,45,26,3,414,1014,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook missed Free Throw.,45,26,3,414,1014,Texas A&M-Corpus Christi Islanders,free throw,True,False,False,Alecia Westbrook,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Nabaweeyah McGill Offensive Rebound.,45,26,3,414,1014,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Nabaweeyah McGill made Layup.,45,28,3,412,1012,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Nabaweeyah McGill,False,,26.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes made Jumper. Assisted by Kayla Padilla.,47,28,3,398,998,USC Trojans,jumper,True,True,False,McKenzie Forbes,True,Kayla Padilla,26.0,10.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado made Jumper. Assisted by Alecia Westbrook.,47,30,3,374,974,Texas A&M-Corpus Christi Islanders,jumper,True,True,False,Mireia Aguado,True,Alecia Westbrook,35.0,12.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Paige Allen.,47,30,3,364,964,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins missed Jumper.,47,30,3,362,962,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,19.0,10.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes Offensive Rebound.,47,30,3,362,962,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes made Layup.,49,30,3,362,962,USC Trojans,layup,True,True,False,McKenzie Forbes,False,,26.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado made Jumper. Assisted by Nabaweeyah McGill.,49,32,3,339,939,Texas A&M-Corpus Christi Islanders,jumper,True,True,False,Mireia Aguado,True,Nabaweeyah McGill,32.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins missed Three Point Jumper.,49,32,3,332,932,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,43.0,15.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla Offensive Rebound.,49,32,3,332,932,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes made Jumper. Assisted by Kayla Padilla.,51,32,3,323,923,USC Trojans,jumper,True,True,False,McKenzie Forbes,True,Kayla Padilla,25.0,10.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on JuJu Watkins.,51,32,3,300,900,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders, Official TV Timeout,51,32,3,300,900,,tv timeout,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado made Free Throw.,51,33,3,300,900,Texas A&M-Corpus Christi Islanders,free throw,True,True,False,Mireia Aguado,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado made Free Throw.,51,34,3,300,900,Texas A&M-Corpus Christi Islanders,free throw,True,True,False,Mireia Aguado,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes missed Three Point Jumper.,51,34,3,289,889,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,49.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen Defensive Rebound.,51,34,3,289,889,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen Turnover.,51,34,3,276,876,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Steal.,51,34,3,276,876,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Paige Allen.,51,34,3,276,876,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Alecia Westbrook.,51,34,3,265,865,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla missed Three Point Jumper.,51,34,3,264,864,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,49.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes Offensive Rebound.,51,34,3,264,864,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kaitlyn Davis Turnover.,51,34,3,252,852,USC Trojans,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Tymberlin Criswell Steal.,51,34,3,252,852,Texas A&M-Corpus Christi Islanders,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Tymberlin Criswell made Layup. Assisted by Paige Allen.,51,36,3,242,842,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Tymberlin Criswell,True,Paige Allen,25.0,3.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on JuJu Watkins.,51,36,3,242,842,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Tymberlin Criswell missed Free Throw.,51,36,3,242,842,Texas A&M-Corpus Christi Islanders,free throw,True,False,False,Tymberlin Criswell,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Defensive Rebound.,51,36,3,242,842,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall made Layup. Assisted by McKenzie Forbes.,53,36,3,226,826,USC Trojans,layup,True,True,False,Rayah Marshall,True,McKenzie Forbes,23.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook Turnover.,53,36,3,213,813,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Steal.,53,36,3,213,813,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes made Layup. Assisted by JuJu Watkins.,55,36,3,207,807,USC Trojans,layup,True,True,False,McKenzie Forbes,True,JuJu Watkins,23.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Nabaweeyah McGill missed Jumper.,55,36,3,193,793,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Nabaweeyah McGill,False,,25.0,5.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Defensive Rebound.,55,36,3,193,793,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Alecia Westbrook.,55,36,3,184,784,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Free Throw.,56,36,3,184,784,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Free Throw.,57,36,3,184,784,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook missed Three Point Jumper.,57,36,3,168,768,Texas A&M-Corpus Christi Islanders,three point jumper,True,False,True,Alecia Westbrook,False,,19.0,24.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,USC Defensive Rebound.,57,36,3,168,768,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall missed Jumper.,57,36,3,147,747,USC Trojans,jumper,True,False,False,Rayah Marshall,False,,22.0,2.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado Defensive Rebound.,57,36,3,147,747,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Rayah Marshall.,57,36,3,138,738,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen made Free Throw.,57,37,3,138,738,Texas A&M-Corpus Christi Islanders,free throw,True,True,False,Paige Allen,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen missed Free Throw.,57,37,3,138,738,Texas A&M-Corpus Christi Islanders,free throw,True,False,False,Paige Allen,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins Defensive Rebound.,57,37,3,138,738,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla made Three Point Jumper. Assisted by Kayla Williams.,60,37,3,130,730,USC Trojans,three point jumper,True,True,True,Kayla Padilla,True,Kayla Williams,48.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen made Jumper. Assisted by Bruna Anguera.,60,39,3,115,715,Texas A&M-Corpus Christi Islanders,jumper,True,True,False,Paige Allen,True,Bruna Anguera,13.0,14.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Rayah Marshall.,60,39,3,113,713,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen made Free Throw.,60,40,3,113,713,Texas A&M-Corpus Christi Islanders,free throw,True,True,False,Paige Allen,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Padilla made Three Point Jumper. Assisted by Taylor Bigby.,63,40,3,85,685,USC Trojans,three point jumper,True,True,True,Kayla Padilla,True,Taylor Bigby,2.0,2.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt Turnover.,63,40,3,74,674,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes Steal.,63,40,3,74,674,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes made Three Point Jumper. Assisted by Taylor Bigby.,66,40,3,67,667,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,True,Taylor Bigby,43.0,16.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi  Timeout,66,40,3,65,665,Texas A&M-Corpus Christi Islanders,timeout,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders, Official TV Timeout,66,40,3,65,665,,tv timeout,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt missed Three Point Jumper.,66,40,3,51,651,Texas A&M-Corpus Christi Islanders,three point jumper,True,False,True,Annukka Willstedt,False,,37.0,22.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Nabaweeyah McGill Offensive Rebound.,66,40,3,51,651,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Nabaweeyah McGill missed Layup.,66,40,3,45,645,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Nabaweeyah McGill,False,,21.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Clarice Akunwafo Defensive Rebound.,66,40,3,45,645,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes made Three Point Jumper. Assisted by Clarice Akunwafo.,69,40,3,37,637,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,True,Clarice Akunwafo,37.0,21.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Kayla Williams.,69,40,3,24,624,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Tymberlin Criswell missed Free Throw.,69,40,3,24,624,Texas A&M-Corpus Christi Islanders,free throw,True,False,False,Tymberlin Criswell,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Deadball Team Rebound.,69,40,3,24,624,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Tymberlin Criswell made Free Throw.,69,41,3,24,624,Texas A&M-Corpus Christi Islanders,free throw,True,True,False,Tymberlin Criswell,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Jaeda Whitner.,69,41,3,8,608,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes made Free Throw.,70,41,3,8,608,USC Trojans,free throw,True,True,False,McKenzie Forbes,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes made Free Throw.,71,41,3,8,608,USC Trojans,free throw,True,True,False,McKenzie Forbes,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Tymberlin Criswell Turnover.,71,41,3,1,601,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Clarice Akunwafo Steal.,71,41,3,1,601,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,End of 3rd Quarter,71,41,3,0,600,,end,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Jump Ball won by Texas A&M-Corpus Christi,71,41,4,600,600,Texas A&M-Corpus Christi Islanders,jump ball,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook missed Layup.,71,41,4,582,582,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Alecia Westbrook,False,,26.0,3.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Clarice Akunwafo Block.,71,41,4,582,582,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook Offensive Rebound.,71,41,4,582,582,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook Turnover.,71,41,4,575,575,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins missed Three Point Jumper.,71,41,4,566,566,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,47.0,8.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Defensive Rebound.,71,41,4,566,566,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt missed Layup.,71,41,4,552,552,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Annukka Willstedt,False,,28.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins Block.,71,41,4,552,552,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Offensive Rebound.,71,41,4,552,552,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen missed Three Point Jumper.,71,41,4,547,547,Texas A&M-Corpus Christi Islanders,three point jumper,True,False,True,Paige Allen,False,,35.0,22.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Williams Defensive Rebound.,71,41,4,547,547,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins Turnover.,71,41,4,536,536,USC Trojans,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook Steal.,71,41,4,536,536,Texas A&M-Corpus Christi Islanders,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen Turnover.,71,41,4,531,531,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Williams Steal.,71,41,4,531,531,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Kayla Williams missed Layup.,71,41,4,526,526,USC Trojans,layup,True,False,False,Kayla Williams,False,,27.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Annukka Willstedt Defensive Rebound.,71,41,4,526,526,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Kaitlyn Davis.,71,41,4,524,524,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Jaeda Whitner missed Three Point Jumper.,71,41,4,501,501,Texas A&M-Corpus Christi Islanders,three point jumper,True,False,True,Jaeda Whitner,False,,38.0,21.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen Offensive Rebound.,71,41,4,501,501,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Clarice Akunwafo.,71,41,4,479,479,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen missed Free Throw.,71,41,4,479,479,Texas A&M-Corpus Christi Islanders,free throw,True,False,False,Paige Allen,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Deadball Team Rebound.,71,41,4,479,479,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Paige Allen made Free Throw.,71,42,4,479,479,Texas A&M-Corpus Christi Islanders,free throw,True,True,False,Paige Allen,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall made Jumper. Assisted by JuJu Watkins.,73,42,4,466,466,USC Trojans,jumper,True,True,False,Rayah Marshall,True,JuJu Watkins,37.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado Turnover.,73,42,4,435,435,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Dominique Darius made Jumper. Assisted by Rayah Marshall.,75,42,4,421,421,USC Trojans,jumper,True,True,False,Dominique Darius,True,Rayah Marshall,15.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook made Jumper. Assisted by Mireia Aguado.,75,44,4,407,407,Texas A&M-Corpus Christi Islanders,jumper,True,True,False,Alecia Westbrook,True,Mireia Aguado,21.0,13.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes Turnover.,75,44,4,394,394,USC Trojans,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Tymberlin Criswell missed Three Point Jumper.,75,44,4,391,391,Texas A&M-Corpus Christi Islanders,three point jumper,True,False,True,Tymberlin Criswell,False,,42.0,17.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Defensive Rebound.,75,44,4,390,390,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Malia Samuels Turnover.,75,44,4,381,381,USC Trojans,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado made Layup.,75,46,4,373,373,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Mireia Aguado,False,,22.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall missed Layup.,75,46,4,354,354,USC Trojans,layup,True,False,False,Rayah Marshall,False,,21.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado Block.,75,46,4,354,354,Texas A&M-Corpus Christi Islanders,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Offensive Rebound.,75,46,4,354,354,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall missed Layup.,75,46,4,354,354,USC Trojans,layup,True,False,False,Rayah Marshall,False,,24.0,3.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Offensive Rebound.,75,46,4,354,354,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on McKenzie Forbes.,75,46,4,345,345,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes Turnover.,75,46,4,345,345,USC Trojans,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Bruna Anguera made Layup. Assisted by Violeta Verano.,75,48,4,322,322,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Bruna Anguera,True,Violeta Verano,27.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Dominique Darius missed Three Point Jumper.,75,48,4,311,311,USC Trojans,three point jumper,True,False,True,Dominique Darius,False,,47.0,8.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado Defensive Rebound.,75,48,4,311,311,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado Turnover.,75,48,4,308,308,Texas A&M-Corpus Christi Islanders,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,McKenzie Forbes Steal.,75,48,4,308,308,USC Trojans,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Violeta Verano.,75,48,4,307,307,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Tymberlin Criswell.,75,48,4,301,301,Texas A&M-Corpus Christi Islanders,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins made Layup. Assisted by McKenzie Forbes.,77,48,4,292,292,USC Trojans,layup,True,True,False,JuJu Watkins,True,McKenzie Forbes,23.0,0.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Malia Samuels.,77,48,4,276,276,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders, Official TV Timeout,77,48,4,276,276,,tv timeout,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Bruna Anguera made Layup. Assisted by Alecia Westbrook.,77,50,4,273,273,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Bruna Anguera,True,Alecia Westbrook,25.0,3.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,JuJu Watkins missed Jumper.,77,50,4,249,249,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,21.0,10.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Rayah Marshall Offensive Rebound.,77,50,4,249,249,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Malia Samuels made Layup. Assisted by Rayah Marshall.,79,50,4,240,240,USC Trojans,layup,True,True,False,Malia Samuels,True,Rayah Marshall,23.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Dominique Darius.,79,50,4,217,217,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado made Free Throw.,79,51,4,217,217,Texas A&M-Corpus Christi Islanders,free throw,True,True,False,Mireia Aguado,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado missed Free Throw.,79,51,4,217,217,Texas A&M-Corpus Christi Islanders,free throw,True,False,False,Mireia Aguado,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Dominique Darius Defensive Rebound.,79,51,4,217,217,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Taylor Bigby missed Three Point Jumper.,79,51,4,207,207,USC Trojans,three point jumper,True,False,True,Taylor Bigby,False,,46.0,10.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Mireia Aguado Defensive Rebound.,79,51,4,207,207,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Bruna Anguera missed Jumper.,79,51,4,191,191,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Bruna Anguera,False,,22.0,8.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Roxane Makolo Defensive Rebound.,79,51,4,191,191,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Malia Samuels made Three Point Jumper. Assisted by Taylor Bigby.,82,51,4,181,181,USC Trojans,three point jumper,True,True,True,Malia Samuels,True,Taylor Bigby,37.0,22.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Bruna Anguera made Layup. Assisted by Alecia Westbrook.,82,53,4,159,159,Texas A&M-Corpus Christi Islanders,layup,True,True,False,Bruna Anguera,True,Alecia Westbrook,24.0,2.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Malia Samuels Turnover.,82,53,4,140,140,USC Trojans,turnover,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook Steal.,82,53,4,140,140,Texas A&M-Corpus Christi Islanders,steal,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Tymberlin Criswell missed Three Point Jumper.,82,53,4,134,134,Texas A&M-Corpus Christi Islanders,three point jumper,True,False,True,Tymberlin Criswell,False,,7.0,17.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Clarice Akunwafo Defensive Rebound.,82,53,4,134,134,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Taylor Bigby missed Three Point Jumper.,82,53,4,123,123,USC Trojans,three point jumper,True,False,True,Taylor Bigby,False,,42.0,17.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Defensive Rebound.,82,53,4,123,123,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Tymberlin Criswell missed Layup.,82,53,4,105,105,Texas A&M-Corpus Christi Islanders,layup,True,False,False,Tymberlin Criswell,False,,21.0,1.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Clarice Akunwafo Block.,82,53,4,105,105,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Offensive Rebound.,82,53,4,105,105,Texas A&M-Corpus Christi Islanders,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Violeta Verano missed Three Point Jumper.,82,53,4,101,101,Texas A&M-Corpus Christi Islanders,three point jumper,True,False,True,Violeta Verano,False,,9.0,18.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Roxane Makolo Defensive Rebound.,82,53,4,101,101,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,India Otto made Layup. Assisted by Malia Samuels.,84,53,4,69,69,USC Trojans,layup,True,True,False,India Otto,True,Malia Samuels,27.0,2.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook missed Jumper.,84,53,4,69,69,Texas A&M-Corpus Christi Islanders,jumper,True,False,False,Alecia Westbrook,False,,20.0,6.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Clarice Akunwafo Block.,84,53,4,69,69,USC Trojans,block,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Roxane Makolo Defensive Rebound.,84,53,4,69,69,USC Trojans,rebound,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,India Otto made Three Point Jumper. Assisted by Roxane Makolo.,87,53,4,43,43,USC Trojans,three point jumper,True,True,True,India Otto,True,Roxane Makolo,6.0,13.0
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Foul on Clarice Akunwafo.,87,53,4,28,28,USC Trojans,foul,False,False,False,,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook made Free Throw.,87,54,4,28,28,Texas A&M-Corpus Christi Islanders,free throw,True,True,False,Alecia Westbrook,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,Alecia Westbrook made Free Throw.,87,55,4,28,28,Texas A&M-Corpus Christi Islanders,free throw,True,True,False,Alecia Westbrook,False,,,
+401637570,USC Trojans,Texas A&M-Corpus Christi Islanders,End of Game,87,55,4,0,0,,end,False,False,False,,False,,,

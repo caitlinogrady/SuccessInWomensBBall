@@ -1,0 +1,304 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637564,NC State Wolfpack,Chattanooga Mocs,Jump Ball won by NC State,0,0,1,600,2400,NC State Wolfpack,jump ball,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James missed Three Point Jumper.,0,0,1,587,2387,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,32.0,24.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn Defensive Rebound.,0,0,1,587,2387,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Karsen Murphy made Three Point Jumper. Assisted by Jada Guinn.,0,3,1,577,2377,Chattanooga Mocs,three point jumper,True,True,True,Karsen Murphy,True,Jada Guinn,40.0,19.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins missed Three Point Jumper.,0,3,1,562,2362,NC State Wolfpack,three point jumper,True,False,True,Mimi Collins,False,,44.0,16.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Addie Porter Defensive Rebound.,0,3,1,562,2362,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn missed Jumper.,0,3,1,543,2343,Chattanooga Mocs,jumper,True,False,False,Jada Guinn,False,,31.0,0.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin Defensive Rebound.,0,3,1,543,2343,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James missed Three Point Jumper.,0,3,1,525,2325,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,25.0,25.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Addie Porter Defensive Rebound.,0,3,1,525,2325,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Karsen Murphy missed Three Point Jumper.,0,3,1,494,2294,Chattanooga Mocs,three point jumper,True,False,True,Karsen Murphy,False,,21.0,24.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James Defensive Rebound.,0,3,1,494,2294,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers missed Jumper.,0,3,1,484,2284,NC State Wolfpack,jumper,True,False,False,Saniya Rivers,False,,12.0,7.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin Offensive Rebound.,0,3,1,484,2284,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James missed Jumper.,0,3,1,476,2276,NC State Wolfpack,jumper,True,False,False,Aziaha James,False,,36.0,3.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson Defensive Rebound.,0,3,1,476,2276,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson missed Jumper.,0,3,1,457,2257,Chattanooga Mocs,jumper,True,False,False,Raven Thompson,False,,34.0,10.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Defensive Rebound.,0,3,1,457,2257,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers made Three Point Jumper. Assisted by Madison Hayes.,3,3,1,434,2234,NC State Wolfpack,three point jumper,True,True,True,Saniya Rivers,True,Madison Hayes,44.0,16.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Sigrun Olafsdottir made Layup. Assisted by Jada Guinn.,3,5,1,408,2208,Chattanooga Mocs,layup,True,True,False,Sigrun Olafsdottir,True,Jada Guinn,27.0,2.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin missed Jumper.,3,5,1,393,2193,NC State Wolfpack,jumper,True,False,False,River Baldwin,False,,29.0,8.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn Defensive Rebound.,3,5,1,393,2193,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Karsen Murphy missed Three Point Jumper.,3,5,1,373,2173,Chattanooga Mocs,three point jumper,True,False,True,Karsen Murphy,False,,26.0,24.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes Defensive Rebound.,3,5,1,373,2173,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes missed Three Point Jumper.,3,5,1,362,2162,NC State Wolfpack,three point jumper,True,False,True,Madison Hayes,False,,28.0,24.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Addie Porter Defensive Rebound.,3,5,1,362,2162,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Karsen Murphy Turnover.,3,5,1,330,2130,Chattanooga Mocs,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers missed Jumper.,3,5,1,314,2114,NC State Wolfpack,jumper,True,False,False,Saniya Rivers,False,,22.0,19.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn Defensive Rebound.,3,5,1,314,2114,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson Turnover.,3,5,1,287,2087,Chattanooga Mocs,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes Steal.,3,5,1,287,2087,NC State Wolfpack,steal,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes made Layup.,5,5,1,284,2084,NC State Wolfpack,layup,True,True,False,Madison Hayes,False,,22.0,2.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Hannah Kohn.,5,5,1,284,2084,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs, Official TV Timeout,5,5,1,284,2084,,tv timeout,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes made Free Throw.,6,5,1,284,2084,NC State Wolfpack,free throw,True,True,False,Madison Hayes,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Zoe Brooks.,6,5,1,271,2071,NC State Wolfpack,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Caia Elisaldez missed Jumper.,6,5,1,252,2052,Chattanooga Mocs,jumper,True,False,False,Caia Elisaldez,False,,25.0,5.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin Defensive Rebound.,6,5,1,252,2052,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Raven Thompson.,6,5,1,245,2045,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers made Free Throw.,7,5,1,245,2045,NC State Wolfpack,free throw,True,True,False,Saniya Rivers,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers made Free Throw.,8,5,1,245,2045,NC State Wolfpack,free throw,True,True,False,Saniya Rivers,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn missed Jumper.,8,5,1,215,2015,Chattanooga Mocs,jumper,True,False,False,Jada Guinn,False,,27.0,13.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes Defensive Rebound.,8,5,1,215,2015,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Zoe Brooks made Jumper.,10,5,1,200,2000,NC State Wolfpack,jumper,True,True,False,Zoe Brooks,False,,20.0,4.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn missed Three Point Jumper.,10,5,1,181,1981,Chattanooga Mocs,three point jumper,True,False,True,Hannah Kohn,False,,25.0,27.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin Defensive Rebound.,10,5,1,181,1981,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes made Layup.,12,5,1,168,1968,NC State Wolfpack,layup,True,True,False,Madison Hayes,False,,25.0,3.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson made Jumper.,12,7,1,153,1953,Chattanooga Mocs,jumper,True,True,False,Raven Thompson,False,,40.0,4.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Zoe Brooks missed Three Point Jumper.,12,7,1,140,1940,NC State Wolfpack,three point jumper,True,False,True,Zoe Brooks,False,,16.0,24.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins Offensive Rebound.,12,7,1,140,1940,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins Turnover.,12,7,1,130,1930,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson Steal.,12,7,1,130,1930,Chattanooga Mocs,steal,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Mimi Collins.,12,7,1,124,1924,NC State Wolfpack,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson made Free Throw.,12,8,1,124,1924,Chattanooga Mocs,free throw,True,True,False,Raven Thompson,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson made Free Throw.,12,9,1,124,1924,Chattanooga Mocs,free throw,True,True,False,Raven Thompson,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Turnover.,12,9,1,115,1915,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn Steal.,12,9,1,115,1915,Chattanooga Mocs,steal,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson missed Jumper.,12,9,1,99,1899,Chattanooga Mocs,jumper,True,False,False,Raven Thompson,False,,22.0,11.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Defensive Rebound.,12,9,1,99,1899,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Raven Thompson.,12,9,1,95,1895,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers missed Three Point Jumper.,12,9,1,83,1883,NC State Wolfpack,three point jumper,True,False,True,Saniya Rivers,False,,5.0,13.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin Offensive Rebound.,12,9,1,83,1883,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Addie Porter.,12,9,1,77,1877,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Turnover.,12,9,1,70,1870,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Karsen Murphy Steal.,12,9,1,70,1870,Chattanooga Mocs,steal,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Sigrun Olafsdottir missed Three Point Jumper.,12,9,1,39,1839,Chattanooga Mocs,three point jumper,True,False,True,Sigrun Olafsdottir,False,,48.0,7.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Zoe Brooks Defensive Rebound.,12,9,1,39,1839,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Sigrun Olafsdottir.,12,9,1,26,1826,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins made Free Throw.,13,9,1,26,1826,NC State Wolfpack,free throw,True,True,False,Mimi Collins,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins missed Free Throw.,13,9,1,26,1826,NC State Wolfpack,free throw,True,False,False,Mimi Collins,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes Offensive Rebound.,13,9,1,26,1826,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James Turnover.,13,9,1,18,1818,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Sigrun Olafsdottir Steal.,13,9,1,18,1818,Chattanooga Mocs,steal,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Caia Elisaldez missed Layup.,13,9,1,1,1801,Chattanooga Mocs,layup,True,False,False,Caia Elisaldez,False,,26.0,3.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins Defensive Rebound.,13,9,1,1,1801,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,End of 1st Quarter,13,9,1,0,1800,,end,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jump Ball won by Chattanooga,13,9,2,600,1800,Chattanooga Mocs,jump ball,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Caia Elisaldez made Layup. Assisted by Sigrun Olafsdottir.,13,11,2,592,1792,Chattanooga Mocs,layup,True,True,False,Caia Elisaldez,True,Sigrun Olafsdottir,22.0,2.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Maddie Cox made Three Point Jumper. Assisted by Madison Hayes.,16,11,2,577,1777,NC State Wolfpack,three point jumper,True,True,True,Maddie Cox,True,Madison Hayes,49.0,1.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Sigrun Olafsdottir missed Three Point Jumper.,16,11,2,546,1746,Chattanooga Mocs,three point jumper,True,False,True,Sigrun Olafsdottir,False,,17.0,23.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Zoe Brooks Defensive Rebound.,16,11,2,546,1746,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Zoe Brooks missed Jumper.,16,11,2,532,1732,NC State Wolfpack,jumper,True,False,False,Zoe Brooks,False,,45.0,8.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Addie Porter Defensive Rebound.,16,11,2,532,1732,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn missed Jumper.,16,11,2,510,1710,Chattanooga Mocs,jumper,True,False,False,Jada Guinn,False,,25.0,9.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins Defensive Rebound.,16,11,2,510,1710,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes missed Three Point Jumper.,16,11,2,495,1695,NC State Wolfpack,three point jumper,True,False,True,Madison Hayes,False,,1.0,5.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Addie Porter Defensive Rebound.,16,11,2,495,1695,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Kailyn Farrell missed Layup.,16,11,2,464,1664,Chattanooga Mocs,layup,True,False,False,Kailyn Farrell,False,,23.0,3.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins Block.,16,11,2,464,1664,NC State Wolfpack,block,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Chattanooga Offensive Rebound.,16,11,2,464,1664,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn missed Three Point Jumper.,16,11,2,459,1659,Chattanooga Mocs,three point jumper,True,False,True,Hannah Kohn,False,,39.0,19.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes Defensive Rebound.,16,11,2,459,1659,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Maddie Cox missed Three Point Jumper.,16,11,2,447,1647,NC State Wolfpack,three point jumper,True,False,True,Maddie Cox,False,,48.0,2.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Addie Porter Defensive Rebound.,16,11,2,447,1647,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Sigrun Olafsdottir missed Three Point Jumper.,16,11,2,421,1621,Chattanooga Mocs,three point jumper,True,False,True,Sigrun Olafsdottir,False,,48.0,2.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Zoe Brooks Defensive Rebound.,16,11,2,421,1621,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Zoe Brooks made Jumper.,18,11,2,396,1596,NC State Wolfpack,jumper,True,True,False,Zoe Brooks,False,,35.0,10.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn made Jumper.,18,13,2,364,1564,Chattanooga Mocs,jumper,True,True,False,Jada Guinn,False,,24.0,9.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins missed Three Point Jumper.,18,13,2,353,1553,NC State Wolfpack,three point jumper,True,False,True,Mimi Collins,False,,23.0,25.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn Defensive Rebound.,18,13,2,353,1553,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Karsen Murphy missed Three Point Jumper.,18,13,2,329,1529,Chattanooga Mocs,three point jumper,True,False,True,Karsen Murphy,False,,28.0,24.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Zoe Brooks Defensive Rebound.,18,13,2,329,1529,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Karsen Murphy.,18,13,2,312,1512,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins made Free Throw.,19,13,2,312,1512,NC State Wolfpack,free throw,True,True,False,Mimi Collins,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins made Free Throw.,20,13,2,312,1512,NC State Wolfpack,free throw,True,True,False,Mimi Collins,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Madison Hayes.,20,13,2,291,1491,NC State Wolfpack,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs, Official TV Timeout,20,13,2,291,1491,,tv timeout,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn made Free Throw.,20,14,2,291,1491,Chattanooga Mocs,free throw,True,True,False,Jada Guinn,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn made Free Throw.,20,15,2,291,1491,Chattanooga Mocs,free throw,True,True,False,Jada Guinn,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James missed Three Point Jumper.,20,15,2,273,1473,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,45.0,14.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin Offensive Rebound.,20,15,2,273,1473,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Zoe Brooks missed Jumper.,20,15,2,259,1459,NC State Wolfpack,jumper,True,False,False,Zoe Brooks,False,,31.0,16.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Chattanooga Deadball Team Rebound.,20,15,2,259,1459,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn missed Jumper.,20,15,2,239,1439,Chattanooga Mocs,jumper,True,False,False,Jada Guinn,False,,19.0,6.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Block.,20,15,2,239,1439,NC State Wolfpack,block,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Defensive Rebound.,20,15,2,239,1439,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin Turnover.,20,15,2,218,1418,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Karsen Murphy missed Layup.,20,15,2,192,1392,Chattanooga Mocs,layup,True,False,False,Karsen Murphy,False,,28.0,2.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin Block.,20,15,2,192,1392,NC State Wolfpack,block,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Chattanooga Offensive Rebound.,20,15,2,192,1392,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Karsen Murphy Turnover.,20,15,2,188,1388,Chattanooga Mocs,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Laci Steele Steal.,20,15,2,188,1388,NC State Wolfpack,steal,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Karsen Murphy.,20,15,2,168,1368,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin made Free Throw.,21,15,2,168,1368,NC State Wolfpack,free throw,True,True,False,River Baldwin,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin missed Free Throw.,21,15,2,168,1368,NC State Wolfpack,free throw,True,False,False,River Baldwin,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn Defensive Rebound.,21,15,2,168,1368,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn missed Three Point Jumper.,21,15,2,149,1349,Chattanooga Mocs,three point jumper,True,False,True,Hannah Kohn,False,,4.0,14.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Sigrun Olafsdottir Offensive Rebound.,21,15,2,149,1349,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Sigrun Olafsdottir Turnover.,21,15,2,138,1338,Chattanooga Mocs,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers missed Three Point Jumper.,21,15,2,124,1324,NC State Wolfpack,three point jumper,True,False,True,Saniya Rivers,False,,45.0,14.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin Offensive Rebound.,21,15,2,124,1324,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin made Layup.,23,15,2,119,1319,NC State Wolfpack,layup,True,True,False,River Baldwin,False,,23.0,3.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Chattanooga  Timeout,23,15,2,116,1316,Chattanooga Mocs,timeout,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs, Official TV Timeout,23,15,2,116,1316,,tv timeout,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn missed Three Point Jumper.,23,15,2,95,1295,Chattanooga Mocs,three point jumper,True,False,True,Hannah Kohn,False,,19.0,27.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes Defensive Rebound.,23,15,2,95,1295,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Hannah Kohn.,23,15,2,82,1282,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes missed Jumper.,23,15,2,77,1277,NC State Wolfpack,jumper,True,False,False,Madison Hayes,False,,23.0,7.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn Defensive Rebound.,23,15,2,77,1277,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn made Layup.,23,17,2,55,1255,Chattanooga Mocs,layup,True,True,False,Jada Guinn,False,,28.0,2.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Takia Davis.,23,17,2,34,1234,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin missed Free Throw.,23,17,2,34,1234,NC State Wolfpack,free throw,True,False,False,River Baldwin,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,NC State Deadball Team Rebound.,23,17,2,34,1234,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin made Free Throw.,24,17,2,34,1234,NC State Wolfpack,free throw,True,True,False,River Baldwin,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Chattanooga  Turnover.,24,17,2,23,1223,Chattanooga Mocs,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers made Jumper.,26,17,2,3,1203,NC State Wolfpack,jumper,True,True,False,Saniya Rivers,False,,12.0,10.0
+401637564,NC State Wolfpack,Chattanooga Mocs,End of 2nd Quarter,26,17,2,0,1200,,end,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jump Ball won by NC State,26,17,3,600,1200,NC State Wolfpack,jump ball,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James made Three Point Jumper. Assisted by Madison Hayes.,29,17,3,585,1185,NC State Wolfpack,three point jumper,True,True,True,Aziaha James,True,Madison Hayes,15.0,23.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson made Jumper.,29,19,3,564,1164,Chattanooga Mocs,jumper,True,True,False,Raven Thompson,False,,27.0,10.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin missed Jumper.,29,19,3,542,1142,NC State Wolfpack,jumper,True,False,False,River Baldwin,False,,22.0,4.0
+401637564,NC State Wolfpack,Chattanooga Mocs,NC State Offensive Rebound.,29,19,3,542,1142,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Raven Thompson.,29,19,3,532,1132,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Addie Porter.,29,19,3,532,1132,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James missed Three Point Jumper.,29,19,3,523,1123,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,35.0,22.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Chattanooga Defensive Rebound.,29,19,3,523,1123,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Mimi Collins.,29,19,3,502,1102,NC State Wolfpack,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson made Free Throw.,29,20,3,502,1102,Chattanooga Mocs,free throw,True,True,False,Raven Thompson,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson missed Free Throw.,29,20,3,502,1102,Chattanooga Mocs,free throw,True,False,False,Raven Thompson,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes Defensive Rebound.,29,20,3,502,1102,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers missed Layup.,29,20,3,483,1083,NC State Wolfpack,layup,True,False,False,Saniya Rivers,False,,22.0,3.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Addie Porter Defensive Rebound.,29,20,3,483,1083,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Sigrun Olafsdottir Turnover.,29,20,3,466,1066,Chattanooga Mocs,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins Steal.,29,20,3,466,1066,NC State Wolfpack,steal,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers made Jumper.,31,20,3,443,1043,NC State Wolfpack,jumper,True,True,False,Saniya Rivers,False,,36.0,4.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Addie Porter Turnover.,31,20,3,427,1027,Chattanooga Mocs,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Steal.,31,20,3,427,1027,NC State Wolfpack,steal,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Addie Porter.,31,20,3,424,1024,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers missed Free Throw.,31,20,3,424,1024,NC State Wolfpack,free throw,True,False,False,Saniya Rivers,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,NC State Deadball Team Rebound.,31,20,3,424,1024,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers made Free Throw.,32,20,3,424,1024,NC State Wolfpack,free throw,True,True,False,Saniya Rivers,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson missed Jumper.,32,20,3,417,1017,Chattanooga Mocs,jumper,True,False,False,Raven Thompson,False,,29.0,11.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James Defensive Rebound.,32,20,3,417,1017,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin missed Jumper.,32,20,3,396,996,NC State Wolfpack,jumper,True,False,False,River Baldwin,False,,41.0,6.0
+401637564,NC State Wolfpack,Chattanooga Mocs,NC State Offensive Rebound.,32,20,3,396,996,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Jada Guinn.,32,20,3,393,993,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins made Jumper. Assisted by Saniya Rivers.,34,20,3,382,982,NC State Wolfpack,jumper,True,True,False,Mimi Collins,True,Saniya Rivers,7.0,2.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn missed Jumper.,34,20,3,372,972,Chattanooga Mocs,jumper,True,False,False,Jada Guinn,False,,29.0,11.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Defensive Rebound.,34,20,3,372,972,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes missed Three Point Jumper.,34,20,3,361,961,NC State Wolfpack,three point jumper,True,False,True,Madison Hayes,False,,37.0,21.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin Offensive Rebound.,34,20,3,361,961,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Caia Elisaldez.,34,20,3,346,946,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers made Free Throw.,35,20,3,346,946,NC State Wolfpack,free throw,True,True,False,Saniya Rivers,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers missed Free Throw.,35,20,3,346,946,NC State Wolfpack,free throw,True,False,False,Saniya Rivers,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Karsen Murphy Defensive Rebound.,35,20,3,346,946,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Sigrun Olafsdottir Turnover.,35,20,3,332,932,Chattanooga Mocs,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Steal.,35,20,3,332,932,NC State Wolfpack,steal,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers missed Layup.,35,20,3,327,927,NC State Wolfpack,layup,True,False,False,Saniya Rivers,False,,24.0,3.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Sigrun Olafsdottir Defensive Rebound.,35,20,3,327,927,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn missed Jumper.,35,20,3,312,912,Chattanooga Mocs,jumper,True,False,False,Jada Guinn,False,,27.0,10.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin Defensive Rebound.,35,20,3,312,912,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin made Jumper. Assisted by Madison Hayes.,37,20,3,294,894,NC State Wolfpack,jumper,True,True,False,River Baldwin,True,Madison Hayes,34.0,-1.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Chattanooga  Timeout,37,20,3,293,893,Chattanooga Mocs,timeout,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs, Official TV Timeout,37,20,3,293,893,,tv timeout,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson missed Jumper.,37,20,3,263,863,Chattanooga Mocs,jumper,True,False,False,Raven Thompson,False,,19.0,7.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin Defensive Rebound.,37,20,3,263,863,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Takia Davis.,37,20,3,243,843,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs, Official TV Timeout,37,20,3,243,843,,tv timeout,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin made Free Throw.,38,20,3,243,843,NC State Wolfpack,free throw,True,True,False,River Baldwin,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin made Free Throw.,39,20,3,243,843,NC State Wolfpack,free throw,True,True,False,River Baldwin,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn missed Jumper.,39,20,3,220,820,Chattanooga Mocs,jumper,True,False,False,Jada Guinn,False,,29.0,11.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes Defensive Rebound.,39,20,3,220,820,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Caia Elisaldez.,39,20,3,201,801,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James made Free Throw.,40,20,3,201,801,NC State Wolfpack,free throw,True,True,False,Aziaha James,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James made Free Throw.,41,20,3,201,801,NC State Wolfpack,free throw,True,True,False,Aziaha James,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn made Jumper.,41,22,3,191,791,Chattanooga Mocs,jumper,True,True,False,Hannah Kohn,False,,15.0,19.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes missed Jumper.,41,22,3,178,778,NC State Wolfpack,jumper,True,False,False,Madison Hayes,False,,24.0,22.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Caia Elisaldez Defensive Rebound.,41,22,3,178,778,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Takia Davis made Layup. Assisted by Caia Elisaldez.,41,24,3,149,749,Chattanooga Mocs,layup,True,True,False,Takia Davis,True,Caia Elisaldez,27.0,3.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes missed Three Point Jumper.,41,24,3,121,721,NC State Wolfpack,three point jumper,True,False,True,Madison Hayes,False,,49.0,1.0
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin Offensive Rebound.,41,24,3,121,721,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Zoe Brooks missed Three Point Jumper.,41,24,3,103,703,NC State Wolfpack,three point jumper,True,False,True,Zoe Brooks,False,,38.0,20.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn Defensive Rebound.,41,24,3,103,703,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn missed Jumper.,41,24,3,89,689,Chattanooga Mocs,jumper,True,False,False,Jada Guinn,False,,40.0,8.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Madison Hayes Defensive Rebound.,41,24,3,89,689,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Takia Davis.,41,24,3,71,671,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin made Free Throw.,42,24,3,71,671,NC State Wolfpack,free throw,True,True,False,River Baldwin,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,River Baldwin made Free Throw.,43,24,3,71,671,NC State Wolfpack,free throw,True,True,False,River Baldwin,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn missed Three Point Jumper.,43,24,3,60,660,Chattanooga Mocs,three point jumper,True,False,True,Hannah Kohn,False,,15.0,29.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Defensive Rebound.,43,24,3,60,660,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Jada Guinn.,43,24,3,50,650,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers made Free Throw.,44,24,3,50,650,NC State Wolfpack,free throw,True,True,False,Saniya Rivers,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers made Free Throw.,45,24,3,50,650,NC State Wolfpack,free throw,True,True,False,Saniya Rivers,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn made Jumper.,45,26,3,33,633,Chattanooga Mocs,jumper,True,True,False,Jada Guinn,False,,33.0,9.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins missed Three Point Jumper.,45,26,3,3,603,NC State Wolfpack,three point jumper,True,False,True,Mimi Collins,False,,16.0,23.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Offensive Rebound.,45,26,3,3,603,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers missed Layup.,45,26,3,1,601,NC State Wolfpack,layup,True,False,False,Saniya Rivers,False,,25.0,4.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Chattanooga Deadball Team Rebound.,45,26,3,1,601,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,End of 3rd Quarter,45,26,3,0,600,,end,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jump Ball won by Chattanooga,45,26,4,600,600,Chattanooga Mocs,jump ball,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn missed Three Point Jumper.,45,26,4,593,593,Chattanooga Mocs,three point jumper,True,False,True,Hannah Kohn,False,,22.0,25.0
+401637564,NC State Wolfpack,Chattanooga Mocs,NC State Defensive Rebound.,45,26,4,593,593,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James made Jumper.,47,26,4,570,570,NC State Wolfpack,jumper,True,True,False,Aziaha James,False,,13.0,10.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn missed Jumper.,47,26,4,546,546,Chattanooga Mocs,jumper,True,False,False,Jada Guinn,False,,25.0,14.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins Defensive Rebound.,47,26,4,546,546,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Turnover.,47,26,4,530,530,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Sigrun Olafsdottir missed Jumper.,47,26,4,514,514,Chattanooga Mocs,jumper,True,False,False,Sigrun Olafsdottir,False,,22.0,9.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Zoe Brooks Defensive Rebound.,47,26,4,514,514,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Maddie Cox missed Three Point Jumper.,47,26,4,501,501,NC State Wolfpack,three point jumper,True,False,True,Maddie Cox,False,,18.0,23.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Addie Porter Defensive Rebound.,47,26,4,501,501,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn missed Jumper.,47,26,4,489,489,Chattanooga Mocs,jumper,True,False,False,Jada Guinn,False,,29.0,10.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Defensive Rebound.,47,26,4,489,489,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James made Three Point Jumper. Assisted by Zoe Brooks.,50,26,4,469,469,NC State Wolfpack,three point jumper,True,True,True,Aziaha James,True,Zoe Brooks,37.0,21.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson made Jumper.,50,28,4,451,451,Chattanooga Mocs,jumper,True,True,False,Raven Thompson,False,,21.0,6.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Zoe Brooks missed Jumper.,50,28,4,437,437,NC State Wolfpack,jumper,True,False,False,Zoe Brooks,False,,22.0,12.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson Defensive Rebound.,50,28,4,437,437,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Zoe Brooks.,50,28,4,429,429,NC State Wolfpack,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins made Free Throw.,51,28,4,429,429,NC State Wolfpack,free throw,True,True,False,Mimi Collins,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Mimi Collins made Free Throw.,52,28,4,429,429,NC State Wolfpack,free throw,True,True,False,Mimi Collins,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Chattanooga  Turnover.,50,28,4,429,429,Chattanooga Mocs,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Technical Foul on Chattanooga.,50,28,4,429,429,Chattanooga Mocs,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James missed Three Point Jumper.,52,28,4,420,420,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,18.0,25.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson Defensive Rebound.,52,28,4,420,420,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Mimi Collins.,52,28,4,405,405,NC State Wolfpack,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn made Layup.,52,30,4,393,393,Chattanooga Mocs,layup,True,True,False,Jada Guinn,False,,22.0,2.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James made Three Point Jumper. Assisted by Zoe Brooks.,55,30,4,372,372,NC State Wolfpack,three point jumper,True,True,True,Aziaha James,True,Zoe Brooks,46.0,10.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson missed Jumper.,55,30,4,347,347,Chattanooga Mocs,jumper,True,False,False,Raven Thompson,False,,20.0,5.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers Defensive Rebound.,55,30,4,347,347,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Saniya Rivers made Three Point Jumper. Assisted by Zoe Brooks.,58,30,4,341,341,NC State Wolfpack,three point jumper,True,True,True,Saniya Rivers,True,Zoe Brooks,7.0,17.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Saniya Rivers.,58,30,4,306,306,NC State Wolfpack,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn missed Free Throw.,58,30,4,306,306,Chattanooga Mocs,free throw,True,False,False,Jada Guinn,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Chattanooga Deadball Team Rebound.,58,30,4,306,306,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn missed Free Throw.,58,30,4,306,306,Chattanooga Mocs,free throw,True,False,False,Jada Guinn,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,NC State Defensive Rebound.,58,30,4,306,306,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Zoe Brooks Turnover.,58,30,4,297,297,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Addie Porter Steal.,58,30,4,297,297,Chattanooga Mocs,steal,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn made Layup.,58,32,4,292,292,Chattanooga Mocs,layup,True,True,False,Jada Guinn,False,,27.0,3.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Madison Hayes.,58,32,4,292,292,NC State Wolfpack,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs, Official TV Timeout,58,32,4,292,292,,tv timeout,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn made Free Throw.,58,33,4,292,292,Chattanooga Mocs,free throw,True,True,False,Jada Guinn,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Jada Guinn missed Free Throw.,58,33,4,292,292,Chattanooga Mocs,free throw,True,False,False,Jada Guinn,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Laci Steele missed Jumper.,58,33,4,283,283,NC State Wolfpack,jumper,True,False,False,Laci Steele,False,,18.0,19.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Laci Steele Offensive Rebound.,58,33,4,283,283,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Laci Steele Turnover.,58,33,4,280,280,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Karsen Murphy made Three Point Jumper. Assisted by Raven Thompson.,58,36,4,257,257,Chattanooga Mocs,three point jumper,True,True,True,Karsen Murphy,True,Raven Thompson,31.0,25.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James made Three Point Jumper. Assisted by Zoe Brooks.,61,36,4,232,232,NC State Wolfpack,three point jumper,True,True,True,Aziaha James,True,Zoe Brooks,1.0,2.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn missed Jumper.,61,36,4,210,210,Chattanooga Mocs,jumper,True,False,False,Hannah Kohn,False,,29.0,11.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Laci Steele Block.,61,36,4,210,210,NC State Wolfpack,block,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,NC State Defensive Rebound.,61,36,4,210,210,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Aziaha James made Three Point Jumper. Assisted by Zoe Brooks.,64,36,4,191,191,NC State Wolfpack,three point jumper,True,True,True,Aziaha James,True,Zoe Brooks,24.0,25.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson made Layup.,64,38,4,160,160,Chattanooga Mocs,layup,True,True,False,Raven Thompson,False,,23.0,2.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Maddie Cox Turnover.,64,38,4,143,143,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson Steal.,64,38,4,143,143,Chattanooga Mocs,steal,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Addie Porter made Layup.,64,40,4,125,125,Chattanooga Mocs,layup,True,True,False,Addie Porter,False,,22.0,2.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Laci Steele missed Three Point Jumper.,64,40,4,102,102,NC State Wolfpack,three point jumper,True,False,True,Laci Steele,False,,12.0,21.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Raven Thompson Defensive Rebound.,64,40,4,102,102,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Laci Steele.,64,40,4,89,89,NC State Wolfpack,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn made Free Throw.,64,41,4,89,89,Chattanooga Mocs,free throw,True,True,False,Hannah Kohn,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn missed Free Throw.,64,41,4,89,89,Chattanooga Mocs,free throw,True,False,False,Hannah Kohn,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Lizzy Williamson Defensive Rebound.,64,41,4,89,89,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Maddie Cox missed Three Point Jumper.,64,41,4,75,75,NC State Wolfpack,three point jumper,True,False,True,Maddie Cox,False,,41.0,18.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn Defensive Rebound.,64,41,4,75,75,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn made Three Point Jumper. Assisted by Takia Davis.,64,44,4,57,57,Chattanooga Mocs,three point jumper,True,True,True,Hannah Kohn,True,Takia Davis,17.0,24.0
+401637564,NC State Wolfpack,Chattanooga Mocs,NC State  Timeout,64,44,4,48,48,NC State Wolfpack,timeout,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Katie Peneueta missed Three Point Jumper.,64,44,4,41,41,NC State Wolfpack,three point jumper,True,False,True,Katie Peneueta,False,,18.0,24.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Addie Porter Defensive Rebound.,64,44,4,41,41,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Hannah Kohn missed Jumper.,64,44,4,16,16,Chattanooga Mocs,jumper,True,False,False,Hannah Kohn,False,,27.0,9.0
+401637564,NC State Wolfpack,Chattanooga Mocs,Takia Davis Offensive Rebound.,64,44,4,16,16,Chattanooga Mocs,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Foul on Laci Steele.,64,44,4,14,14,NC State Wolfpack,foul,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Takia Davis made Free Throw.,64,45,4,14,14,Chattanooga Mocs,free throw,True,True,False,Takia Davis,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,Takia Davis missed Free Throw.,64,45,4,14,14,Chattanooga Mocs,free throw,True,False,False,Takia Davis,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,NC State Defensive Rebound.,64,45,4,14,14,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637564,NC State Wolfpack,Chattanooga Mocs,End of Game,64,45,4,0,0,,end,False,False,False,,False,,,

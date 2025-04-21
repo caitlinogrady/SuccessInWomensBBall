@@ -1,0 +1,330 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jump Ball won by NC State,0,0,1,600,2400,NC State Wolfpack,jump ball,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James made Layup.,2,0,1,597,2397,NC State Wolfpack,layup,True,True,False,Aziaha James,False,,27.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson missed Jumper.,2,0,1,586,2386,Tennessee Lady Volunteers,jumper,True,False,False,Rickea Jackson,False,,14.0,13.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Mimi Collins Defensive Rebound.,2,0,1,586,2386,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin made Layup. Assisted by Aziaha James.,4,0,1,567,2367,NC State Wolfpack,layup,True,True,False,River Baldwin,True,Aziaha James,23.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Jumper.,4,2,1,543,2343,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,False,,17.0,20.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Sara Puckett.,4,2,1,521,2321,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers made Free Throw.,5,2,1,521,2321,NC State Wolfpack,free throw,True,True,False,Saniya Rivers,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers made Free Throw.,6,2,1,521,2321,NC State Wolfpack,free throw,True,True,False,Saniya Rivers,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tamari Key made Layup. Assisted by Jasmine Powell.,6,4,1,511,2311,Tennessee Lady Volunteers,layup,True,True,False,Tamari Key,True,Jasmine Powell,27.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James made Jumper.,8,4,1,493,2293,NC State Wolfpack,jumper,True,True,False,Aziaha James,False,,30.0,4.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Three Point Jumper.,8,7,1,483,2283,Tennessee Lady Volunteers,three point jumper,True,True,True,Rickea Jackson,False,,23.0,24.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers missed Jumper.,8,7,1,463,2263,NC State Wolfpack,jumper,True,False,False,Saniya Rivers,False,,23.0,18.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell Defensive Rebound.,8,7,1,463,2263,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett made Three Point Jumper. Assisted by Jasmine Powell.,8,10,1,454,2254,Tennessee Lady Volunteers,three point jumper,True,True,True,Sara Puckett,True,Jasmine Powell,4.0,14.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James made Jumper.,10,10,1,431,2231,NC State Wolfpack,jumper,True,True,False,Aziaha James,False,,35.0,8.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Three Point Jumper.,10,13,1,406,2206,Tennessee Lady Volunteers,three point jumper,True,True,True,Rickea Jackson,False,,35.0,22.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Tamari Key.,10,13,1,387,2187,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin made Free Throw.,11,13,1,387,2187,NC State Wolfpack,free throw,True,True,False,River Baldwin,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin made Free Throw.,12,13,1,387,2187,NC State Wolfpack,free throw,True,True,False,River Baldwin,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson missed Jumper.,12,13,1,378,2178,Tennessee Lady Volunteers,jumper,True,False,False,Rickea Jackson,False,,16.0,19.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,NC State Defensive Rebound.,12,13,1,378,2178,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers made Jumper.,14,13,1,359,2159,NC State Wolfpack,jumper,True,True,False,Saniya Rivers,False,,13.0,10.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on River Baldwin.,14,13,1,341,2141,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Jumper.,14,15,1,339,2139,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,False,,6.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James missed Three Point Jumper.,14,15,1,325,2125,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,12.0,20.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson Defensive Rebound.,14,15,1,325,2125,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Saniya Rivers.,14,15,1,314,2114,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Jumper. Assisted by Jasmine Powell.,14,17,1,313,2113,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,True,Jasmine Powell,46.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers missed Jumper.,14,17,1,295,2095,NC State Wolfpack,jumper,True,False,False,Saniya Rivers,False,,23.0,18.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tennessee Defensive Rebound.,14,17,1,295,2095,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Mimi Collins.,14,17,1,291,2091,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers, Official TV Timeout,14,17,1,291,2091,,tv timeout,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell Turnover.,14,17,1,282,2082,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers Steal.,14,17,1,282,2082,NC State Wolfpack,steal,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers made Layup.,16,17,1,276,2076,NC State Wolfpack,layup,True,True,False,Saniya Rivers,False,,26.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Jasmine Powell.,16,17,1,276,2076,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers made Free Throw.,17,17,1,276,2076,NC State Wolfpack,free throw,True,True,False,Saniya Rivers,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jewel Spear made Jumper.,17,19,1,259,2059,Tennessee Lady Volunteers,jumper,True,True,False,Jewel Spear,False,,8.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James missed Jumper.,17,19,1,238,2038,NC State Wolfpack,jumper,True,False,False,Aziaha James,False,,22.0,15.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tess Darby Defensive Rebound.,17,19,1,238,2038,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jewel Spear missed Three Point Jumper.,17,19,1,229,2029,Tennessee Lady Volunteers,three point jumper,True,False,True,Jewel Spear,False,,16.0,23.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,NC State Defensive Rebound.,17,19,1,229,2029,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks missed Jumper.,17,19,1,205,2005,NC State Wolfpack,jumper,True,False,False,Zoe Brooks,False,,20.0,3.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jillian Hollingshead Defensive Rebound.,17,19,1,205,2005,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jillian Hollingshead missed Jumper.,17,19,1,187,1987,Tennessee Lady Volunteers,jumper,True,False,False,Jillian Hollingshead,False,,10.0,4.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks Defensive Rebound.,17,19,1,187,1987,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Madison Hayes missed Layup.,17,19,1,174,1974,NC State Wolfpack,layup,True,False,False,Madison Hayes,False,,28.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jillian Hollingshead Defensive Rebound.,17,19,1,174,1974,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Kaiya Wynn made Layup.,17,21,1,167,1967,Tennessee Lady Volunteers,layup,True,True,False,Kaiya Wynn,False,,28.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin missed Jumper.,17,21,1,153,1953,NC State Wolfpack,jumper,True,False,False,River Baldwin,False,,20.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson Defensive Rebound.,17,21,1,153,1953,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Jumper.,17,23,1,138,1938,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,False,,32.0,2.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin made Jumper. Assisted by Aziaha James.,19,23,1,113,1913,NC State Wolfpack,jumper,True,True,False,River Baldwin,True,Aziaha James,25.0,3.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson missed Jumper.,19,23,1,92,1892,Tennessee Lady Volunteers,jumper,True,False,False,Rickea Jackson,False,,34.0,14.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers Defensive Rebound.,19,23,1,92,1892,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Madison Hayes made Three Point Jumper. Assisted by Saniya Rivers.,22,23,1,83,1883,NC State Wolfpack,three point jumper,True,True,True,Madison Hayes,True,Saniya Rivers,44.0,15.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jewel Spear Turnover.,22,23,1,61,1861,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James Steal.,22,23,1,61,1861,NC State Wolfpack,steal,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Jewel Spear.,22,23,1,57,1857,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James missed Jumper.,22,23,1,54,1854,NC State Wolfpack,jumper,True,False,False,Aziaha James,False,,37.0,10.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Kaiya Wynn Defensive Rebound.,22,23,1,54,1854,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tess Darby missed Three Point Jumper.,22,23,1,45,1845,Tennessee Lady Volunteers,three point jumper,True,False,True,Tess Darby,False,,47.0,12.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin Defensive Rebound.,22,23,1,45,1845,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks made Layup.,24,23,1,36,1836,NC State Wolfpack,layup,True,True,False,Zoe Brooks,False,,23.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Kaiya Wynn missed Jumper.,24,23,1,5,1805,Tennessee Lady Volunteers,jumper,True,False,False,Kaiya Wynn,False,,4.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin Defensive Rebound.,24,23,1,5,1805,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,End of 1st Quarter,24,23,1,0,1800,,end,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jump Ball won by Tennessee,24,23,2,600,1800,Tennessee Lady Volunteers,jump ball,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Tamari Key.,24,23,2,592,1792,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tamari Key Turnover.,24,23,2,592,1792,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks made Jumper.,26,23,2,582,1782,NC State Wolfpack,jumper,True,True,False,Zoe Brooks,False,,25.0,13.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett Turnover.,26,23,2,559,1759,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks Steal.,26,23,2,559,1759,NC State Wolfpack,steal,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks made Layup.,28,23,2,556,1756,NC State Wolfpack,layup,True,True,False,Zoe Brooks,False,,22.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Zoe Brooks.,28,23,2,537,1737,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell missed Free Throw.,28,23,2,537,1737,Tennessee Lady Volunteers,free throw,True,False,False,Jasmine Powell,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tennessee Deadball Team Rebound.,28,23,2,537,1737,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell missed Free Throw.,28,23,2,537,1737,Tennessee Lady Volunteers,free throw,True,False,False,Jasmine Powell,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Mimi Collins Defensive Rebound.,28,23,2,537,1737,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Mimi Collins made Jumper. Assisted by Aziaha James.,30,23,2,517,1717,NC State Wolfpack,jumper,True,True,False,Mimi Collins,True,Aziaha James,12.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell Turnover.,30,23,2,496,1696,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Mimi Collins missed Jumper.,30,23,2,488,1688,NC State Wolfpack,jumper,True,False,False,Mimi Collins,False,,34.0,17.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell Defensive Rebound.,30,23,2,488,1688,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell made Layup.,30,25,2,480,1680,Tennessee Lady Volunteers,layup,True,True,False,Jasmine Powell,False,,24.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James made Layup. Assisted by Zoe Brooks.,32,25,2,472,1672,NC State Wolfpack,layup,True,True,False,Aziaha James,True,Zoe Brooks,27.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jillian Hollingshead missed Jumper.,32,25,2,453,1653,Tennessee Lady Volunteers,jumper,True,False,False,Jillian Hollingshead,False,,25.0,15.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers Defensive Rebound.,32,25,2,453,1653,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Jewel Spear.,32,25,2,442,1642,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers made Free Throw.,33,25,2,442,1642,NC State Wolfpack,free throw,True,True,False,Saniya Rivers,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers missed Free Throw.,33,25,2,442,1642,NC State Wolfpack,free throw,True,False,False,Saniya Rivers,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson Defensive Rebound.,33,25,2,442,1642,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jillian Hollingshead made Layup.,33,27,2,429,1629,Tennessee Lady Volunteers,layup,True,True,False,Jillian Hollingshead,False,,20.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Mimi Collins.,33,27,2,429,1629,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jillian Hollingshead missed Free Throw.,33,27,2,429,1629,Tennessee Lady Volunteers,free throw,True,False,False,Jillian Hollingshead,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin Defensive Rebound.,33,27,2,429,1629,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James missed Jumper.,33,27,2,404,1604,NC State Wolfpack,jumper,True,False,False,Aziaha James,False,,37.0,11.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jillian Hollingshead Defensive Rebound.,33,27,2,404,1604,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Jumper.,33,29,2,393,1593,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,False,,32.0,11.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Madison Hayes.,33,29,2,377,1577,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Madison Hayes Turnover.,33,29,2,377,1577,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson missed Jumper.,33,29,2,367,1567,Tennessee Lady Volunteers,jumper,True,False,False,Rickea Jackson,False,,36.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks Defensive Rebound.,33,29,2,367,1567,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers made Jumper.,35,29,2,351,1551,NC State Wolfpack,jumper,True,True,False,Saniya Rivers,False,,18.0,2.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell missed Jumper.,35,29,2,341,1541,Tennessee Lady Volunteers,jumper,True,False,False,Jasmine Powell,False,,20.0,16.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James Defensive Rebound.,35,29,2,341,1541,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James made Layup.,37,29,2,333,1533,NC State Wolfpack,layup,True,True,False,Aziaha James,False,,27.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tennessee  Timeout,37,29,2,320,1520,Tennessee Lady Volunteers,timeout,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tennessee  Turnover.,37,29,2,297,1497,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers, Official TV Timeout,37,29,2,297,1497,,tv timeout,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks Turnover.,37,29,2,282,1482,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell Steal.,37,29,2,282,1482,Tennessee Lady Volunteers,steal,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell missed Layup.,37,29,2,276,1476,Tennessee Lady Volunteers,layup,True,False,False,Jasmine Powell,False,,23.0,3.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers Block.,37,29,2,276,1476,NC State Wolfpack,block,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James Defensive Rebound.,37,29,2,276,1476,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James missed Jumper.,37,29,2,268,1468,NC State Wolfpack,jumper,True,False,False,Aziaha James,False,,27.0,10.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Karoline Striplin Defensive Rebound.,37,29,2,268,1468,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tess Darby missed Three Point Jumper.,37,29,2,256,1456,Tennessee Lady Volunteers,three point jumper,True,False,True,Tess Darby,False,,8.0,24.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks Defensive Rebound.,37,29,2,256,1456,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers missed Jumper.,37,29,2,236,1436,NC State Wolfpack,jumper,True,False,False,Saniya Rivers,False,,22.0,17.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Maddie Cox Offensive Rebound.,37,29,2,236,1436,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks made Jumper.,39,29,2,220,1420,NC State Wolfpack,jumper,True,True,False,Zoe Brooks,False,,23.0,9.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett made Jumper.,39,31,2,200,1400,Tennessee Lady Volunteers,jumper,True,True,False,Sara Puckett,False,,25.0,16.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James made Jumper.,41,31,2,170,1370,NC State Wolfpack,jumper,True,True,False,Aziaha James,False,,22.0,7.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson missed Jumper.,41,31,2,147,1347,Tennessee Lady Volunteers,jumper,True,False,False,Rickea Jackson,False,,29.0,16.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James Defensive Rebound.,41,31,2,147,1347,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks made Three Point Jumper. Assisted by Aziaha James.,44,31,2,140,1340,NC State Wolfpack,three point jumper,True,True,True,Zoe Brooks,True,Aziaha James,43.0,15.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett missed Jumper.,44,31,2,119,1319,Tennessee Lady Volunteers,jumper,True,False,False,Sara Puckett,False,,33.0,4.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks Defensive Rebound.,44,31,2,119,1319,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Tess Darby.,44,31,2,93,1293,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Tess Darby.,44,31,2,82,1282,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers made Jumper.,46,31,2,71,1271,NC State Wolfpack,jumper,True,True,False,Saniya Rivers,False,,42.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Karoline Striplin missed Three Point Jumper.,46,31,2,56,1256,Tennessee Lady Volunteers,three point jumper,True,False,True,Karoline Striplin,False,,11.0,20.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin Defensive Rebound.,46,31,2,56,1256,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks missed Jumper.,46,31,2,44,1244,NC State Wolfpack,jumper,True,False,False,Zoe Brooks,False,,33.0,19.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson Defensive Rebound.,46,31,2,44,1244,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson missed Jumper.,46,31,2,31,1231,Tennessee Lady Volunteers,jumper,True,False,False,Rickea Jackson,False,,30.0,5.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,NC State Defensive Rebound.,46,31,2,31,1231,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Maddie Cox made Three Point Jumper. Assisted by Zoe Brooks.,49,31,2,6,1206,NC State Wolfpack,three point jumper,True,True,True,Maddie Cox,True,Zoe Brooks,49.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,End of 2nd Quarter,49,31,2,0,1200,,end,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jump Ball won by NC State,49,31,3,600,1200,NC State Wolfpack,jump ball,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers missed Three Point Jumper.,49,31,3,585,1185,NC State Wolfpack,three point jumper,True,False,True,Saniya Rivers,False,,6.0,16.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Mimi Collins Offensive Rebound.,49,31,3,585,1185,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Mimi Collins made Layup.,51,31,3,581,1181,NC State Wolfpack,layup,True,True,False,Mimi Collins,False,,23.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Jumper.,51,33,3,557,1157,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,False,,32.0,5.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Madison Hayes missed Three Point Jumper.,51,33,3,545,1145,NC State Wolfpack,three point jumper,True,False,True,Madison Hayes,False,,1.0,4.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jewel Spear Defensive Rebound.,51,33,3,545,1145,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jewel Spear missed Three Point Jumper.,51,33,3,537,1137,Tennessee Lady Volunteers,three point jumper,True,False,True,Jewel Spear,False,,38.0,20.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers Defensive Rebound.,51,33,3,537,1137,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers missed Jumper.,51,33,3,530,1130,NC State Wolfpack,jumper,True,False,False,Saniya Rivers,False,,8.0,12.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell Defensive Rebound.,51,33,3,530,1130,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Aziaha James.,51,33,3,511,1111,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell made Three Point Jumper. Assisted by Jewel Spear.,51,36,3,505,1105,Tennessee Lady Volunteers,three point jumper,True,True,True,Jasmine Powell,True,Jewel Spear,40.0,18.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin missed Layup.,51,36,3,486,1086,NC State Wolfpack,layup,True,False,False,River Baldwin,False,,21.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tamari Key Defensive Rebound.,51,36,3,478,1078,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Jewel Spear.,51,36,3,476,1076,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jewel Spear Turnover.,51,36,3,476,1076,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers made Layup.,53,36,3,469,1069,NC State Wolfpack,layup,True,True,False,Saniya Rivers,False,,30.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett missed Layup.,53,36,3,454,1054,Tennessee Lady Volunteers,layup,True,False,False,Sara Puckett,False,,21.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin Block.,53,36,3,454,1054,NC State Wolfpack,block,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin Defensive Rebound.,53,36,3,454,1054,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Mimi Collins missed Layup.,53,36,3,448,1048,NC State Wolfpack,layup,True,False,False,Mimi Collins,False,,23.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tamari Key Defensive Rebound.,53,36,3,448,1048,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett missed Three Point Jumper.,53,36,3,441,1041,Tennessee Lady Volunteers,three point jumper,True,False,True,Sara Puckett,False,,2.0,2.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jewel Spear Offensive Rebound.,53,36,3,441,1041,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jewel Spear made Layup.,53,38,3,435,1035,Tennessee Lady Volunteers,layup,True,True,False,Jewel Spear,False,,25.0,2.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin Turnover.,53,38,3,405,1005,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett Turnover.,53,38,3,380,980,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers Steal.,53,38,3,380,980,NC State Wolfpack,steal,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Mimi Collins missed Jumper.,53,38,3,372,972,NC State Wolfpack,jumper,True,False,False,Mimi Collins,False,,24.0,3.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson Defensive Rebound.,53,38,3,372,972,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell missed Jumper.,53,38,3,363,963,Tennessee Lady Volunteers,jumper,True,False,False,Jasmine Powell,False,,26.0,16.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers Block.,53,38,3,363,963,NC State Wolfpack,block,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers Defensive Rebound.,53,38,3,363,963,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James missed Three Point Jumper.,53,38,3,357,957,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,43.0,15.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson Defensive Rebound.,53,38,3,357,957,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett missed Jumper.,53,38,3,325,925,Tennessee Lady Volunteers,jumper,True,False,False,Sara Puckett,False,,15.0,18.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Madison Hayes Defensive Rebound.,53,38,3,325,925,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers missed Layup.,53,38,3,307,907,NC State Wolfpack,layup,True,False,False,Saniya Rivers,False,,29.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tamari Key Block.,53,38,3,307,907,Tennessee Lady Volunteers,block,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett Defensive Rebound.,53,38,3,307,907,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on River Baldwin.,53,38,3,295,895,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jewel Spear missed Three Point Jumper.,53,38,3,288,888,Tennessee Lady Volunteers,three point jumper,True,False,True,Jewel Spear,False,,7.0,15.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers Defensive Rebound.,53,38,3,288,888,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers missed Jumper.,53,38,3,260,860,NC State Wolfpack,jumper,True,False,False,Saniya Rivers,False,,33.0,9.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett Defensive Rebound.,53,38,3,260,860,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tamari Key made Layup. Assisted by Sara Puckett.,53,40,3,238,838,Tennessee Lady Volunteers,layup,True,True,False,Tamari Key,True,Sara Puckett,27.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers made Three Point Jumper. Assisted by Madison Hayes.,56,40,3,213,813,NC State Wolfpack,three point jumper,True,True,True,Saniya Rivers,True,Madison Hayes,48.0,2.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jewel Spear Turnover.,56,40,3,180,780,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James Steal.,56,40,3,180,780,NC State Wolfpack,steal,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James missed Layup.,56,40,3,175,775,NC State Wolfpack,layup,True,False,False,Aziaha James,False,,23.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tennessee Defensive Rebound.,56,40,3,175,775,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Layup. Assisted by Jasmine Powell.,56,42,3,160,760,Tennessee Lady Volunteers,layup,True,True,False,Rickea Jackson,True,Jasmine Powell,21.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James missed Jumper.,56,42,3,146,746,NC State Wolfpack,jumper,True,False,False,Aziaha James,False,,34.0,13.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell Defensive Rebound.,56,42,3,146,746,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Madison Hayes.,56,42,3,129,729,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Free Throw.,56,43,3,129,729,Tennessee Lady Volunteers,free throw,True,True,False,Rickea Jackson,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Free Throw.,56,44,3,129,729,Tennessee Lady Volunteers,free throw,True,True,False,Rickea Jackson,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks Turnover.,56,44,3,114,714,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tamari Key Steal.,56,44,3,114,714,Tennessee Lady Volunteers,steal,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Madison Hayes.,56,44,3,93,693,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell made Free Throw.,56,45,3,93,693,Tennessee Lady Volunteers,free throw,True,True,False,Jasmine Powell,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell made Free Throw.,56,46,3,93,693,Tennessee Lady Volunteers,free throw,True,True,False,Jasmine Powell,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks missed Jumper.,56,46,3,69,669,NC State Wolfpack,jumper,True,False,False,Zoe Brooks,False,,17.0,5.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell Defensive Rebound.,56,46,3,69,669,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Zoe Brooks.,56,46,3,65,665,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell made Free Throw.,56,47,3,65,665,Tennessee Lady Volunteers,free throw,True,True,False,Jasmine Powell,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell made Free Throw.,56,48,3,65,665,Tennessee Lady Volunteers,free throw,True,True,False,Jasmine Powell,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin made Layup. Assisted by Aziaha James.,58,48,3,38,638,NC State Wolfpack,layup,True,True,False,River Baldwin,True,Aziaha James,25.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Aziaha James.,58,48,3,31,631,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell made Free Throw.,58,49,3,31,631,Tennessee Lady Volunteers,free throw,True,True,False,Jasmine Powell,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell made Free Throw.,58,50,3,31,631,Tennessee Lady Volunteers,free throw,True,True,False,Jasmine Powell,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks missed Three Point Jumper.,58,50,3,7,607,NC State Wolfpack,three point jumper,True,False,True,Zoe Brooks,False,,23.0,24.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Kaiya Wynn Defensive Rebound.,58,50,3,7,607,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,End of 3rd Quarter,58,50,3,0,600,,end,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jump Ball won by Tennessee,58,50,4,600,600,Tennessee Lady Volunteers,jump ball,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson missed Three Point Jumper.,58,50,4,580,580,Tennessee Lady Volunteers,three point jumper,True,False,True,Rickea Jackson,False,,32.0,24.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Madison Hayes Defensive Rebound.,58,50,4,580,580,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James missed Jumper.,58,50,4,566,566,NC State Wolfpack,jumper,True,False,False,Aziaha James,False,,8.0,2.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson Defensive Rebound.,58,50,4,566,566,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tamari Key made Layup. Assisted by Jasmine Powell.,58,52,4,557,557,Tennessee Lady Volunteers,layup,True,True,False,Tamari Key,True,Jasmine Powell,27.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James made Layup.,60,52,4,538,538,NC State Wolfpack,layup,True,True,False,Aziaha James,False,,22.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Jasmine Powell.,60,52,4,538,538,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James made Free Throw.,61,52,4,538,538,NC State Wolfpack,free throw,True,True,False,Aziaha James,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Jumper.,61,54,4,519,519,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,False,,28.0,3.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Mimi Collins missed Three Point Jumper.,61,54,4,510,510,NC State Wolfpack,three point jumper,True,False,True,Mimi Collins,False,,38.0,20.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tess Darby Defensive Rebound.,61,54,4,510,510,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson missed Jumper.,61,54,4,501,501,Tennessee Lady Volunteers,jumper,True,False,False,Rickea Jackson,False,,26.0,3.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson Offensive Rebound.,61,54,4,501,501,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Mimi Collins.,61,54,4,498,498,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Free Throw.,61,55,4,498,498,Tennessee Lady Volunteers,free throw,True,True,False,Rickea Jackson,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Free Throw.,61,56,4,498,498,Tennessee Lady Volunteers,free throw,True,True,False,Rickea Jackson,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James missed Layup.,61,56,4,487,487,NC State Wolfpack,layup,True,False,False,Aziaha James,False,,27.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tamari Key Block.,61,56,4,487,487,Tennessee Lady Volunteers,block,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell Defensive Rebound.,61,56,4,487,487,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell missed Layup.,61,56,4,481,481,Tennessee Lady Volunteers,layup,True,False,False,Jasmine Powell,False,,27.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Mimi Collins Defensive Rebound.,61,56,4,481,481,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James missed Three Point Jumper.,61,56,4,469,469,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,35.0,21.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tess Darby Defensive Rebound.,61,56,4,469,469,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tamari Key missed Jumper.,61,56,4,442,442,Tennessee Lady Volunteers,jumper,True,False,False,Tamari Key,False,,25.0,5.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Mimi Collins Defensive Rebound.,61,56,4,442,442,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks made Layup.,63,56,4,434,434,NC State Wolfpack,layup,True,True,False,Zoe Brooks,False,,29.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jewel Spear missed Layup.,63,56,4,412,412,Tennessee Lady Volunteers,layup,True,False,False,Jewel Spear,False,,28.0,2.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Mimi Collins Defensive Rebound.,63,56,4,412,412,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks made Layup. Assisted by Aziaha James.,65,56,4,407,407,NC State Wolfpack,layup,True,True,False,Zoe Brooks,True,Aziaha James,25.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Mimi Collins.,65,56,4,394,394,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson missed Free Throw.,65,56,4,394,394,Tennessee Lady Volunteers,free throw,True,False,False,Rickea Jackson,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tennessee Deadball Team Rebound.,65,56,4,394,394,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Free Throw.,65,57,4,394,394,Tennessee Lady Volunteers,free throw,True,True,False,Rickea Jackson,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin missed Layup.,65,57,4,375,375,NC State Wolfpack,layup,True,False,False,River Baldwin,False,,27.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,NC State Offensive Rebound.,65,57,4,375,375,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin missed Layup.,65,57,4,365,365,NC State Wolfpack,layup,True,False,False,River Baldwin,False,,28.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Kaiya Wynn Defensive Rebound.,65,57,4,365,365,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett missed Layup.,65,57,4,357,357,Tennessee Lady Volunteers,layup,True,False,False,Sara Puckett,False,,26.0,4.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin Defensive Rebound.,65,57,4,357,357,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Madison Hayes missed Three Point Jumper.,65,57,4,347,347,NC State Wolfpack,three point jumper,True,False,True,Madison Hayes,False,,45.0,12.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tennessee Defensive Rebound.,65,57,4,347,347,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Aziaha James.,65,57,4,345,345,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Jumper.,65,59,4,328,328,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,False,,25.0,4.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Sara Puckett.,65,59,4,308,308,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks missed Jumper.,65,59,4,307,307,NC State Wolfpack,jumper,True,False,False,Zoe Brooks,False,,43.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett Defensive Rebound.,65,59,4,307,307,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Jumper. Assisted by Jasmine Powell.,65,61,4,297,297,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,True,Jasmine Powell,25.0,10.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks missed Jumper.,65,61,4,273,273,NC State Wolfpack,jumper,True,False,False,Zoe Brooks,False,,11.0,7.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tess Darby Defensive Rebound.,65,61,4,273,273,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tamari Key made Jumper.,65,63,4,259,259,Tennessee Lady Volunteers,jumper,True,True,False,Tamari Key,False,,29.0,6.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Rickea Jackson.,65,63,4,224,224,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers, Official TV Timeout,65,63,4,224,224,,tv timeout,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James made Jumper.,67,63,4,215,215,NC State Wolfpack,jumper,True,True,False,Aziaha James,False,,28.0,5.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson missed Layup.,67,63,4,192,192,Tennessee Lady Volunteers,layup,True,False,False,Rickea Jackson,False,,27.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin Block.,67,63,4,192,192,NC State Wolfpack,block,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin Defensive Rebound.,67,63,4,192,192,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James made Three Point Jumper. Assisted by Saniya Rivers.,70,63,4,172,172,NC State Wolfpack,three point jumper,True,True,True,Aziaha James,True,Saniya Rivers,39.0,19.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tamari Key made Layup.,70,65,4,151,151,Tennessee Lady Volunteers,layup,True,True,False,Tamari Key,False,,23.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,NC State  Timeout,70,65,4,127,127,NC State Wolfpack,timeout,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers, Official TV Timeout,70,65,4,127,127,,tv timeout,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers missed Jumper.,70,65,4,123,123,NC State Wolfpack,jumper,True,False,False,Saniya Rivers,False,,12.0,-1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson Defensive Rebound.,70,65,4,123,123,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell missed Layup.,70,65,4,100,100,Tennessee Lady Volunteers,layup,True,False,False,Jasmine Powell,False,,22.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,NC State Defensive Rebound.,70,65,4,100,100,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin made Layup. Assisted by Aziaha James.,72,65,4,85,85,NC State Wolfpack,layup,True,True,False,River Baldwin,True,Aziaha James,22.0,0.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Tamari Key.,72,65,4,85,85,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,River Baldwin made Free Throw.,73,65,4,85,85,NC State Wolfpack,free throw,True,True,False,River Baldwin,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell Turnover.,73,65,4,76,76,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks Steal.,73,65,4,76,76,NC State Wolfpack,steal,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Madison Hayes missed Three Point Jumper.,73,65,4,63,63,NC State Wolfpack,three point jumper,True,False,True,Madison Hayes,False,,11.0,21.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson Defensive Rebound.,73,65,4,63,63,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Zoe Brooks.,73,65,4,54,54,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell made Free Throw.,73,66,4,54,54,Tennessee Lady Volunteers,free throw,True,True,False,Jasmine Powell,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell made Free Throw.,73,67,4,54,54,Tennessee Lady Volunteers,free throw,True,True,False,Jasmine Powell,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,NC State  Timeout,73,67,4,54,54,NC State Wolfpack,timeout,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Rickea Jackson.,73,67,4,49,49,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers missed Free Throw.,73,67,4,49,49,NC State Wolfpack,free throw,True,False,False,Saniya Rivers,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,NC State Deadball Team Rebound.,73,67,4,49,49,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers made Free Throw.,74,67,4,49,49,NC State Wolfpack,free throw,True,True,False,Saniya Rivers,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tennessee  Timeout,74,67,4,49,49,Tennessee Lady Volunteers,timeout,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jewel Spear made Three Point Jumper. Assisted by Jasmine Powell.,74,70,4,48,48,Tennessee Lady Volunteers,three point jumper,True,True,True,Jewel Spear,True,Jasmine Powell,39.0,23.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,NC State  Timeout,74,70,4,46,46,NC State Wolfpack,timeout,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Jasmine Powell.,74,70,4,45,45,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James made Free Throw.,75,70,4,45,45,NC State Wolfpack,free throw,True,True,False,Aziaha James,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Aziaha James made Free Throw.,76,70,4,45,45,NC State Wolfpack,free throw,True,True,False,Aziaha James,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tennessee  Timeout,76,70,4,45,45,Tennessee Lady Volunteers,timeout,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Rickea Jackson made Layup. Assisted by Jewel Spear.,76,72,4,44,44,Tennessee Lady Volunteers,layup,True,True,False,Rickea Jackson,True,Jewel Spear,22.0,1.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jump Ball won by NC State,76,72,4,39,39,NC State Wolfpack,jump ball,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Rickea Jackson.,76,72,4,32,32,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers missed Free Throw.,76,72,4,32,32,NC State Wolfpack,free throw,True,False,False,Saniya Rivers,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,NC State Deadball Team Rebound.,76,72,4,32,32,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers made Free Throw.,77,72,4,32,32,NC State Wolfpack,free throw,True,True,False,Saniya Rivers,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tess Darby missed Three Point Jumper.,77,72,4,27,27,Tennessee Lady Volunteers,three point jumper,True,False,True,Tess Darby,False,,2.0,9.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers Block.,77,72,4,27,27,NC State Wolfpack,block,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers Defensive Rebound.,77,72,4,27,27,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Jewel Spear.,77,72,4,24,24,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers missed Free Throw.,77,72,4,24,24,NC State Wolfpack,free throw,True,False,False,Saniya Rivers,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,NC State Deadball Team Rebound.,77,72,4,24,24,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Saniya Rivers made Free Throw.,78,72,4,24,24,NC State Wolfpack,free throw,True,True,False,Saniya Rivers,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Zoe Brooks.,78,72,4,19,19,NC State Wolfpack,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell missed Free Throw.,78,72,4,19,19,Tennessee Lady Volunteers,free throw,True,False,False,Jasmine Powell,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Tennessee Deadball Team Rebound.,78,72,4,19,19,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jasmine Powell missed Free Throw.,78,72,4,19,19,Tennessee Lady Volunteers,free throw,True,False,False,Jasmine Powell,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Kaiya Wynn Offensive Rebound.,78,72,4,19,19,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett missed Three Point Jumper.,78,72,4,16,16,Tennessee Lady Volunteers,three point jumper,True,False,True,Sara Puckett,False,,39.0,20.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks Defensive Rebound.,78,72,4,16,16,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Foul on Sara Puckett.,78,72,4,9,9,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks made Free Throw.,79,72,4,9,9,NC State Wolfpack,free throw,True,True,False,Zoe Brooks,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks missed Free Throw.,79,72,4,9,9,NC State Wolfpack,free throw,True,False,False,Zoe Brooks,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Sara Puckett Defensive Rebound.,79,72,4,9,9,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Jewel Spear missed Three Point Jumper.,79,72,4,3,3,Tennessee Lady Volunteers,three point jumper,True,False,True,Jewel Spear,False,,14.0,21.0
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,Zoe Brooks Defensive Rebound.,79,72,4,3,3,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637584,NC State Wolfpack,Tennessee Lady Volunteers,End of Game,79,72,4,0,0,,end,False,False,False,,False,,,

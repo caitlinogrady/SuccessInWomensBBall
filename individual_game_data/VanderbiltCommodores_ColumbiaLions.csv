@@ -1,0 +1,347 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637539,Vanderbilt Commodores,Columbia Lions,Jump Ball won by Vanderbilt,0,0,1,600,2400,Vanderbilt Commodores,jump ball,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott made Jumper.,2,0,1,596,2396,Vanderbilt Commodores,jumper,True,True,False,Justine Pissott,False,,39.0,-1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Susannah Rafiu made Layup. Assisted by Cecelia Collins.,2,2,1,569,2369,Columbia Lions,layup,True,True,False,Susannah Rafiu,True,Cecelia Collins,28.0,0.0
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott missed Three Point Jumper.,2,2,1,553,2353,Vanderbilt Commodores,three point jumper,True,False,True,Justine Pissott,False,,25.0,26.0
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre Offensive Rebound.,2,2,1,553,2353,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge made Jumper.,4,2,1,543,2343,Vanderbilt Commodores,jumper,True,True,False,Jordyn Cambridge,False,,26.0,19.0
+401637539,Vanderbilt Commodores,Columbia Lions,Susannah Rafiu made Layup. Assisted by Abbey Hsu.,4,4,1,526,2326,Columbia Lions,layup,True,True,False,Susannah Rafiu,True,Abbey Hsu,27.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge missed Three Point Jumper.,4,4,1,507,2307,Vanderbilt Commodores,three point jumper,True,False,True,Jordyn Cambridge,False,,29.0,25.0
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson Defensive Rebound.,4,4,1,507,2307,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Susannah Rafiu made Layup. Assisted by Cecelia Collins.,4,6,1,488,2288,Columbia Lions,layup,True,True,False,Susannah Rafiu,True,Cecelia Collins,27.0,0.0
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore missed Three Point Jumper.,4,6,1,468,2268,Vanderbilt Commodores,three point jumper,True,False,True,Iyana Moore,False,,26.0,25.0
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia Defensive Rebound.,4,6,1,468,2268,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Susannah Rafiu missed Layup.,4,6,1,447,2247,Columbia Lions,layup,True,False,False,Susannah Rafiu,False,,27.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Defensive Rebound.,4,6,1,447,2247,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore Turnover.,4,6,1,441,2241,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Steal.,4,6,1,441,2241,Columbia Lions,steal,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Layup.,4,6,1,426,2226,Columbia Lions,layup,True,False,False,Abbey Hsu,False,,25.0,3.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Defensive Rebound.,4,6,1,426,2226,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge missed Three Point Jumper.,4,6,1,416,2216,Vanderbilt Commodores,three point jumper,True,False,True,Jordyn Cambridge,False,,46.0,11.0
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins Defensive Rebound.,4,6,1,416,2216,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins Turnover.,4,6,1,406,2206,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre missed Jumper.,4,6,1,395,2195,Vanderbilt Commodores,jumper,True,False,False,Khamil Pierre,False,,27.0,9.0
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson Defensive Rebound.,4,6,1,395,2195,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson Turnover.,4,6,1,386,2186,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott missed Jumper.,4,6,1,374,2174,Vanderbilt Commodores,jumper,True,False,False,Justine Pissott,False,,30.0,14.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Offensive Rebound.,4,6,1,374,2174,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore missed Jumper.,4,6,1,361,2161,Vanderbilt Commodores,jumper,True,False,False,Iyana Moore,False,,32.0,3.0
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson Defensive Rebound.,4,6,1,361,2161,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins made Jumper.,4,8,1,339,2139,Columbia Lions,jumper,True,True,False,Cecelia Collins,False,,35.0,0.0
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore missed Jumper.,4,8,1,317,2117,Vanderbilt Commodores,jumper,True,False,False,Iyana Moore,False,,24.0,16.0
+401637539,Vanderbilt Commodores,Columbia Lions,Vanderbilt Deadball Team Rebound.,4,8,1,317,2117,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Fliss Henderson.,4,8,1,309,2109,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington made Layup. Assisted by Aga Makurat.,6,8,1,305,2105,Vanderbilt Commodores,layup,True,True,False,Sacha Washington,True,Aga Makurat,21.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson made Jumper.,6,10,1,287,2087,Columbia Lions,jumper,True,True,False,Kitty Henderson,False,,24.0,6.0
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge missed Layup.,6,10,1,269,2069,Vanderbilt Commodores,layup,True,False,False,Jordyn Cambridge,False,,28.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Offensive Rebound.,6,10,1,269,2069,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Abbey Hsu.,6,10,1,268,2068,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions, Official TV Timeout,6,10,1,267,2067,,tv timeout,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington missed Free Throw.,6,10,1,267,2067,Vanderbilt Commodores,free throw,True,False,False,Sacha Washington,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Vanderbilt Deadball Team Rebound.,6,10,1,267,2067,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington missed Free Throw.,6,10,1,267,2067,Vanderbilt Commodores,free throw,True,False,False,Sacha Washington,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu Defensive Rebound.,6,10,1,267,2067,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu Turnover.,6,10,1,267,2067,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Oliver missed Layup.,6,10,1,237,2037,Vanderbilt Commodores,layup,True,False,False,Jordyn Oliver,False,,25.0,4.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Offensive Rebound.,6,10,1,237,2037,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge missed Jumper.,6,10,1,231,2031,Vanderbilt Commodores,jumper,True,False,False,Jordyn Cambridge,False,,24.0,14.0
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Defensive Rebound.,6,10,1,231,2031,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Nicole Stephens missed Three Point Jumper.,6,10,1,222,2022,Columbia Lions,three point jumper,True,False,True,Nicole Stephens,False,,2.0,0.0
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore Defensive Rebound.,6,10,1,222,2022,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore made Layup.,8,10,1,212,2012,Vanderbilt Commodores,layup,True,True,False,Iyana Moore,False,,22.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu made Three Point Jumper.,8,13,1,184,1984,Columbia Lions,three point jumper,True,True,True,Abbey Hsu,False,,26.0,24.0
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore made Three Point Jumper.,11,13,1,170,1970,Vanderbilt Commodores,three point jumper,True,True,True,Iyana Moore,False,,17.0,22.0
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Jordyn Cambridge.,11,13,1,148,1948,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Susannah Rafiu missed Layup.,11,13,1,136,1936,Columbia Lions,layup,True,False,False,Susannah Rafiu,False,,30.0,0.0
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott Defensive Rebound.,11,13,1,136,1936,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott missed Three Point Jumper.,11,13,1,128,1928,Vanderbilt Commodores,three point jumper,True,False,True,Justine Pissott,False,,45.0,14.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Offensive Rebound.,11,13,1,128,1928,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Aga Makurat missed Three Point Jumper.,11,13,1,118,1918,Vanderbilt Commodores,three point jumper,True,False,True,Aga Makurat,False,,30.0,24.0
+401637539,Vanderbilt Commodores,Columbia Lions,Vanderbilt Offensive Rebound.,11,13,1,118,1918,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Fliss Henderson.,11,13,1,117,1917,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Turnover.,11,13,1,106,1906,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins missed Jumper.,11,13,1,90,1890,Columbia Lions,jumper,True,False,False,Cecelia Collins,False,,32.0,8.0
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott Block.,11,13,1,90,1890,Vanderbilt Commodores,block,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Defensive Rebound.,11,13,1,90,1890,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre missed Jumper.,11,13,1,74,1874,Vanderbilt Commodores,jumper,True,False,False,Khamil Pierre,False,,15.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins Defensive Rebound.,11,13,1,74,1874,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Nicole Stephens Turnover.,11,13,1,65,1865,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Turnover.,11,13,1,49,1849,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Susannah Rafiu Turnover.,11,13,1,27,1827,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore Steal.,11,13,1,27,1827,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington made Jumper. Assisted by Jordyn Cambridge.,13,13,1,1,1801,Vanderbilt Commodores,jumper,True,True,False,Sacha Washington,True,Jordyn Cambridge,32.0,5.0
+401637539,Vanderbilt Commodores,Columbia Lions,End of 1st Quarter,13,13,1,0,1800,,end,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jump Ball won by Vanderbilt,13,13,2,600,1800,Vanderbilt Commodores,jump ball,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre made Layup. Assisted by Justine Pissott.,15,13,2,592,1792,Vanderbilt Commodores,layup,True,True,False,Khamil Pierre,True,Justine Pissott,23.0,3.0
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins missed Three Point Jumper.,15,13,2,577,1777,Columbia Lions,three point jumper,True,False,True,Cecelia Collins,False,,48.0,4.0
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Offensive Rebound.,15,13,2,577,1777,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu made Three Point Jumper. Assisted by Cecelia Collins.,15,16,2,565,1765,Columbia Lions,three point jumper,True,True,True,Abbey Hsu,True,Cecelia Collins,2.0,5.0
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Susannah Rafiu.,15,16,2,545,1745,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Kitty Henderson.,15,16,2,539,1739,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre made Free Throw.,16,16,2,539,1739,Vanderbilt Commodores,free throw,True,True,False,Khamil Pierre,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre made Free Throw.,17,16,2,539,1739,Vanderbilt Commodores,free throw,True,True,False,Khamil Pierre,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Susannah Rafiu Turnover.,17,16,2,529,1729,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott missed Three Point Jumper.,17,16,2,519,1719,Vanderbilt Commodores,three point jumper,True,False,True,Justine Pissott,False,,48.0,0.0
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins Defensive Rebound.,17,16,2,519,1719,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Three Point Jumper.,17,16,2,507,1707,Columbia Lions,three point jumper,True,False,True,Abbey Hsu,False,,5.0,15.0
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Oliver Defensive Rebound.,17,16,2,507,1707,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Oliver Turnover.,17,16,2,501,1701,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Turnover.,17,16,2,496,1696,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge Steal.,17,16,2,496,1696,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge missed Layup.,17,16,2,488,1688,Vanderbilt Commodores,layup,True,False,False,Jordyn Cambridge,False,,22.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu Defensive Rebound.,17,16,2,488,1688,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Nicole Stephens missed Layup.,17,16,2,483,1683,Columbia Lions,layup,True,False,False,Nicole Stephens,False,,28.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Oliver Block.,17,16,2,483,1683,Vanderbilt Commodores,block,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia Offensive Rebound.,17,16,2,483,1683,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Turnover.,17,16,2,470,1670,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge made Three Point Jumper. Assisted by Iyana Moore.,20,16,2,455,1655,Vanderbilt Commodores,three point jumper,True,True,True,Jordyn Cambridge,True,Iyana Moore,46.0,12.0
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins made Layup. Assisted by Kitty Henderson.,20,18,2,436,1636,Columbia Lions,layup,True,True,False,Cecelia Collins,True,Kitty Henderson,23.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington missed Layup.,20,18,2,406,1606,Vanderbilt Commodores,layup,True,False,False,Sacha Washington,False,,28.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Riley Weiss Defensive Rebound.,20,18,2,406,1606,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Three Point Jumper.,20,18,2,396,1596,Columbia Lions,three point jumper,True,False,True,Abbey Hsu,False,,49.0,-1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Perri Page Offensive Rebound.,20,18,2,396,1596,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson made Three Point Jumper. Assisted by Cecelia Collins.,20,21,2,387,1587,Columbia Lions,three point jumper,True,True,True,Kitty Henderson,True,Cecelia Collins,14.0,22.0
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Oliver made Jumper. Assisted by Jordyn Cambridge.,22,21,2,368,1568,Vanderbilt Commodores,jumper,True,True,False,Jordyn Oliver,True,Jordyn Cambridge,26.0,5.0
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Justine Pissott.,22,21,2,347,1547,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson missed Free Throw.,22,21,2,347,1547,Columbia Lions,free throw,True,False,False,Kitty Henderson,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia Deadball Team Rebound.,22,21,2,347,1547,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson made Free Throw.,22,22,2,347,1547,Columbia Lions,free throw,True,True,False,Kitty Henderson,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington made Layup. Assisted by Iyana Moore.,24,22,2,324,1524,Vanderbilt Commodores,layup,True,True,False,Sacha Washington,True,Iyana Moore,27.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins made Jumper.,24,24,2,312,1512,Columbia Lions,jumper,True,True,False,Cecelia Collins,False,,18.0,3.0
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Oliver made Jumper.,26,24,2,289,1489,Vanderbilt Commodores,jumper,True,True,False,Jordyn Oliver,False,,28.0,5.0
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Iyana Moore.,26,24,2,273,1473,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions, Official TV Timeout,26,24,2,273,1473,,tv timeout,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson missed Jumper.,26,24,2,257,1457,Columbia Lions,jumper,True,False,False,Kitty Henderson,False,,34.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Defensive Rebound.,26,24,2,257,1457,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington made Layup. Assisted by Iyana Moore.,28,24,2,244,1444,Vanderbilt Commodores,layup,True,True,False,Sacha Washington,True,Iyana Moore,28.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Nicole Stephens Turnover.,28,24,2,232,1432,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Oliver Steal.,28,24,2,232,1432,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Abbey Hsu.,28,24,2,209,1409,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore made Free Throw.,29,24,2,209,1409,Vanderbilt Commodores,free throw,True,True,False,Iyana Moore,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore made Free Throw.,30,24,2,209,1409,Vanderbilt Commodores,free throw,True,True,False,Iyana Moore,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Three Point Jumper.,30,24,2,195,1395,Columbia Lions,three point jumper,True,False,True,Abbey Hsu,False,,2.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott Defensive Rebound.,30,24,2,195,1395,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Oliver Turnover.,30,24,2,185,1385,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu Steal.,30,24,2,185,1385,Columbia Lions,steal,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Three Point Jumper.,30,24,2,172,1372,Columbia Lions,three point jumper,True,False,True,Abbey Hsu,False,,2.0,0.0
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia Offensive Rebound.,30,24,2,172,1372,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Three Point Jumper.,30,24,2,167,1367,Columbia Lions,three point jumper,True,False,True,Abbey Hsu,False,,49.0,0.0
+401637539,Vanderbilt Commodores,Columbia Lions,Susannah Rafiu Offensive Rebound.,30,24,2,167,1367,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Susannah Rafiu Turnover.,30,24,2,146,1346,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott Steal.,30,24,2,146,1346,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Cecelia Collins.,30,24,2,141,1341,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre made Layup. Assisted by Justine Pissott.,32,24,2,129,1329,Vanderbilt Commodores,layup,True,True,False,Khamil Pierre,True,Justine Pissott,20.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Turnover.,32,24,2,118,1318,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre Steal.,32,24,2,118,1318,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Kitty Henderson.,32,24,2,114,1314,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge made Free Throw.,33,24,2,114,1314,Vanderbilt Commodores,free throw,True,True,False,Jordyn Cambridge,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge made Free Throw.,34,24,2,114,1314,Vanderbilt Commodores,free throw,True,True,False,Jordyn Cambridge,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Turnover.,34,24,2,108,1308,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre missed Jumper.,34,24,2,96,1296,Vanderbilt Commodores,jumper,True,False,False,Khamil Pierre,False,,19.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Offensive Rebound.,34,24,2,96,1296,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore missed Jumper.,34,24,2,80,1280,Vanderbilt Commodores,jumper,True,False,False,Iyana Moore,False,,29.0,22.0
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Defensive Rebound.,34,24,2,80,1280,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Jordyn Cambridge.,34,24,2,72,1272,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Perri Page made Free Throw.,34,25,2,72,1272,Columbia Lions,free throw,True,True,False,Perri Page,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Perri Page made Free Throw.,34,26,2,72,1272,Columbia Lions,free throw,True,True,False,Perri Page,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre made Layup. Assisted by Jordyn Oliver.,36,26,2,53,1253,Vanderbilt Commodores,layup,True,True,False,Khamil Pierre,True,Jordyn Oliver,20.0,0.0
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins missed Jumper.,36,26,2,37,1237,Columbia Lions,jumper,True,False,False,Cecelia Collins,False,,19.0,7.0
+401637539,Vanderbilt Commodores,Columbia Lions,Vanderbilt Defensive Rebound.,36,26,2,37,1237,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre missed Jumper.,36,26,2,22,1222,Vanderbilt Commodores,jumper,True,False,False,Khamil Pierre,False,,28.0,19.0
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Defensive Rebound.,36,26,2,22,1222,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu Turnover.,36,26,2,3,1203,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore Steal.,36,26,2,3,1203,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore missed Three Point Jumper.,36,26,2,1,1201,Vanderbilt Commodores,three point jumper,True,False,True,Iyana Moore,False,,18.0,28.0
+401637539,Vanderbilt Commodores,Columbia Lions,Vanderbilt Deadball Team Rebound.,36,26,2,1,1201,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,End of 2nd Quarter,36,26,2,0,1200,,end,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jump Ball won by Columbia,36,26,3,600,1200,Columbia Lions,jump ball,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Three Point Jumper.,36,26,3,589,1189,Columbia Lions,three point jumper,True,False,True,Abbey Hsu,False,,33.0,23.0
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott Defensive Rebound.,36,26,3,589,1189,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge missed Layup.,36,26,3,564,1164,Vanderbilt Commodores,layup,True,False,False,Jordyn Cambridge,False,,30.0,0.0
+401637539,Vanderbilt Commodores,Columbia Lions,Susannah Rafiu Block.,36,26,3,564,1164,Columbia Lions,block,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Vanderbilt Offensive Rebound.,36,26,3,564,1164,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore missed Jumper.,36,26,3,562,1162,Vanderbilt Commodores,jumper,True,False,False,Iyana Moore,False,,33.0,8.0
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore Offensive Rebound.,36,26,3,562,1162,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre missed Jumper.,36,26,3,540,1140,Vanderbilt Commodores,jumper,True,False,False,Khamil Pierre,False,,19.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Defensive Rebound.,36,26,3,540,1140,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins made Layup. Assisted by Fliss Henderson.,36,28,3,525,1125,Columbia Lions,layup,True,True,False,Cecelia Collins,True,Fliss Henderson,22.0,0.0
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge missed Three Point Jumper.,36,28,3,502,1102,Vanderbilt Commodores,three point jumper,True,False,True,Jordyn Cambridge,False,,13.0,21.0
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson Defensive Rebound.,36,28,3,502,1102,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Susannah Rafiu made Layup. Assisted by Fliss Henderson.,36,30,3,496,1096,Columbia Lions,layup,True,True,False,Susannah Rafiu,True,Fliss Henderson,27.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Vanderbilt  Timeout,36,30,3,496,1096,Vanderbilt Commodores,timeout,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions, Official TV Timeout,36,30,3,496,1096,,tv timeout,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott made Three Point Jumper. Assisted by Jordyn Cambridge.,39,30,3,494,1094,Vanderbilt Commodores,three point jumper,True,True,True,Justine Pissott,True,Jordyn Cambridge,30.0,24.0
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson missed Layup.,39,30,3,459,1059,Columbia Lions,layup,True,False,False,Fliss Henderson,False,,29.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia Offensive Rebound.,39,30,3,459,1059,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Justine Pissott.,39,30,3,459,1059,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson made Three Point Jumper. Assisted by Cecelia Collins.,39,33,3,454,1054,Columbia Lions,three point jumper,True,True,True,Kitty Henderson,True,Cecelia Collins,3.0,10.0
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre Turnover.,39,33,3,430,1030,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins missed Three Point Jumper.,39,33,3,409,1009,Columbia Lions,three point jumper,True,False,True,Cecelia Collins,False,,5.0,14.0
+401637539,Vanderbilt Commodores,Columbia Lions,Vanderbilt Defensive Rebound.,39,33,3,409,1009,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott missed Layup.,39,33,3,393,993,Vanderbilt Commodores,layup,True,False,False,Justine Pissott,False,,27.0,0.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Offensive Rebound.,39,33,3,393,993,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington made Two Point Tip Shot.,41,33,3,393,993,Vanderbilt Commodores,two point tip shot,True,True,False,Sacha Washington,False,,25.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson made Layup. Assisted by Kitty Henderson.,41,35,3,377,977,Columbia Lions,layup,True,True,False,Fliss Henderson,True,Kitty Henderson,27.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott missed Jumper.,41,35,3,353,953,Vanderbilt Commodores,jumper,True,False,False,Justine Pissott,False,,33.0,10.0
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu Defensive Rebound.,41,35,3,353,953,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson missed Three Point Jumper.,41,35,3,343,943,Columbia Lions,three point jumper,True,False,True,Kitty Henderson,False,,36.0,22.0
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson Offensive Rebound.,41,35,3,343,943,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Sacha Washington.,41,35,3,333,933,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Layup.,41,35,3,324,924,Columbia Lions,layup,True,False,False,Abbey Hsu,False,,20.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Defensive Rebound.,41,35,3,320,920,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Turnover.,41,35,3,320,920,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu Steal.,41,35,3,320,920,Columbia Lions,steal,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Aga Makurat.,41,35,3,320,920,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu made Free Throw.,41,36,3,320,920,Columbia Lions,free throw,True,True,False,Abbey Hsu,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Free Throw.,41,36,3,320,920,Columbia Lions,free throw,True,False,False,Abbey Hsu,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore Defensive Rebound.,41,36,3,320,920,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore made Layup.,43,36,3,301,901,Vanderbilt Commodores,layup,True,True,False,Iyana Moore,False,,23.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Abbey Hsu.,43,36,3,301,901,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore made Free Throw.,44,36,3,301,901,Vanderbilt Commodores,free throw,True,True,False,Iyana Moore,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions, Official TV Timeout,44,36,3,294,894,,tv timeout,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Aga Makurat.,44,36,3,281,881,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu made Free Throw.,44,37,3,281,881,Columbia Lions,free throw,True,True,False,Abbey Hsu,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu made Free Throw.,44,38,3,281,881,Columbia Lions,free throw,True,True,False,Abbey Hsu,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu made Free Throw.,44,39,3,281,881,Columbia Lions,free throw,True,True,False,Abbey Hsu,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Perri Page.,44,39,3,267,867,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore made Free Throw.,45,39,3,267,867,Vanderbilt Commodores,free throw,True,True,False,Iyana Moore,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore missed Free Throw.,45,39,3,267,867,Vanderbilt Commodores,free throw,True,False,False,Iyana Moore,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins Defensive Rebound.,45,39,3,267,867,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson made Layup.,45,41,3,256,856,Columbia Lions,layup,True,True,False,Kitty Henderson,False,,27.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre missed Jumper.,45,41,3,233,833,Vanderbilt Commodores,jumper,True,False,False,Khamil Pierre,False,,19.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Defensive Rebound.,45,41,3,233,833,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Jordyn Cambridge.,45,41,3,226,826,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson made Free Throw.,45,42,3,226,826,Columbia Lions,free throw,True,True,False,Fliss Henderson,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson made Free Throw.,45,43,3,226,826,Columbia Lions,free throw,True,True,False,Fliss Henderson,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Oliver missed Jumper.,45,43,3,212,812,Vanderbilt Commodores,jumper,True,False,False,Jordyn Oliver,False,,22.0,10.0
+401637539,Vanderbilt Commodores,Columbia Lions,Perri Page Defensive Rebound.,45,43,3,212,812,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Perri Page missed Layup.,45,43,3,203,803,Columbia Lions,layup,True,False,False,Perri Page,False,,22.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson Offensive Rebound.,45,43,3,203,803,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson missed Layup.,45,43,3,200,800,Columbia Lions,layup,True,False,False,Fliss Henderson,False,,23.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Offensive Rebound.,45,43,3,200,800,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Turnover.,45,43,3,200,800,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore missed Jumper.,45,43,3,186,786,Vanderbilt Commodores,jumper,True,False,False,Iyana Moore,False,,27.0,19.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Offensive Rebound.,45,43,3,186,786,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Turnover.,45,43,3,175,775,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Turnover.,45,43,3,168,768,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge Steal.,45,43,3,168,768,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Fliss Henderson.,45,43,3,163,763,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge made Free Throw.,46,43,3,163,763,Vanderbilt Commodores,free throw,True,True,False,Jordyn Cambridge,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge missed Free Throw.,46,43,3,163,763,Vanderbilt Commodores,free throw,True,False,False,Jordyn Cambridge,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore Offensive Rebound.,46,43,3,162,762,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington made Layup. Assisted by Justine Pissott.,48,43,3,142,742,Vanderbilt Commodores,layup,True,True,False,Sacha Washington,True,Justine Pissott,27.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia  Turnover.,48,43,3,109,709,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott missed Layup.,48,43,3,94,694,Vanderbilt Commodores,layup,True,False,False,Justine Pissott,False,,29.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Riley Weiss Defensive Rebound.,48,43,3,94,694,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins made Layup. Assisted by Riley Weiss.,48,45,3,88,688,Columbia Lions,layup,True,True,False,Cecelia Collins,True,Riley Weiss,22.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore made Three Point Jumper. Assisted by Jordyn Cambridge.,51,45,3,80,680,Vanderbilt Commodores,three point jumper,True,True,True,Iyana Moore,True,Jordyn Cambridge,13.0,22.0
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson missed Three Point Jumper.,51,45,3,65,665,Columbia Lions,three point jumper,True,False,True,Kitty Henderson,False,,6.0,12.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Defensive Rebound.,51,45,3,65,665,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore made Layup.,53,45,3,43,643,Vanderbilt Commodores,layup,True,True,False,Iyana Moore,False,,20.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Fliss Henderson.,53,45,3,43,643,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore missed Free Throw.,53,45,3,43,643,Vanderbilt Commodores,free throw,True,False,False,Iyana Moore,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu Defensive Rebound.,53,45,3,43,643,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Sacha Washington.,53,45,3,22,622,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu made Free Throw.,53,46,3,22,622,Columbia Lions,free throw,True,True,False,Abbey Hsu,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Free Throw.,53,46,3,22,622,Columbia Lions,free throw,True,False,False,Abbey Hsu,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia Deadball Team Rebound.,53,46,3,22,622,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Free Throw.,53,46,3,22,622,Columbia Lions,free throw,True,False,False,Abbey Hsu,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia Offensive Rebound.,53,46,3,22,622,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Kitty Henderson.,53,46,3,6,606,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Turnover.,53,46,3,6,606,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore missed Jumper.,53,46,3,0,600,Vanderbilt Commodores,jumper,True,False,False,Iyana Moore,False,,19.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Defensive Rebound.,53,46,3,0,600,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,End of 3rd Quarter,53,46,3,0,600,,end,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jump Ball won by Vanderbilt,53,46,4,600,600,Vanderbilt Commodores,jump ball,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge missed Three Point Jumper.,53,46,4,586,586,Vanderbilt Commodores,three point jumper,True,False,True,Jordyn Cambridge,False,,49.0,3.0
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge Offensive Rebound.,53,46,4,586,586,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge missed Layup.,53,46,4,586,586,Vanderbilt Commodores,layup,True,False,False,Jordyn Cambridge,False,,24.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson Defensive Rebound.,53,46,4,586,586,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Khamil Pierre.,53,46,4,575,575,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Perri Page missed Three Point Jumper.,53,46,4,560,560,Columbia Lions,three point jumper,True,False,True,Perri Page,False,,6.0,14.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Defensive Rebound.,53,46,4,560,560,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore missed Jumper.,53,46,4,525,525,Vanderbilt Commodores,jumper,True,False,False,Iyana Moore,False,,26.0,23.0
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott Offensive Rebound.,53,46,4,525,525,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott made Two Point Tip Shot.,55,46,4,525,525,Vanderbilt Commodores,two point tip shot,True,True,False,Justine Pissott,False,,25.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Riley Weiss.,55,46,4,522,522,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott made Free Throw.,56,46,4,522,522,Vanderbilt Commodores,free throw,True,True,False,Justine Pissott,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Perri Page made Layup. Assisted by Susannah Rafiu.,56,48,4,505,505,Columbia Lions,layup,True,True,False,Perri Page,True,Susannah Rafiu,27.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Khamil Pierre.,56,48,4,489,489,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre Turnover.,56,48,4,489,489,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Vanderbilt  Timeout,56,48,4,479,479,Vanderbilt Commodores,timeout,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Iyana Moore.,56,48,4,479,479,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu made Jumper.,56,50,4,474,474,Columbia Lions,jumper,True,True,False,Abbey Hsu,False,,13.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Cambridge Turnover.,56,50,4,457,457,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Perri Page Steal.,56,50,4,457,457,Columbia Lions,steal,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Jordyn Cambridge.,56,50,4,457,457,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions, Official TV Timeout,56,50,4,457,457,,tv timeout,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Perri Page made Free Throw.,56,51,4,457,457,Columbia Lions,free throw,True,True,False,Perri Page,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Perri Page made Free Throw.,56,52,4,457,457,Columbia Lions,free throw,True,True,False,Perri Page,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore missed Jumper.,56,52,4,432,432,Vanderbilt Commodores,jumper,True,False,False,Iyana Moore,False,,28.0,18.0
+401637539,Vanderbilt Commodores,Columbia Lions,Vanderbilt Deadball Team Rebound.,56,52,4,432,432,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Perri Page.,56,52,4,428,428,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Perri Page.,56,52,4,424,424,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre made Free Throw.,57,52,4,424,424,Vanderbilt Commodores,free throw,True,True,False,Khamil Pierre,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre missed Free Throw.,57,52,4,424,424,Vanderbilt Commodores,free throw,True,False,False,Khamil Pierre,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu Defensive Rebound.,57,52,4,424,424,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Susannah Rafiu missed Layup.,57,52,4,410,410,Columbia Lions,layup,True,False,False,Susannah Rafiu,False,,21.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre Defensive Rebound.,57,52,4,410,410,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore made Three Point Jumper. Assisted by Sacha Washington.,60,52,4,390,390,Vanderbilt Commodores,three point jumper,True,True,True,Iyana Moore,True,Sacha Washington,19.0,25.0
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson missed Layup.,60,52,4,364,364,Columbia Lions,layup,True,False,False,Fliss Henderson,False,,28.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre Defensive Rebound.,60,52,4,364,364,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore missed Three Point Jumper.,60,52,4,353,353,Vanderbilt Commodores,three point jumper,True,False,True,Iyana Moore,False,,22.0,23.0
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson Defensive Rebound.,60,52,4,353,353,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Khamil Pierre.,60,52,4,346,346,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson made Free Throw.,60,53,4,346,346,Columbia Lions,free throw,True,True,False,Fliss Henderson,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson made Free Throw.,60,54,4,346,346,Columbia Lions,free throw,True,True,False,Fliss Henderson,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre made Layup. Assisted by Jordyn Oliver.,62,54,4,322,322,Vanderbilt Commodores,layup,True,True,False,Khamil Pierre,True,Jordyn Oliver,22.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Cecelia Collins.,62,54,4,297,297,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins Turnover.,62,54,4,297,297,Columbia Lions,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington made Layup. Assisted by Jordyn Oliver.,64,54,4,277,277,Vanderbilt Commodores,layup,True,True,False,Sacha Washington,True,Jordyn Oliver,23.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson made Layup.,64,56,4,260,260,Columbia Lions,layup,True,True,False,Kitty Henderson,False,,21.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington made Layup.,66,56,4,242,242,Vanderbilt Commodores,layup,True,True,False,Sacha Washington,False,,28.0,0.0
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Three Point Jumper.,66,56,4,223,223,Columbia Lions,three point jumper,True,False,True,Abbey Hsu,False,,13.0,21.0
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Oliver Defensive Rebound.,66,56,4,223,223,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Turnover.,66,56,4,202,202,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Fliss Henderson made Layup.,66,58,4,174,174,Columbia Lions,layup,True,True,False,Fliss Henderson,False,,25.0,4.0
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia  Timeout,66,58,4,174,174,Columbia Lions,timeout,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott missed Three Point Jumper.,66,58,4,153,153,Vanderbilt Commodores,three point jumper,True,False,True,Justine Pissott,False,,4.0,17.0
+401637539,Vanderbilt Commodores,Columbia Lions,Perri Page Defensive Rebound.,66,58,4,153,153,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Jordyn Cambridge.,66,58,4,128,128,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson missed Free Throw.,66,58,4,128,128,Columbia Lions,free throw,True,False,False,Kitty Henderson,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia Deadball Team Rebound.,66,58,4,128,128,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson made Free Throw.,66,59,4,128,128,Columbia Lions,free throw,True,True,False,Kitty Henderson,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Khamil Pierre.,66,59,4,119,119,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Khamil Pierre Turnover.,66,59,4,119,119,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson made Three Point Jumper.,66,62,4,107,107,Columbia Lions,three point jumper,True,True,True,Kitty Henderson,False,,23.0,25.0
+401637539,Vanderbilt Commodores,Columbia Lions,Vanderbilt  Timeout,66,62,4,95,95,Vanderbilt Commodores,timeout,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Ryanne Allen Turnover.,66,62,4,79,79,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Three Point Jumper.,66,62,4,55,55,Columbia Lions,three point jumper,True,False,True,Abbey Hsu,False,,4.0,12.0
+401637539,Vanderbilt Commodores,Columbia Lions,Sacha Washington Defensive Rebound.,66,62,4,55,55,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Iyana Moore made Three Point Jumper. Assisted by Jordyn Oliver.,69,62,4,24,24,Vanderbilt Commodores,three point jumper,True,True,True,Iyana Moore,True,Jordyn Oliver,15.0,26.0
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia  Timeout,69,62,4,24,24,Columbia Lions,timeout,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson made Layup.,69,64,4,18,18,Columbia Lions,layup,True,True,False,Kitty Henderson,False,,28.0,1.0
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Sacha Washington.,69,64,4,18,18,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Kitty Henderson made Free Throw.,69,65,4,18,18,Columbia Lions,free throw,True,True,False,Kitty Henderson,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Vanderbilt  Timeout,69,65,4,18,18,Vanderbilt Commodores,timeout,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Abbey Hsu.,69,65,4,16,16,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Oliver missed Free Throw.,69,65,4,16,16,Vanderbilt Commodores,free throw,True,False,False,Jordyn Oliver,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Vanderbilt Deadball Team Rebound.,69,65,4,16,16,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Jordyn Oliver made Free Throw.,70,65,4,16,16,Vanderbilt Commodores,free throw,True,True,False,Jordyn Oliver,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia  Timeout,70,65,4,16,16,Columbia Lions,timeout,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins missed Layup.,70,65,4,9,9,Columbia Lions,layup,True,False,False,Cecelia Collins,False,,22.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins Offensive Rebound.,70,65,4,9,9,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Sacha Washington.,70,65,4,9,9,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins made Free Throw.,70,66,4,9,9,Columbia Lions,free throw,True,True,False,Cecelia Collins,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins missed Free Throw.,70,66,4,9,9,Columbia Lions,free throw,True,False,False,Cecelia Collins,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Riley Weiss Offensive Rebound.,70,66,4,9,9,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Riley Weiss missed Three Point Jumper.,70,66,4,7,7,Columbia Lions,three point jumper,True,False,True,Riley Weiss,False,,30.0,24.0
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins Offensive Rebound.,70,66,4,7,7,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Cecelia Collins made Jumper.,70,68,4,3,3,Columbia Lions,jumper,True,True,False,Cecelia Collins,False,,26.0,2.0
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia  Timeout,70,68,4,3,3,Columbia Lions,timeout,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Foul on Perri Page.,70,68,4,2,2,Columbia Lions,foul,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott made Free Throw.,71,68,4,2,2,Vanderbilt Commodores,free throw,True,True,False,Justine Pissott,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Justine Pissott made Free Throw.,72,68,4,2,2,Vanderbilt Commodores,free throw,True,True,False,Justine Pissott,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,Abbey Hsu missed Three Point Jumper.,72,68,4,1,1,Columbia Lions,three point jumper,True,False,True,Abbey Hsu,False,,7.0,15.0
+401637539,Vanderbilt Commodores,Columbia Lions,Columbia Deadball Team Rebound.,72,68,4,1,1,Columbia Lions,rebound,False,False,False,,False,,,
+401637539,Vanderbilt Commodores,Columbia Lions,End of Game,72,68,4,0,0,,end,False,False,False,,False,,,

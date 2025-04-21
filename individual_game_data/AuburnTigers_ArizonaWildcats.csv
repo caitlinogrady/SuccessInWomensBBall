@@ -1,0 +1,373 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637542,Auburn Tigers,Arizona Wildcats,Jump Ball won by Arizona,0,0,1,600,2400,Arizona Wildcats,jump ball,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on JaMya Mingo-Young.,0,0,1,589,2389,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams made Layup.,0,2,1,585,2385,Arizona Wildcats,layup,True,True,False,Jada Williams,False,,22.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,JaMya Mingo-Young Turnover.,0,2,1,570,2370,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones Steal.,0,2,1,570,2370,Arizona Wildcats,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Breya Cunningham made Jumper. Assisted by Helena Pueyo.,0,4,1,545,2345,Arizona Wildcats,jumper,True,True,False,Breya Cunningham,True,Helena Pueyo,30.0,3.0
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw missed Layup.,0,4,1,530,2330,Auburn Tigers,layup,True,False,False,Sydney Shaw,False,,22.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Block.,0,4,1,530,2330,Arizona Wildcats,block,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Offensive Rebound.,0,4,1,530,2330,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson Turnover.,0,4,1,517,2317,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Steal.,0,4,1,517,2317,Arizona Wildcats,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams Turnover.,0,4,1,497,2297,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Taylen Collins Steal.,0,4,1,497,2297,Auburn Tigers,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,JaMya Mingo-Young missed Jumper.,0,4,1,492,2292,Auburn Tigers,jumper,True,False,False,JaMya Mingo-Young,False,,22.0,10.0
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams Defensive Rebound.,0,4,1,492,2292,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo missed Three Point Jumper.,0,4,1,472,2272,Arizona Wildcats,three point jumper,True,False,True,Helena Pueyo,False,,25.0,24.0
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson Defensive Rebound.,0,4,1,472,2272,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson made Jumper.,2,4,1,462,2262,Auburn Tigers,jumper,True,True,False,Honesty Scott-Grayson,False,,42.0,7.0
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams missed Three Point Jumper.,2,4,1,447,2247,Arizona Wildcats,three point jumper,True,False,True,Jada Williams,False,,13.0,21.0
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw Defensive Rebound.,2,4,1,447,2247,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson Turnover.,2,4,1,435,2235,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Steal.,2,4,1,435,2235,Arizona Wildcats,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Breya Cunningham made Jumper. Assisted by Jada Williams.,2,6,1,427,2227,Arizona Wildcats,jumper,True,True,False,Breya Cunningham,True,Jada Williams,30.0,4.0
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Breya Cunningham.,2,6,1,401,2201,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson missed Jumper.,2,6,1,395,2195,Auburn Tigers,jumper,True,False,False,Honesty Scott-Grayson,False,,41.0,5.0
+401637542,Auburn Tigers,Arizona Wildcats,Arizona Defensive Rebound.,2,6,1,395,2195,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Sydney Shaw.,2,6,1,381,2181,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams made Free Throw.,2,7,1,381,2181,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams made Free Throw.,2,8,1,381,2181,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Breya Cunningham.,2,8,1,372,2172,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson missed Layup.,2,8,1,369,2169,Auburn Tigers,layup,True,False,False,Honesty Scott-Grayson,False,,27.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones Block.,2,8,1,369,2169,Arizona Wildcats,block,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Arizona Defensive Rebound.,2,8,1,369,2169,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones missed Jumper.,2,8,1,347,2147,Arizona Wildcats,jumper,True,False,False,Skylar Jones,False,,33.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Yakiya Milton Block.,2,8,1,347,2147,Auburn Tigers,block,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Arizona Offensive Rebound.,2,8,1,347,2147,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo missed Jumper.,2,8,1,339,2139,Arizona Wildcats,jumper,True,False,False,Helena Pueyo,False,,14.0,12.0
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Defensive Rebound.,2,8,1,339,2139,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Isis Beh.,2,8,1,335,2135,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Skylar Jones.,2,8,1,334,2134,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson Turnover.,2,8,1,332,2132,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo Steal.,2,8,1,332,2132,Arizona Wildcats,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Isis Beh Turnover.,2,8,1,325,2125,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw Steal.,2,8,1,325,2125,Auburn Tigers,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw missed Layup.,2,8,1,315,2115,Auburn Tigers,layup,True,False,False,Sydney Shaw,False,,28.0,3.0
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw Offensive Rebound.,2,8,1,315,2115,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw made Layup.,4,8,1,311,2111,Auburn Tigers,layup,True,True,False,Sydney Shaw,False,,25.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams missed Three Point Jumper.,4,8,1,294,2094,Arizona Wildcats,three point jumper,True,False,True,Jada Williams,False,,6.0,15.0
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw Defensive Rebound.,4,8,1,294,2094,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats, Official TV Timeout,4,8,1,279,2079,,tv timeout,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Taylen Collins Turnover.,4,8,1,278,2078,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo missed Three Point Jumper.,4,8,1,260,2060,Arizona Wildcats,three point jumper,True,False,True,Helena Pueyo,False,,11.0,20.0
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely Offensive Rebound.,4,8,1,260,2060,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones Turnover.,4,8,1,251,2051,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Taylen Collins Steal.,4,8,1,251,2051,Auburn Tigers,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Yakiya Milton made Layup. Assisted by Taylen Collins.,6,8,1,246,2046,Auburn Tigers,layup,True,True,False,Yakiya Milton,True,Taylen Collins,27.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Turnover.,6,8,1,229,2029,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw Steal.,6,8,1,229,2029,Auburn Tigers,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,JaMya Mingo-Young missed Jumper.,6,8,1,213,2013,Auburn Tigers,jumper,True,False,False,JaMya Mingo-Young,False,,26.0,13.0
+401637542,Auburn Tigers,Arizona Wildcats,JaMya Mingo-Young Offensive Rebound.,6,8,1,213,2013,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,JaMya Mingo-Young missed Layup.,6,8,1,209,2009,Auburn Tigers,layup,True,False,False,JaMya Mingo-Young,False,,27.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Taylen Collins Offensive Rebound.,6,8,1,209,2009,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,JaMya Mingo-Young missed Jumper.,6,8,1,192,1992,Auburn Tigers,jumper,True,False,False,JaMya Mingo-Young,False,,28.0,12.0
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Deadball Team Rebound.,6,8,1,192,1992,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Auburn  Turnover.,6,8,1,189,1989,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Turnover.,6,8,1,173,1973,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Yakiya Milton Turnover.,6,8,1,157,1957,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones made Layup. Assisted by Jada Williams.,6,10,1,130,1930,Arizona Wildcats,layup,True,True,False,Skylar Jones,True,Jada Williams,29.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Yakiya Milton made Layup. Assisted by Mar'shaun Bostic.,8,10,1,115,1915,Auburn Tigers,layup,True,True,False,Yakiya Milton,True,Mar'shaun Bostic,27.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones missed Jumper.,8,10,1,105,1905,Arizona Wildcats,jumper,True,False,False,Skylar Jones,False,,31.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson Defensive Rebound.,8,10,1,105,1905,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Yakiya Milton.,8,10,1,90,1890,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Yakiya Milton Turnover.,8,10,1,90,1890,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Kaitlyn Duhon.,8,10,1,76,1876,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams missed Jumper.,8,10,1,68,1868,Arizona Wildcats,jumper,True,False,False,Jada Williams,False,,20.0,5.0
+401637542,Auburn Tigers,Arizona Wildcats,Yakiya Milton Block.,8,10,1,68,1868,Auburn Tigers,block,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic Defensive Rebound.,8,10,1,68,1868,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic Turnover.,8,10,1,60,1860,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo Steal.,8,10,1,60,1860,Arizona Wildcats,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Mar'shaun Bostic.,8,10,1,52,1852,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely missed Free Throw.,8,10,1,52,1852,Arizona Wildcats,free throw,True,False,False,Courtney Blakely,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Arizona Deadball Team Rebound.,8,10,1,52,1852,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely made Free Throw.,8,11,1,52,1852,Arizona Wildcats,free throw,True,True,False,Courtney Blakely,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson missed Jumper.,8,11,1,37,1837,Auburn Tigers,jumper,True,False,False,Honesty Scott-Grayson,False,,30.0,16.0
+401637542,Auburn Tigers,Arizona Wildcats,Kaitlyn Duhon Offensive Rebound.,8,11,1,37,1837,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Kaitlyn Duhon Turnover.,8,11,1,30,1830,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely Steal.,8,11,1,30,1830,Arizona Wildcats,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones Turnover.,8,11,1,5,1805,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,End of 1st Quarter,8,11,1,0,1800,,end,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jump Ball won by Auburn,8,11,2,600,1800,Auburn Tigers,jump ball,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson missed Jumper.,8,11,2,590,1790,Auburn Tigers,jumper,True,False,False,Honesty Scott-Grayson,False,,44.0,10.0
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely Defensive Rebound.,8,11,2,590,1790,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez made Layup. Assisted by Courtney Blakely.,8,13,2,579,1779,Arizona Wildcats,layup,True,True,False,Esmery Martinez,True,Courtney Blakely,22.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Esmery Martinez.,8,13,2,560,1760,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic missed Layup.,8,13,2,546,1746,Auburn Tigers,layup,True,False,False,Mar'shaun Bostic,False,,21.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Defensive Rebound.,8,13,2,546,1746,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely missed Jumper.,8,13,2,539,1739,Arizona Wildcats,jumper,True,False,False,Courtney Blakely,False,,27.0,9.0
+401637542,Auburn Tigers,Arizona Wildcats,Yakiya Milton Defensive Rebound.,8,13,2,539,1739,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson made Layup.,10,13,2,521,1721,Auburn Tigers,layup,True,True,False,Honesty Scott-Grayson,False,,21.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez made Three Point Jumper. Assisted by Isis Beh.,10,16,2,495,1695,Arizona Wildcats,three point jumper,True,True,True,Esmery Martinez,True,Isis Beh,4.0,11.0
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic missed Layup.,10,16,2,469,1669,Auburn Tigers,layup,True,False,False,Mar'shaun Bostic,False,,22.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Isis Beh Defensive Rebound.,10,16,2,469,1669,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on McKenna Eddings.,10,16,2,447,1647,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez missed Free Throw.,10,16,2,447,1647,Arizona Wildcats,free throw,True,False,False,Esmery Martinez,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Arizona Deadball Team Rebound.,10,16,2,447,1647,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez missed Free Throw.,10,16,2,447,1647,Arizona Wildcats,free throw,True,False,False,Esmery Martinez,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson Defensive Rebound.,10,16,2,447,1647,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson Turnover.,10,16,2,440,1640,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Steal.,10,16,2,440,1640,Arizona Wildcats,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones made Layup.,10,18,2,430,1630,Arizona Wildcats,layup,True,True,False,Skylar Jones,False,,29.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,JaMya Mingo-Young Turnover.,10,18,2,413,1613,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo Steal.,10,18,2,413,1613,Arizona Wildcats,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely missed Layup.,10,18,2,408,1608,Arizona Wildcats,layup,True,False,False,Courtney Blakely,False,,26.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,JaMya Mingo-Young Block.,10,18,2,408,1608,Auburn Tigers,block,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,JaMya Mingo-Young Defensive Rebound.,10,18,2,408,1608,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,JaMya Mingo-Young Turnover.,10,18,2,400,1600,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Steal.,10,18,2,400,1600,Arizona Wildcats,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo made Jumper. Assisted by Courtney Blakely.,10,20,2,375,1575,Arizona Wildcats,jumper,True,True,False,Helena Pueyo,True,Courtney Blakely,40.0,6.0
+401637542,Auburn Tigers,Arizona Wildcats,Auburn  Timeout,10,20,2,366,1566,Auburn Tigers,timeout,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Courtney Blakely.,10,20,2,354,1554,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson missed Jumper.,10,20,2,350,1550,Auburn Tigers,jumper,True,False,False,Honesty Scott-Grayson,False,,25.0,16.0
+401637542,Auburn Tigers,Arizona Wildcats,Taylen Collins Offensive Rebound.,10,20,2,350,1550,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Yakiya Milton made Layup. Assisted by Mar'shaun Bostic.,12,20,2,332,1532,Auburn Tigers,layup,True,True,False,Yakiya Milton,True,Mar'shaun Bostic,21.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Taylen Collins.,12,20,2,315,1515,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Turnover.,12,20,2,298,1498,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats, Official TV Timeout,12,20,2,298,1498,,tv timeout,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson missed Layup.,12,20,2,284,1484,Auburn Tigers,layup,True,False,False,Honesty Scott-Grayson,False,,21.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Offensive Rebound.,12,20,2,284,1484,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Esmery Martinez.,12,20,2,281,1481,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw made Jumper. Assisted by Mar'shaun Bostic.,14,20,2,280,1480,Auburn Tigers,jumper,True,True,False,Sydney Shaw,True,Mar'shaun Bostic,42.0,4.0
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams missed Jumper.,14,20,2,265,1465,Arizona Wildcats,jumper,True,False,False,Jada Williams,False,,11.0,3.0
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic Block.,14,20,2,265,1465,Auburn Tigers,block,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Taylen Collins Defensive Rebound.,14,20,2,265,1465,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson missed Three Point Jumper.,14,20,2,240,1440,Auburn Tigers,three point jumper,True,False,True,Honesty Scott-Grayson,False,,48.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Offensive Rebound.,14,20,2,240,1440,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Taylen Collins made Jumper. Assisted by Mar'shaun Bostic.,16,20,2,234,1434,Auburn Tigers,jumper,True,True,False,Taylen Collins,True,Mar'shaun Bostic,24.0,6.0
+401637542,Auburn Tigers,Arizona Wildcats,Isis Beh missed Layup.,16,20,2,214,1414,Arizona Wildcats,layup,True,False,False,Isis Beh,False,,28.0,0.0
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw Defensive Rebound.,16,20,2,214,1414,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw Turnover.,16,20,2,206,1406,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones Steal.,16,20,2,206,1406,Arizona Wildcats,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Yakiya Milton.,16,20,2,191,1391,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams missed Free Throw.,16,20,2,191,1391,Arizona Wildcats,free throw,True,False,False,Jada Williams,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Arizona Deadball Team Rebound.,16,20,2,191,1391,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams made Free Throw.,16,21,2,191,1391,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Breya Cunningham.,16,21,2,174,1374,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic missed Free Throw.,16,21,2,174,1374,Auburn Tigers,free throw,True,False,False,Mar'shaun Bostic,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Deadball Team Rebound.,16,21,2,174,1374,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic made Free Throw.,17,21,2,174,1374,Auburn Tigers,free throw,True,True,False,Mar'shaun Bostic,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Mar'shaun Bostic.,17,21,2,166,1366,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Oyindamola Akinbolawa.,17,21,2,160,1360,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams made Free Throw.,17,22,2,160,1360,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams made Free Throw.,17,23,2,160,1360,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw missed Jumper.,17,23,2,153,1353,Auburn Tigers,jumper,True,False,False,Sydney Shaw,False,,23.0,18.0
+401637542,Auburn Tigers,Arizona Wildcats,Oyindamola Akinbolawa Offensive Rebound.,17,23,2,153,1353,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Isis Beh.,17,23,2,147,1347,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Oyindamola Akinbolawa missed Free Throw.,17,23,2,147,1347,Auburn Tigers,free throw,True,False,False,Oyindamola Akinbolawa,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Deadball Team Rebound.,17,23,2,147,1347,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Oyindamola Akinbolawa made Free Throw.,18,23,2,147,1347,Auburn Tigers,free throw,True,True,False,Oyindamola Akinbolawa,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo Turnover.,18,23,2,132,1332,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson Steal.,18,23,2,132,1332,Auburn Tigers,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Isis Beh.,18,23,2,130,1330,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson missed Free Throw.,18,23,2,130,1330,Auburn Tigers,free throw,True,False,False,Honesty Scott-Grayson,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Deadball Team Rebound.,18,23,2,130,1330,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson made Free Throw.,19,23,2,130,1330,Auburn Tigers,free throw,True,True,False,Honesty Scott-Grayson,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez made Jumper. Assisted by Skylar Jones.,19,25,2,111,1311,Arizona Wildcats,jumper,True,True,False,Esmery Martinez,True,Skylar Jones,22.0,21.0
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson Turnover.,19,25,2,89,1289,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Sydney Shaw.,19,25,2,69,1269,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones made Free Throw.,19,26,2,69,1269,Arizona Wildcats,free throw,True,True,False,Skylar Jones,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones missed Free Throw.,19,26,2,69,1269,Arizona Wildcats,free throw,True,False,False,Skylar Jones,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,JaMya Mingo-Young Defensive Rebound.,19,26,2,69,1269,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson missed Layup.,19,26,2,53,1253,Auburn Tigers,layup,True,False,False,Honesty Scott-Grayson,False,,21.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Taylen Collins Offensive Rebound.,19,26,2,53,1253,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Taylen Collins Turnover.,19,26,2,50,1250,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Steal.,19,26,2,50,1250,Arizona Wildcats,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones missed Layup.,19,26,2,44,1244,Arizona Wildcats,layup,True,False,False,Skylar Jones,False,,28.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams Offensive Rebound.,19,26,2,44,1244,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jump Ball won by Arizona,19,26,2,41,1241,Arizona Wildcats,jump ball,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Honesty Scott-Grayson.,19,26,2,32,1232,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely missed Free Throw.,19,26,2,32,1232,Arizona Wildcats,free throw,True,False,False,Courtney Blakely,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Arizona Deadball Team Rebound.,19,26,2,32,1232,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely made Free Throw.,19,27,2,32,1232,Arizona Wildcats,free throw,True,True,False,Courtney Blakely,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson Turnover.,19,27,2,5,1205,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Honesty Scott-Grayson.,19,27,2,5,1205,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams missed Three Point Jumper.,19,27,2,1,1201,Arizona Wildcats,three point jumper,True,False,True,Jada Williams,False,,5.0,15.0
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Deadball Team Rebound.,19,27,2,1,1201,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,End of 2nd Quarter,19,27,2,0,1200,,end,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jump Ball won by Auburn,19,27,3,600,1200,Auburn Tigers,jump ball,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw missed Jumper.,19,27,3,588,1188,Auburn Tigers,jumper,True,False,False,Sydney Shaw,False,,38.0,0.0
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Defensive Rebound.,19,27,3,588,1188,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo Turnover.,19,27,3,570,1170,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Taylen Collins missed Layup.,19,27,3,544,1144,Auburn Tigers,layup,True,False,False,Taylen Collins,False,,29.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Breya Cunningham Block.,19,27,3,544,1144,Arizona Wildcats,block,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Defensive Rebound.,19,27,3,544,1144,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez made Three Point Jumper. Assisted by Jada Williams.,19,30,3,526,1126,Arizona Wildcats,three point jumper,True,True,True,Esmery Martinez,True,Jada Williams,6.0,16.0
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw missed Jumper.,19,30,3,503,1103,Auburn Tigers,jumper,True,False,False,Sydney Shaw,False,,11.0,9.0
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo Defensive Rebound.,19,30,3,503,1103,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Taylen Collins.,19,30,3,490,1090,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez made Free Throw.,19,31,3,490,1090,Arizona Wildcats,free throw,True,True,False,Esmery Martinez,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez made Free Throw.,19,32,3,490,1090,Arizona Wildcats,free throw,True,True,False,Esmery Martinez,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson missed Jumper.,19,32,3,484,1084,Auburn Tigers,jumper,True,False,False,Honesty Scott-Grayson,False,,20.0,9.0
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson Offensive Rebound.,19,32,3,484,1084,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Taylen Collins made Layup. Assisted by Honesty Scott-Grayson.,21,32,3,478,1078,Auburn Tigers,layup,True,True,False,Taylen Collins,True,Honesty Scott-Grayson,23.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo made Three Point Jumper. Assisted by Skylar Jones.,21,35,3,454,1054,Arizona Wildcats,three point jumper,True,True,True,Helena Pueyo,True,Skylar Jones,4.0,11.0
+401637542,Auburn Tigers,Arizona Wildcats,Auburn  Turnover.,21,35,3,438,1038,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Breya Cunningham missed Layup.,21,35,3,432,1032,Arizona Wildcats,layup,True,False,False,Breya Cunningham,False,,21.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,JaMya Mingo-Young Defensive Rebound.,21,35,3,432,1032,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on JaMya Mingo-Young.,21,35,3,423,1023,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,JaMya Mingo-Young Turnover.,21,35,3,423,1023,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams Turnover.,21,35,3,414,1014,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw Steal.,21,35,3,414,1014,Auburn Tigers,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Taylen Collins made Layup. Assisted by Sydney Shaw.,23,35,3,409,1009,Auburn Tigers,layup,True,True,False,Taylen Collins,True,Sydney Shaw,28.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams missed Layup.,23,35,3,391,991,Arizona Wildcats,layup,True,False,False,Jada Williams,False,,21.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Yakiya Milton Block.,23,35,3,391,991,Auburn Tigers,block,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Arizona Offensive Rebound.,23,35,3,391,991,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo Turnover.,23,35,3,383,983,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson Steal.,23,35,3,383,983,Auburn Tigers,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Helena Pueyo.,23,35,3,380,980,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw missed Jumper.,23,35,3,364,964,Auburn Tigers,jumper,True,False,False,Sydney Shaw,False,,41.0,5.0
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Offensive Rebound.,23,35,3,364,964,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Esmery Martinez.,23,35,3,363,963,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Yakiya Milton Turnover.,23,35,3,357,957,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Taylen Collins.,23,35,3,345,945,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones made Free Throw.,23,36,3,345,945,Arizona Wildcats,free throw,True,True,False,Skylar Jones,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones made Free Throw.,23,37,3,345,945,Arizona Wildcats,free throw,True,True,False,Skylar Jones,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw Turnover.,23,37,3,327,927,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones Steal.,23,37,3,327,927,Arizona Wildcats,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Isis Beh made Jumper.,23,39,3,308,908,Arizona Wildcats,jumper,True,True,False,Isis Beh,False,,31.0,5.0
+401637542,Auburn Tigers,Arizona Wildcats,Celia Sumbane missed Jumper.,23,39,3,284,884,Auburn Tigers,jumper,True,False,False,Celia Sumbane,False,,26.0,17.0
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones Defensive Rebound.,23,39,3,284,884,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Sydney Shaw.,23,39,3,271,871,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats, Official TV Timeout,23,39,3,271,871,,tv timeout,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Yakiya Milton.,23,39,3,253,853,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Breya Cunningham missed Free Throw.,23,39,3,253,853,Arizona Wildcats,free throw,True,False,False,Breya Cunningham,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Arizona Deadball Team Rebound.,23,39,3,253,853,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Breya Cunningham made Free Throw.,23,40,3,253,853,Arizona Wildcats,free throw,True,True,False,Breya Cunningham,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,McKenna Eddings missed Jumper.,23,40,3,235,835,Auburn Tigers,jumper,True,False,False,McKenna Eddings,False,,17.0,3.0
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Offensive Rebound.,23,40,3,235,835,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,McKenna Eddings made Jumper. Assisted by Mar'shaun Bostic.,25,40,3,228,828,Auburn Tigers,jumper,True,True,False,McKenna Eddings,True,Mar'shaun Bostic,8.0,3.0
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams Turnover.,25,40,3,216,816,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic Steal.,25,40,3,216,816,Auburn Tigers,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic missed Layup.,25,40,3,212,812,Auburn Tigers,layup,True,False,False,Mar'shaun Bostic,False,,28.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Celia Sumbane Offensive Rebound.,25,40,3,212,812,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Isis Beh.,25,40,3,210,810,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Celia Sumbane made Free Throw.,26,40,3,210,810,Auburn Tigers,free throw,True,True,False,Celia Sumbane,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Celia Sumbane made Free Throw.,27,40,3,210,810,Auburn Tigers,free throw,True,True,False,Celia Sumbane,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Breya Cunningham missed Layup.,27,40,3,205,805,Arizona Wildcats,layup,True,False,False,Breya Cunningham,False,,21.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Kaitlyn Duhon Defensive Rebound.,27,40,3,205,805,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Esmery Martinez.,27,40,3,187,787,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Kaitlyn Duhon missed Free Throw.,27,40,3,187,787,Auburn Tigers,free throw,True,False,False,Kaitlyn Duhon,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Deadball Team Rebound.,27,40,3,187,787,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Kaitlyn Duhon made Free Throw.,28,40,3,187,787,Auburn Tigers,free throw,True,True,False,Kaitlyn Duhon,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely missed Jumper.,28,40,3,168,768,Arizona Wildcats,jumper,True,False,False,Courtney Blakely,False,,30.0,6.0
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Defensive Rebound.,28,40,3,168,768,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,McKenna Eddings made Three Point Jumper. Assisted by Mar'shaun Bostic.,31,40,3,158,758,Auburn Tigers,three point jumper,True,True,True,McKenna Eddings,True,Mar'shaun Bostic,46.0,11.0
+401637542,Auburn Tigers,Arizona Wildcats,Arizona  Timeout,31,40,3,144,744,Arizona Wildcats,timeout,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams made Three Point Jumper. Assisted by Helena Pueyo.,31,43,3,133,733,Arizona Wildcats,three point jumper,True,True,True,Jada Williams,True,Helena Pueyo,29.0,24.0
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic made Layup.,33,43,3,118,718,Auburn Tigers,layup,True,True,False,Mar'shaun Bostic,False,,22.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Mar'shaun Bostic.,33,43,3,93,693,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams missed Free Throw.,33,43,3,93,693,Arizona Wildcats,free throw,True,False,False,Jada Williams,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Arizona Deadball Team Rebound.,33,43,3,93,693,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams made Free Throw.,33,44,3,93,693,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,McKenna Eddings Turnover.,33,44,3,92,692,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely Steal.,33,44,3,92,692,Arizona Wildcats,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo made Three Point Jumper. Assisted by Courtney Blakely.,33,47,3,88,688,Arizona Wildcats,three point jumper,True,True,True,Helena Pueyo,True,Courtney Blakely,45.0,14.0
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Courtney Blakely.,33,47,3,79,679,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic missed Free Throw.,33,47,3,79,679,Auburn Tigers,free throw,True,False,False,Mar'shaun Bostic,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Deadball Team Rebound.,33,47,3,79,679,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic made Free Throw.,34,47,3,79,679,Auburn Tigers,free throw,True,True,False,Mar'shaun Bostic,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely missed Layup.,34,47,3,73,673,Arizona Wildcats,layup,True,False,False,Courtney Blakely,False,,26.0,3.0
+401637542,Auburn Tigers,Arizona Wildcats,Kaitlyn Duhon Defensive Rebound.,34,47,3,73,673,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,McKenna Eddings missed Three Point Jumper.,34,47,3,59,659,Auburn Tigers,three point jumper,True,False,True,McKenna Eddings,False,,48.0,-1.0
+401637542,Auburn Tigers,Arizona Wildcats,Kaitlyn Duhon Offensive Rebound.,34,47,3,59,659,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Skylar Jones.,34,47,3,55,655,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Kaitlyn Duhon made Free Throw.,35,47,3,55,655,Auburn Tigers,free throw,True,True,False,Kaitlyn Duhon,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Kaitlyn Duhon made Free Throw.,36,47,3,55,655,Auburn Tigers,free throw,True,True,False,Kaitlyn Duhon,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on McKenna Eddings.,36,47,3,48,648,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones made Free Throw.,36,48,3,48,648,Arizona Wildcats,free throw,True,True,False,Skylar Jones,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones made Free Throw.,36,49,3,48,648,Arizona Wildcats,free throw,True,True,False,Skylar Jones,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Jada Williams.,36,49,3,43,643,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw made Free Throw.,37,49,3,43,643,Auburn Tigers,free throw,True,True,False,Sydney Shaw,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw missed Free Throw.,37,49,3,43,643,Auburn Tigers,free throw,True,False,False,Sydney Shaw,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Breya Cunningham Defensive Rebound.,37,49,3,43,643,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely Turnover.,37,49,3,33,633,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Celia Sumbane Steal.,37,49,3,33,633,Auburn Tigers,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson made Layup. Assisted by Celia Sumbane.,39,49,3,25,625,Auburn Tigers,layup,True,True,False,Honesty Scott-Grayson,True,Celia Sumbane,28.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Courtney Blakely.,39,49,3,25,625,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson missed Free Throw.,39,49,3,25,625,Auburn Tigers,free throw,True,False,False,Honesty Scott-Grayson,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Courtney Blakely Defensive Rebound.,39,49,3,25,625,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams missed Three Point Jumper.,39,49,3,4,604,Arizona Wildcats,three point jumper,True,False,True,Jada Williams,False,,20.0,24.0
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones Offensive Rebound.,39,49,3,4,604,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,End of 3rd Quarter,39,49,3,0,600,,end,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jump Ball won by Arizona,39,49,4,600,600,Arizona Wildcats,jump ball,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams made Jumper.,39,51,4,574,574,Arizona Wildcats,jumper,True,True,False,Jada Williams,False,,20.0,5.0
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Taylen Collins.,39,51,4,574,574,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams made Free Throw.,39,52,4,574,574,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson missed Jumper.,39,52,4,559,559,Auburn Tigers,jumper,True,False,False,Honesty Scott-Grayson,False,,12.0,9.0
+401637542,Auburn Tigers,Arizona Wildcats,Celia Sumbane Offensive Rebound.,39,52,4,559,559,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Celia Sumbane made Layup.,41,52,4,555,555,Auburn Tigers,layup,True,True,False,Celia Sumbane,False,,28.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Honesty Scott-Grayson.,41,52,4,538,538,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams Turnover.,41,52,4,534,534,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Breya Cunningham.,41,52,4,520,520,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson made Layup.,43,52,4,512,512,Auburn Tigers,layup,True,True,False,Honesty Scott-Grayson,False,,22.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Celia Sumbane.,43,52,4,484,484,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats, Official TV Timeout,43,52,4,484,484,,tv timeout,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones missed Layup.,43,52,4,479,479,Arizona Wildcats,layup,True,False,False,Skylar Jones,False,,27.0,3.0
+401637542,Auburn Tigers,Arizona Wildcats,Yakiya Milton Defensive Rebound.,43,52,4,479,479,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Breya Cunningham.,43,52,4,457,457,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Celia Sumbane made Free Throw.,44,52,4,457,457,Auburn Tigers,free throw,True,True,False,Celia Sumbane,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Celia Sumbane made Free Throw.,45,52,4,457,457,Auburn Tigers,free throw,True,True,False,Celia Sumbane,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams made Layup. Assisted by Helena Pueyo.,45,54,4,442,442,Arizona Wildcats,layup,True,True,False,Jada Williams,True,Helena Pueyo,21.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Celia Sumbane made Jumper.,47,54,4,425,425,Auburn Tigers,jumper,True,True,False,Celia Sumbane,False,,21.0,5.0
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo made Jumper.,47,56,4,411,411,Arizona Wildcats,jumper,True,True,False,Helena Pueyo,False,,27.0,9.0
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic missed Layup.,47,56,4,397,397,Auburn Tigers,layup,True,False,False,Mar'shaun Bostic,False,,28.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Defensive Rebound.,47,56,4,397,397,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams missed Jumper.,47,56,4,373,373,Arizona Wildcats,jumper,True,False,False,Jada Williams,False,,18.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Yakiya Milton Defensive Rebound.,47,56,4,373,373,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson made Layup. Assisted by Yakiya Milton.,49,56,4,367,367,Auburn Tigers,layup,True,True,False,Honesty Scott-Grayson,True,Yakiya Milton,22.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Auburn  Timeout,49,56,4,364,364,Auburn Tigers,timeout,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams Turnover.,49,56,4,337,337,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic Steal.,49,56,4,337,337,Auburn Tigers,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic Turnover.,49,56,4,332,332,Auburn Tigers,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez made Jumper.,49,58,4,323,323,Arizona Wildcats,jumper,True,True,False,Esmery Martinez,False,,12.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw made Jumper.,51,58,4,292,292,Auburn Tigers,jumper,True,True,False,Sydney Shaw,False,,29.0,6.0
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo Turnover.,51,58,4,282,282,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson Steal.,51,58,4,282,282,Auburn Tigers,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Honesty Scott-Grayson made Layup.,53,58,4,279,279,Auburn Tigers,layup,True,True,False,Honesty Scott-Grayson,False,,22.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo made Jumper.,53,60,4,266,266,Arizona Wildcats,jumper,True,True,False,Helena Pueyo,False,,18.0,11.0
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic made Layup.,55,60,4,246,246,Auburn Tigers,layup,True,True,False,Mar'shaun Bostic,False,,28.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Honesty Scott-Grayson.,55,60,4,232,232,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo made Jumper.,55,62,4,224,224,Arizona Wildcats,jumper,True,True,False,Helena Pueyo,False,,45.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Sydney Shaw missed Three Point Jumper.,55,62,4,210,210,Auburn Tigers,three point jumper,True,False,True,Sydney Shaw,False,,10.0,20.0
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo Defensive Rebound.,55,62,4,210,210,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Isis Beh Turnover.,55,62,4,195,195,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Kaitlyn Duhon Steal.,55,62,4,195,195,Auburn Tigers,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Skylar Jones.,55,62,4,189,189,Arizona Wildcats,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Celia Sumbane missed Three Point Jumper.,55,62,4,180,180,Auburn Tigers,three point jumper,True,False,True,Celia Sumbane,False,,20.0,24.0
+401637542,Auburn Tigers,Arizona Wildcats,Arizona Defensive Rebound.,55,62,4,180,180,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams missed Three Point Jumper.,55,62,4,159,159,Arizona Wildcats,three point jumper,True,False,True,Jada Williams,False,,49.0,3.0
+401637542,Auburn Tigers,Arizona Wildcats,Celia Sumbane Defensive Rebound.,55,62,4,159,159,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Yakiya Milton made Jumper.,57,62,4,146,146,Auburn Tigers,jumper,True,True,False,Yakiya Milton,False,,19.0,5.0
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones made Layup. Assisted by Helena Pueyo.,57,64,4,130,130,Arizona Wildcats,layup,True,True,False,Skylar Jones,True,Helena Pueyo,21.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Honesty Scott-Grayson.,57,64,4,130,130,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones missed Free Throw.,57,64,4,130,130,Arizona Wildcats,free throw,True,False,False,Skylar Jones,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,McKenna Eddings Defensive Rebound.,57,64,4,130,130,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic made Layup.,59,64,4,119,119,Auburn Tigers,layup,True,True,False,Mar'shaun Bostic,False,,22.0,2.0
+401637542,Auburn Tigers,Arizona Wildcats,Arizona  Timeout,59,64,4,102,102,Arizona Wildcats,timeout,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo missed Jumper.,59,64,4,89,89,Arizona Wildcats,jumper,True,False,False,Helena Pueyo,False,,10.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones Offensive Rebound.,59,64,4,89,89,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones made Layup.,59,66,4,83,83,Arizona Wildcats,layup,True,True,False,Skylar Jones,False,,27.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic missed Layup.,59,66,4,75,75,Auburn Tigers,layup,True,False,False,Mar'shaun Bostic,False,,28.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Defensive Rebound.,59,66,4,75,75,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Sydney Shaw.,59,66,4,59,59,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams missed Free Throw.,59,66,4,59,59,Arizona Wildcats,free throw,True,False,False,Jada Williams,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Arizona Deadball Team Rebound.,59,66,4,59,59,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Jada Williams made Free Throw.,59,67,4,59,59,Arizona Wildcats,free throw,True,True,False,Jada Williams,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Auburn  Timeout,59,67,4,59,59,Auburn Tigers,timeout,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Mar'shaun Bostic missed Three Point Jumper.,59,67,4,55,55,Auburn Tigers,three point jumper,True,False,True,Mar'shaun Bostic,False,,31.0,23.0
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Defensive Rebound.,59,67,4,55,55,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Foul on Sydney Shaw.,59,67,4,46,46,Auburn Tigers,foul,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo made Free Throw.,59,68,4,46,46,Arizona Wildcats,free throw,True,True,False,Helena Pueyo,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo made Free Throw.,59,69,4,46,46,Arizona Wildcats,free throw,True,True,False,Helena Pueyo,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Auburn  Timeout,59,69,4,46,46,Auburn Tigers,timeout,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,McKenna Eddings missed Three Point Jumper.,59,69,4,40,40,Auburn Tigers,three point jumper,True,False,True,McKenna Eddings,False,,6.0,17.0
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo Block.,59,69,4,40,40,Arizona Wildcats,block,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Skylar Jones Defensive Rebound.,59,69,4,40,40,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Helena Pueyo Turnover.,59,69,4,16,16,Arizona Wildcats,turnover,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,McKenna Eddings Steal.,59,69,4,16,16,Auburn Tigers,steal,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,McKenna Eddings missed Layup.,59,69,4,10,10,Auburn Tigers,layup,True,False,False,McKenna Eddings,False,,28.0,1.0
+401637542,Auburn Tigers,Arizona Wildcats,Auburn Offensive Rebound.,59,69,4,10,10,Auburn Tigers,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,Taylen Collins missed Jumper.,59,69,4,5,5,Auburn Tigers,jumper,True,False,False,Taylen Collins,False,,27.0,9.0
+401637542,Auburn Tigers,Arizona Wildcats,Esmery Martinez Defensive Rebound.,59,69,4,5,5,Arizona Wildcats,rebound,False,False,False,,False,,,
+401637542,Auburn Tigers,Arizona Wildcats,End of Game,59,69,4,0,0,,end,False,False,False,,False,,,

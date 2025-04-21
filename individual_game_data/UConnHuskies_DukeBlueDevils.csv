@@ -1,0 +1,327 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637604,UConn Huskies,Duke Blue Devils,Jump Ball won by Duke,0,0,1,600,2400,Duke Blue Devils,jump ball,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlon Jackson Turnover.,0,0,1,582,2382,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Steal.,0,0,1,582,2382,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers made Jumper. Assisted by Ashlynn Shade.,2,0,1,556,2356,UConn Huskies,jumper,True,True,False,Paige Bueckers,True,Ashlynn Shade,29.0,18.0
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan missed Layup.,2,0,1,525,2325,Duke Blue Devils,layup,True,False,False,Jadyn Donovan,False,,22.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Duke Offensive Rebound.,2,0,1,525,2325,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Taina Mair made Jumper.,2,2,1,513,2313,Duke Blue Devils,jumper,True,True,False,Taina Mair,False,,36.0,16.0
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards missed Layup.,2,2,1,499,2299,UConn Huskies,layup,True,False,False,Aaliyah Edwards,False,,23.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan Defensive Rebound.,2,2,1,499,2299,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan Turnover.,2,2,1,489,2289,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold Steal.,2,2,1,489,2289,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Jadyn Donovan.,2,2,1,487,2287,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold missed Layup.,2,2,1,479,2279,UConn Huskies,layup,True,False,False,KK Arnold,False,,23.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Delaney Thomas Block.,2,2,1,479,2279,Duke Blue Devils,block,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,UConn Offensive Rebound.,2,2,1,479,2279,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Jumper.,2,2,1,477,2277,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,13.0,7.0
+401637604,UConn Huskies,Duke Blue Devils,Delaney Thomas Defensive Rebound.,2,2,1,477,2277,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson missed Three Point Jumper.,2,2,1,458,2258,Duke Blue Devils,three point jumper,True,False,True,Reigan Richardson,False,,41.0,19.0
+401637604,UConn Huskies,Duke Blue Devils,Ashlynn Shade Defensive Rebound.,2,2,1,458,2258,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl Turnover.,2,2,1,431,2231,UConn Huskies,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Taina Mair Steal.,2,2,1,431,2231,Duke Blue Devils,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson Turnover.,2,2,1,428,2228,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl Steal.,2,2,1,428,2228,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl Turnover.,2,2,1,421,2221,UConn Huskies,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Delaney Thomas.,2,2,1,407,2207,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Delaney Thomas Turnover.,2,2,1,407,2207,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlynn Shade missed Three Point Jumper.,2,2,1,394,2194,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,2.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl Offensive Rebound.,2,2,1,394,2194,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold made Layup.,4,2,1,373,2173,UConn Huskies,layup,True,True,False,KK Arnold,False,,27.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown missed Three Point Jumper.,4,2,1,354,2154,Duke Blue Devils,three point jumper,True,False,True,Kennedy Brown,False,,32.0,24.0
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Defensive Rebound.,4,2,1,354,2154,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Delaney Thomas.,4,2,1,342,2142,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards made Jumper. Assisted by Nika Muhl.,6,2,1,338,2138,UConn Huskies,jumper,True,True,False,Aaliyah Edwards,True,Nika Muhl,17.0,16.0
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson made Jumper.,6,4,1,316,2116,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,False,,14.0,14.0
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers made Jumper. Assisted by Nika Muhl.,8,4,1,293,2093,UConn Huskies,jumper,True,True,False,Paige Bueckers,True,Nika Muhl,29.0,6.0
+401637604,UConn Huskies,Duke Blue Devils,Ashlon Jackson missed Three Point Jumper.,8,4,1,265,2065,Duke Blue Devils,three point jumper,True,False,True,Ashlon Jackson,False,,34.0,25.0
+401637604,UConn Huskies,Duke Blue Devils,Taina Mair Offensive Rebound.,8,4,1,265,2065,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Taina Mair missed Layup.,8,4,1,245,2045,Duke Blue Devils,layup,True,False,False,Taina Mair,False,,22.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Block.,8,4,1,245,2045,UConn Huskies,block,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlynn Shade Defensive Rebound.,8,4,1,245,2045,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards made Layup. Assisted by KK Arnold.,10,4,1,232,2032,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,KK Arnold,24.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Jump Ball won by UConn,10,4,1,209,2009,UConn Huskies,jump ball,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Turnover.,10,4,1,209,2009,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers Steal.,10,4,1,209,2009,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils, Official TV Timeout,10,4,1,209,2009,,tv timeout,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Jumper.,10,4,1,182,1982,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,26.0,8.0
+401637604,UConn Huskies,Duke Blue Devils,Duke Defensive Rebound.,10,4,1,182,1982,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Paige Bueckers.,10,4,1,180,1980,UConn Huskies,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Emma Koabel missed Three Point Jumper.,10,4,1,166,1966,Duke Blue Devils,three point jumper,True,False,True,Emma Koabel,False,,38.0,22.0
+401637604,UConn Huskies,Duke Blue Devils,Camilla Emsbo Offensive Rebound.,10,4,1,166,1966,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Emma Koabel Turnover.,10,4,1,160,1960,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold Steal.,10,4,1,160,1960,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold missed Layup.,10,4,1,155,1955,UConn Huskies,layup,True,False,False,KK Arnold,False,,22.0,3.0
+401637604,UConn Huskies,Duke Blue Devils,Emma Koabel Defensive Rebound.,10,4,1,155,1955,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson made Layup.,10,6,1,128,1928,Duke Blue Devils,layup,True,True,False,Reigan Richardson,False,,29.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl missed Jumper.,10,6,1,104,1904,UConn Huskies,jumper,True,False,False,Nika Muhl,False,,44.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Taina Mair Defensive Rebound.,10,6,1,104,1904,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson missed Jumper.,10,6,1,75,1875,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,42.0,10.0
+401637604,UConn Huskies,Duke Blue Devils,Duke Offensive Rebound.,10,6,1,75,1875,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Emma Koabel missed Three Point Jumper.,10,6,1,57,1857,Duke Blue Devils,three point jumper,True,False,True,Emma Koabel,False,,49.0,0.0
+401637604,UConn Huskies,Duke Blue Devils,Camilla Emsbo Offensive Rebound.,10,6,1,57,1857,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Camilla Emsbo missed Layup.,10,6,1,52,1852,Duke Blue Devils,layup,True,False,False,Camilla Emsbo,False,,26.0,4.0
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Defensive Rebound.,10,6,1,52,1852,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl missed Three Point Jumper.,10,6,1,44,1844,UConn Huskies,three point jumper,True,False,True,Nika Muhl,False,,33.0,24.0
+401637604,UConn Huskies,Duke Blue Devils,Camilla Emsbo Defensive Rebound.,10,6,1,44,1844,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Taina Mair missed Layup.,10,6,1,31,1831,Duke Blue Devils,layup,True,False,False,Taina Mair,False,,28.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers Defensive Rebound.,10,6,1,31,1831,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Jumper.,10,6,1,2,1802,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,29.0,6.0
+401637604,UConn Huskies,Duke Blue Devils,Camilla Emsbo Defensive Rebound.,10,6,1,2,1802,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,End of 1st Quarter,10,6,1,0,1800,,end,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jump Ball won by Duke,10,6,2,600,1800,Duke Blue Devils,jump ball,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlon Jackson Turnover.,10,6,2,587,1787,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Three Point Jumper.,10,6,2,571,1771,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,6.0,17.0
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl Offensive Rebound.,10,6,2,571,1771,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlynn Shade missed Three Point Jumper.,10,6,2,564,1764,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,40.0,20.0
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Block.,10,6,2,564,1764,Duke Blue Devils,block,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown Defensive Rebound.,10,6,2,564,1764,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlon Jackson Turnover.,10,6,2,542,1742,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Steal.,10,6,2,542,1742,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards made Layup.,12,6,2,537,1737,UConn Huskies,layup,True,True,False,Aaliyah Edwards,False,,24.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown missed Jumper.,12,6,2,517,1717,Duke Blue Devils,jumper,True,False,False,Kennedy Brown,False,,25.0,4.0
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Block.,12,6,2,517,1717,UConn Huskies,block,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown Offensive Rebound.,12,6,2,517,1717,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Turnover.,12,6,2,510,1710,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Aaliyah Edwards.,12,6,2,494,1694,UConn Huskies,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Turnover.,12,6,2,494,1694,UConn Huskies,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Turnover.,12,6,2,478,1678,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Kennedy Brown.,12,6,2,459,1659,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Free Throw.,12,6,2,459,1659,UConn Huskies,free throw,True,False,False,Paige Bueckers,False,,,
+401637604,UConn Huskies,Duke Blue Devils,UConn Deadball Team Rebound.,12,6,2,459,1659,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Free Throw.,12,6,2,459,1659,UConn Huskies,free throw,True,False,False,Paige Bueckers,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson Defensive Rebound.,12,6,2,459,1659,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Paige Bueckers.,12,6,2,459,1659,UConn Huskies,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown missed Jumper.,12,6,2,441,1641,Duke Blue Devils,jumper,True,False,False,Kennedy Brown,False,,8.0,5.0
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan Offensive Rebound.,12,6,2,441,1641,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Taina Mair missed Three Point Jumper.,12,6,2,432,1632,Duke Blue Devils,three point jumper,True,False,True,Taina Mair,False,,46.0,12.0
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl Defensive Rebound.,12,6,2,432,1632,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers made Layup. Assisted by Nika Muhl.,14,6,2,422,1622,UConn Huskies,layup,True,True,False,Paige Bueckers,True,Nika Muhl,23.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Foul on Ashlon Jackson.,14,6,2,422,1622,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers made Free Throw.,15,6,2,422,1622,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Duke  Turnover.,15,6,2,391,1591,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Jumper.,15,6,2,379,1579,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,27.0,16.0
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Offensive Rebound.,15,6,2,379,1579,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Jadyn Donovan.,15,6,2,374,1574,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Layup.,15,6,2,366,1566,UConn Huskies,layup,True,False,False,Paige Bueckers,False,,23.0,3.0
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Defensive Rebound.,15,6,2,366,1566,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Taina Mair Turnover.,15,6,2,355,1555,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold Steal.,15,6,2,355,1555,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Turnover.,15,6,2,352,1552,UConn Huskies,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Taina Mair Steal.,15,6,2,352,1552,Duke Blue Devils,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlon Jackson missed Jumper.,15,6,2,335,1535,Duke Blue Devils,jumper,True,False,False,Ashlon Jackson,False,,26.0,17.0
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold Defensive Rebound.,15,6,2,335,1535,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl missed Layup.,15,6,2,307,1507,UConn Huskies,layup,True,False,False,Nika Muhl,False,,28.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown Defensive Rebound.,15,6,2,307,1507,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown Turnover.,15,6,2,302,1502,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold Steal.,15,6,2,302,1502,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold missed Layup.,15,6,2,297,1497,UConn Huskies,layup,True,False,False,KK Arnold,False,,27.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl Offensive Rebound.,15,6,2,297,1497,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Taina Mair.,15,6,2,296,1496,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils, Official TV Timeout,15,6,2,296,1496,,tv timeout,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers Turnover.,15,6,2,296,1496,UConn Huskies,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson Steal.,15,6,2,296,1496,Duke Blue Devils,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa made Jumper. Assisted by Emma Koabel.,15,8,2,289,1489,Duke Blue Devils,jumper,True,True,False,Oluchi Okananwa,True,Emma Koabel,21.0,17.0
+401637604,UConn Huskies,Duke Blue Devils,Jump Ball won by UConn,15,8,2,266,1466,UConn Huskies,jump ball,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers made Layup.,17,8,2,262,1462,UConn Huskies,layup,True,True,False,Paige Bueckers,False,,23.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson missed Jumper.,17,8,2,234,1434,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,21.0,13.0
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers Defensive Rebound.,17,8,2,234,1434,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards made Jumper. Assisted by KK Arnold.,19,8,2,219,1419,UConn Huskies,jumper,True,True,False,Aaliyah Edwards,True,KK Arnold,21.0,19.0
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson missed Three Point Jumper.,19,8,2,205,1405,Duke Blue Devils,three point jumper,True,False,True,Reigan Richardson,False,,44.0,16.0
+401637604,UConn Huskies,Duke Blue Devils,Ashlynn Shade Defensive Rebound.,19,8,2,205,1405,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards made Layup. Assisted by Nika Muhl.,21,8,2,183,1383,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,Nika Muhl,23.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Foul on Reigan Richardson.,21,8,2,183,1383,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards missed Free Throw.,21,8,2,183,1383,UConn Huskies,free throw,True,False,False,Aaliyah Edwards,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown Defensive Rebound.,21,8,2,183,1383,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa missed Three Point Jumper.,21,8,2,170,1370,Duke Blue Devils,three point jumper,True,False,True,Oluchi Okananwa,False,,49.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Duke Offensive Rebound.,21,8,2,170,1370,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on KK Arnold.,21,8,2,170,1370,UConn Huskies,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Aaliyah Edwards.,21,8,2,160,1360,UConn Huskies,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa made Free Throw.,21,9,2,160,1360,Duke Blue Devils,free throw,True,True,False,Oluchi Okananwa,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa missed Free Throw.,21,9,2,160,1360,Duke Blue Devils,free throw,True,False,False,Oluchi Okananwa,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Defensive Rebound.,21,9,2,160,1360,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold missed Layup.,21,9,2,130,1330,UConn Huskies,layup,True,False,False,KK Arnold,False,,27.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Delaney Thomas Defensive Rebound.,21,9,2,130,1330,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson missed Jumper.,21,9,2,107,1307,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,43.0,5.0
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Offensive Rebound.,21,9,2,107,1307,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Aaliyah Edwards.,21,9,2,102,1302,UConn Huskies,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa missed Free Throw.,21,9,2,102,1302,Duke Blue Devils,free throw,True,False,False,Oluchi Okananwa,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Duke Deadball Team Rebound.,21,9,2,102,1302,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa made Free Throw.,21,10,2,102,1302,Duke Blue Devils,free throw,True,True,False,Oluchi Okananwa,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jump Ball won by Duke,21,10,2,76,1276,Duke Blue Devils,jump ball,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers Turnover.,21,10,2,76,1276,UConn Huskies,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Delaney Thomas Steal.,21,10,2,76,1276,Duke Blue Devils,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlon Jackson missed Layup.,21,10,2,47,1247,Duke Blue Devils,layup,True,False,False,Ashlon Jackson,False,,21.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers Defensive Rebound.,21,10,2,47,1247,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold made Layup. Assisted by Paige Bueckers.,23,10,2,41,1241,UConn Huskies,layup,True,True,False,KK Arnold,True,Paige Bueckers,27.0,0.0
+401637604,UConn Huskies,Duke Blue Devils,Ashlon Jackson made Three Point Jumper.,23,13,2,18,1218,Duke Blue Devils,three point jumper,True,True,True,Ashlon Jackson,False,,45.0,15.0
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Three Point Jumper.,23,13,2,3,1203,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,16.0,24.0
+401637604,UConn Huskies,Duke Blue Devils,Delaney Thomas Defensive Rebound.,23,13,2,3,1203,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,End of 2nd Quarter,23,13,2,0,1200,,end,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jump Ball won by UConn,23,13,3,600,1200,UConn Huskies,jump ball,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold missed Three Point Jumper.,23,13,3,589,1189,UConn Huskies,three point jumper,True,False,True,KK Arnold,False,,48.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson Defensive Rebound.,23,13,3,589,1189,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson made Jumper.,23,15,3,571,1171,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,False,,29.0,10.0
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers made Three Point Jumper. Assisted by KK Arnold.,26,15,3,563,1163,UConn Huskies,three point jumper,True,True,True,Paige Bueckers,True,KK Arnold,6.0,17.0
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson missed Jumper.,26,15,3,550,1150,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,22.0,17.0
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown Offensive Rebound.,26,15,3,550,1150,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown made Jumper.,26,17,3,544,1144,Duke Blue Devils,jumper,True,True,False,Kennedy Brown,False,,24.0,3.0
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers made Three Point Jumper. Assisted by Aaliyah Edwards.,29,17,3,534,1134,UConn Huskies,three point jumper,True,True,True,Paige Bueckers,True,Aaliyah Edwards,39.0,22.0
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown missed Jumper.,29,17,3,507,1107,Duke Blue Devils,jumper,True,False,False,Kennedy Brown,False,,26.0,6.0
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl Defensive Rebound.,29,17,3,507,1107,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlynn Shade Turnover.,29,17,3,495,1095,UConn Huskies,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Taina Mair Turnover.,29,17,3,483,1083,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold Steal.,29,17,3,483,1083,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold made Layup.,31,17,3,479,1079,UConn Huskies,layup,True,True,False,KK Arnold,False,,22.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Foul on KK Arnold.,31,17,3,461,1061,UConn Huskies,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan Turnover.,31,17,3,451,1051,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold made Jumper. Assisted by Nika Muhl.,33,17,3,437,1037,UConn Huskies,jumper,True,True,False,KK Arnold,True,Nika Muhl,25.0,7.0
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown missed Jumper.,33,17,3,418,1018,Duke Blue Devils,jumper,True,False,False,Kennedy Brown,False,,25.0,3.0
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Defensive Rebound.,33,17,3,418,1018,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold missed Three Point Jumper.,33,17,3,400,1000,UConn Huskies,three point jumper,True,False,True,KK Arnold,False,,44.0,16.0
+401637604,UConn Huskies,Duke Blue Devils,Delaney Thomas Defensive Rebound.,33,17,3,400,1000,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa missed Three Point Jumper.,33,17,3,383,983,Duke Blue Devils,three point jumper,True,False,True,Oluchi Okananwa,False,,10.0,21.0
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Offensive Rebound.,33,17,3,383,983,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa made Layup.,33,19,3,377,977,Duke Blue Devils,layup,True,True,False,Oluchi Okananwa,False,,23.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Ashlynn Shade missed Three Point Jumper.,33,19,3,358,958,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,49.0,-1.0
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown Defensive Rebound.,33,19,3,358,958,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Oluchi Okananwa.,33,19,3,336,936,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Turnover.,33,19,3,336,936,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Kennedy Brown.,33,19,3,313,913,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Jumper.,33,19,3,296,896,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,18.0,4.0
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown Defensive Rebound.,33,19,3,296,896,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa missed Three Point Jumper.,33,19,3,271,871,Duke Blue Devils,three point jumper,True,False,True,Oluchi Okananwa,False,,12.0,22.0
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown Offensive Rebound.,33,19,3,271,871,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown missed Layup.,33,19,3,269,869,Duke Blue Devils,layup,True,False,False,Kennedy Brown,False,,28.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Defensive Rebound.,33,19,3,269,869,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Kennedy Brown.,33,19,3,267,867,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils, Official TV Timeout,33,19,3,267,867,,tv timeout,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Aaliyah Edwards.,33,19,3,258,858,UConn Huskies,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Turnover.,33,19,3,258,858,UConn Huskies,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Taina Mair Turnover.,33,19,3,248,848,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl Steal.,33,19,3,248,848,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Reigan Richardson.,33,19,3,248,848,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers made Jumper. Assisted by Ice Brady.,35,19,3,233,833,UConn Huskies,jumper,True,True,False,Paige Bueckers,True,Ice Brady,29.0,18.0
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Turnover.,35,19,3,220,820,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl Steal.,35,19,3,220,820,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers made Jumper. Assisted by Nika Muhl.,37,19,3,208,808,UConn Huskies,jumper,True,True,False,Paige Bueckers,True,Nika Muhl,14.0,7.0
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson missed Three Point Jumper.,37,19,3,187,787,Duke Blue Devils,three point jumper,True,False,True,Reigan Richardson,False,,42.0,19.0
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold Defensive Rebound.,37,19,3,187,787,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Oluchi Okananwa.,37,19,3,178,778,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold made Free Throw.,38,19,3,178,778,UConn Huskies,free throw,True,True,False,KK Arnold,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold made Free Throw.,39,19,3,178,778,UConn Huskies,free throw,True,True,False,KK Arnold,False,,,
+401637604,UConn Huskies,Duke Blue Devils,UConn  Timeout,39,19,3,178,778,UConn Huskies,timeout,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils, Official TV Timeout,39,19,3,178,778,,tv timeout,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Camilla Emsbo missed Jumper.,39,19,3,167,767,Duke Blue Devils,jumper,True,False,False,Camilla Emsbo,False,,23.0,4.0
+401637604,UConn Huskies,Duke Blue Devils,Ice Brady Block.,39,19,3,167,767,UConn Huskies,block,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan Offensive Rebound.,39,19,3,167,767,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Ice Brady.,39,19,3,157,757,UConn Huskies,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa made Three Point Jumper. Assisted by Taina Mair.,39,22,3,150,750,Duke Blue Devils,three point jumper,True,True,True,Oluchi Okananwa,True,Taina Mair,2.0,7.0
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold missed Three Point Jumper.,39,22,3,126,726,UConn Huskies,three point jumper,True,False,True,KK Arnold,False,,48.0,0.0
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Defensive Rebound.,39,22,3,126,726,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Camilla Emsbo Turnover.,39,22,3,104,704,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Camilla Emsbo.,39,22,3,104,704,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl made Three Point Jumper. Assisted by KK Arnold.,42,22,3,80,680,UConn Huskies,three point jumper,True,True,True,Nika Muhl,True,KK Arnold,5.0,14.0
+401637604,UConn Huskies,Duke Blue Devils,Camilla Emsbo made Jumper. Assisted by Taina Mair.,42,24,3,63,663,Duke Blue Devils,jumper,True,True,False,Camilla Emsbo,True,Taina Mair,22.0,5.0
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold missed Three Point Jumper.,42,24,3,49,649,UConn Huskies,three point jumper,True,False,True,KK Arnold,False,,3.0,11.0
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan Defensive Rebound.,42,24,3,49,649,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Taina Mair made Three Point Jumper. Assisted by Jadyn Donovan.,42,27,3,38,638,Duke Blue Devils,three point jumper,True,True,True,Taina Mair,True,Jadyn Donovan,49.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl Turnover.,42,27,3,7,607,UConn Huskies,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson missed Three Point Jumper.,42,27,3,1,601,Duke Blue Devils,three point jumper,True,False,True,Reigan Richardson,False,,1.0,0.0
+401637604,UConn Huskies,Duke Blue Devils,Duke Deadball Team Rebound.,42,27,3,1,601,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,End of 3rd Quarter,42,27,3,0,600,,end,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jump Ball won by Duke,42,27,4,600,600,Duke Blue Devils,jump ball,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Taina Mair Turnover.,42,27,4,595,595,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers made Layup. Assisted by Nika Muhl.,44,27,4,577,577,UConn Huskies,layup,True,True,False,Paige Bueckers,True,Nika Muhl,23.0,3.0
+401637604,UConn Huskies,Duke Blue Devils,Camilla Emsbo made Layup. Assisted by Jadyn Donovan.,44,29,4,568,568,Duke Blue Devils,layup,True,True,False,Camilla Emsbo,True,Jadyn Donovan,27.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Jump Ball won by UConn,44,29,4,544,544,UConn Huskies,jump ball,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Jumper.,44,29,4,538,538,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,27.0,11.0
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers Offensive Rebound.,44,29,4,538,538,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl missed Three Point Jumper.,44,29,4,517,517,UConn Huskies,three point jumper,True,False,True,Nika Muhl,False,,49.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Ashlon Jackson Defensive Rebound.,44,29,4,517,517,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson made Layup.,44,31,4,505,505,Duke Blue Devils,layup,True,True,False,Reigan Richardson,False,,23.0,3.0
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold made Jumper.,46,31,4,475,475,UConn Huskies,jumper,True,True,False,KK Arnold,False,,21.0,6.0
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa missed Jumper.,46,31,4,460,460,Duke Blue Devils,jumper,True,False,False,Oluchi Okananwa,False,,12.0,5.0
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers Block.,46,31,4,460,460,UConn Huskies,block,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl Defensive Rebound.,46,31,4,460,460,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Oluchi Okananwa.,46,31,4,438,438,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold missed Layup.,46,31,4,423,423,UConn Huskies,layup,True,False,False,KK Arnold,False,,21.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan Block.,46,31,4,423,423,Duke Blue Devils,block,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,UConn Offensive Rebound.,46,31,4,423,423,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ice Brady Turnover.,46,31,4,423,423,UConn Huskies,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan Steal.,46,31,4,423,423,Duke Blue Devils,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan made Layup.,46,33,4,420,420,Duke Blue Devils,layup,True,True,False,Jadyn Donovan,False,,27.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Jumper.,46,33,4,392,392,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,35.0,5.0
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Defensive Rebound.,46,33,4,392,392,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Turnover.,46,33,4,386,386,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl Steal.,46,33,4,386,386,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ice Brady made Jumper. Assisted by Nika Muhl.,48,33,4,382,382,UConn Huskies,jumper,True,True,False,Ice Brady,True,Nika Muhl,25.0,3.0
+401637604,UConn Huskies,Duke Blue Devils,Foul on Ashlynn Shade.,48,33,4,366,366,UConn Huskies,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlon Jackson made Free Throw.,48,34,4,366,366,Duke Blue Devils,free throw,True,True,False,Ashlon Jackson,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlon Jackson made Free Throw.,48,35,4,366,366,Duke Blue Devils,free throw,True,True,False,Ashlon Jackson,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlynn Shade missed Jumper.,48,35,4,335,335,UConn Huskies,jumper,True,False,False,Ashlynn Shade,False,,39.0,11.0
+401637604,UConn Huskies,Duke Blue Devils,Duke Defensive Rebound.,48,35,4,335,335,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa missed Three Point Jumper.,48,35,4,313,313,Duke Blue Devils,three point jumper,True,False,True,Oluchi Okananwa,False,,48.0,4.0
+401637604,UConn Huskies,Duke Blue Devils,Ice Brady Defensive Rebound.,48,35,4,313,313,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Three Point Jumper.,48,35,4,291,291,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,17.0,27.0
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan Defensive Rebound.,48,35,4,291,291,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa made Layup. Assisted by Jadyn Donovan.,48,37,4,286,286,Duke Blue Devils,layup,True,True,False,Oluchi Okananwa,True,Jadyn Donovan,28.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Foul on Ashlynn Shade.,48,37,4,286,286,UConn Huskies,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils, Official TV Timeout,48,37,4,286,286,,tv timeout,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa made Free Throw.,48,38,4,286,286,Duke Blue Devils,free throw,True,True,False,Oluchi Okananwa,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Three Point Jumper.,48,38,4,257,257,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,46.0,15.0
+401637604,UConn Huskies,Duke Blue Devils,Ashlon Jackson Defensive Rebound.,48,38,4,257,257,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown missed Layup.,48,38,4,247,247,Duke Blue Devils,layup,True,False,False,Kennedy Brown,False,,23.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers Block.,48,38,4,247,247,UConn Huskies,block,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown Offensive Rebound.,48,38,4,247,247,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown missed Layup.,48,38,4,247,247,Duke Blue Devils,layup,True,False,False,Kennedy Brown,False,,26.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Ice Brady Block.,48,38,4,247,247,UConn Huskies,block,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Duke Offensive Rebound.,48,38,4,247,247,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa missed Jumper.,48,38,4,234,234,Duke Blue Devils,jumper,True,False,False,Oluchi Okananwa,False,,27.0,5.0
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold Defensive Rebound.,48,38,4,234,234,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Nika Muhl missed Layup.,48,38,4,201,201,UConn Huskies,layup,True,False,False,Nika Muhl,False,,23.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson Block.,48,38,4,201,201,Duke Blue Devils,block,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown Defensive Rebound.,48,38,4,201,201,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan Turnover.,48,38,4,191,191,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers Steal.,48,38,4,191,191,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ice Brady missed Jumper.,48,38,4,164,164,UConn Huskies,jumper,True,False,False,Ice Brady,False,,18.0,17.0
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan Block.,48,38,4,164,164,Duke Blue Devils,block,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,UConn Deadball Team Rebound.,48,38,4,164,164,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,UConn  Turnover.,48,38,4,164,164,UConn Huskies,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson made Jumper.,48,40,4,149,149,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,False,,23.0,9.0
+401637604,UConn Huskies,Duke Blue Devils,UConn  Timeout,48,40,4,137,137,UConn Huskies,timeout,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold missed Layup.,48,40,4,127,127,UConn Huskies,layup,True,False,False,KK Arnold,False,,22.0,2.0
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown Block.,48,40,4,127,127,Duke Blue Devils,block,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan Defensive Rebound.,48,40,4,127,127,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa made Three Point Jumper. Assisted by Ashlon Jackson.,48,43,4,116,116,Duke Blue Devils,three point jumper,True,True,True,Oluchi Okananwa,True,Ashlon Jackson,10.0,22.0
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold Turnover.,48,43,4,106,106,UConn Huskies,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson missed Jumper.,48,43,4,95,95,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,25.0,10.0
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Offensive Rebound.,48,43,4,95,95,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Oluchi Okananwa Turnover.,48,43,4,89,89,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers Steal.,48,43,4,89,89,UConn Huskies,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards made Jumper.,50,43,4,67,67,UConn Huskies,jumper,True,True,False,Aaliyah Edwards,False,,25.0,18.0
+401637604,UConn Huskies,Duke Blue Devils,Kennedy Brown made Layup. Assisted by Reigan Richardson.,50,45,4,52,52,Duke Blue Devils,layup,True,True,False,Kennedy Brown,True,Reigan Richardson,24.0,1.0
+401637604,UConn Huskies,Duke Blue Devils,Duke  Timeout,50,45,4,52,52,Duke Blue Devils,timeout,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jump Ball won by Duke,50,45,4,50,50,Duke Blue Devils,jump ball,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,KK Arnold Turnover.,50,45,4,50,50,UConn Huskies,turnover,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlon Jackson Steal.,50,45,4,50,50,Duke Blue Devils,steal,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jadyn Donovan missed Jumper.,50,45,4,42,42,Duke Blue Devils,jumper,True,False,False,Jadyn Donovan,False,,21.0,5.0
+401637604,UConn Huskies,Duke Blue Devils,Aaliyah Edwards Defensive Rebound.,50,45,4,42,42,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Kennedy Brown.,50,45,4,37,37,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,UConn  Timeout,50,45,4,37,37,UConn Huskies,timeout,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Ashlon Jackson.,50,45,4,31,31,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Jump Ball won by UConn,50,45,4,28,28,UConn Huskies,jump ball,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Oluchi Okananwa.,50,45,4,22,22,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Reigan Richardson.,50,45,4,20,20,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers made Free Throw.,51,45,4,20,20,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers made Free Throw.,52,45,4,20,20,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Duke  Timeout,52,45,4,20,20,Duke Blue Devils,timeout,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Ashlon Jackson missed Three Point Jumper.,52,45,4,10,10,Duke Blue Devils,three point jumper,True,False,True,Ashlon Jackson,False,,44.0,18.0
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers Defensive Rebound.,52,45,4,10,10,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Foul on Kennedy Brown.,52,45,4,6,6,Duke Blue Devils,foul,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers missed Free Throw.,52,45,4,6,6,UConn Huskies,free throw,True,False,False,Paige Bueckers,False,,,
+401637604,UConn Huskies,Duke Blue Devils,UConn Deadball Team Rebound.,52,45,4,6,6,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Paige Bueckers made Free Throw.,53,45,4,6,6,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637604,UConn Huskies,Duke Blue Devils,Reigan Richardson missed Three Point Jumper.,53,45,4,2,2,Duke Blue Devils,three point jumper,True,False,True,Reigan Richardson,False,,45.0,17.0
+401637604,UConn Huskies,Duke Blue Devils,Ashlynn Shade Defensive Rebound.,53,45,4,2,2,UConn Huskies,rebound,False,False,False,,False,,,
+401637604,UConn Huskies,Duke Blue Devils,End of Game,53,45,4,0,0,,end,False,False,False,,False,,,

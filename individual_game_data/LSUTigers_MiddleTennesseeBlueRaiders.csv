@@ -1,0 +1,361 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jump Ball won by LSU,0,0,1,600,2400,LSU Tigers,jump ball,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson missed Three Point Jumper.,0,0,1,588,2388,LSU Tigers,three point jumper,True,False,True,Flau'jae Johnson,False,,2.0,4.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Defensive Rebound.,0,0,1,588,2388,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Jumper.,0,0,1,572,2372,Middle Tennessee Blue Raiders,jumper,True,False,False,Savannah Wheeler,False,,19.0,17.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Defensive Rebound.,0,0,1,572,2372,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Courtney Whitson.,0,0,1,565,2365,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams missed Jumper.,0,0,1,560,2360,LSU Tigers,jumper,True,False,False,Mikaylah Williams,False,,40.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott Defensive Rebound.,0,0,1,560,2360,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory missed Three Point Jumper.,0,0,1,525,2325,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Jalynn Gregory,False,,4.0,16.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Middle Tennessee Deadball Team Rebound.,0,0,1,525,2325,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Middle Tennessee  Turnover.,0,0,1,525,2325,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow made Layup.,2,0,1,519,2319,LSU Tigers,layup,True,True,False,Aneesah Morrow,False,,23.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler made Jumper.,2,2,1,503,2303,Middle Tennessee Blue Raiders,jumper,True,True,False,Savannah Wheeler,False,,20.0,6.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow made Jumper. Assisted by Hailey Van Lith.,4,2,1,489,2289,LSU Tigers,jumper,True,True,False,Aneesah Morrow,True,Hailey Van Lith,25.0,5.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler made Layup.,4,4,1,481,2281,Middle Tennessee Blue Raiders,layup,True,True,False,Savannah Wheeler,False,,20.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow missed Jumper.,4,4,1,457,2257,LSU Tigers,jumper,True,False,False,Aneesah Morrow,False,,26.0,19.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Middle Tennessee Defensive Rebound.,4,4,1,457,2257,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Jumper.,4,4,1,442,2242,Middle Tennessee Blue Raiders,jumper,True,False,False,Ta'Mia Scott,False,,25.0,7.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams Defensive Rebound.,4,4,1,442,2242,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Last-Tear Poa missed Layup.,4,4,1,435,2235,LSU Tigers,layup,True,False,False,Last-Tear Poa,False,,27.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Defensive Rebound.,4,4,1,435,2235,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott made Three Point Jumper. Assisted by Savannah Wheeler.,4,7,1,428,2228,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Ta'Mia Scott,True,Savannah Wheeler,48.0,5.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Layup. Assisted by Flau'jae Johnson.,6,7,1,414,2214,LSU Tigers,layup,True,True,False,Angel Reese,True,Flau'jae Johnson,23.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Ta'Mia Scott.,6,7,1,414,2214,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese missed Free Throw.,6,7,1,414,2214,LSU Tigers,free throw,True,False,False,Angel Reese,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Defensive Rebound.,6,7,1,414,2214,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory missed Three Point Jumper.,6,7,1,391,2191,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Jalynn Gregory,False,,45.0,14.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson Defensive Rebound.,6,7,1,391,2191,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Layup.,8,7,1,387,2187,LSU Tigers,layup,True,True,False,Flau'jae Johnson,False,,27.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Three Point Jumper.,8,7,1,370,2170,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Savannah Wheeler,False,,8.0,19.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Last-Tear Poa Defensive Rebound.,8,7,1,370,2170,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams made Jumper. Assisted by Last-Tear Poa.,10,7,1,353,2153,LSU Tigers,jumper,True,True,False,Mikaylah Williams,True,Last-Tear Poa,18.0,4.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson missed Three Point Jumper.,10,7,1,340,2140,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Courtney Whitson,False,,37.0,21.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Defensive Rebound.,10,7,1,340,2140,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow missed Three Point Jumper.,10,7,1,325,2125,LSU Tigers,three point jumper,True,False,True,Aneesah Morrow,False,,10.0,20.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson Defensive Rebound.,10,7,1,325,2125,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Last-Tear Poa.,10,7,1,307,2107,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Three Point Jumper.,10,7,1,290,2090,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Savannah Wheeler,False,,7.0,16.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Defensive Rebound.,10,7,1,290,2090,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese missed Layup.,10,7,1,278,2078,LSU Tigers,layup,True,False,False,Angel Reese,False,,28.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Offensive Rebound.,10,7,1,278,2078,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Anastasiia Boldyreva.,10,7,1,276,2076,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders, Official TV Timeout,10,7,1,276,2076,,tv timeout,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Jumper. Assisted by Last-Tear Poa.,12,7,1,274,2074,LSU Tigers,jumper,True,True,False,Flau'jae Johnson,True,Last-Tear Poa,24.0,4.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Anastasiia Boldyreva.,12,7,1,252,2052,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Turnover.,12,7,1,252,2052,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese missed Jumper.,12,7,1,242,2042,LSU Tigers,jumper,True,False,False,Angel Reese,False,,15.0,14.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Defensive Rebound.,12,7,1,242,2042,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Three Point Jumper.,12,7,1,233,2033,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Savannah Wheeler,False,,24.0,23.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Defensive Rebound.,12,7,1,233,2033,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams missed Three Point Jumper.,12,7,1,221,2021,LSU Tigers,three point jumper,True,False,True,Mikaylah Williams,False,,1.0,0.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Defensive Rebound.,12,7,1,221,2021,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Three Point Jumper.,12,7,1,199,1999,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Ta'Mia Scott,False,,46.0,14.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Defensive Rebound.,12,7,1,199,1999,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jump Ball won by Middle Tennessee,12,7,1,189,1989,Middle Tennessee Blue Raiders,jump ball,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Turnover.,12,7,1,189,1989,LSU Tigers,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson Steal.,12,7,1,189,1989,Middle Tennessee Blue Raiders,steal,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Savannah Wheeler.,12,7,1,172,1972,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Turnover.,12,7,1,172,1972,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese missed Layup.,12,7,1,163,1963,LSU Tigers,layup,True,False,False,Angel Reese,False,,29.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson Defensive Rebound.,12,7,1,163,1963,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory made Three Point Jumper. Assisted by Savannah Wheeler.,12,10,1,135,1935,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Jalynn Gregory,True,Savannah Wheeler,2.0,0.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Last-Tear Poa made Three Point Jumper. Assisted by Flau'jae Johnson.,15,10,1,113,1913,LSU Tigers,three point jumper,True,True,True,Last-Tear Poa,True,Flau'jae Johnson,42.0,17.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Three Point Jumper.,15,10,1,94,1894,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Savannah Wheeler,False,,35.0,23.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Iullia Grabovskaia Offensive Rebound.,15,10,1,94,1894,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Last-Tear Poa.,15,10,1,76,1876,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Free Throw.,15,10,1,76,1876,Middle Tennessee Blue Raiders,free throw,True,False,False,Ta'Mia Scott,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Middle Tennessee Deadball Team Rebound.,15,10,1,76,1876,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Free Throw.,15,10,1,76,1876,Middle Tennessee Blue Raiders,free throw,True,False,False,Ta'Mia Scott,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Defensive Rebound.,15,10,1,76,1876,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow made Three Point Jumper. Assisted by Angel Reese.,18,10,1,58,1858,LSU Tigers,three point jumper,True,True,True,Aneesah Morrow,True,Angel Reese,30.0,25.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler made Jumper.,18,12,1,39,1839,Middle Tennessee Blue Raiders,jumper,True,True,False,Savannah Wheeler,False,,20.0,4.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Jalynn Gregory.,18,12,1,19,1819,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Free Throw.,19,12,1,19,1819,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Free Throw.,20,12,1,19,1819,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory made Three Point Jumper. Assisted by Courtney Whitson.,20,15,1,7,1807,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Jalynn Gregory,True,Courtney Whitson,44.0,21.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,End of 1st Quarter,20,15,1,0,1800,,end,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jump Ball won by LSU,20,15,2,600,1800,LSU Tigers,jump ball,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Layup. Assisted by Hailey Van Lith.,22,15,2,577,1777,LSU Tigers,layup,True,True,False,Angel Reese,True,Hailey Van Lith,24.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Turnover.,22,15,2,566,1766,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Iullia Grabovskaia.,22,15,2,556,1756,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Hailey Van Lith missed Jumper.,22,15,2,553,1753,LSU Tigers,jumper,True,False,False,Hailey Van Lith,False,,11.0,12.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Offensive Rebound.,22,15,2,553,1753,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow made Layup.,24,15,2,548,1748,LSU Tigers,layup,True,True,False,Aneesah Morrow,False,,28.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott made Three Point Jumper. Assisted by Iullia Grabovskaia.,24,18,2,523,1723,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Ta'Mia Scott,True,Iullia Grabovskaia,48.0,4.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese missed Layup.,24,18,2,512,1712,LSU Tigers,layup,True,False,False,Angel Reese,False,,27.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Iullia Grabovskaia Defensive Rebound.,24,18,2,512,1712,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Three Point Jumper.,24,18,2,506,1706,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Ta'Mia Scott,False,,44.0,17.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson Offensive Rebound.,24,18,2,506,1706,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott made Layup. Assisted by Courtney Whitson.,24,20,2,500,1700,Middle Tennessee Blue Raiders,layup,True,True,False,Ta'Mia Scott,True,Courtney Whitson,23.0,4.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Angel Reese.,24,20,2,489,1689,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Turnover.,24,20,2,489,1689,LSU Tigers,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Iullia Grabovskaia.,24,20,2,479,1679,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Iullia Grabovskaia Turnover.,24,20,2,479,1679,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Jalynn Gregory.,24,20,2,466,1666,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aalyah Del Rosario Turnover.,24,20,2,463,1663,LSU Tigers,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Jumper.,24,20,2,455,1655,Middle Tennessee Blue Raiders,jumper,True,False,False,Savannah Wheeler,False,,14.0,12.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Defensive Rebound.,24,20,2,455,1655,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Courtney Whitson.,24,20,2,451,1651,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow missed Three Point Jumper.,24,20,2,437,1637,LSU Tigers,three point jumper,True,False,True,Aneesah Morrow,False,,38.0,23.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams Offensive Rebound.,24,20,2,437,1637,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams Turnover.,24,20,2,431,1631,LSU Tigers,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Aalyah Del Rosario.,24,20,2,421,1621,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Hailey Van Lith.,24,20,2,412,1612,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler made Free Throw.,24,21,2,412,1612,Middle Tennessee Blue Raiders,free throw,True,True,False,Savannah Wheeler,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler made Free Throw.,24,22,2,412,1612,Middle Tennessee Blue Raiders,free throw,True,True,False,Savannah Wheeler,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson missed Jumper.,24,22,2,398,1598,LSU Tigers,jumper,True,False,False,Flau'jae Johnson,False,,42.0,14.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jada Grannum Defensive Rebound.,24,22,2,390,1590,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Aneesah Morrow.,24,22,2,389,1589,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Jumper.,24,22,2,374,1574,Middle Tennessee Blue Raiders,jumper,True,False,False,Ta'Mia Scott,False,,37.0,13.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jada Grannum Offensive Rebound.,24,22,2,374,1574,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Three Point Jumper.,24,22,2,353,1553,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Savannah Wheeler,False,,32.0,25.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Offensive Rebound.,24,22,2,353,1553,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory missed Three Point Jumper.,24,22,2,345,1545,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Jalynn Gregory,False,,45.0,14.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Defensive Rebound.,24,22,2,345,1545,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Layup. Assisted by Aneesah Morrow.,26,22,2,335,1535,LSU Tigers,layup,True,True,False,Angel Reese,True,Aneesah Morrow,23.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Jalynn Gregory.,26,22,2,335,1535,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese missed Free Throw.,26,22,2,335,1535,LSU Tigers,free throw,True,False,False,Angel Reese,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jada Grannum Defensive Rebound.,26,22,2,335,1535,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Anastasiia Boldyreva made Three Point Jumper. Assisted by Savannah Wheeler.,26,25,2,315,1515,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Anastasiia Boldyreva,True,Savannah Wheeler,14.0,21.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow missed Jumper.,26,25,2,299,1499,LSU Tigers,jumper,True,False,False,Aneesah Morrow,False,,16.0,16.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Defensive Rebound.,26,25,2,299,1499,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler made Layup.,26,27,2,294,1494,Middle Tennessee Blue Raiders,layup,True,True,False,Savannah Wheeler,False,,27.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams missed Three Point Jumper.,26,27,2,281,1481,LSU Tigers,three point jumper,True,False,True,Mikaylah Williams,False,,10.0,20.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jada Grannum Defensive Rebound.,26,27,2,281,1481,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson missed Three Point Jumper.,26,27,2,272,1472,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Courtney Whitson,False,,48.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Defensive Rebound.,26,27,2,272,1472,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Hailey Van Lith missed Three Point Jumper.,26,27,2,245,1445,LSU Tigers,three point jumper,True,False,True,Hailey Van Lith,False,,39.0,22.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott Defensive Rebound.,26,27,2,245,1445,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Anastasiia Boldyreva made Layup. Assisted by Savannah Wheeler.,26,29,2,235,1435,Middle Tennessee Blue Raiders,layup,True,True,False,Anastasiia Boldyreva,True,Savannah Wheeler,21.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams missed Jumper.,26,29,2,216,1416,LSU Tigers,jumper,True,False,False,Mikaylah Williams,False,,21.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jada Grannum Defensive Rebound.,26,29,2,216,1416,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Three Point Jumper.,26,29,2,210,1410,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Ta'Mia Scott,False,,44.0,15.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson Defensive Rebound.,26,29,2,210,1410,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Savannah Wheeler.,26,29,2,200,1400,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders, Official TV Timeout,26,29,2,200,1400,,tv timeout,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Free Throw.,27,29,2,200,1400,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Free Throw.,28,29,2,200,1400,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Aneesah Morrow.,28,29,2,185,1385,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson made Free Throw.,28,30,2,185,1385,Middle Tennessee Blue Raiders,free throw,True,True,False,Courtney Whitson,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson made Free Throw.,28,31,2,185,1385,Middle Tennessee Blue Raiders,free throw,True,True,False,Courtney Whitson,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Jumper.,30,31,2,168,1368,LSU Tigers,jumper,True,True,False,Flau'jae Johnson,False,,40.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Jumper.,30,31,2,150,1350,Middle Tennessee Blue Raiders,jumper,True,False,False,Savannah Wheeler,False,,35.0,10.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aalyah Del Rosario Defensive Rebound.,30,31,2,150,1350,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Aalyah Del Rosario.,30,31,2,148,1348,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aalyah Del Rosario Turnover.,30,31,2,148,1348,LSU Tigers,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott made Jumper.,30,33,2,131,1331,Middle Tennessee Blue Raiders,jumper,True,True,False,Ta'Mia Scott,False,,32.0,10.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Hailey Van Lith Turnover.,30,33,2,114,1314,LSU Tigers,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Jumper.,30,33,2,100,1300,Middle Tennessee Blue Raiders,jumper,True,False,False,Savannah Wheeler,False,,24.0,16.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott Offensive Rebound.,30,33,2,100,1300,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Jumper.,30,33,2,95,1295,Middle Tennessee Blue Raiders,jumper,True,False,False,Ta'Mia Scott,False,,25.0,4.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams Defensive Rebound.,30,33,2,95,1295,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese missed Layup.,30,33,2,88,1288,LSU Tigers,layup,True,False,False,Angel Reese,False,,24.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson Defensive Rebound.,30,33,2,88,1288,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott made Three Point Jumper. Assisted by Savannah Wheeler.,30,36,2,81,1281,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Ta'Mia Scott,True,Savannah Wheeler,47.0,9.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese missed Jumper.,30,36,2,71,1271,LSU Tigers,jumper,True,False,False,Angel Reese,False,,23.0,5.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jada Grannum Defensive Rebound.,30,36,2,71,1271,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson Turnover.,30,36,2,64,1264,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese missed Jumper.,30,36,2,50,1250,LSU Tigers,jumper,True,False,False,Angel Reese,False,,24.0,18.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jada Grannum Defensive Rebound.,30,36,2,50,1250,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Turnover.,30,36,2,21,1221,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams made Jumper. Assisted by Aalyah Del Rosario.,32,36,2,3,1203,LSU Tigers,jumper,True,True,False,Mikaylah Williams,True,Aalyah Del Rosario,33.0,12.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Ta'Mia Scott.,32,36,2,3,1203,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams missed Free Throw.,32,36,2,3,1203,LSU Tigers,free throw,True,False,False,Mikaylah Williams,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott Defensive Rebound.,32,36,2,3,1203,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,End of 2nd Quarter,32,36,2,0,1200,,end,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jump Ball won by Middle Tennessee,32,36,3,600,1200,Middle Tennessee Blue Raiders,jump ball,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Anastasiia Boldyreva made Jumper. Assisted by Ta'Mia Scott.,32,38,3,576,1176,Middle Tennessee Blue Raiders,jumper,True,True,False,Anastasiia Boldyreva,True,Ta'Mia Scott,32.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Savannah Wheeler.,32,38,3,557,1157,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow missed Jumper.,32,38,3,546,1146,LSU Tigers,jumper,True,False,False,Aneesah Morrow,False,,21.0,7.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson Defensive Rebound.,32,38,3,546,1146,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler made Three Point Jumper.,32,41,3,526,1126,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Savannah Wheeler,False,,29.0,25.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Last-Tear Poa missed Layup.,32,41,3,515,1115,LSU Tigers,layup,True,False,False,Last-Tear Poa,False,,21.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Offensive Rebound.,32,41,3,515,1115,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese missed Layup.,32,41,3,507,1107,LSU Tigers,layup,True,False,False,Angel Reese,False,,28.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson Block.,32,41,3,507,1107,Middle Tennessee Blue Raiders,block,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson Defensive Rebound.,32,41,3,507,1107,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory missed Three Point Jumper.,32,41,3,502,1102,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Jalynn Gregory,False,,40.0,21.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Last-Tear Poa Defensive Rebound.,32,41,3,502,1102,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Layup. Assisted by Last-Tear Poa.,34,41,3,500,1100,LSU Tigers,layup,True,True,False,Angel Reese,True,Last-Tear Poa,23.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,LSU  Timeout,34,41,3,500,1100,LSU Tigers,timeout,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Angel Reese.,34,41,3,490,1090,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Turnover.,34,41,3,478,1078,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Last-Tear Poa Steal.,34,41,3,478,1078,LSU Tigers,steal,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams made Jumper. Assisted by Last-Tear Poa.,36,41,3,471,1071,LSU Tigers,jumper,True,True,False,Mikaylah Williams,True,Last-Tear Poa,15.0,9.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Jumper.,36,41,3,447,1047,Middle Tennessee Blue Raiders,jumper,True,False,False,Savannah Wheeler,False,,14.0,10.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams Defensive Rebound.,36,41,3,447,1047,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow missed Jumper.,36,41,3,430,1030,LSU Tigers,jumper,True,False,False,Aneesah Morrow,False,,36.0,10.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Defensive Rebound.,36,41,3,430,1030,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Turnover.,36,41,3,425,1025,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson Steal.,36,41,3,425,1025,LSU Tigers,steal,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese missed Layup.,36,41,3,420,1020,LSU Tigers,layup,True,False,False,Angel Reese,False,,22.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott Block.,36,41,3,420,1020,Middle Tennessee Blue Raiders,block,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,LSU Offensive Rebound.,36,41,3,420,1020,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Ta'Mia Scott.,36,41,3,415,1015,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Free Throw.,37,41,3,415,1015,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Free Throw.,38,41,3,415,1015,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Turnover.,38,41,3,401,1001,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Steal.,38,41,3,401,1001,LSU Tigers,steal,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams made Three Point Jumper. Assisted by Last-Tear Poa.,41,41,3,389,989,LSU Tigers,three point jumper,True,True,True,Mikaylah Williams,True,Last-Tear Poa,48.0,3.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott Turnover.,41,41,3,369,969,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams Steal.,41,41,3,369,969,LSU Tigers,steal,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson missed Jumper.,41,41,3,358,958,LSU Tigers,jumper,True,False,False,Flau'jae Johnson,False,,20.0,17.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Offensive Rebound.,41,41,3,358,958,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Anastasiia Boldyreva.,41,41,3,358,958,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams missed Three Point Jumper.,41,41,3,353,953,LSU Tigers,three point jumper,True,False,True,Mikaylah Williams,False,,3.0,11.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Defensive Rebound.,41,41,3,353,953,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Layup.,41,41,3,336,936,Middle Tennessee Blue Raiders,layup,True,False,False,Savannah Wheeler,False,,29.0,0.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson Block.,41,41,3,336,936,LSU Tigers,block,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott Offensive Rebound.,41,41,3,336,936,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Three Point Jumper.,41,41,3,327,927,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Ta'Mia Scott,False,,42.0,18.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams Defensive Rebound.,41,41,3,327,927,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Jada Grannum.,41,41,3,324,924,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Free Throw.,42,41,3,324,924,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson missed Free Throw.,42,41,3,324,924,LSU Tigers,free throw,True,False,False,Flau'jae Johnson,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson Defensive Rebound.,42,41,3,324,924,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott made Layup.,42,43,3,314,914,Middle Tennessee Blue Raiders,layup,True,True,False,Ta'Mia Scott,False,,24.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Mikaylah Williams.,42,43,3,314,914,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Free Throw.,42,43,3,314,914,Middle Tennessee Blue Raiders,free throw,True,False,False,Ta'Mia Scott,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Defensive Rebound.,42,43,3,314,914,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow missed Jumper.,42,43,3,299,899,LSU Tigers,jumper,True,False,False,Aneesah Morrow,False,,28.0,7.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Block.,42,43,3,299,899,Middle Tennessee Blue Raiders,block,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory Defensive Rebound.,42,43,3,299,899,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson missed Three Point Jumper.,42,43,3,284,884,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Courtney Whitson,False,,36.0,23.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Last-Tear Poa Defensive Rebound.,42,43,3,284,884,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Jalynn Gregory.,42,43,3,261,861,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders, Official TV Timeout,42,43,3,261,861,,tv timeout,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Free Throw.,43,43,3,261,861,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson missed Free Throw.,43,43,3,261,861,LSU Tigers,free throw,True,False,False,Flau'jae Johnson,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Offensive Rebound.,43,43,3,261,861,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Iullia Grabovskaia.,43,43,3,259,859,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow made Free Throw.,44,43,3,259,859,LSU Tigers,free throw,True,True,False,Aneesah Morrow,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow missed Free Throw.,44,43,3,259,859,LSU Tigers,free throw,True,False,False,Aneesah Morrow,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Offensive Rebound.,44,43,3,259,859,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow made Layup. Assisted by Angel Reese.,46,43,3,245,845,LSU Tigers,layup,True,True,False,Aneesah Morrow,True,Angel Reese,27.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Last-Tear Poa.,46,43,3,222,822,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler made Free Throw.,46,44,3,222,822,Middle Tennessee Blue Raiders,free throw,True,True,False,Savannah Wheeler,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler made Free Throw.,46,45,3,222,822,Middle Tennessee Blue Raiders,free throw,True,True,False,Savannah Wheeler,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams made Jumper.,48,45,3,210,810,LSU Tigers,jumper,True,True,False,Mikaylah Williams,False,,36.0,6.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jump Ball won by LSU,48,45,3,194,794,LSU Tigers,jump ball,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott Turnover.,48,45,3,194,794,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Steal.,48,45,3,194,794,LSU Tigers,steal,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Three Point Jumper. Assisted by Aneesah Morrow.,51,45,3,177,777,LSU Tigers,three point jumper,True,True,True,Flau'jae Johnson,True,Aneesah Morrow,2.0,9.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler Turnover.,51,45,3,149,749,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Hailey Van Lith Steal.,51,45,3,149,749,LSU Tigers,steal,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson missed Layup.,51,45,3,146,746,LSU Tigers,layup,True,False,False,Flau'jae Johnson,False,,28.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Block.,51,45,3,146,746,Middle Tennessee Blue Raiders,block,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,LSU Offensive Rebound.,51,45,3,146,746,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Anastasiia Boldyreva.,51,45,3,142,742,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Free Throw.,52,45,3,142,742,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Free Throw.,53,45,3,142,742,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler made Layup.,53,47,3,132,732,Middle Tennessee Blue Raiders,layup,True,True,False,Savannah Wheeler,False,,29.0,0.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow missed Jumper.,53,47,3,101,701,LSU Tigers,jumper,True,False,False,Aneesah Morrow,False,,29.0,6.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Block.,53,47,3,101,701,Middle Tennessee Blue Raiders,block,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson Offensive Rebound.,53,47,3,101,701,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Jumper.,55,47,3,91,691,LSU Tigers,jumper,True,True,False,Flau'jae Johnson,False,,37.0,14.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Anastasiia Boldyreva made Jumper.,55,49,3,75,675,Middle Tennessee Blue Raiders,jumper,True,True,False,Anastasiia Boldyreva,False,,28.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Anastasiia Boldyreva.,55,49,3,59,659,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Free Throw.,56,49,3,59,659,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Free Throw.,57,49,3,59,659,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Hailey Van Lith.,57,49,3,45,645,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson missed Three Point Jumper.,57,49,3,38,638,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Courtney Whitson,False,,48.0,9.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson Block.,57,49,3,38,638,LSU Tigers,block,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Defensive Rebound.,57,49,3,38,638,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese missed Layup.,57,49,3,32,632,LSU Tigers,layup,True,False,False,Angel Reese,False,,21.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott Block.,57,49,3,32,632,Middle Tennessee Blue Raiders,block,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,LSU Offensive Rebound.,57,49,3,32,632,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Layup. Assisted by Hailey Van Lith.,59,49,3,28,628,LSU Tigers,layup,True,True,False,Angel Reese,True,Hailey Van Lith,27.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Iullia Grabovskaia.,59,49,3,8,608,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Iullia Grabovskaia Turnover.,59,49,3,8,608,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Hailey Van Lith missed Jumper.,59,49,3,4,604,LSU Tigers,jumper,True,False,False,Hailey Van Lith,False,,12.0,18.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson Defensive Rebound.,59,49,3,4,604,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,End of 3rd Quarter,59,49,3,0,600,,end,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jump Ball won by Middle Tennessee,59,49,4,600,600,Middle Tennessee Blue Raiders,jump ball,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Jumper.,59,49,4,573,573,Middle Tennessee Blue Raiders,jumper,True,False,False,Ta'Mia Scott,False,,11.0,9.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Hailey Van Lith Defensive Rebound.,59,49,4,573,573,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Layup. Assisted by Aneesah Morrow.,61,49,4,548,548,LSU Tigers,layup,True,True,False,Angel Reese,True,Aneesah Morrow,27.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Jumper.,61,49,4,519,519,Middle Tennessee Blue Raiders,jumper,True,False,False,Ta'Mia Scott,False,,25.0,9.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Block.,61,49,4,519,519,LSU Tigers,block,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory Offensive Rebound.,61,49,4,519,519,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Middle Tennessee  Turnover.,61,49,4,515,515,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Ta'Mia Scott.,61,49,4,500,500,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams missed Free Throw.,61,49,4,500,500,LSU Tigers,free throw,True,False,False,Mikaylah Williams,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,LSU Deadball Team Rebound.,61,49,4,500,500,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams made Free Throw.,62,49,4,500,500,LSU Tigers,free throw,True,True,False,Mikaylah Williams,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams made Free Throw.,63,49,4,500,500,LSU Tigers,free throw,True,True,False,Mikaylah Williams,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory missed Three Point Jumper.,63,49,4,487,487,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Jalynn Gregory,False,,6.0,17.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson Offensive Rebound.,63,49,4,487,487,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Jumper.,63,49,4,469,469,Middle Tennessee Blue Raiders,jumper,True,False,False,Savannah Wheeler,False,,27.0,8.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Block.,63,49,4,469,469,LSU Tigers,block,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Defensive Rebound.,63,49,4,469,469,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Jada Grannum.,63,49,4,457,457,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Free Throw.,64,49,4,457,457,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Free Throw.,65,49,4,457,457,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Hailey Van Lith.,65,49,4,450,450,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory missed Three Point Jumper.,65,49,4,446,446,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Jalynn Gregory,False,,2.0,1.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Defensive Rebound.,65,49,4,446,446,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Ta'Mia Scott.,65,49,4,436,436,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Hailey Van Lith made Free Throw.,66,49,4,436,436,LSU Tigers,free throw,True,True,False,Hailey Van Lith,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Hailey Van Lith made Free Throw.,67,49,4,436,436,LSU Tigers,free throw,True,True,False,Hailey Van Lith,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory missed Three Point Jumper.,67,49,4,414,414,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Jalynn Gregory,False,,31.0,26.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Defensive Rebound.,67,49,4,414,414,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Courtney Whitson.,67,49,4,406,406,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow made Free Throw.,68,49,4,406,406,LSU Tigers,free throw,True,True,False,Aneesah Morrow,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow made Free Throw.,69,49,4,406,406,LSU Tigers,free throw,True,True,False,Aneesah Morrow,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory missed Jumper.,69,49,4,386,386,Middle Tennessee Blue Raiders,jumper,True,False,False,Jalynn Gregory,False,,20.0,7.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams Defensive Rebound.,69,49,4,386,386,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Jada Grannum.,69,49,4,384,384,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Free Throw.,70,49,4,384,384,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese made Free Throw.,71,49,4,384,384,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler made Jumper.,71,51,4,368,368,Middle Tennessee Blue Raiders,jumper,True,True,False,Savannah Wheeler,False,,27.0,19.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Middle Tennessee  Timeout,71,51,4,365,365,Middle Tennessee Blue Raiders,timeout,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese missed Jumper.,71,51,4,346,346,LSU Tigers,jumper,True,False,False,Angel Reese,False,,15.0,9.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jada Grannum Defensive Rebound.,71,51,4,346,346,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Sifa Ineza missed Layup.,71,51,4,330,330,Middle Tennessee Blue Raiders,layup,True,False,False,Sifa Ineza,False,,28.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Defensive Rebound.,71,51,4,330,330,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Courtney Whitson.,71,51,4,330,330,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow made Free Throw.,72,51,4,330,330,LSU Tigers,free throw,True,True,False,Aneesah Morrow,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow missed Free Throw.,72,51,4,330,330,LSU Tigers,free throw,True,False,False,Aneesah Morrow,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jada Grannum Defensive Rebound.,72,51,4,330,330,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Mikaylah Williams.,72,51,4,329,329,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory missed Jumper.,72,51,4,320,320,Middle Tennessee Blue Raiders,jumper,True,False,False,Jalynn Gregory,False,,26.0,7.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angel Reese Defensive Rebound.,72,51,4,320,320,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Hailey Van Lith made Jumper.,74,51,4,291,291,LSU Tigers,jumper,True,True,False,Hailey Van Lith,False,,28.0,13.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler made Jumper.,74,53,4,275,275,Middle Tennessee Blue Raiders,jumper,True,True,False,Savannah Wheeler,False,,38.0,8.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow made Layup.,76,53,4,246,246,LSU Tigers,layup,True,True,False,Aneesah Morrow,False,,21.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Jada Grannum.,76,53,4,246,246,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow missed Free Throw.,76,53,4,246,246,LSU Tigers,free throw,True,False,False,Aneesah Morrow,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory Defensive Rebound.,76,53,4,246,246,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Hailey Van Lith.,76,53,4,240,240,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Jumper.,76,53,4,220,220,Middle Tennessee Blue Raiders,jumper,True,False,False,Savannah Wheeler,False,,16.0,7.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson Defensive Rebound.,76,53,4,220,220,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Mikaylah Williams made Three Point Jumper. Assisted by Angel Reese.,79,53,4,209,209,LSU Tigers,three point jumper,True,True,True,Mikaylah Williams,True,Angel Reese,5.0,14.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Mikaylah Williams.,79,53,4,186,186,LSU Tigers,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Three Point Jumper.,79,53,4,167,167,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Savannah Wheeler,False,,41.0,19.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Courtney Whitson Offensive Rebound.,79,53,4,167,167,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Three Point Jumper.,79,53,4,146,146,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Savannah Wheeler,False,,40.0,20.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Middle Tennessee Deadball Team Rebound.,79,53,4,146,146,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Middle Tennessee  Turnover.,79,53,4,146,146,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Hailey Van Lith missed Layup.,79,53,4,115,115,LSU Tigers,layup,True,False,False,Hailey Van Lith,False,,28.0,3.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Offensive Rebound.,79,53,4,115,115,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Courtney Whitson.,79,53,4,115,115,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow made Free Throw.,80,53,4,115,115,LSU Tigers,free throw,True,True,False,Aneesah Morrow,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow made Free Throw.,81,53,4,115,115,LSU Tigers,free throw,True,True,False,Aneesah Morrow,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Savannah Wheeler missed Jumper.,81,53,4,110,110,Middle Tennessee Blue Raiders,jumper,True,False,False,Savannah Wheeler,False,,21.0,9.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Aneesah Morrow Defensive Rebound.,81,53,4,110,110,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Flau'jae Johnson made Layup.,83,53,4,98,98,LSU Tigers,layup,True,True,False,Flau'jae Johnson,False,,22.0,2.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Sifa Ineza made Three Point Jumper.,83,56,4,78,78,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Sifa Ineza,False,,43.0,17.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,LSU  Timeout,83,56,4,72,72,LSU Tigers,timeout,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Foul on Gracie Dodgen.,83,56,4,53,53,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angelica Velez missed Free Throw.,83,56,4,53,53,LSU Tigers,free throw,True,False,False,Angelica Velez,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,LSU Deadball Team Rebound.,83,56,4,53,53,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angelica Velez missed Free Throw.,83,56,4,53,53,LSU Tigers,free throw,True,False,False,Angelica Velez,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Iullia Grabovskaia Defensive Rebound.,83,56,4,53,53,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jalynn Gregory missed Three Point Jumper.,83,56,4,44,44,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Jalynn Gregory,False,,14.0,23.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,LSU Defensive Rebound.,83,56,4,44,44,LSU Tigers,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Angelica Velez Turnover.,83,56,4,15,15,LSU Tigers,turnover,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Iullia Grabovskaia missed Jumper.,83,56,4,2,2,Middle Tennessee Blue Raiders,jumper,True,False,False,Iullia Grabovskaia,False,,26.0,6.0
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,Jada Grannum Offensive Rebound.,83,56,4,2,2,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637579,LSU Tigers,Middle Tennessee Blue Raiders,End of Game,83,56,4,0,0,,end,False,False,False,,False,,,

@@ -1,0 +1,350 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637574,UConn Huskies,Jackson State Lady Tigers,Jump Ball won by Jackson State,0,0,1,600,2400,Jackson State Lady Tigers,jump ball,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump made Jumper. Assisted by Keshuna Luckett.,0,2,1,587,2387,Jackson State Lady Tigers,jumper,True,True,False,Miya Crump,True,Keshuna Luckett,26.0,15.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Jumper.,2,2,1,557,2357,UConn Huskies,jumper,True,True,False,Paige Bueckers,False,,33.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett missed Jumper.,2,2,1,544,2344,Jackson State Lady Tigers,jumper,True,False,False,Keshuna Luckett,False,,18.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Block.,2,2,1,544,2344,UConn Huskies,block,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Jackson State Offensive Rebound.,2,2,1,544,2344,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler made Jumper. Assisted by Keshuna Luckett.,2,4,1,543,2343,Jackson State Lady Tigers,jumper,True,True,False,Ti'lan Boler,True,Keshuna Luckett,8.0,3.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Jumper.,4,4,1,518,2318,UConn Huskies,jumper,True,True,False,Paige Bueckers,False,,30.0,5.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Miya Crump.,4,4,1,518,2318,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Free Throw.,5,4,1,518,2318,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett missed Three Point Jumper.,5,4,1,500,2300,Jackson State Lady Tigers,three point jumper,True,False,True,Keshuna Luckett,False,,37.0,21.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Defensive Rebound.,5,4,1,500,2300,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Aaliyah Edwards.,5,4,1,490,2290,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Turnover.,5,4,1,490,2290,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Three Point Jumper.,5,4,1,481,2281,Jackson State Lady Tigers,three point jumper,True,False,True,Ti'lan Boler,False,,27.0,26.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump Offensive Rebound.,5,4,1,481,2281,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump missed Jumper.,5,4,1,466,2266,Jackson State Lady Tigers,jumper,True,False,False,Miya Crump,False,,9.0,3.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Defensive Rebound.,5,4,1,466,2266,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards missed Jumper.,5,4,1,454,2254,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,25.0,5.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson Block.,5,4,1,454,2254,Jackson State Lady Tigers,block,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Zakiya Mahoney Defensive Rebound.,5,4,1,454,2254,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Zakiya Mahoney Turnover.,5,4,1,433,2233,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,KK Arnold made Layup.,7,4,1,425,2225,UConn Huskies,layup,True,True,False,KK Arnold,False,,22.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump missed Three Point Jumper.,7,4,1,411,2211,Jackson State Lady Tigers,three point jumper,True,False,True,Miya Crump,False,,45.0,18.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Defensive Rebound.,7,4,1,411,2211,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Zakiya Mahoney.,7,4,1,408,2208,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Keshuna Luckett.,7,4,1,394,2194,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Three Point Jumper. Assisted by Nika Muhl.,10,4,1,393,2193,UConn Huskies,three point jumper,True,True,True,Paige Bueckers,True,Nika Muhl,4.0,14.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett Turnover.,10,4,1,373,2173,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl made Layup. Assisted by Aaliyah Edwards.,12,4,1,362,2162,UConn Huskies,layup,True,True,False,Nika Muhl,True,Aaliyah Edwards,27.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Jackson State  Timeout,12,4,1,356,2156,Jackson State Lady Tigers,timeout,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers, Official TV Timeout,12,4,1,356,2156,,tv timeout,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett Turnover.,12,4,1,345,2145,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Steal.,12,4,1,345,2145,UConn Huskies,steal,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards made Layup.,14,4,1,340,2140,UConn Huskies,layup,True,True,False,Aaliyah Edwards,False,,23.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Three Point Jumper.,14,4,1,327,2127,Jackson State Lady Tigers,three point jumper,True,False,True,Ti'lan Boler,False,,9.0,21.0
+401637574,UConn Huskies,Jackson State Lady Tigers,KK Arnold Defensive Rebound.,14,4,1,327,2127,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Miya Crump.,14,4,1,322,2122,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards missed Jumper.,14,4,1,319,2119,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,20.0,18.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Jackson State Defensive Rebound.,14,4,1,319,2119,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Three Point Jumper.,14,4,1,302,2102,Jackson State Lady Tigers,three point jumper,True,False,True,Ti'lan Boler,False,,29.0,24.0
+401637574,UConn Huskies,Jackson State Lady Tigers,KK Arnold Defensive Rebound.,14,4,1,302,2102,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards made Layup.,16,4,1,292,2092,UConn Huskies,layup,True,True,False,Aaliyah Edwards,False,,27.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent missed Three Point Jumper.,16,4,1,274,2074,Jackson State Lady Tigers,three point jumper,True,False,True,Andriana Avent,False,,2.0,6.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Defensive Rebound.,16,4,1,274,2074,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers missed Three Point Jumper.,16,4,1,262,2062,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,46.0,11.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade Offensive Rebound.,16,4,1,262,2062,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade missed Jumper.,16,4,1,257,2057,UConn Huskies,jumper,True,False,False,Ashlynn Shade,False,,34.0,8.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Areyanna Hunter Defensive Rebound.,16,4,1,257,2057,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent Turnover.,16,4,1,247,2047,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade Steal.,16,4,1,247,2047,UConn Huskies,steal,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,KK Arnold missed Layup.,16,4,1,236,2036,UConn Huskies,layup,True,False,False,KK Arnold,False,,26.0,4.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler Block.,16,4,1,236,2036,Jackson State Lady Tigers,block,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson Defensive Rebound.,16,4,1,236,2036,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Areyanna Hunter Turnover.,16,4,1,227,2027,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl Steal.,16,4,1,227,2027,UConn Huskies,steal,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade made Layup. Assisted by Nika Muhl.,18,4,1,223,2023,UConn Huskies,layup,True,True,False,Ashlynn Shade,True,Nika Muhl,27.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Ti'lan Boler.,18,4,1,223,2023,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers, Official TV Timeout,18,4,1,223,2023,,tv timeout,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade made Free Throw.,19,4,1,223,2023,UConn Huskies,free throw,True,True,False,Ashlynn Shade,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler Turnover.,19,4,1,206,2006,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ice Brady missed Jumper.,19,4,1,187,1987,UConn Huskies,jumper,True,False,False,Ice Brady,False,,30.0,17.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler Defensive Rebound.,19,4,1,187,1987,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland missed Three Point Jumper.,19,4,1,168,1968,Jackson State Lady Tigers,three point jumper,True,False,True,Hayleigh Breland,False,,28.0,25.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ice Brady Defensive Rebound.,19,4,1,168,1968,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade missed Three Point Jumper.,19,4,1,152,1952,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,48.0,0.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland Defensive Rebound.,19,4,1,152,1952,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland missed Jumper.,19,4,1,136,1936,Jackson State Lady Tigers,jumper,True,False,False,Hayleigh Breland,False,,17.0,8.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ice Brady Block.,19,4,1,136,1936,UConn Huskies,block,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade Defensive Rebound.,19,4,1,136,1936,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl Turnover.,19,4,1,129,1929,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland Steal.,19,4,1,129,1929,Jackson State Lady Tigers,steal,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland missed Jumper.,19,4,1,122,1922,Jackson State Lady Tigers,jumper,True,False,False,Hayleigh Breland,False,,29.0,5.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Block.,19,4,1,122,1922,UConn Huskies,block,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Jackson State Offensive Rebound.,19,4,1,122,1922,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on KK Arnold.,19,4,1,107,1907,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler made Free Throw.,19,5,1,107,1907,Jackson State Lady Tigers,free throw,True,True,False,Ti'lan Boler,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler made Free Throw.,19,6,1,107,1907,Jackson State Lady Tigers,free throw,True,True,False,Ti'lan Boler,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl missed Three Point Jumper.,19,6,1,90,1890,UConn Huskies,three point jumper,True,False,True,Nika Muhl,False,,39.0,21.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade Offensive Rebound.,19,6,1,90,1890,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ice Brady missed Jumper.,19,6,1,85,1885,UConn Huskies,jumper,True,False,False,Ice Brady,False,,17.0,9.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Areyanna Hunter Defensive Rebound.,19,6,1,85,1885,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Zakiya Mahoney made Jumper. Assisted by Areyanna Hunter.,19,8,1,69,1869,Jackson State Lady Tigers,jumper,True,True,False,Zakiya Mahoney,True,Areyanna Hunter,42.0,3.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade made Three Point Jumper. Assisted by Nika Muhl.,22,8,1,58,1858,UConn Huskies,three point jumper,True,True,True,Ashlynn Shade,True,Nika Muhl,48.0,0.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Three Point Jumper.,22,8,1,38,1838,Jackson State Lady Tigers,three point jumper,True,False,True,Ti'lan Boler,False,,37.0,22.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland Offensive Rebound.,22,8,1,38,1838,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Zakiya Mahoney missed Jumper.,22,8,1,24,1824,Jackson State Lady Tigers,jumper,True,False,False,Zakiya Mahoney,False,,34.0,7.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Block.,22,8,1,24,1824,UConn Huskies,block,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Defensive Rebound.,22,8,1,24,1824,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,KK Arnold Turnover.,22,8,1,11,1811,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Layup.,22,8,1,2,1802,Jackson State Lady Tigers,layup,True,False,False,Ti'lan Boler,False,,28.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson Offensive Rebound.,22,8,1,2,1802,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,End of 1st Quarter,22,8,1,0,1800,,end,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Jump Ball won by UConn,22,8,2,600,1800,UConn Huskies,jump ball,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ice Brady missed Jumper.,22,8,2,583,1783,UConn Huskies,jumper,True,False,False,Ice Brady,False,,21.0,15.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Zakiya Mahoney Defensive Rebound.,22,8,2,583,1783,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett missed Three Point Jumper.,22,8,2,572,1772,Jackson State Lady Tigers,three point jumper,True,False,True,Keshuna Luckett,False,,33.0,23.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ice Brady Defensive Rebound.,22,8,2,572,1772,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade missed Three Point Jumper.,22,8,2,563,1763,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,5.0,13.0
+401637574,UConn Huskies,Jackson State Lady Tigers,UConn Offensive Rebound.,22,8,2,563,1763,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Angel Jackson.,22,8,2,563,1763,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards missed Jumper.,22,8,2,555,1755,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,34.0,16.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Jackson State Defensive Rebound.,22,8,2,555,1755,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Nika Muhl.,22,8,2,552,1752,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett Turnover.,22,8,2,543,1743,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Steal.,22,8,2,543,1743,UConn Huskies,steal,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Layup.,24,8,2,535,1735,UConn Huskies,layup,True,True,False,Paige Bueckers,False,,23.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson missed Jumper.,24,8,2,528,1728,Jackson State Lady Tigers,jumper,True,False,False,Angel Jackson,False,,30.0,18.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Defensive Rebound.,24,8,2,528,1728,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers missed Three Point Jumper.,24,8,2,512,1712,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,44.0,16.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Offensive Rebound.,24,8,2,512,1712,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards made Layup.,26,8,2,508,1708,UConn Huskies,layup,True,True,False,Aaliyah Edwards,False,,27.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett made Layup.,26,10,2,504,1704,Jackson State Lady Tigers,layup,True,True,False,Keshuna Luckett,False,,27.0,0.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards missed Layup.,26,10,2,489,1689,UConn Huskies,layup,True,False,False,Aaliyah Edwards,False,,22.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson Block.,26,10,2,489,1689,Jackson State Lady Tigers,block,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,UConn Offensive Rebound.,26,10,2,489,1689,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers missed Jumper.,26,10,2,488,1688,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,13.0,3.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Zakiya Mahoney Defensive Rebound.,26,10,2,488,1688,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson made Jumper. Assisted by Keshuna Luckett.,26,12,2,477,1677,Jackson State Lady Tigers,jumper,True,True,False,Angel Jackson,True,Keshuna Luckett,20.0,18.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Turnover.,26,12,2,462,1662,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson made Jumper. Assisted by Keshuna Luckett.,26,14,2,449,1649,Jackson State Lady Tigers,jumper,True,True,False,Angel Jackson,True,Keshuna Luckett,23.0,16.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards made Layup. Assisted by Paige Bueckers.,28,14,2,420,1620,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,Paige Bueckers,22.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Zakiya Mahoney missed Layup.,28,14,2,403,1603,Jackson State Lady Tigers,layup,True,False,False,Zakiya Mahoney,False,,28.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Zakiya Mahoney Offensive Rebound.,28,14,2,403,1603,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Zakiya Mahoney missed Jumper.,28,14,2,398,1598,Jackson State Lady Tigers,jumper,True,False,False,Zakiya Mahoney,False,,24.0,7.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Zakiya Mahoney Offensive Rebound.,28,14,2,398,1598,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson missed Jumper.,28,14,2,395,1595,Jackson State Lady Tigers,jumper,True,False,False,Angel Jackson,False,,26.0,8.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Defensive Rebound.,28,14,2,395,1595,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Miya Crump.,28,14,2,393,1593,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards missed Jumper.,28,14,2,378,1578,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,15.0,14.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent Defensive Rebound.,28,14,2,378,1578,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Ashlynn Shade.,28,14,2,371,1571,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett made Free Throw.,28,15,2,371,1571,Jackson State Lady Tigers,free throw,True,True,False,Keshuna Luckett,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett made Free Throw.,28,16,2,371,1571,Jackson State Lady Tigers,free throw,True,True,False,Keshuna Luckett,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Jumper.,30,16,2,355,1555,UConn Huskies,jumper,True,True,False,Paige Bueckers,False,,44.0,3.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent missed Three Point Jumper.,30,16,2,337,1537,Jackson State Lady Tigers,three point jumper,True,False,True,Andriana Avent,False,,48.0,9.0
+401637574,UConn Huskies,Jackson State Lady Tigers,KK Arnold Defensive Rebound.,30,16,2,337,1537,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Layup. Assisted by Aaliyah Edwards.,32,16,2,319,1519,UConn Huskies,layup,True,True,False,Paige Bueckers,True,Aaliyah Edwards,22.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Jumper.,32,16,2,289,1489,Jackson State Lady Tigers,jumper,True,False,False,Ti'lan Boler,False,,34.0,7.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Defensive Rebound.,32,16,2,289,1489,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Angel Jackson.,32,16,2,272,1472,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers, Official TV Timeout,32,16,2,272,1472,,tv timeout,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards made Free Throw.,33,16,2,272,1472,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards made Free Throw.,34,16,2,272,1472,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Nika Muhl.,34,16,2,253,1453,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent missed Free Throw.,34,16,2,253,1453,Jackson State Lady Tigers,free throw,True,False,False,Andriana Avent,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Jackson State Deadball Team Rebound.,34,16,2,253,1453,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent made Free Throw.,34,17,2,253,1453,Jackson State Lady Tigers,free throw,True,True,False,Andriana Avent,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent made Free Throw.,34,18,2,253,1453,Jackson State Lady Tigers,free throw,True,True,False,Andriana Avent,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards made Layup. Assisted by Ashlynn Shade.,36,18,2,240,1440,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,Ashlynn Shade,22.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent Turnover.,36,18,2,225,1425,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Qadence Samuels Turnover.,36,18,2,222,1422,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler Steal.,36,18,2,222,1422,Jackson State Lady Tigers,steal,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Qadence Samuels.,36,18,2,206,1406,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler made Free Throw.,36,19,2,206,1406,Jackson State Lady Tigers,free throw,True,True,False,Ti'lan Boler,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Free Throw.,36,19,2,206,1406,Jackson State Lady Tigers,free throw,True,False,False,Ti'lan Boler,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ice Brady Defensive Rebound.,36,19,2,206,1406,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Three Point Jumper. Assisted by KK Arnold.,39,19,2,191,1391,UConn Huskies,three point jumper,True,True,True,Paige Bueckers,True,KK Arnold,17.0,24.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Keshuna Luckett.,39,19,2,174,1374,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett Turnover.,39,19,2,174,1374,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on KK Arnold.,39,19,2,147,1347,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,KK Arnold Turnover.,39,19,2,147,1347,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Zakiya Mahoney.,39,19,2,134,1334,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Zakiya Mahoney Turnover.,39,19,2,134,1334,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade made Three Point Jumper. Assisted by Ice Brady.,42,19,2,127,1327,UConn Huskies,three point jumper,True,True,True,Ashlynn Shade,True,Ice Brady,45.0,14.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler made Jumper.,42,21,2,110,1310,Jackson State Lady Tigers,jumper,True,True,False,Ti'lan Boler,False,,20.0,6.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Qadence Samuels made Three Point Jumper. Assisted by Paige Bueckers.,45,21,2,98,1298,UConn Huskies,three point jumper,True,True,True,Qadence Samuels,True,Paige Bueckers,4.0,13.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler made Three Point Jumper. Assisted by Areyanna Hunter.,45,24,2,82,1282,Jackson State Lady Tigers,three point jumper,True,True,True,Ti'lan Boler,True,Areyanna Hunter,47.0,10.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards made Jumper. Assisted by Paige Bueckers.,47,24,2,62,1262,UConn Huskies,jumper,True,True,False,Aaliyah Edwards,True,Paige Bueckers,34.0,16.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland Turnover.,47,24,2,47,1247,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade Steal.,47,24,2,47,1247,UConn Huskies,steal,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade missed Three Point Jumper.,47,24,2,34,1234,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,48.0,9.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland Defensive Rebound.,47,24,2,34,1234,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Qadence Samuels.,47,24,2,28,1228,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland made Free Throw.,47,25,2,28,1228,Jackson State Lady Tigers,free throw,True,True,False,Hayleigh Breland,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland missed Free Throw.,47,25,2,28,1228,Jackson State Lady Tigers,free throw,True,False,False,Hayleigh Breland,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Defensive Rebound.,47,25,2,28,1228,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Ja'Leah Hickmon.,47,25,2,5,1205,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Free Throw.,48,25,2,5,1205,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Free Throw.,49,25,2,5,1205,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler made Three Point Jumper. Assisted by Areyanna Hunter.,49,28,2,1,1201,Jackson State Lady Tigers,three point jumper,True,True,True,Ti'lan Boler,True,Areyanna Hunter,3.0,9.0
+401637574,UConn Huskies,Jackson State Lady Tigers,End of 2nd Quarter,49,28,2,0,1200,,end,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Jump Ball won by Jackson State,49,28,3,600,1200,Jackson State Lady Tigers,jump ball,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson made Jumper.,49,30,3,587,1187,Jackson State Lady Tigers,jumper,True,True,False,Angel Jackson,False,,35.0,5.0
+401637574,UConn Huskies,Jackson State Lady Tigers,KK Arnold missed Three Point Jumper.,49,30,3,563,1163,UConn Huskies,three point jumper,True,False,True,KK Arnold,False,,2.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade Offensive Rebound.,49,30,3,563,1163,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade made Three Point Jumper. Assisted by Paige Bueckers.,52,30,3,547,1147,UConn Huskies,three point jumper,True,True,True,Ashlynn Shade,True,Paige Bueckers,48.0,0.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump missed Jumper.,52,30,3,514,1114,Jackson State Lady Tigers,jumper,True,False,False,Miya Crump,False,,22.0,3.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Jackson State Offensive Rebound.,52,30,3,514,1114,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett missed Jumper.,52,30,3,507,1107,Jackson State Lady Tigers,jumper,True,False,False,Keshuna Luckett,False,,13.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl Defensive Rebound.,52,30,3,507,1107,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade missed Three Point Jumper.,52,30,3,498,1098,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,2.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Offensive Rebound.,52,30,3,498,1098,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade made Layup. Assisted by Paige Bueckers.,54,30,3,485,1085,UConn Huskies,layup,True,True,False,Ashlynn Shade,True,Paige Bueckers,23.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Jackson State  Timeout,54,30,3,473,1073,Jackson State Lady Tigers,timeout,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers, Official TV Timeout,54,30,3,473,1073,,tv timeout,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Three Point Jumper.,54,30,3,465,1065,Jackson State Lady Tigers,three point jumper,True,False,True,Ti'lan Boler,False,,2.0,7.0
+401637574,UConn Huskies,Jackson State Lady Tigers,KK Arnold Defensive Rebound.,54,30,3,465,1065,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers missed Three Point Jumper.,54,30,3,459,1059,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,11.0,21.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler Defensive Rebound.,54,30,3,459,1059,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson made Jumper. Assisted by Keshuna Luckett.,54,32,3,439,1039,Jackson State Lady Tigers,jumper,True,True,False,Angel Jackson,True,Keshuna Luckett,15.0,16.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Angel Jackson.,54,32,3,428,1028,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards made Free Throw.,55,32,3,428,1028,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards made Free Throw.,56,32,3,428,1028,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Three Point Jumper.,56,32,3,418,1018,Jackson State Lady Tigers,three point jumper,True,False,True,Ti'lan Boler,False,,47.0,11.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl Defensive Rebound.,56,32,3,418,1018,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade made Three Point Jumper. Assisted by Nika Muhl.,59,32,3,401,1001,UConn Huskies,three point jumper,True,True,True,Ashlynn Shade,True,Nika Muhl,48.0,0.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett made Layup.,59,34,3,389,989,Jackson State Lady Tigers,layup,True,True,False,Keshuna Luckett,False,,28.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Nika Muhl.,59,34,3,389,989,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett missed Free Throw.,59,34,3,389,989,Jackson State Lady Tigers,free throw,True,False,False,Keshuna Luckett,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Defensive Rebound.,59,34,3,389,989,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade made Jumper. Assisted by Nika Muhl.,61,34,3,373,973,UConn Huskies,jumper,True,True,False,Ashlynn Shade,True,Nika Muhl,16.0,18.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Jumper.,61,34,3,349,949,Jackson State Lady Tigers,jumper,True,False,False,Ti'lan Boler,False,,34.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade Defensive Rebound.,61,34,3,349,949,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade missed Three Point Jumper.,61,34,3,338,938,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,48.0,6.0
+401637574,UConn Huskies,Jackson State Lady Tigers,UConn Offensive Rebound.,61,34,3,338,938,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers missed Layup.,61,34,3,336,936,UConn Huskies,layup,True,False,False,Paige Bueckers,False,,27.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Offensive Rebound.,61,34,3,336,936,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers missed Layup.,61,34,3,336,936,UConn Huskies,layup,True,False,False,Paige Bueckers,False,,25.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump Defensive Rebound.,61,34,3,334,934,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Aaliyah Edwards.,61,34,3,318,918,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent made Free Throw.,61,35,3,318,918,Jackson State Lady Tigers,free throw,True,True,False,Andriana Avent,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent made Free Throw.,61,36,3,318,918,Jackson State Lady Tigers,free throw,True,True,False,Andriana Avent,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Aaliyah Edwards.,61,36,3,306,906,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler made Free Throw.,61,37,3,306,906,Jackson State Lady Tigers,free throw,True,True,False,Ti'lan Boler,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Turnover.,61,36,3,306,906,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers, Official TV Timeout,61,36,3,306,906,,tv timeout,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Technical Foul on Aaliyah Edwards.,61,36,3,306,906,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Free Throw.,61,37,3,306,906,Jackson State Lady Tigers,free throw,True,False,False,Ti'lan Boler,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump missed Three Point Jumper.,61,37,3,292,892,Jackson State Lady Tigers,three point jumper,True,False,True,Miya Crump,False,,44.0,17.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson Offensive Rebound.,61,37,3,292,892,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett missed Three Point Jumper.,61,37,3,288,888,Jackson State Lady Tigers,three point jumper,True,False,True,Keshuna Luckett,False,,22.0,25.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Jackson State Offensive Rebound.,61,37,3,288,888,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump made Layup.,61,39,3,282,882,Jackson State Lady Tigers,layup,True,True,False,Miya Crump,False,,23.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade made Jumper.,63,39,3,261,861,UConn Huskies,jumper,True,True,False,Ashlynn Shade,False,,32.0,6.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett Turnover.,63,39,3,254,854,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Steal.,63,39,3,254,854,UConn Huskies,steal,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ice Brady Turnover.,63,39,3,247,847,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Ice Brady.,63,39,3,247,847,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler Turnover.,63,39,3,228,828,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl missed Three Point Jumper.,63,39,3,212,812,UConn Huskies,three point jumper,True,False,True,Nika Muhl,False,,44.0,16.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump Defensive Rebound.,63,39,3,212,812,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump made Layup.,63,41,3,203,803,Jackson State Lady Tigers,layup,True,True,False,Miya Crump,False,,21.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Ti'lan Boler.,63,41,3,196,796,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Jumper. Assisted by Nika Muhl.,65,41,3,192,792,UConn Huskies,jumper,True,True,False,Paige Bueckers,True,Nika Muhl,11.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent missed Three Point Jumper.,65,41,3,178,778,Jackson State Lady Tigers,three point jumper,True,False,True,Andriana Avent,False,,47.0,12.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Laila Walker Offensive Rebound.,65,41,3,178,778,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Laila Walker made Layup.,65,43,3,173,773,Jackson State Lady Tigers,layup,True,True,False,Laila Walker,False,,22.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl Turnover.,65,43,3,167,767,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,UConn  Timeout,65,43,3,167,767,UConn Huskies,timeout,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler made Layup. Assisted by Miya Crump.,65,45,3,157,757,Jackson State Lady Tigers,layup,True,True,False,Ti'lan Boler,True,Miya Crump,28.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Layup. Assisted by Ice Brady.,67,45,3,143,743,UConn Huskies,layup,True,True,False,Paige Bueckers,True,Ice Brady,23.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Jumper.,67,45,3,127,727,Jackson State Lady Tigers,jumper,True,False,False,Ti'lan Boler,False,,39.0,7.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Defensive Rebound.,67,45,3,127,727,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ice Brady missed Jumper.,67,45,3,103,703,UConn Huskies,jumper,True,False,False,Ice Brady,False,,20.0,19.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade Offensive Rebound.,67,45,3,103,703,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade made Jumper.,69,45,3,97,697,UConn Huskies,jumper,True,True,False,Ashlynn Shade,False,,34.0,6.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson Turnover.,69,45,3,80,680,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl Steal.,69,45,3,80,680,UConn Huskies,steal,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade missed Jumper.,69,45,3,65,665,UConn Huskies,jumper,True,False,False,Ashlynn Shade,False,,9.0,3.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent Defensive Rebound.,69,45,3,65,665,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Ice Brady.,69,45,3,52,652,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent made Free Throw.,69,46,3,52,652,Jackson State Lady Tigers,free throw,True,True,False,Andriana Avent,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent made Free Throw.,69,47,3,52,652,Jackson State Lady Tigers,free throw,True,True,False,Andriana Avent,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade missed Jumper.,69,47,3,42,642,UConn Huskies,jumper,True,False,False,Ashlynn Shade,False,,29.0,18.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Zakiya Mahoney Defensive Rebound.,69,47,3,42,642,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent made Three Point Jumper.,69,50,3,24,624,Jackson State Lady Tigers,three point jumper,True,True,True,Andriana Avent,False,,43.0,20.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Keshuna Luckett.,69,50,3,10,610,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl made Three Point Jumper. Assisted by Ice Brady.,72,50,3,2,602,UConn Huskies,three point jumper,True,True,True,Nika Muhl,True,Ice Brady,18.0,26.0
+401637574,UConn Huskies,Jackson State Lady Tigers,End of 3rd Quarter,72,50,3,0,600,,end,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Jump Ball won by UConn,72,50,4,600,600,UConn Huskies,jump ball,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Jumper. Assisted by Nika Muhl.,74,50,4,584,584,UConn Huskies,jumper,True,True,False,Paige Bueckers,True,Nika Muhl,29.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump missed Jumper.,74,50,4,554,554,Jackson State Lady Tigers,jumper,True,False,False,Miya Crump,False,,23.0,13.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Defensive Rebound.,74,50,4,554,554,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Turnover.,74,50,4,554,554,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump missed Jumper.,74,50,4,552,552,Jackson State Lady Tigers,jumper,True,False,False,Miya Crump,False,,20.0,17.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards Defensive Rebound.,74,50,4,552,552,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Zakiya Mahoney.,74,50,4,537,537,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl Turnover.,74,50,4,528,528,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland Steal.,74,50,4,528,528,Jackson State Lady Tigers,steal,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland Turnover.,74,50,4,524,524,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl Turnover.,74,50,4,514,514,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson made Jumper. Assisted by Hayleigh Breland.,74,52,4,503,503,Jackson State Lady Tigers,jumper,True,True,False,Angel Jackson,True,Hayleigh Breland,24.0,19.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards made Layup. Assisted by Paige Bueckers.,76,52,4,475,475,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,Paige Bueckers,23.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland missed Jumper.,76,52,4,459,459,Jackson State Lady Tigers,jumper,True,False,False,Hayleigh Breland,False,,28.0,5.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Defensive Rebound.,76,52,4,459,459,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Aaliyah Edwards made Jumper. Assisted by KK Arnold.,78,52,4,440,440,UConn Huskies,jumper,True,True,False,Aaliyah Edwards,True,KK Arnold,19.0,16.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Hayleigh Breland Turnover.,78,52,4,425,425,Jackson State Lady Tigers,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Steal.,78,52,4,425,425,UConn Huskies,steal,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Layup.,80,52,4,422,422,UConn Huskies,layup,True,True,False,Paige Bueckers,False,,23.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Jackson State  Timeout,80,52,4,419,419,Jackson State Lady Tigers,timeout,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Aaliyah Edwards.,80,52,4,412,412,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson made Free Throw.,80,53,4,412,412,Jackson State Lady Tigers,free throw,True,True,False,Angel Jackson,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson missed Free Throw.,80,53,4,412,412,Jackson State Lady Tigers,free throw,True,False,False,Angel Jackson,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Defensive Rebound.,80,53,4,412,412,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,KK Arnold missed Layup.,80,53,4,380,380,UConn Huskies,layup,True,False,False,KK Arnold,False,,28.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump Defensive Rebound.,80,53,4,380,380,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Miya Crump missed Three Point Jumper.,80,53,4,372,372,Jackson State Lady Tigers,three point jumper,True,False,True,Miya Crump,False,,11.0,21.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Defensive Rebound.,80,53,4,372,372,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Ja'Leah Hickmon.,80,53,4,372,372,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Miya Crump.,80,53,4,344,344,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers missed Free Throw.,80,53,4,344,344,UConn Huskies,free throw,True,False,False,Paige Bueckers,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,UConn Deadball Team Rebound.,80,53,4,344,344,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers made Free Throw.,81,53,4,344,344,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent missed Three Point Jumper.,81,53,4,334,334,Jackson State Lady Tigers,three point jumper,True,False,True,Andriana Avent,False,,6.0,19.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ice Brady Defensive Rebound.,81,53,4,334,334,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers missed Three Point Jumper.,81,53,4,312,312,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,19.0,25.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ja'Leah Hickmon Defensive Rebound.,81,53,4,312,312,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett missed Three Point Jumper.,81,53,4,298,298,Jackson State Lady Tigers,three point jumper,True,False,True,Keshuna Luckett,False,,34.0,24.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Defensive Rebound.,81,53,4,298,298,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade missed Three Point Jumper.,81,53,4,277,277,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,43.0,16.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers Offensive Rebound.,81,53,4,277,277,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Paige Bueckers missed Jumper.,81,53,4,264,264,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,20.0,16.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler Defensive Rebound.,81,53,4,264,264,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler made Three Point Jumper. Assisted by Keshuna Luckett.,81,56,4,251,251,Jackson State Lady Tigers,three point jumper,True,True,True,Ti'lan Boler,True,Keshuna Luckett,8.0,18.0
+401637574,UConn Huskies,Jackson State Lady Tigers,KK Arnold Turnover.,81,56,4,220,220,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler made Three Point Jumper. Assisted by Keshuna Luckett.,81,59,4,216,216,Jackson State Lady Tigers,three point jumper,True,True,True,Ti'lan Boler,True,Keshuna Luckett,7.0,18.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade made Three Point Jumper. Assisted by Paige Bueckers.,84,59,4,182,182,UConn Huskies,three point jumper,True,True,True,Ashlynn Shade,True,Paige Bueckers,10.0,20.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett missed Jumper.,84,59,4,171,171,Jackson State Lady Tigers,jumper,True,False,False,Keshuna Luckett,False,,24.0,9.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett Offensive Rebound.,84,59,4,171,171,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Jumper.,84,59,4,167,167,Jackson State Lady Tigers,jumper,True,False,False,Ti'lan Boler,False,,17.0,8.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl Defensive Rebound.,84,59,4,167,167,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Miya Crump.,84,59,4,163,163,Jackson State Lady Tigers,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl made Layup. Assisted by Ice Brady.,86,59,4,156,156,UConn Huskies,layup,True,True,False,Nika Muhl,True,Ice Brady,24.0,2.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Jackson State  Timeout,86,59,4,141,141,Jackson State Lady Tigers,timeout,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett missed Jumper.,86,59,4,131,131,Jackson State Lady Tigers,jumper,True,False,False,Keshuna Luckett,False,,23.0,8.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ice Brady Block.,86,59,4,131,131,UConn Huskies,block,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Nika Muhl Defensive Rebound.,86,59,4,131,131,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ines Bettencourt missed Three Point Jumper.,86,59,4,119,119,UConn Huskies,three point jumper,True,False,True,Ines Bettencourt,False,,9.0,20.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett Defensive Rebound.,86,59,4,119,119,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler missed Three Point Jumper.,86,59,4,114,114,Jackson State Lady Tigers,three point jumper,True,False,True,Ti'lan Boler,False,,43.0,17.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Jackson State Offensive Rebound.,86,59,4,114,114,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson missed Layup.,86,59,4,111,111,Jackson State Lady Tigers,layup,True,False,False,Angel Jackson,False,,22.0,1.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson Offensive Rebound.,86,59,4,111,111,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Foul on Ice Brady.,86,59,4,108,108,UConn Huskies,foul,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson made Free Throw.,86,60,4,108,108,Jackson State Lady Tigers,free throw,True,True,False,Angel Jackson,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson made Free Throw.,86,61,4,108,108,Jackson State Lady Tigers,free throw,True,True,False,Angel Jackson,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,KK Arnold Turnover.,86,61,4,96,96,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Andriana Avent missed Three Point Jumper.,86,61,4,88,88,Jackson State Lady Tigers,three point jumper,True,False,True,Andriana Avent,False,,47.0,13.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Ice Brady Defensive Rebound.,86,61,4,88,88,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ice Brady missed Jumper.,86,61,4,67,67,UConn Huskies,jumper,True,False,False,Ice Brady,False,,29.0,19.0
+401637574,UConn Huskies,Jackson State Lady Tigers,UConn Offensive Rebound.,86,61,4,67,67,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ashlynn Shade Turnover.,86,61,4,55,55,UConn Huskies,turnover,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Angel Jackson missed Three Point Jumper.,86,61,4,50,50,Jackson State Lady Tigers,three point jumper,True,False,True,Angel Jackson,False,,42.0,19.0
+401637574,UConn Huskies,Jackson State Lady Tigers,KK Arnold Defensive Rebound.,86,61,4,50,50,UConn Huskies,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Qadence Samuels missed Three Point Jumper.,86,61,4,24,24,UConn Huskies,three point jumper,True,False,True,Qadence Samuels,False,,48.0,0.0
+401637574,UConn Huskies,Jackson State Lady Tigers,Keshuna Luckett Defensive Rebound.,86,61,4,24,24,Jackson State Lady Tigers,rebound,False,False,False,,False,,,
+401637574,UConn Huskies,Jackson State Lady Tigers,Ti'lan Boler made Three Point Jumper. Assisted by Hayleigh Breland.,86,64,4,13,13,Jackson State Lady Tigers,three point jumper,True,True,True,Ti'lan Boler,True,Hayleigh Breland,30.0,25.0
+401637574,UConn Huskies,Jackson State Lady Tigers,End of Game,86,64,4,0,0,,end,False,False,False,,False,,,

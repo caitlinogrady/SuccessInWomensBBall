@@ -1,0 +1,361 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Jump Ball won by South Carolina,0,0,1,600,2400,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts missed Layup.,0,0,1,584,2384,South Carolina Gamecocks,layup,True,False,False,Chloe Kitts,False,,28.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin Defensive Rebound.,0,0,1,584,2384,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin made Three Point Jumper. Assisted by Sydney Affolter.,0,3,1,578,2378,Iowa Hawkeyes,three point jumper,True,True,True,Kate Martin,True,Sydney Affolter,35.0,23.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson missed Jumper.,0,3,1,560,2360,South Carolina Gamecocks,jumper,True,False,False,Raven Johnson,False,,31.0,6.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark Defensive Rebound.,0,3,1,560,2360,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke missed Layup.,0,3,1,551,2351,Iowa Hawkeyes,layup,True,False,False,Hannah Stuelke,False,,22.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts Defensive Rebound.,0,3,1,551,2351,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao missed Jumper.,0,3,1,540,2340,South Carolina Gamecocks,jumper,True,False,False,Te-Hina Paopao,False,,25.0,15.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Gabbie Marshall Defensive Rebound.,0,3,1,540,2340,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin made Jumper.,0,5,1,523,2323,Iowa Hawkeyes,jumper,True,True,False,Kate Martin,False,,30.0,-1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso missed Layup.,0,5,1,503,2303,South Carolina Gamecocks,layup,True,False,False,Kamilla Cardoso,False,,27.0,3.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter Defensive Rebound.,0,5,1,503,2303,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter made Layup.,0,7,1,493,2293,Iowa Hawkeyes,layup,True,True,False,Sydney Affolter,False,,27.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso missed Jumper.,0,7,1,469,2269,South Carolina Gamecocks,jumper,True,False,False,Kamilla Cardoso,False,,24.0,5.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke Defensive Rebound.,0,7,1,469,2269,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Jumper.,0,7,1,461,2261,Iowa Hawkeyes,jumper,True,False,False,Caitlin Clark,False,,33.0,8.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Iowa Offensive Rebound.,0,7,1,461,2261,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Three Point Jumper. Assisted by Hannah Stuelke.,0,10,1,448,2248,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,True,Hannah Stuelke,9.0,20.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Bree Hall missed Layup.,0,10,1,435,2235,South Carolina Gamecocks,layup,True,False,False,Bree Hall,False,,21.0,2.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Offensive Rebound.,0,10,1,435,2235,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso made Layup.,2,10,1,430,2230,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,False,,27.0,2.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Bree Hall.,2,10,1,424,2224,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Free Throw.,2,11,1,424,2224,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Free Throw.,2,12,1,424,2224,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Free Throw.,2,13,1,424,2224,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao made Three Point Jumper. Assisted by Raven Johnson.,5,13,1,414,2214,South Carolina Gamecocks,three point jumper,True,True,True,Te-Hina Paopao,True,Raven Johnson,9.0,19.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Layup.,5,15,1,403,2203,Iowa Hawkeyes,layup,True,True,False,Caitlin Clark,False,,20.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso made Layup. Assisted by Chloe Kitts.,7,15,1,387,2187,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Chloe Kitts,23.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Three Point Jumper.,7,18,1,380,2180,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,False,,14.0,30.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao missed Jumper.,7,18,1,358,2158,South Carolina Gamecocks,jumper,True,False,False,Te-Hina Paopao,False,,27.0,10.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Offensive Rebound.,7,18,1,358,2158,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso missed Layup.,7,18,1,355,2155,South Carolina Gamecocks,layup,True,False,False,Kamilla Cardoso,False,,27.0,2.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts Offensive Rebound.,7,18,1,355,2155,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts made Layup.,9,18,1,350,2150,South Carolina Gamecocks,layup,True,True,False,Chloe Kitts,False,,23.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Chloe Kitts.,9,18,1,334,2134,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Free Throw.,9,19,1,334,2134,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Free Throw.,9,20,1,334,2134,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Free Throw.,9,20,1,334,2134,Iowa Hawkeyes,free throw,True,False,False,Caitlin Clark,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Defensive Rebound.,9,20,1,334,2134,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts missed Jumper.,9,20,1,320,2120,South Carolina Gamecocks,jumper,True,False,False,Chloe Kitts,False,,31.0,16.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark Defensive Rebound.,9,20,1,320,2120,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin missed Layup.,9,20,1,306,2106,Iowa Hawkeyes,layup,True,False,False,Kate Martin,False,,23.0,2.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts Defensive Rebound.,9,20,1,306,2106,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Addison O'Grady.,9,20,1,304,2104,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson missed Three Point Jumper.,9,20,1,291,2091,South Carolina Gamecocks,three point jumper,True,False,True,Tessa Johnson,False,,7.0,16.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Ashlyn Watkins Offensive Rebound.,9,20,1,291,2091,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Sydney Affolter.,9,20,1,285,2085,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes, Official TV Timeout,9,20,1,285,2085,,tv timeout,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sania Feagin made Layup. Assisted by MiLaysia Fulwiley.,11,20,1,278,2078,South Carolina Gamecocks,layup,True,True,False,Sania Feagin,True,MiLaysia Fulwiley,23.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Jumper.,11,20,1,261,2061,Iowa Hawkeyes,jumper,True,False,False,Caitlin Clark,False,,28.0,12.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Ashlyn Watkins Defensive Rebound.,11,20,1,261,2061,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley missed Jumper.,11,20,1,246,2046,South Carolina Gamecocks,jumper,True,False,False,MiLaysia Fulwiley,False,,24.0,9.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sania Feagin Offensive Rebound.,11,20,1,246,2046,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley made Layup. Assisted by Sania Feagin.,13,20,1,238,2038,South Carolina Gamecocks,layup,True,True,False,MiLaysia Fulwiley,True,Sania Feagin,27.0,2.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Ashlyn Watkins.,13,20,1,226,2026,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin made Free Throw.,13,21,1,226,2026,Iowa Hawkeyes,free throw,True,True,False,Kate Martin,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin made Free Throw.,13,22,1,226,2026,Iowa Hawkeyes,free throw,True,True,False,Kate Martin,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley made Layup.,15,22,1,215,2015,South Carolina Gamecocks,layup,True,True,False,MiLaysia Fulwiley,False,,27.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin missed Three Point Jumper.,15,22,1,193,1993,Iowa Hawkeyes,three point jumper,True,False,True,Kate Martin,False,,47.0,7.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson Defensive Rebound.,15,22,1,193,1993,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson missed Jumper.,15,22,1,173,1973,South Carolina Gamecocks,jumper,True,False,False,Tessa Johnson,False,,33.0,11.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Offensive Rebound.,15,22,1,173,1973,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Hannah Stuelke.,15,22,1,169,1969,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso missed Layup.,15,22,1,165,1965,South Carolina Gamecocks,layup,True,False,False,Kamilla Cardoso,False,,22.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke Block.,15,22,1,165,1965,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Iowa Defensive Rebound.,15,22,1,165,1965,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark Turnover.,15,22,1,154,1954,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson Steal.,15,22,1,154,1954,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley made Three Point Jumper. Assisted by Kamilla Cardoso.,18,22,1,135,1935,South Carolina Gamecocks,three point jumper,True,True,True,MiLaysia Fulwiley,True,Kamilla Cardoso,11.0,23.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kylie Feuerbach missed Layup.,18,22,1,102,1902,Iowa Hawkeyes,layup,True,False,False,Kylie Feuerbach,False,,28.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Block.,18,22,1,102,1902,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Defensive Rebound.,18,22,1,102,1902,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson made Jumper.,20,22,1,91,1891,South Carolina Gamecocks,jumper,True,True,False,Tessa Johnson,False,,24.0,6.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Layup.,20,24,1,74,1874,Iowa Hawkeyes,layup,True,True,False,Caitlin Clark,False,,20.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao Turnover.,20,24,1,69,1869,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Gabbie Marshall Steal.,20,24,1,69,1869,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Three Point Jumper.,20,24,1,57,1857,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,39.0,22.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Defensive Rebound.,20,24,1,57,1857,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Bree Hall Turnover.,20,24,1,37,1837,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter Steal.,20,24,1,37,1837,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Bree Hall.,20,24,1,28,1828,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Three Point Jumper. Assisted by Gabbie Marshall.,20,27,1,22,1822,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,True,Gabbie Marshall,2.0,14.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson missed Three Point Jumper.,20,27,1,6,1806,South Carolina Gamecocks,three point jumper,True,False,True,Tessa Johnson,False,,25.0,25.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Addison O'Grady Defensive Rebound.,20,27,1,6,1806,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,End of 1st Quarter,20,27,1,0,1800,,end,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Jump Ball won by Iowa,20,27,2,600,1800,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Jumper.,20,27,2,592,1792,Iowa Hawkeyes,jumper,True,False,False,Caitlin Clark,False,,12.0,6.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson Defensive Rebound.,20,27,2,592,1792,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sania Feagin missed Jumper.,20,27,2,579,1779,South Carolina Gamecocks,jumper,True,False,False,Sania Feagin,False,,24.0,18.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin Defensive Rebound.,20,27,2,579,1779,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Jump Ball won by South Carolina,20,27,2,570,1770,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin Turnover.,20,27,2,570,1770,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson Steal.,20,27,2,570,1770,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson made Jumper.,22,27,2,556,1756,South Carolina Gamecocks,jumper,True,True,False,Tessa Johnson,False,,13.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin Turnover.,22,27,2,539,1739,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao Steal.,22,27,2,539,1739,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson made Layup. Assisted by Te-Hina Paopao.,24,27,2,534,1734,South Carolina Gamecocks,layup,True,True,False,Tessa Johnson,True,Te-Hina Paopao,27.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Addison O'Grady missed Layup.,24,27,2,519,1719,Iowa Hawkeyes,layup,True,False,False,Addison O'Grady,False,,28.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Block.,24,27,2,519,1719,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson Defensive Rebound.,24,27,2,519,1719,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso made Jumper.,26,27,2,501,1701,South Carolina Gamecocks,jumper,True,True,False,Kamilla Cardoso,False,,27.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Addison O'Grady.,26,27,2,501,1701,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso made Free Throw.,27,27,2,501,1701,South Carolina Gamecocks,free throw,True,True,False,Kamilla Cardoso,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Layup.,27,27,2,490,1690,Iowa Hawkeyes,layup,True,False,False,Caitlin Clark,False,,21.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson Block.,27,27,2,490,1690,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark Offensive Rebound.,27,27,2,490,1690,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter made Three Point Jumper. Assisted by Caitlin Clark.,27,30,2,484,1684,Iowa Hawkeyes,three point jumper,True,True,True,Sydney Affolter,True,Caitlin Clark,47.0,8.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Kate Martin.,27,30,2,472,1672,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso missed Free Throw.,27,30,2,472,1672,South Carolina Gamecocks,free throw,True,False,False,Kamilla Cardoso,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,South Carolina Deadball Team Rebound.,27,30,2,472,1672,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso missed Free Throw.,27,30,2,472,1672,South Carolina Gamecocks,free throw,True,False,False,Kamilla Cardoso,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sania Feagin Offensive Rebound.,27,30,2,472,1672,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sania Feagin made Layup.,29,30,2,470,1670,South Carolina Gamecocks,layup,True,True,False,Sania Feagin,False,,26.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on MiLaysia Fulwiley.,29,30,2,460,1660,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke made Layup. Assisted by Sydney Affolter.,29,32,2,452,1652,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,True,Sydney Affolter,27.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley missed Three Point Jumper.,29,32,2,435,1635,South Carolina Gamecocks,three point jumper,True,False,True,MiLaysia Fulwiley,False,,2.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley Offensive Rebound.,29,32,2,435,1635,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley missed Layup.,29,32,2,428,1628,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,23.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Offensive Rebound.,29,32,2,428,1628,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso made Layup.,31,32,2,425,1625,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,False,,22.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Raven Johnson.,31,32,2,400,1600,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke made Layup. Assisted by Caitlin Clark.,31,34,2,398,1598,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,True,Caitlin Clark,27.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson missed Three Point Jumper.,31,34,2,380,1580,South Carolina Gamecocks,three point jumper,True,False,True,Raven Johnson,False,,48.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark Defensive Rebound.,31,34,2,380,1580,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter missed Layup.,31,34,2,374,1574,Iowa Hawkeyes,layup,True,False,False,Sydney Affolter,False,,23.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley Defensive Rebound.,31,34,2,374,1574,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley missed Layup.,31,34,2,364,1564,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,29.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke Block.,31,34,2,364,1564,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,South Carolina Offensive Rebound.,31,34,2,364,1564,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson made Three Point Jumper. Assisted by Kamilla Cardoso.,34,34,2,362,1562,South Carolina Gamecocks,three point jumper,True,True,True,Tessa Johnson,True,Kamilla Cardoso,12.0,22.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Tessa Johnson.,34,34,2,339,1539,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Three Point Jumper.,34,34,2,337,1537,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,48.0,3.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley Defensive Rebound.,34,34,2,337,1537,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley Turnover.,34,34,2,330,1530,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin missed Three Point Jumper.,34,34,2,316,1516,Iowa Hawkeyes,three point jumper,True,False,True,Kate Martin,False,,7.0,17.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,South Carolina Defensive Rebound.,34,34,2,316,1516,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso made Layup. Assisted by Ashlyn Watkins.,36,34,2,298,1498,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Ashlyn Watkins,23.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter missed Jumper.,36,34,2,286,1486,Iowa Hawkeyes,jumper,True,False,False,Sydney Affolter,False,,24.0,7.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley Block.,36,34,2,286,1486,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson Defensive Rebound.,36,34,2,286,1486,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley missed Layup.,36,34,2,280,1480,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,28.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Gabbie Marshall Defensive Rebound.,36,34,2,280,1480,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Layup.,36,34,2,270,1470,Iowa Hawkeyes,layup,True,False,False,Caitlin Clark,False,,22.0,2.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke Offensive Rebound.,36,34,2,270,1470,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke made Layup. Assisted by Sydney Affolter.,36,36,2,251,1451,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,True,Sydney Affolter,27.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Ashlyn Watkins.,36,36,2,251,1451,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes, Official TV Timeout,36,36,2,251,1451,,tv timeout,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke made Free Throw.,36,37,2,251,1451,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley missed Three Point Jumper.,36,37,2,238,1438,South Carolina Gamecocks,three point jumper,True,False,True,MiLaysia Fulwiley,False,,48.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts Offensive Rebound.,36,37,2,238,1438,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Sydney Affolter.,36,37,2,232,1432,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts made Free Throw.,37,37,2,232,1432,South Carolina Gamecocks,free throw,True,True,False,Chloe Kitts,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts missed Free Throw.,37,37,2,232,1432,South Carolina Gamecocks,free throw,True,False,False,Chloe Kitts,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke Defensive Rebound.,37,37,2,232,1432,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Kamilla Cardoso.,37,37,2,231,1431,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke made Free Throw.,37,38,2,231,1431,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke made Free Throw.,37,39,2,231,1431,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso missed Layup.,37,39,2,220,1420,South Carolina Gamecocks,layup,True,False,False,Kamilla Cardoso,False,,27.0,2.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin Defensive Rebound.,37,39,2,220,1420,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin made Jumper.,37,41,2,199,1399,Iowa Hawkeyes,jumper,True,True,False,Kate Martin,False,,26.0,2.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Tessa Johnson.,37,41,2,178,1378,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson Turnover.,37,41,2,178,1378,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke missed Layup.,37,41,2,172,1372,Iowa Hawkeyes,layup,True,False,False,Hannah Stuelke,False,,28.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts Defensive Rebound.,37,41,2,172,1372,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson missed Three Point Jumper.,37,41,2,153,1353,South Carolina Gamecocks,three point jumper,True,False,True,Raven Johnson,False,,48.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kylie Feuerbach Defensive Rebound.,37,41,2,153,1353,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke missed Layup.,37,41,2,145,1345,Iowa Hawkeyes,layup,True,False,False,Hannah Stuelke,False,,22.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sania Feagin Block.,37,41,2,145,1345,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sania Feagin Defensive Rebound.,37,41,2,145,1345,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao made Three Point Jumper. Assisted by MiLaysia Fulwiley.,40,41,2,136,1336,South Carolina Gamecocks,three point jumper,True,True,True,Te-Hina Paopao,True,MiLaysia Fulwiley,41.0,19.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Three Point Jumper.,40,44,2,121,1321,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,False,,15.0,27.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sania Feagin made Layup. Assisted by Chloe Kitts.,42,44,2,101,1301,South Carolina Gamecocks,layup,True,True,False,Sania Feagin,True,Chloe Kitts,23.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark Turnover.,42,44,2,95,1295,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson Steal.,42,44,2,95,1295,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts made Layup. Assisted by Raven Johnson.,44,44,2,89,1289,South Carolina Gamecocks,layup,True,True,False,Chloe Kitts,True,Raven Johnson,27.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Layup.,44,44,2,60,1260,Iowa Hawkeyes,layup,True,False,False,Caitlin Clark,False,,23.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson Block.,44,44,2,60,1260,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark Offensive Rebound.,44,44,2,60,1260,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Jump Ball won by Iowa,44,44,2,60,1260,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,South Carolina  Timeout,44,44,2,60,1260,South Carolina Gamecocks,timeout,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin made Layup. Assisted by Hannah Stuelke.,44,46,2,55,1255,Iowa Hawkeyes,layup,True,True,False,Kate Martin,True,Hannah Stuelke,27.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sania Feagin missed Layup.,44,46,2,33,1233,South Carolina Gamecocks,layup,True,False,False,Sania Feagin,False,,27.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts Offensive Rebound.,44,46,2,33,1233,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao made Three Point Jumper. Assisted by MiLaysia Fulwiley.,47,46,2,27,1227,South Carolina Gamecocks,three point jumper,True,True,True,Te-Hina Paopao,True,MiLaysia Fulwiley,7.0,18.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark Turnover.,47,46,2,12,1212,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson Steal.,47,46,2,12,1212,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson made Layup.,49,46,2,8,1208,South Carolina Gamecocks,layup,True,True,False,Raven Johnson,False,,26.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,End of 2nd Quarter,49,46,2,0,1200,,end,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Jump Ball won by South Carolina,49,46,3,600,1200,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson missed Jumper.,49,46,3,591,1191,South Carolina Gamecocks,jumper,True,False,False,Raven Johnson,False,,33.0,11.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Gabbie Marshall Defensive Rebound.,49,46,3,591,1191,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Three Point Jumper.,49,46,3,573,1173,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,20.0,25.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts Defensive Rebound.,49,46,3,573,1173,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts made Layup. Assisted by Te-Hina Paopao.,51,46,3,558,1158,South Carolina Gamecocks,layup,True,True,False,Chloe Kitts,True,Te-Hina Paopao,27.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin missed Jumper.,51,46,3,538,1138,Iowa Hawkeyes,jumper,True,False,False,Kate Martin,False,,15.0,9.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson Defensive Rebound.,51,46,3,538,1138,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts made Jumper.,53,46,3,525,1125,South Carolina Gamecocks,jumper,True,True,False,Chloe Kitts,False,,8.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter missed Three Point Jumper.,53,46,3,515,1115,Iowa Hawkeyes,three point jumper,True,False,True,Sydney Affolter,False,,3.0,11.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Defensive Rebound.,53,46,3,515,1115,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao made Jumper.,55,46,3,491,1091,South Carolina Gamecocks,jumper,True,True,False,Te-Hina Paopao,False,,16.0,13.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Iowa  Timeout,55,46,3,479,1079,Iowa Hawkeyes,timeout,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter missed Three Point Jumper.,55,46,3,474,1074,Iowa Hawkeyes,three point jumper,True,False,True,Sydney Affolter,False,,44.0,16.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Defensive Rebound.,55,46,3,474,1074,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao Turnover.,55,46,3,451,1051,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Jumper.,55,48,3,435,1035,Iowa Hawkeyes,jumper,True,True,False,Caitlin Clark,False,,20.0,2.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Hannah Stuelke.,55,48,3,423,1023,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso missed Free Throw.,55,48,3,423,1023,South Carolina Gamecocks,free throw,True,False,False,Kamilla Cardoso,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,South Carolina Deadball Team Rebound.,55,48,3,423,1023,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso missed Free Throw.,55,48,3,423,1023,South Carolina Gamecocks,free throw,True,False,False,Kamilla Cardoso,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin Defensive Rebound.,55,48,3,423,1023,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Three Point Jumper.,55,48,3,413,1013,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,11.0,21.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts Defensive Rebound.,55,48,3,413,1013,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Chloe Kitts.,55,48,3,393,993,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts Turnover.,55,48,3,393,993,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Gabbie Marshall made Three Point Jumper. Assisted by Caitlin Clark.,55,51,3,379,979,Iowa Hawkeyes,three point jumper,True,True,True,Gabbie Marshall,True,Caitlin Clark,2.0,-1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Bree Hall made Jumper.,57,51,3,368,968,South Carolina Gamecocks,jumper,True,True,False,Bree Hall,False,,26.0,10.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Layup.,57,51,3,352,952,Iowa Hawkeyes,layup,True,False,False,Caitlin Clark,False,,22.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Defensive Rebound.,57,51,3,352,952,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson missed Three Point Jumper.,57,51,3,330,930,South Carolina Gamecocks,three point jumper,True,False,True,Raven Johnson,False,,25.0,25.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark Defensive Rebound.,57,51,3,330,930,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke made Layup. Assisted by Caitlin Clark.,57,53,3,320,920,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,True,Caitlin Clark,23.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Jump Ball won by Iowa,57,53,3,298,898,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Turnover.,57,53,3,298,898,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Gabbie Marshall Steal.,57,53,3,298,898,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes, Official TV Timeout,57,53,3,298,898,,tv timeout,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Layup.,57,55,3,284,884,Iowa Hawkeyes,layup,True,True,False,Caitlin Clark,False,,22.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Bree Hall missed Three Point Jumper.,57,55,3,264,864,South Carolina Gamecocks,three point jumper,True,False,True,Bree Hall,False,,2.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Ashlyn Watkins Offensive Rebound.,57,55,3,264,864,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Ashlyn Watkins made Layup.,59,55,3,259,859,South Carolina Gamecocks,layup,True,True,False,Ashlyn Watkins,False,,22.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke missed Layup.,59,55,3,253,853,Iowa Hawkeyes,layup,True,False,False,Hannah Stuelke,False,,28.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sania Feagin Defensive Rebound.,59,55,3,253,853,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson made Three Point Jumper. Assisted by Raven Johnson.,62,55,3,238,838,South Carolina Gamecocks,three point jumper,True,True,True,Tessa Johnson,True,Raven Johnson,40.0,20.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Gabbie Marshall missed Three Point Jumper.,62,55,3,217,817,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,5.0,13.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson Defensive Rebound.,62,55,3,217,817,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Ashlyn Watkins Turnover.,62,55,3,198,798,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Gabbie Marshall Steal.,62,55,3,198,798,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Three Point Jumper.,62,55,3,189,789,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,11.0,23.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson Defensive Rebound.,62,55,3,189,789,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Bree Hall made Three Point Jumper. Assisted by Tessa Johnson.,65,55,3,161,761,South Carolina Gamecocks,three point jumper,True,True,True,Bree Hall,True,Tessa Johnson,40.0,21.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Jump Ball won by South Carolina,65,55,3,148,748,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter Turnover.,65,55,3,148,748,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Ashlyn Watkins Steal.,65,55,3,148,748,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson missed Jumper.,65,55,3,123,723,South Carolina Gamecocks,jumper,True,False,False,Raven Johnson,False,,24.0,9.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Iowa Defensive Rebound.,65,55,3,123,723,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin missed Three Point Jumper.,65,55,3,108,708,Iowa Hawkeyes,three point jumper,True,False,True,Kate Martin,False,,9.0,19.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Ashlyn Watkins Block.,65,55,3,108,708,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin Offensive Rebound.,65,55,3,108,708,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Ashlyn Watkins.,65,55,3,102,702,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin made Free Throw.,65,56,3,102,702,Iowa Hawkeyes,free throw,True,True,False,Kate Martin,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin made Free Throw.,65,57,3,102,702,Iowa Hawkeyes,free throw,True,True,False,Kate Martin,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso missed Jumper.,65,57,3,93,693,South Carolina Gamecocks,jumper,True,False,False,Kamilla Cardoso,False,,27.0,4.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Addison O'Grady Block.,65,57,3,93,693,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter Defensive Rebound.,65,57,3,93,693,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin missed Jumper.,65,57,3,83,683,Iowa Hawkeyes,jumper,True,False,False,Kate Martin,False,,26.0,7.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley Defensive Rebound.,65,57,3,83,683,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson made Three Point Jumper. Assisted by MiLaysia Fulwiley.,68,57,3,76,676,South Carolina Gamecocks,three point jumper,True,True,True,Tessa Johnson,True,MiLaysia Fulwiley,46.0,12.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Iowa  Timeout,68,57,3,66,666,Iowa Hawkeyes,timeout,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter made Layup. Assisted by Addison O'Grady.,68,59,3,51,651,Iowa Hawkeyes,layup,True,True,False,Sydney Affolter,True,Addison O'Grady,28.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sania Feagin Turnover.,68,59,3,29,629,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Three Point Jumper.,68,59,3,6,606,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,27.0,25.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Iowa Offensive Rebound.,68,59,3,6,606,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,End of 3rd Quarter,68,59,3,0,600,,end,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Jump Ball won by Iowa,68,59,4,600,600,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Sania Feagin.,68,59,4,579,579,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke missed Free Throw.,68,59,4,579,579,Iowa Hawkeyes,free throw,True,False,False,Hannah Stuelke,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Iowa Deadball Team Rebound.,68,59,4,579,579,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Hannah Stuelke missed Free Throw.,68,59,4,579,579,Iowa Hawkeyes,free throw,True,False,False,Hannah Stuelke,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Defensive Rebound.,68,59,4,579,579,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson made Jumper.,70,59,4,565,565,South Carolina Gamecocks,jumper,True,True,False,Tessa Johnson,False,,21.0,12.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Jumper.,70,61,4,541,541,Iowa Hawkeyes,jumper,True,True,False,Caitlin Clark,False,,23.0,12.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley made Layup.,72,61,4,533,533,South Carolina Gamecocks,layup,True,True,False,MiLaysia Fulwiley,False,,28.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Raven Johnson.,72,61,4,521,521,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin missed Jumper.,72,61,4,508,508,Iowa Hawkeyes,jumper,True,False,False,Kate Martin,False,,17.0,8.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts Defensive Rebound.,72,61,4,508,508,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts missed Layup.,72,61,4,497,497,South Carolina Gamecocks,layup,True,False,False,Chloe Kitts,False,,28.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Offensive Rebound.,72,61,4,497,497,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso made Layup.,74,61,4,492,492,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,False,,23.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Kamilla Cardoso.,74,61,4,482,482,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin missed Free Throw.,74,61,4,482,482,Iowa Hawkeyes,free throw,True,False,False,Kate Martin,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Iowa Deadball Team Rebound.,74,61,4,482,482,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin made Free Throw.,74,62,4,482,482,Iowa Hawkeyes,free throw,True,True,False,Kate Martin,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso missed Layup.,74,62,4,468,468,South Carolina Gamecocks,layup,True,False,False,Kamilla Cardoso,False,,22.0,2.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Addison O'Grady Block.,74,62,4,468,468,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts Offensive Rebound.,74,62,4,468,468,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Chloe Kitts made Layup.,76,62,4,464,464,South Carolina Gamecocks,layup,True,True,False,Chloe Kitts,False,,24.0,2.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on MiLaysia Fulwiley.,76,62,4,453,453,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter made Free Throw.,76,63,4,453,453,Iowa Hawkeyes,free throw,True,True,False,Sydney Affolter,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter made Free Throw.,76,64,4,453,453,Iowa Hawkeyes,free throw,True,True,False,Sydney Affolter,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson missed Jumper.,76,64,4,438,438,South Carolina Gamecocks,jumper,True,False,False,Raven Johnson,False,,16.0,7.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark Defensive Rebound.,76,64,4,438,438,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark made Three Point Jumper.,76,67,4,425,425,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,False,,11.0,23.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,MiLaysia Fulwiley Turnover.,76,67,4,415,415,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter Steal.,76,67,4,415,415,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Three Point Jumper.,76,67,4,407,407,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,40.0,28.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Addison O'Grady Offensive Rebound.,76,67,4,407,407,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Gabbie Marshall made Three Point Jumper. Assisted by Addison O'Grady.,76,70,4,402,402,Iowa Hawkeyes,three point jumper,True,True,True,Gabbie Marshall,True,Addison O'Grady,44.0,16.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Bree Hall missed Jumper.,76,70,4,379,379,South Carolina Gamecocks,jumper,True,False,False,Bree Hall,False,,42.0,3.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter Defensive Rebound.,76,70,4,379,379,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter Turnover.,76,70,4,366,366,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Ashlyn Watkins Steal.,76,70,4,366,366,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Kate Martin.,76,70,4,358,358,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson made Free Throw.,77,70,4,358,358,South Carolina Gamecocks,free throw,True,True,False,Tessa Johnson,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson made Free Throw.,78,70,4,358,358,South Carolina Gamecocks,free throw,True,True,False,Tessa Johnson,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Jumper.,78,70,4,352,352,Iowa Hawkeyes,jumper,True,False,False,Caitlin Clark,False,,23.0,17.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Ashlyn Watkins Defensive Rebound.,78,70,4,352,352,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson missed Three Point Jumper.,78,70,4,327,327,South Carolina Gamecocks,three point jumper,True,False,True,Tessa Johnson,False,,25.0,25.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Offensive Rebound.,78,70,4,327,327,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Turnover.,78,70,4,322,322,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin made Layup. Assisted by Caitlin Clark.,78,72,4,309,309,Iowa Hawkeyes,layup,True,True,False,Kate Martin,True,Caitlin Clark,22.0,0.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson missed Jumper.,78,72,4,283,283,South Carolina Gamecocks,jumper,True,False,False,Raven Johnson,False,,38.0,11.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Ashlyn Watkins Offensive Rebound.,78,72,4,283,283,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Kate Martin.,78,72,4,279,279,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes, Official TV Timeout,78,72,4,279,279,,tv timeout,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Bree Hall made Jumper.,80,72,4,275,275,South Carolina Gamecocks,jumper,True,True,False,Bree Hall,False,,28.0,11.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter made Layup.,80,74,4,253,253,Iowa Hawkeyes,layup,True,True,False,Sydney Affolter,False,,27.0,3.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Bree Hall.,80,74,4,253,253,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter made Free Throw.,80,75,4,253,253,Iowa Hawkeyes,free throw,True,True,False,Sydney Affolter,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson missed Three Point Jumper.,80,75,4,237,237,South Carolina Gamecocks,three point jumper,True,False,True,Raven Johnson,False,,47.0,10.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark Defensive Rebound.,80,75,4,237,237,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin Turnover.,80,75,4,211,211,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Sydney Affolter.,80,75,4,183,183,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao missed Free Throw.,80,75,4,183,183,South Carolina Gamecocks,free throw,True,False,False,Te-Hina Paopao,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,South Carolina Deadball Team Rebound.,80,75,4,183,183,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao made Free Throw.,81,75,4,183,183,South Carolina Gamecocks,free throw,True,True,False,Te-Hina Paopao,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Addison O'Grady missed Layup.,81,75,4,174,174,Iowa Hawkeyes,layup,True,False,False,Addison O'Grady,False,,25.0,4.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Block.,81,75,4,174,174,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Defensive Rebound.,81,75,4,174,174,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson missed Jumper.,81,75,4,155,155,South Carolina Gamecocks,jumper,True,False,False,Raven Johnson,False,,22.0,11.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Offensive Rebound.,81,75,4,155,155,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso made Layup.,83,75,4,150,150,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,False,,22.0,3.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Three Point Jumper.,83,75,4,142,142,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,21.0,31.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson Defensive Rebound.,83,75,4,142,142,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Caitlin Clark.,83,75,4,124,124,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao missed Three Point Jumper.,83,75,4,111,111,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,24.0,26.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,South Carolina Deadball Team Rebound.,83,75,4,111,111,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Kate Martin.,83,75,4,107,107,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Ashlyn Watkins missed Free Throw.,83,75,4,107,107,South Carolina Gamecocks,free throw,True,False,False,Ashlyn Watkins,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,South Carolina Deadball Team Rebound.,83,75,4,107,107,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Ashlyn Watkins made Free Throw.,84,75,4,107,107,South Carolina Gamecocks,free throw,True,True,False,Ashlyn Watkins,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Layup.,84,75,4,104,104,Iowa Hawkeyes,layup,True,False,False,Caitlin Clark,False,,20.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Tessa Johnson Defensive Rebound.,84,75,4,104,104,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Caitlin Clark.,84,75,4,86,86,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson missed Free Throw.,84,75,4,86,86,South Carolina Gamecocks,free throw,True,False,False,Raven Johnson,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,South Carolina Deadball Team Rebound.,84,75,4,86,86,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson made Free Throw.,85,75,4,86,86,South Carolina Gamecocks,free throw,True,True,False,Raven Johnson,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kate Martin missed Layup.,85,75,4,79,79,Iowa Hawkeyes,layup,True,False,False,Kate Martin,False,,21.0,1.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Defensive Rebound.,85,75,4,79,79,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Foul on Caitlin Clark.,85,75,4,67,67,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao made Free Throw.,86,75,4,67,67,South Carolina Gamecocks,free throw,True,True,False,Te-Hina Paopao,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Te-Hina Paopao made Free Throw.,87,75,4,67,67,South Carolina Gamecocks,free throw,True,True,False,Te-Hina Paopao,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark missed Jumper.,87,75,4,62,62,Iowa Hawkeyes,jumper,True,False,False,Caitlin Clark,False,,25.0,4.0
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Kamilla Cardoso Defensive Rebound.,87,75,4,62,62,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson Turnover.,87,75,4,56,56,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Sydney Affolter Steal.,87,75,4,56,56,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Iowa  Timeout,87,75,4,54,54,Iowa Hawkeyes,timeout,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Caitlin Clark Turnover.,87,75,4,53,53,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,Raven Johnson Steal.,87,75,4,53,53,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,South Carolina  Turnover.,87,75,4,21,21,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637613,South Carolina Gamecocks,Iowa Hawkeyes,End of Game,87,75,4,0,0,,end,False,False,False,,False,,,

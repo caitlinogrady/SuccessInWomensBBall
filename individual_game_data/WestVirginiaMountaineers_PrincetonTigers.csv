@@ -1,0 +1,348 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637567,West Virginia Mountaineers,Princeton Tigers,Jump Ball won by West Virginia,0,0,1,600,2400,West Virginia Mountaineers,jump ball,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison Turnover.,0,0,1,582,2382,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Three Point Jumper.,0,0,1,554,2354,Princeton Tigers,three point jumper,True,False,True,Madison St. Rose,False,,31.0,28.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose Offensive Rebound.,0,0,1,554,2354,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Three Point Jumper. Assisted by Ellie Mitchell.,0,3,1,545,2345,Princeton Tigers,three point jumper,True,True,True,Madison St. Rose,True,Ellie Mitchell,1.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly missed Jumper.,0,3,1,526,2326,West Virginia Mountaineers,jumper,True,False,False,JJ Quinerly,False,,27.0,12.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen Defensive Rebound.,0,3,1,526,2326,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Madison St. Rose.,0,3,1,501,2301,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose Turnover.,0,3,1,501,2301,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Turnover.,0,3,1,486,2286,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen made Jumper.,0,5,1,459,2259,Princeton Tigers,jumper,True,True,False,Kaitlyn Chen,False,,24.0,12.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison made Layup.,2,5,1,447,2247,West Virginia Mountaineers,layup,True,True,False,Jordan Harrison,False,,22.0,0.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Three Point Jumper. Assisted by Skye Belker.,2,8,1,426,2226,Princeton Tigers,three point jumper,True,True,True,Madison St. Rose,True,Skye Belker,1.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kyah Watson made Layup. Assisted by Jordan Harrison.,4,8,1,406,2206,West Virginia Mountaineers,layup,True,True,False,Kyah Watson,True,Jordan Harrison,22.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton  Turnover.,4,8,1,371,2171,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Layup.,6,8,1,360,2160,West Virginia Mountaineers,layup,True,True,False,JJ Quinerly,False,,22.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Three Point Jumper.,6,8,1,335,2135,Princeton Tigers,three point jumper,True,False,True,Madison St. Rose,False,,7.0,17.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Offensive Rebound.,6,8,1,335,2135,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell missed Layup.,6,8,1,335,2135,Princeton Tigers,layup,True,False,False,Ellie Mitchell,False,,27.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton Offensive Rebound.,6,8,1,335,2135,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Jumper.,6,8,1,328,2128,Princeton Tigers,jumper,True,False,False,Madison St. Rose,False,,30.0,6.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison Defensive Rebound.,6,8,1,328,2128,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison missed Layup.,6,8,1,313,2113,West Virginia Mountaineers,layup,True,False,False,Jordan Harrison,False,,20.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Chet Nweke Defensive Rebound.,6,8,1,313,2113,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen missed Jumper.,6,8,1,302,2102,Princeton Tigers,jumper,True,False,False,Kaitlyn Chen,False,,29.0,10.0
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Defensive Rebound.,6,8,1,302,2102,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Layup.,8,8,1,295,2095,West Virginia Mountaineers,layup,True,True,False,JJ Quinerly,False,,23.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell made Jumper. Assisted by Skye Belker.,8,10,1,271,2071,Princeton Tigers,jumper,True,True,False,Ellie Mitchell,True,Skye Belker,20.0,15.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison missed Layup.,8,10,1,241,2041,West Virginia Mountaineers,layup,True,False,False,Jordan Harrison,False,,28.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Skye Belker Defensive Rebound.,8,10,1,241,2041,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Three Point Jumper.,8,10,1,220,2020,Princeton Tigers,three point jumper,True,False,True,Madison St. Rose,False,,9.0,20.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Offensive Rebound.,8,10,1,220,2020,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Kylee Blacksten.,8,10,1,220,2020,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers, Official TV Timeout,8,10,1,220,2020,,tv timeout,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Parker Hill missed Layup.,8,10,1,217,2017,Princeton Tigers,layup,True,False,False,Parker Hill,False,,27.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Tirzah Moore Defensive Rebound.,8,10,1,217,2017,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Lauren Fields missed Three Point Jumper.,8,10,1,192,1992,West Virginia Mountaineers,three point jumper,True,False,True,Lauren Fields,False,,44.0,15.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ashley Chea Defensive Rebound.,8,10,1,192,1992,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ashley Chea missed Three Point Jumper.,8,10,1,174,1974,Princeton Tigers,three point jumper,True,False,True,Ashley Chea,False,,48.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kyah Watson Defensive Rebound.,8,10,1,174,1974,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kyah Watson missed Three Point Jumper.,8,10,1,157,1957,West Virginia Mountaineers,three point jumper,True,False,True,Kyah Watson,False,,43.0,17.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ashley Chea Defensive Rebound.,8,10,1,157,1957,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Parker Hill missed Jumper.,8,10,1,137,1937,Princeton Tigers,jumper,True,False,False,Parker Hill,False,,17.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Offensive Rebound.,8,10,1,137,1937,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen missed Layup.,8,10,1,123,1923,Princeton Tigers,layup,True,False,False,Kaitlyn Chen,False,,28.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Parker Hill Offensive Rebound.,8,10,1,123,1923,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Parker Hill missed Layup.,8,10,1,116,1916,Princeton Tigers,layup,True,False,False,Parker Hill,False,,23.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Tirzah Moore Defensive Rebound.,8,10,1,116,1916,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison Turnover.,8,10,1,90,1890,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen Steal.,8,10,1,90,1890,Princeton Tigers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen made Layup.,8,12,1,78,1878,Princeton Tigers,layup,True,True,False,Kaitlyn Chen,False,,28.0,0.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Tirzah Moore missed Layup.,8,12,1,69,1869,West Virginia Mountaineers,layup,True,False,False,Tirzah Moore,False,,21.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Defensive Rebound.,8,12,1,69,1869,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Jumper.,8,14,1,49,1849,Princeton Tigers,jumper,True,True,False,Madison St. Rose,False,,25.0,10.0
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Three Point Jumper. Assisted by Jordan Harrison.,11,14,1,24,1824,West Virginia Mountaineers,three point jumper,True,True,True,JJ Quinerly,True,Jordan Harrison,44.0,16.0
+401637567,West Virginia Mountaineers,Princeton Tigers,End of 1st Quarter,11,14,1,0,1800,,end,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jump Ball won by Princeton,11,14,2,600,1800,Princeton Tigers,jump ball,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Jordan Harrison.,11,14,2,584,1784,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Parker Hill missed Jumper.,11,14,2,556,1756,Princeton Tigers,jumper,True,False,False,Parker Hill,False,,16.0,7.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Chet Nweke Offensive Rebound.,11,14,2,556,1756,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Chet Nweke made Layup.,11,16,2,550,1750,Princeton Tigers,layup,True,True,False,Chet Nweke,False,,25.0,3.0
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly missed Jumper.,11,16,2,523,1723,West Virginia Mountaineers,jumper,True,False,False,JJ Quinerly,False,,36.0,8.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Chet Nweke Defensive Rebound.,11,16,2,523,1723,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen made Three Point Jumper. Assisted by Parker Hill.,11,19,2,517,1717,Princeton Tigers,three point jumper,True,True,True,Kaitlyn Chen,True,Parker Hill,12.0,21.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Parker Hill.,11,19,2,511,1711,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly missed Free Throw.,11,19,2,511,1711,West Virginia Mountaineers,free throw,True,False,False,JJ Quinerly,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Free Throw.,12,19,2,511,1711,West Virginia Mountaineers,free throw,True,True,False,JJ Quinerly,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Three Point Jumper.,12,19,2,490,1690,Princeton Tigers,three point jumper,True,False,True,Madison St. Rose,False,,37.0,23.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Offensive Rebound.,12,19,2,487,1687,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Jayla Hemingway.,12,19,2,487,1687,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose Turnover.,12,19,2,468,1668,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison Steal.,12,19,2,468,1668,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison made Layup.,14,19,2,463,1663,West Virginia Mountaineers,layup,True,True,False,Jordan Harrison,False,,23.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Skye Belker made Layup. Assisted by Kaitlyn Chen.,14,21,2,432,1632,Princeton Tigers,layup,True,True,False,Skye Belker,True,Kaitlyn Chen,28.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Kyah Watson.,14,21,2,418,1618,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kyah Watson Turnover.,14,21,2,418,1618,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen made Jumper. Assisted by Ellie Mitchell.,14,23,2,402,1602,Princeton Tigers,jumper,True,True,False,Kaitlyn Chen,True,Ellie Mitchell,33.0,11.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Jayla Hemingway missed Jumper.,14,23,2,374,1574,West Virginia Mountaineers,jumper,True,False,False,Jayla Hemingway,False,,33.0,6.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Defensive Rebound.,14,23,2,374,1574,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose Turnover.,14,23,2,347,1547,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kyah Watson Steal.,14,23,2,347,1547,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Jayla Hemingway.,14,23,2,333,1533,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jayla Hemingway Turnover.,14,23,2,333,1533,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Skye Belker missed Three Point Jumper.,14,23,2,314,1514,Princeton Tigers,three point jumper,True,False,True,Skye Belker,False,,8.0,18.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kyah Watson Defensive Rebound.,14,23,2,314,1514,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Jumper.,16,23,2,306,1506,West Virginia Mountaineers,jumper,True,True,False,JJ Quinerly,False,,28.0,9.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Skye Belker missed Three Point Jumper.,16,23,2,284,1484,Princeton Tigers,three point jumper,True,False,True,Skye Belker,False,,15.0,23.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Danelle Arigbabu Defensive Rebound.,16,23,2,284,1484,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison made Layup.,18,23,2,268,1468,West Virginia Mountaineers,layup,True,True,False,Jordan Harrison,False,,22.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ashley Chea missed Jumper.,18,23,2,241,1441,Princeton Tigers,jumper,True,False,False,Ashley Chea,False,,15.0,18.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Chet Nweke Offensive Rebound.,18,23,2,241,1441,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Jordan Harrison.,18,23,2,238,1438,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers, Official TV Timeout,18,23,2,238,1438,,tv timeout,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Chet Nweke missed Free Throw.,18,23,2,238,1438,Princeton Tigers,free throw,True,False,False,Chet Nweke,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton Deadball Team Rebound.,18,23,2,238,1438,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Chet Nweke missed Free Throw.,18,23,2,238,1438,Princeton Tigers,free throw,True,False,False,Chet Nweke,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten Defensive Rebound.,18,23,2,237,1437,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly missed Jumper.,18,23,2,221,1421,West Virginia Mountaineers,jumper,True,False,False,JJ Quinerly,False,,26.0,18.0
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Offensive Rebound.,18,23,2,221,1421,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jump Ball won by West Virginia,18,23,2,221,1421,West Virginia Mountaineers,jump ball,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly missed Three Point Jumper.,18,23,2,207,1407,West Virginia Mountaineers,three point jumper,True,False,True,JJ Quinerly,False,,15.0,24.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten Offensive Rebound.,18,23,2,207,1407,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten made Layup.,20,23,2,202,1402,West Virginia Mountaineers,layup,True,True,False,Kylee Blacksten,False,,27.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen made Layup. Assisted by Ellie Mitchell.,20,25,2,178,1378,Princeton Tigers,layup,True,True,False,Kaitlyn Chen,True,Ellie Mitchell,22.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten missed Layup.,20,25,2,147,1347,West Virginia Mountaineers,layup,True,False,False,Kylee Blacksten,False,,20.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen Defensive Rebound.,20,25,2,147,1347,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Skye Belker missed Three Point Jumper.,20,25,2,139,1339,Princeton Tigers,three point jumper,True,False,True,Skye Belker,False,,2.0,0.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Danelle Arigbabu Defensive Rebound.,20,25,2,139,1339,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Tabitha Amanze.,20,25,2,137,1337,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Ellie Mitchell.,20,25,2,122,1322,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Free Throw.,21,25,2,122,1322,West Virginia Mountaineers,free throw,True,True,False,JJ Quinerly,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly missed Free Throw.,21,25,2,122,1322,West Virginia Mountaineers,free throw,True,False,False,JJ Quinerly,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Defensive Rebound.,21,25,2,122,1322,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen missed Three Point Jumper.,21,25,2,114,1314,Princeton Tigers,three point jumper,True,False,True,Kaitlyn Chen,False,,22.0,26.0
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia Defensive Rebound.,21,25,2,114,1314,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly missed Jumper.,21,25,2,92,1292,West Virginia Mountaineers,jumper,True,False,False,JJ Quinerly,False,,15.0,10.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose Defensive Rebound.,21,25,2,92,1292,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen missed Jumper.,21,25,2,66,1266,Princeton Tigers,jumper,True,False,False,Kaitlyn Chen,False,,20.0,15.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Offensive Rebound.,21,25,2,66,1266,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen Turnover.,21,25,2,51,1251,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Steal.,21,25,2,51,1251,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly missed Layup.,21,25,2,45,1245,West Virginia Mountaineers,layup,True,False,False,JJ Quinerly,False,,22.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Defensive Rebound.,21,25,2,45,1245,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Jumper.,21,25,2,35,1235,Princeton Tigers,jumper,True,False,False,Madison St. Rose,False,,30.0,15.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Offensive Rebound.,21,25,2,35,1235,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Kyah Watson.,21,25,2,30,1230,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell missed Free Throw.,21,25,2,30,1230,Princeton Tigers,free throw,True,False,False,Ellie Mitchell,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton Deadball Team Rebound.,21,25,2,30,1230,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell made Free Throw.,21,26,2,30,1230,Princeton Tigers,free throw,True,True,False,Ellie Mitchell,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison made Three Point Jumper. Assisted by JJ Quinerly.,24,26,2,2,1202,West Virginia Mountaineers,three point jumper,True,True,True,Jordan Harrison,True,JJ Quinerly,24.0,28.0
+401637567,West Virginia Mountaineers,Princeton Tigers,End of 2nd Quarter,24,26,2,0,1200,,end,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jump Ball won by Princeton,24,26,3,600,1200,Princeton Tigers,jump ball,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Skye Belker missed Layup.,24,26,3,592,1192,Princeton Tigers,layup,True,False,False,Skye Belker,False,,28.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton Offensive Rebound.,24,26,3,592,1192,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen made Three Point Jumper. Assisted by Ellie Mitchell.,24,29,3,590,1190,Princeton Tigers,three point jumper,True,True,True,Kaitlyn Chen,True,Ellie Mitchell,48.0,0.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Ellie Mitchell.,24,29,3,566,1166,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten missed Free Throw.,24,29,3,566,1166,West Virginia Mountaineers,free throw,True,False,False,Kylee Blacksten,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia Deadball Team Rebound.,24,29,3,566,1166,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten made Free Throw.,25,29,3,566,1166,West Virginia Mountaineers,free throw,True,True,False,Kylee Blacksten,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose Turnover.,25,29,3,544,1144,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kyah Watson Steal.,25,29,3,544,1144,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly missed Layup.,25,29,3,531,1131,West Virginia Mountaineers,layup,True,False,False,JJ Quinerly,False,,28.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Offensive Rebound.,25,29,3,531,1131,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly missed Layup.,25,29,3,527,1127,West Virginia Mountaineers,layup,True,False,False,JJ Quinerly,False,,24.0,3.0
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Offensive Rebound.,25,29,3,527,1127,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Turnover.,25,29,3,527,1127,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Three Point Jumper.,25,29,3,501,1101,Princeton Tigers,three point jumper,True,False,True,Madison St. Rose,False,,42.0,23.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Skye Belker Offensive Rebound.,25,29,3,501,1101,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Skye Belker Turnover.,25,29,3,480,1080,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Lauren Fields Steal.,25,29,3,480,1080,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison made Layup.,27,29,3,477,1077,West Virginia Mountaineers,layup,True,True,False,Jordan Harrison,False,,27.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Skye Belker Turnover.,27,29,3,476,1076,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten made Layup. Assisted by JJ Quinerly.,29,29,3,473,1073,West Virginia Mountaineers,layup,True,True,False,Kylee Blacksten,True,JJ Quinerly,26.0,3.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Skye Belker.,29,29,3,468,1068,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten missed Free Throw.,29,29,3,468,1068,West Virginia Mountaineers,free throw,True,False,False,Kylee Blacksten,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton Offensive Rebound.,29,29,3,468,1068,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen Turnover.,29,29,3,446,1046,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Lauren Fields Steal.,29,29,3,446,1046,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten made Three Point Jumper. Assisted by Kyah Watson.,32,29,3,439,1039,West Virginia Mountaineers,three point jumper,True,True,True,Kylee Blacksten,True,Kyah Watson,12.0,22.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen Turnover.,32,29,3,416,1016,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Steal.,32,29,3,416,1016,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Layup.,34,29,3,412,1012,West Virginia Mountaineers,layup,True,True,False,JJ Quinerly,False,,27.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen Turnover.,34,29,3,395,995,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison Steal.,34,29,3,395,995,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Lauren Fields made Layup. Assisted by Jordan Harrison.,36,29,3,385,985,West Virginia Mountaineers,layup,True,True,False,Lauren Fields,True,Jordan Harrison,27.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Chet Nweke.,36,29,3,385,985,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers, Official TV Timeout,36,29,3,385,985,,tv timeout,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton  Timeout,36,29,3,385,985,Princeton Tigers,timeout,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Lauren Fields made Free Throw.,37,29,3,385,985,West Virginia Mountaineers,free throw,True,True,False,Lauren Fields,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Ellie Mitchell.,37,29,3,361,961,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Turnover.,37,29,3,361,961,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten Turnover.,37,29,3,348,948,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Parker Hill Turnover.,37,29,3,345,945,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison Steal.,37,29,3,345,945,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Jordan Harrison.,37,29,3,342,942,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison Turnover.,37,29,3,342,942,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Layup.,37,29,3,314,914,Princeton Tigers,layup,True,False,False,Madison St. Rose,False,,22.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kyah Watson Block.,37,29,3,314,914,West Virginia Mountaineers,block,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose Offensive Rebound.,37,29,3,314,914,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton  Turnover.,37,29,3,310,910,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly missed Three Point Jumper.,37,29,3,299,899,West Virginia Mountaineers,three point jumper,True,False,True,JJ Quinerly,False,,11.0,21.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Chet Nweke Defensive Rebound.,37,29,3,299,899,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Kylee Blacksten.,37,29,3,278,878,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers, Official TV Timeout,37,29,3,278,878,,tv timeout,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Chet Nweke Turnover.,37,29,3,267,867,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Parker Hill.,37,29,3,246,846,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jayla Hemingway missed Free Throw.,37,29,3,246,846,West Virginia Mountaineers,free throw,True,False,False,Jayla Hemingway,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia Deadball Team Rebound.,37,29,3,246,846,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jayla Hemingway missed Free Throw.,37,29,3,246,846,West Virginia Mountaineers,free throw,True,False,False,Jayla Hemingway,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Defensive Rebound.,37,29,3,246,846,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Lauren Fields.,37,29,3,243,843,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Three Point Jumper. Assisted by Ellie Mitchell.,37,32,3,218,818,Princeton Tigers,three point jumper,True,True,True,Madison St. Rose,True,Ellie Mitchell,9.0,21.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Lauren Fields made Layup.,39,32,3,185,785,West Virginia Mountaineers,layup,True,True,False,Lauren Fields,False,,28.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Jumper.,39,32,3,174,774,Princeton Tigers,jumper,True,False,False,Madison St. Rose,False,,29.0,5.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten Defensive Rebound.,39,32,3,174,774,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Madison St. Rose.,39,32,3,173,773,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten missed Free Throw.,39,32,3,173,773,West Virginia Mountaineers,free throw,True,False,False,Kylee Blacksten,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia Deadball Team Rebound.,39,32,3,173,773,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten made Free Throw.,40,32,3,173,773,West Virginia Mountaineers,free throw,True,True,False,Kylee Blacksten,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton  Turnover.,40,32,3,161,761,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kyah Watson Turnover.,40,32,3,148,748,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Lauren Fields.,40,32,3,122,722,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Skye Belker missed Jumper.,40,32,3,109,709,Princeton Tigers,jumper,True,False,False,Skye Belker,False,,23.0,17.0
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Defensive Rebound.,40,32,3,103,703,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Lauren Fields missed Three Point Jumper.,40,32,3,93,693,West Virginia Mountaineers,three point jumper,True,False,True,Lauren Fields,False,,22.0,25.0
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia Offensive Rebound.,40,32,3,93,693,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Kaitlyn Chen.,40,32,3,85,685,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten made Free Throw.,41,32,3,85,685,West Virginia Mountaineers,free throw,True,True,False,Kylee Blacksten,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten missed Free Throw.,41,32,3,85,685,West Virginia Mountaineers,free throw,True,False,False,Kylee Blacksten,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kyah Watson Offensive Rebound.,41,32,3,85,685,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jump Ball won by West Virginia,41,32,3,69,669,West Virginia Mountaineers,jump ball,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kyah Watson missed Three Point Jumper.,41,32,3,68,668,West Virginia Mountaineers,three point jumper,True,False,True,Kyah Watson,False,,2.0,9.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Defensive Rebound.,41,32,3,68,668,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Turnover.,41,32,3,64,664,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Tabitha Amanze.,41,32,3,47,647,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly missed Free Throw.,41,32,3,47,647,West Virginia Mountaineers,free throw,True,False,False,JJ Quinerly,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia Deadball Team Rebound.,41,32,3,47,647,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Free Throw.,42,32,3,47,647,West Virginia Mountaineers,free throw,True,True,False,JJ Quinerly,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen missed Jumper.,42,32,3,20,620,Princeton Tigers,jumper,True,False,False,Kaitlyn Chen,False,,36.0,6.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Offensive Rebound.,42,32,3,20,620,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Lauren Fields.,42,32,3,2,602,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen missed Free Throw.,42,32,3,2,602,Princeton Tigers,free throw,True,False,False,Kaitlyn Chen,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton Deadball Team Rebound.,42,32,3,2,602,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen made Free Throw.,42,33,3,2,602,Princeton Tigers,free throw,True,True,False,Kaitlyn Chen,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,End of 3rd Quarter,42,33,3,0,600,,end,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jump Ball won by Princeton,42,33,4,600,600,Princeton Tigers,jump ball,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Kyah Watson.,42,33,4,587,587,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Free Throw.,42,34,4,587,587,Princeton Tigers,free throw,True,True,False,Madison St. Rose,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Free Throw.,42,35,4,587,587,Princeton Tigers,free throw,True,True,False,Madison St. Rose,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison Turnover.,42,35,4,566,566,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose Steal.,42,35,4,566,566,Princeton Tigers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen missed Jumper.,42,35,4,559,559,Princeton Tigers,jumper,True,False,False,Kaitlyn Chen,False,,22.0,11.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison Defensive Rebound.,42,35,4,559,559,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison missed Layup.,42,35,4,535,535,West Virginia Mountaineers,layup,True,False,False,Jordan Harrison,False,,28.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten Offensive Rebound.,42,35,4,535,535,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Chet Nweke.,42,35,4,532,532,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Layup.,44,35,4,524,524,West Virginia Mountaineers,layup,True,True,False,JJ Quinerly,False,,28.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Three Point Jumper.,44,35,4,513,513,Princeton Tigers,three point jumper,True,False,True,Madison St. Rose,False,,3.0,9.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Offensive Rebound.,44,35,4,513,513,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton  Turnover.,44,35,4,489,489,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Kaitlyn Chen.,44,35,4,471,471,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Free Throw.,45,35,4,471,471,West Virginia Mountaineers,free throw,True,True,False,JJ Quinerly,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Free Throw.,46,35,4,471,471,West Virginia Mountaineers,free throw,True,True,False,JJ Quinerly,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on JJ Quinerly.,46,35,4,442,442,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen missed Free Throw.,46,35,4,442,442,Princeton Tigers,free throw,True,False,False,Kaitlyn Chen,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton Deadball Team Rebound.,46,35,4,442,442,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen missed Free Throw.,46,35,4,442,442,Princeton Tigers,free throw,True,False,False,Kaitlyn Chen,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jayla Hemingway Defensive Rebound.,46,35,4,442,442,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Jordan Harrison.,46,35,4,427,427,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison Turnover.,46,35,4,427,427,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Kylee Blacksten.,46,35,4,407,407,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Tabitha Amanze made Free Throw.,46,36,4,407,407,Princeton Tigers,free throw,True,True,False,Tabitha Amanze,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Tabitha Amanze made Free Throw.,46,37,4,407,407,Princeton Tigers,free throw,True,True,False,Tabitha Amanze,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Turnover.,46,37,4,397,397,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Jumper.,46,39,4,372,372,Princeton Tigers,jumper,True,True,False,Madison St. Rose,False,,10.0,12.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Kylee Blacksten Turnover.,46,39,4,343,343,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Tabitha Amanze Steal.,46,39,4,343,343,Princeton Tigers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Kylee Blacksten.,46,39,4,341,341,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Free Throw.,46,40,4,341,341,Princeton Tigers,free throw,True,True,False,Madison St. Rose,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Free Throw.,46,40,4,341,341,Princeton Tigers,free throw,True,False,False,Madison St. Rose,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ashley Chea Offensive Rebound.,46,40,4,341,341,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ashley Chea Turnover.,46,40,4,335,335,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Jumper.,48,40,4,322,322,West Virginia Mountaineers,jumper,True,True,False,JJ Quinerly,False,,22.0,8.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Jumper.,48,40,4,291,291,Princeton Tigers,jumper,True,False,False,Madison St. Rose,False,,25.0,20.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Lauren Fields Defensive Rebound.,48,40,4,291,291,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Danelle Arigbabu Turnover.,48,40,4,260,260,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers, Official TV Timeout,48,40,4,260,260,,tv timeout,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Turnover.,48,40,4,255,255,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jayla Hemingway Steal.,48,40,4,255,255,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Chet Nweke.,48,40,4,245,245,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Turnover.,48,40,4,230,230,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose Steal.,48,40,4,230,230,Princeton Tigers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen made Layup. Assisted by Ashley Chea.,48,42,4,223,223,Princeton Tigers,layup,True,True,False,Kaitlyn Chen,True,Ashley Chea,23.0,0.0
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Jumper.,50,42,4,200,200,West Virginia Mountaineers,jumper,True,True,False,JJ Quinerly,False,,18.0,11.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Three Point Jumper.,50,42,4,185,185,Princeton Tigers,three point jumper,True,False,True,Madison St. Rose,False,,43.0,17.0
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Defensive Rebound.,50,42,4,185,185,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Layup.,52,42,4,159,159,West Virginia Mountaineers,layup,True,True,False,JJ Quinerly,False,,25.0,4.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Danelle Arigbabu.,52,42,4,151,151,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Free Throw.,52,43,4,151,151,Princeton Tigers,free throw,True,True,False,Madison St. Rose,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Free Throw.,52,44,4,151,151,Princeton Tigers,free throw,True,True,False,Madison St. Rose,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Kaitlyn Chen.,52,44,4,129,129,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Free Throw.,53,44,4,129,129,West Virginia Mountaineers,free throw,True,True,False,JJ Quinerly,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Free Throw.,54,44,4,129,129,West Virginia Mountaineers,free throw,True,True,False,JJ Quinerly,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen Turnover.,54,44,4,124,124,Princeton Tigers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Steal.,54,44,4,124,124,West Virginia Mountaineers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Kaitlyn Chen.,54,44,4,122,122,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jayla Hemingway missed Free Throw.,54,44,4,122,122,West Virginia Mountaineers,free throw,True,False,False,Jayla Hemingway,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia Deadball Team Rebound.,54,44,4,122,122,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jayla Hemingway missed Free Throw.,54,44,4,122,122,West Virginia Mountaineers,free throw,True,False,False,Jayla Hemingway,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ellie Mitchell Defensive Rebound.,54,44,4,122,122,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen missed Three Point Jumper.,54,44,4,107,107,Princeton Tigers,three point jumper,True,False,True,Kaitlyn Chen,False,,46.0,13.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Danelle Arigbabu Defensive Rebound.,54,44,4,107,107,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jump Ball won by West Virginia,54,44,4,105,105,West Virginia Mountaineers,jump ball,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Ashley Chea.,54,44,4,101,101,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison missed Free Throw.,54,44,4,101,101,West Virginia Mountaineers,free throw,True,False,False,Jordan Harrison,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia Deadball Team Rebound.,54,44,4,101,101,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison made Free Throw.,55,44,4,101,101,West Virginia Mountaineers,free throw,True,True,False,Jordan Harrison,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton  Timeout,55,44,4,101,101,Princeton Tigers,timeout,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Kyah Watson.,55,44,4,88,88,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Free Throw.,55,45,4,88,88,Princeton Tigers,free throw,True,True,False,Madison St. Rose,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Free Throw.,55,45,4,88,88,Princeton Tigers,free throw,True,False,False,Madison St. Rose,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton Deadball Team Rebound.,55,45,4,88,88,Princeton Tigers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Free Throw.,55,46,4,88,88,Princeton Tigers,free throw,True,True,False,Madison St. Rose,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Turnover.,55,46,4,68,68,West Virginia Mountaineers,turnover,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen Steal.,55,46,4,68,68,Princeton Tigers,steal,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ashley Chea made Layup.,55,48,4,61,61,Princeton Tigers,layup,True,True,False,Ashley Chea,False,,22.0,3.0
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia  Timeout,55,48,4,59,59,West Virginia Mountaineers,timeout,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Ashley Chea.,55,48,4,57,57,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison made Free Throw.,56,48,4,57,57,West Virginia Mountaineers,free throw,True,True,False,Jordan Harrison,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison made Free Throw.,57,48,4,57,57,West Virginia Mountaineers,free throw,True,True,False,Jordan Harrison,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton  Timeout,57,48,4,57,57,Princeton Tigers,timeout,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Ashley Chea made Three Point Jumper. Assisted by Kaitlyn Chen.,57,51,4,53,53,Princeton Tigers,three point jumper,True,True,True,Ashley Chea,True,Kaitlyn Chen,48.0,1.0
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia  Timeout,57,51,4,51,51,West Virginia Mountaineers,timeout,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Layup.,59,51,4,49,49,West Virginia Mountaineers,layup,True,True,False,JJ Quinerly,False,,24.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Danelle Arigbabu.,59,51,4,43,43,West Virginia Mountaineers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Free Throw.,59,52,4,43,43,Princeton Tigers,free throw,True,True,False,Madison St. Rose,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose made Free Throw.,59,53,4,43,43,Princeton Tigers,free throw,True,True,False,Madison St. Rose,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Ellie Mitchell.,59,53,4,41,41,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Danelle Arigbabu missed Free Throw.,59,53,4,41,41,West Virginia Mountaineers,free throw,True,False,False,Danelle Arigbabu,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia Deadball Team Rebound.,59,53,4,41,41,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Danelle Arigbabu made Free Throw.,60,53,4,41,41,West Virginia Mountaineers,free throw,True,True,False,Danelle Arigbabu,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen missed Layup.,60,53,4,31,31,Princeton Tigers,layup,True,False,False,Kaitlyn Chen,False,,23.0,2.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Lauren Fields Defensive Rebound.,60,53,4,31,31,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Ellie Mitchell.,60,53,4,28,28,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Lauren Fields missed Free Throw.,60,53,4,28,28,West Virginia Mountaineers,free throw,True,False,False,Lauren Fields,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia Deadball Team Rebound.,60,53,4,28,28,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Lauren Fields missed Free Throw.,60,53,4,28,28,West Virginia Mountaineers,free throw,True,False,False,Lauren Fields,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly Offensive Rebound.,60,53,4,28,28,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia  Timeout,60,53,4,25,25,West Virginia Mountaineers,timeout,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Madison St. Rose.,60,53,4,23,23,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly missed Free Throw.,60,53,4,23,23,West Virginia Mountaineers,free throw,True,False,False,JJ Quinerly,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia Deadball Team Rebound.,60,53,4,23,23,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,JJ Quinerly made Free Throw.,61,53,4,23,23,West Virginia Mountaineers,free throw,True,True,False,JJ Quinerly,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Princeton  Timeout,61,53,4,23,23,Princeton Tigers,timeout,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Madison St. Rose missed Three Point Jumper.,61,53,4,19,19,Princeton Tigers,three point jumper,True,False,True,Madison St. Rose,False,,35.0,23.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Jayla Hemingway Defensive Rebound.,61,53,4,19,19,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Ashley Chea.,61,53,4,14,14,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jayla Hemingway missed Free Throw.,61,53,4,14,14,West Virginia Mountaineers,free throw,True,False,False,Jayla Hemingway,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia Deadball Team Rebound.,61,53,4,14,14,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jayla Hemingway made Free Throw.,62,53,4,14,14,West Virginia Mountaineers,free throw,True,True,False,Jayla Hemingway,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Kaitlyn Chen missed Three Point Jumper.,62,53,4,10,10,Princeton Tigers,three point jumper,True,False,True,Kaitlyn Chen,False,,41.0,20.0
+401637567,West Virginia Mountaineers,Princeton Tigers,Jayla Hemingway Defensive Rebound.,62,53,4,10,10,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Foul on Ashley Chea.,62,53,4,4,4,Princeton Tigers,foul,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison missed Free Throw.,62,53,4,4,4,West Virginia Mountaineers,free throw,True,False,False,Jordan Harrison,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,West Virginia Deadball Team Rebound.,62,53,4,4,4,West Virginia Mountaineers,rebound,False,False,False,,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,Jordan Harrison made Free Throw.,63,53,4,4,4,West Virginia Mountaineers,free throw,True,True,False,Jordan Harrison,False,,,
+401637567,West Virginia Mountaineers,Princeton Tigers,End of Game,63,53,4,0,0,,end,False,False,False,,False,,,

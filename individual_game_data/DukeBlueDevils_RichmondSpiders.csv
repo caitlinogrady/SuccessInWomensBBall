@@ -1,0 +1,272 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637545,Duke Blue Devils,Richmond Spiders,Jump Ball won by Duke,0,0,1,600,2400,Duke Blue Devils,jump ball,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson made Jumper.,2,0,1,590,2390,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,False,,39.0,6.0
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik made Three Point Jumper. Assisted by Katie Hill.,2,3,1,574,2374,Richmond Spiders,three point jumper,True,True,True,Addie Budnik,True,Katie Hill,49.0,0.0
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown missed Jumper.,2,3,1,561,2361,Duke Blue Devils,jumper,True,False,False,Kennedy Brown,False,,10.0,0.0
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Offensive Rebound.,2,3,1,561,2361,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan made Two Point Tip Shot.,4,3,1,561,2361,Duke Blue Devils,two point tip shot,True,True,False,Jadyn Donovan,False,,25.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Taina Mair.,4,3,1,542,2342,Duke Blue Devils,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Turnover.,4,3,1,537,2337,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson Steal.,4,3,1,537,2337,Duke Blue Devils,steal,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson made Layup.,6,3,1,533,2333,Duke Blue Devils,layup,True,True,False,Ashlon Jackson,False,,22.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik missed Three Point Jumper.,6,3,1,500,2300,Richmond Spiders,three point jumper,True,False,True,Addie Budnik,False,,22.0,24.0
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Block.,6,3,1,500,2300,Duke Blue Devils,block,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown Defensive Rebound.,6,3,1,500,2300,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan made Layup. Assisted by Kennedy Brown.,8,3,1,495,2295,Duke Blue Devils,layup,True,True,False,Jadyn Donovan,True,Kennedy Brown,23.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan made Three Point Jumper. Assisted by Grace Townsend.,8,6,1,490,2290,Richmond Spiders,three point jumper,True,True,True,Maggie Doogan,True,Grace Townsend,47.0,13.0
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson missed Three Point Jumper.,8,6,1,476,2276,Duke Blue Devils,three point jumper,True,False,True,Reigan Richardson,False,,14.0,22.0
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown Offensive Rebound.,8,6,1,476,2276,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown made Two Point Tip Shot.,10,6,1,476,2276,Duke Blue Devils,two point tip shot,True,True,False,Kennedy Brown,False,,25.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend missed Layup.,10,6,1,435,2235,Richmond Spiders,layup,True,False,False,Grace Townsend,False,,28.0,2.0
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Block.,10,6,1,435,2235,Duke Blue Devils,block,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Richmond Offensive Rebound.,10,6,1,435,2235,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Kennedy Brown.,10,6,1,430,2230,Duke Blue Devils,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan missed Free Throw.,10,6,1,430,2230,Richmond Spiders,free throw,True,False,False,Maggie Doogan,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Richmond Deadball Team Rebound.,10,6,1,430,2230,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan made Free Throw.,10,7,1,430,2230,Richmond Spiders,free throw,True,True,False,Maggie Doogan,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson made Layup. Assisted by Ashlon Jackson.,12,7,1,426,2226,Duke Blue Devils,layup,True,True,False,Reigan Richardson,True,Ashlon Jackson,22.0,0.0
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Maggie Doogan.,12,7,1,426,2226,Richmond Spiders,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson made Free Throw.,13,7,1,426,2226,Duke Blue Devils,free throw,True,True,False,Reigan Richardson,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan missed Three Point Jumper.,13,7,1,403,2203,Richmond Spiders,three point jumper,True,False,True,Maggie Doogan,False,,38.0,26.0
+401637545,Duke Blue Devils,Richmond Spiders,Katie Hill Offensive Rebound.,13,7,1,403,2203,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend made Jumper.,13,9,1,382,2182,Richmond Spiders,jumper,True,True,False,Grace Townsend,False,,36.0,11.0
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa missed Three Point Jumper.,13,9,1,366,2166,Duke Blue Devils,three point jumper,True,False,True,Oluchi Okananwa,False,,14.0,24.0
+401637545,Duke Blue Devils,Richmond Spiders,Rachel Ullstrom Defensive Rebound.,13,9,1,366,2166,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Katie Hill made Layup. Assisted by Grace Townsend.,13,11,1,352,2152,Richmond Spiders,layup,True,True,False,Katie Hill,True,Grace Townsend,28.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson missed Three Point Jumper.,13,11,1,345,2145,Duke Blue Devils,three point jumper,True,False,True,Ashlon Jackson,False,,38.0,21.0
+401637545,Duke Blue Devils,Richmond Spiders,Richmond Defensive Rebound.,13,11,1,345,2145,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Jadyn Donovan.,13,11,1,342,2142,Duke Blue Devils,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Rachel Ullstrom Turnover.,13,11,1,321,2121,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson made Jumper. Assisted by Oluchi Okananwa.,15,11,1,308,2108,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,True,Oluchi Okananwa,28.0,11.0
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend made Layup. Assisted by Addie Budnik.,15,13,1,283,2083,Richmond Spiders,layup,True,True,False,Grace Townsend,True,Addie Budnik,23.0,2.0
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Camilla Emsbo.,15,13,1,256,2056,Duke Blue Devils,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Camilla Emsbo Turnover.,15,13,1,256,2056,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders, Official TV Timeout,15,13,1,256,2056,,tv timeout,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Siobhan Ryan made Three Point Jumper. Assisted by Addie Budnik.,15,16,1,245,2045,Richmond Spiders,three point jumper,True,True,True,Siobhan Ryan,True,Addie Budnik,44.0,18.0
+401637545,Duke Blue Devils,Richmond Spiders,Camilla Emsbo Turnover.,15,16,1,224,2024,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik Turnover.,15,16,1,207,2007,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson Turnover.,15,16,1,179,1979,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend Steal.,15,16,1,179,1979,Richmond Spiders,steal,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik made Three Point Jumper. Assisted by Grace Townsend.,15,19,1,174,1974,Richmond Spiders,three point jumper,True,True,True,Addie Budnik,True,Grace Townsend,25.0,26.0
+401637545,Duke Blue Devils,Richmond Spiders,Camilla Emsbo made Layup. Assisted by Emma Koabel.,17,19,1,150,1950,Duke Blue Devils,layup,True,True,False,Camilla Emsbo,True,Emma Koabel,23.0,0.0
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Turnover.,17,19,1,138,1938,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Rachel Ullstrom.,17,19,1,123,1923,Richmond Spiders,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson made Jumper.,19,19,1,119,1919,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,False,,41.0,3.0
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik made Three Point Jumper. Assisted by Grace Townsend.,19,22,1,104,1904,Richmond Spiders,three point jumper,True,True,True,Addie Budnik,True,Grace Townsend,26.0,26.0
+401637545,Duke Blue Devils,Richmond Spiders,Delaney Thomas missed Layup.,19,22,1,77,1877,Duke Blue Devils,layup,True,False,False,Delaney Thomas,False,,22.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik Block.,19,22,1,77,1877,Richmond Spiders,block,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik Defensive Rebound.,19,22,1,77,1877,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend made Jumper.,19,24,1,59,1859,Richmond Spiders,jumper,True,True,False,Grace Townsend,False,,34.0,13.0
+401637545,Duke Blue Devils,Richmond Spiders,Camilla Emsbo missed Jumper.,19,24,1,53,1853,Duke Blue Devils,jumper,True,False,False,Camilla Emsbo,False,,13.0,10.0
+401637545,Duke Blue Devils,Richmond Spiders,Duke Offensive Rebound.,19,24,1,53,1853,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson made Jumper. Assisted by Ashlon Jackson.,21,24,1,51,1851,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,True,Ashlon Jackson,12.0,6.0
+401637545,Duke Blue Devils,Richmond Spiders,Siobhan Ryan made Layup.,21,26,1,26,1826,Richmond Spiders,layup,True,True,False,Siobhan Ryan,False,,27.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson made Jumper. Assisted by Oluchi Okananwa.,23,26,1,12,1812,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,True,Oluchi Okananwa,39.0,6.0
+401637545,Duke Blue Devils,Richmond Spiders,Katie Hill missed Jumper.,23,26,1,5,1805,Richmond Spiders,jumper,True,False,False,Katie Hill,False,,26.0,5.0
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson Defensive Rebound.,23,26,1,5,1805,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,End of 1st Quarter,23,26,1,0,1800,,end,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jump Ball won by Richmond,23,26,2,600,1800,Richmond Spiders,jump ball,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Laren VanArsdale missed Layup.,23,26,2,591,1791,Richmond Spiders,layup,True,False,False,Laren VanArsdale,False,,22.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa Defensive Rebound.,23,26,2,591,1791,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Taina Mair missed Three Point Jumper.,23,26,2,574,1774,Duke Blue Devils,three point jumper,True,False,True,Taina Mair,False,,48.0,8.0
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Defensive Rebound.,23,26,2,574,1774,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Turnover.,23,26,2,565,1765,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson Turnover.,23,26,2,556,1756,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Rachel Ullstrom Steal.,23,26,2,556,1756,Richmond Spiders,steal,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan made Layup.,23,28,2,549,1749,Richmond Spiders,layup,True,True,False,Maggie Doogan,False,,23.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan missed Jumper.,23,28,2,535,1735,Duke Blue Devils,jumper,True,False,False,Jadyn Donovan,False,,22.0,9.0
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown Offensive Rebound.,23,28,2,535,1735,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan missed Layup.,23,28,2,522,1722,Duke Blue Devils,layup,True,False,False,Jadyn Donovan,False,,21.0,0.0
+401637545,Duke Blue Devils,Richmond Spiders,Rachel Ullstrom Defensive Rebound.,23,28,2,522,1722,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik Turnover.,23,28,2,509,1709,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson missed Jumper.,23,28,2,492,1692,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,18.0,15.0
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Offensive Rebound.,23,28,2,492,1692,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan missed Two Point Tip Shot.,23,28,2,492,1692,Duke Blue Devils,two point tip shot,True,False,False,Jadyn Donovan,False,,25.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Defensive Rebound.,23,28,2,492,1692,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan missed Jumper.,23,28,2,459,1659,Richmond Spiders,jumper,True,False,False,Maggie Doogan,False,,21.0,7.0
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Defensive Rebound.,23,28,2,459,1659,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Siobhan Ryan.,23,28,2,443,1643,Richmond Spiders,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa made Free Throw.,24,28,2,443,1643,Duke Blue Devils,free throw,True,True,False,Oluchi Okananwa,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa made Free Throw.,25,28,2,443,1643,Duke Blue Devils,free throw,True,True,False,Oluchi Okananwa,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik Turnover.,25,28,2,423,1623,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson missed Jumper.,25,28,2,409,1609,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,28.0,7.0
+401637545,Duke Blue Devils,Richmond Spiders,Rachel Ullstrom Defensive Rebound.,25,28,2,409,1609,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Jadyn Donovan.,25,28,2,390,1590,Duke Blue Devils,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend missed Layup.,25,28,2,367,1567,Richmond Spiders,layup,True,False,False,Grace Townsend,False,,22.0,2.0
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson Defensive Rebound.,25,28,2,367,1567,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Taina Mair Turnover.,25,28,2,344,1544,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend Steal.,25,28,2,344,1544,Richmond Spiders,steal,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan missed Jumper.,25,28,2,334,1534,Richmond Spiders,jumper,True,False,False,Maggie Doogan,False,,37.0,13.0
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson Defensive Rebound.,25,28,2,334,1534,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Taina Mair missed Three Point Jumper.,25,28,2,322,1522,Duke Blue Devils,three point jumper,True,False,True,Taina Mair,False,,1.0,2.0
+401637545,Duke Blue Devils,Richmond Spiders,Katie Hill Defensive Rebound.,25,28,2,322,1522,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan made Three Point Jumper. Assisted by Laren VanArsdale.,25,31,2,303,1503,Richmond Spiders,three point jumper,True,True,True,Maggie Doogan,True,Laren VanArsdale,25.0,26.0
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson missed Layup.,25,31,2,270,1470,Duke Blue Devils,layup,True,False,False,Ashlon Jackson,False,,28.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Laren VanArsdale Defensive Rebound.,25,31,2,270,1470,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik made Three Point Jumper. Assisted by Laren VanArsdale.,25,34,2,254,1454,Richmond Spiders,three point jumper,True,True,True,Addie Budnik,True,Laren VanArsdale,5.0,18.0
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown missed Jumper.,25,34,2,232,1432,Duke Blue Devils,jumper,True,False,False,Kennedy Brown,False,,23.0,14.0
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Defensive Rebound.,25,34,2,232,1432,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jump Ball won by Duke,25,34,2,203,1403,Duke Blue Devils,jump ball,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders, Official TV Timeout,25,34,2,202,1402,,tv timeout,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend missed Layup.,25,34,2,199,1399,Richmond Spiders,layup,True,False,False,Grace Townsend,False,,22.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa Defensive Rebound.,25,34,2,199,1399,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Grace Townsend.,25,34,2,196,1396,Richmond Spiders,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Emma Koabel made Three Point Jumper. Assisted by Kennedy Brown.,28,34,2,182,1382,Duke Blue Devils,three point jumper,True,True,True,Emma Koabel,True,Kennedy Brown,48.0,-1.0
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend Turnover.,28,34,2,149,1349,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Emma Koabel missed Three Point Jumper.,28,34,2,131,1331,Duke Blue Devils,three point jumper,True,False,True,Emma Koabel,False,,1.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Defensive Rebound.,28,34,2,131,1331,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Katie Hill Turnover.,28,34,2,103,1303,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Taina Mair Steal.,28,34,2,103,1303,Duke Blue Devils,steal,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Emma Koabel missed Layup.,28,34,2,98,1298,Duke Blue Devils,layup,True,False,False,Emma Koabel,False,,22.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Katie Hill Block.,28,34,2,98,1298,Richmond Spiders,block,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Duke Offensive Rebound.,28,34,2,98,1298,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson missed Three Point Jumper.,28,34,2,95,1295,Duke Blue Devils,three point jumper,True,False,True,Ashlon Jackson,False,,1.0,-2.0
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Defensive Rebound.,28,34,2,95,1295,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan made Three Point Jumper. Assisted by Grace Townsend.,28,37,2,82,1282,Richmond Spiders,three point jumper,True,True,True,Maggie Doogan,True,Grace Townsend,25.0,26.0
+401637545,Duke Blue Devils,Richmond Spiders,Emma Koabel missed Three Point Jumper.,28,37,2,61,1261,Duke Blue Devils,three point jumper,True,False,True,Emma Koabel,False,,48.0,-1.0
+401637545,Duke Blue Devils,Richmond Spiders,Rachel Ullstrom Defensive Rebound.,28,37,2,61,1261,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan missed Layup.,28,37,2,42,1242,Richmond Spiders,layup,True,False,False,Maggie Doogan,False,,28.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson Defensive Rebound.,28,37,2,42,1242,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson Turnover.,28,37,2,34,1234,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Richmond  Turnover.,28,37,2,3,1203,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,End of 2nd Quarter,28,37,2,0,1200,,end,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jump Ball won by Duke,28,37,3,600,1200,Duke Blue Devils,jump ball,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson made Jumper. Assisted by Ashlon Jackson.,30,37,3,593,1193,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,True,Ashlon Jackson,34.0,12.0
+401637545,Duke Blue Devils,Richmond Spiders,Siobhan Ryan missed Three Point Jumper.,30,37,3,577,1177,Richmond Spiders,three point jumper,True,False,True,Siobhan Ryan,False,,47.0,8.0
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson Defensive Rebound.,30,37,3,577,1177,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Taina Mair missed Jumper.,30,37,3,565,1165,Duke Blue Devils,jumper,True,False,False,Taina Mair,False,,18.0,10.0
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown Offensive Rebound.,30,37,3,559,1159,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson Turnover.,30,37,3,559,1159,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Richmond  Turnover.,30,37,3,540,1140,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown made Layup. Assisted by Taina Mair.,32,37,3,529,1129,Duke Blue Devils,layup,True,True,False,Kennedy Brown,True,Taina Mair,23.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Katie Hill missed Jumper.,32,37,3,509,1109,Richmond Spiders,jumper,True,False,False,Katie Hill,False,,23.0,5.0
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown Defensive Rebound.,32,37,3,509,1109,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan made Layup.,34,37,3,497,1097,Duke Blue Devils,layup,True,True,False,Jadyn Donovan,False,,27.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Richmond  Timeout,34,37,3,485,1085,Richmond Spiders,timeout,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders, Official TV Timeout,34,37,3,485,1085,,tv timeout,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik missed Three Point Jumper.,34,37,3,473,1073,Richmond Spiders,three point jumper,True,False,True,Addie Budnik,False,,7.0,19.0
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson Defensive Rebound.,34,37,3,473,1073,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson missed Jumper.,34,37,3,463,1063,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,26.0,16.0
+401637545,Duke Blue Devils,Richmond Spiders,Siobhan Ryan Defensive Rebound.,34,37,3,463,1063,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Turnover.,34,37,3,449,1049,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Steal.,34,37,3,449,1049,Duke Blue Devils,steal,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson made Three Point Jumper. Assisted by Jadyn Donovan.,37,37,3,441,1041,Duke Blue Devils,three point jumper,True,True,True,Ashlon Jackson,True,Jadyn Donovan,46.0,16.0
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend made Jumper.,37,39,3,414,1014,Richmond Spiders,jumper,True,True,False,Grace Townsend,False,,21.0,6.0
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson missed Three Point Jumper.,37,39,3,389,989,Duke Blue Devils,three point jumper,True,False,True,Ashlon Jackson,False,,43.0,20.0
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Defensive Rebound.,37,39,3,389,989,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend missed Jumper.,37,39,3,373,973,Richmond Spiders,jumper,True,False,False,Grace Townsend,False,,23.0,6.0
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson Defensive Rebound.,37,39,3,373,973,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown missed Layup.,37,39,3,363,963,Duke Blue Devils,layup,True,False,False,Kennedy Brown,False,,23.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik Block.,37,39,3,363,963,Richmond Spiders,block,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Duke Offensive Rebound.,37,39,3,363,963,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown made Layup. Assisted by Jadyn Donovan.,39,39,3,358,958,Duke Blue Devils,layup,True,True,False,Kennedy Brown,True,Jadyn Donovan,28.0,2.0
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend made Jumper.,39,41,3,326,926,Richmond Spiders,jumper,True,True,False,Grace Townsend,False,,21.0,5.0
+401637545,Duke Blue Devils,Richmond Spiders,Taina Mair missed Three Point Jumper.,39,41,3,308,908,Duke Blue Devils,three point jumper,True,False,True,Taina Mair,False,,43.0,20.0
+401637545,Duke Blue Devils,Richmond Spiders,Taina Mair Offensive Rebound.,39,41,3,308,908,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Taina Mair missed Jumper.,39,41,3,296,896,Duke Blue Devils,jumper,True,False,False,Taina Mair,False,,17.0,8.0
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Offensive Rebound.,39,41,3,296,896,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders, Official TV Timeout,39,41,3,291,891,,tv timeout,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson made Three Point Jumper. Assisted by Oluchi Okananwa.,42,41,3,287,887,Duke Blue Devils,three point jumper,True,True,True,Reigan Richardson,True,Oluchi Okananwa,48.0,0.0
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik missed Jumper.,42,41,3,264,864,Richmond Spiders,jumper,True,False,False,Addie Budnik,False,,21.0,5.0
+401637545,Duke Blue Devils,Richmond Spiders,Taina Mair Defensive Rebound.,42,41,3,264,864,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson missed Three Point Jumper.,42,41,3,253,853,Duke Blue Devils,three point jumper,True,False,True,Reigan Richardson,False,,42.0,21.0
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa Offensive Rebound.,42,41,3,253,853,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Rachel Ullstrom.,42,41,3,251,851,Richmond Spiders,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa made Free Throw.,43,41,3,251,851,Duke Blue Devils,free throw,True,True,False,Oluchi Okananwa,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa made Free Throw.,44,41,3,251,851,Duke Blue Devils,free throw,True,True,False,Oluchi Okananwa,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan missed Jumper.,44,41,3,228,828,Richmond Spiders,jumper,True,False,False,Maggie Doogan,False,,19.0,2.0
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa Block.,44,41,3,228,828,Duke Blue Devils,block,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Richmond Offensive Rebound.,44,41,3,228,828,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend missed Jumper.,44,41,3,219,819,Richmond Spiders,jumper,True,False,False,Grace Townsend,False,,28.0,7.0
+401637545,Duke Blue Devils,Richmond Spiders,Richmond Deadball Team Rebound.,44,41,3,219,819,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Richmond  Turnover.,44,41,3,218,818,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Delaney Thomas missed Jumper.,44,41,3,214,814,Duke Blue Devils,jumper,True,False,False,Delaney Thomas,False,,29.0,5.0
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Offensive Rebound.,44,41,3,214,814,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa made Layup.,46,41,3,202,802,Duke Blue Devils,layup,True,True,False,Oluchi Okananwa,False,,23.0,3.0
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend made Layup.,46,43,3,193,793,Richmond Spiders,layup,True,True,False,Grace Townsend,False,,21.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson made Three Point Jumper. Assisted by Taina Mair.,49,43,3,166,766,Duke Blue Devils,three point jumper,True,True,True,Ashlon Jackson,True,Taina Mair,4.0,13.0
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend made Layup. Assisted by Addie Budnik.,49,45,3,142,742,Richmond Spiders,layup,True,True,False,Grace Townsend,True,Addie Budnik,26.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Delaney Thomas made Layup. Assisted by Oluchi Okananwa.,51,45,3,113,713,Duke Blue Devils,layup,True,True,False,Delaney Thomas,True,Oluchi Okananwa,25.0,3.0
+401637545,Duke Blue Devils,Richmond Spiders,Rachel Ullstrom missed Layup.,51,45,3,88,688,Richmond Spiders,layup,True,False,False,Rachel Ullstrom,False,,22.0,0.0
+401637545,Duke Blue Devils,Richmond Spiders,Delaney Thomas Defensive Rebound.,51,45,3,88,688,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Richmond  Timeout,51,45,3,80,680,Richmond Spiders,timeout,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson missed Layup.,51,45,3,77,677,Duke Blue Devils,layup,True,False,False,Reigan Richardson,False,,23.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa Offensive Rebound.,51,45,3,77,677,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa missed Jumper.,51,45,3,77,677,Duke Blue Devils,jumper,True,False,False,Oluchi Okananwa,False,,15.0,10.0
+401637545,Duke Blue Devils,Richmond Spiders,Duke Offensive Rebound.,51,45,3,77,677,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Taina Mair missed Three Point Jumper.,51,45,3,74,674,Duke Blue Devils,three point jumper,True,False,True,Taina Mair,False,,44.0,20.0
+401637545,Duke Blue Devils,Richmond Spiders,Richmond Defensive Rebound.,51,45,3,74,674,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend made Layup. Assisted by Maggie Doogan.,51,47,3,53,653,Richmond Spiders,layup,True,True,False,Grace Townsend,True,Maggie Doogan,27.0,0.0
+401637545,Duke Blue Devils,Richmond Spiders,Delaney Thomas missed Layup.,51,47,3,43,643,Duke Blue Devils,layup,True,False,False,Delaney Thomas,False,,28.0,3.0
+401637545,Duke Blue Devils,Richmond Spiders,Rachel Ullstrom Defensive Rebound.,51,47,3,43,643,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Rachel Ullstrom missed Three Point Jumper.,51,47,3,7,607,Richmond Spiders,three point jumper,True,False,True,Rachel Ullstrom,False,,17.0,24.0
+401637545,Duke Blue Devils,Richmond Spiders,Taina Mair Defensive Rebound.,51,47,3,7,607,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,End of 3rd Quarter,51,47,3,0,600,,end,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jump Ball won by Richmond,51,47,4,600,600,Richmond Spiders,jump ball,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan missed Three Point Jumper.,51,47,4,587,587,Richmond Spiders,three point jumper,True,False,True,Maggie Doogan,False,,33.0,24.0
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Defensive Rebound.,51,47,4,587,587,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Turnover.,51,47,4,561,561,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik missed Layup.,51,47,4,536,536,Richmond Spiders,layup,True,False,False,Addie Budnik,False,,27.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Defensive Rebound.,51,47,4,536,536,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson missed Jumper.,51,47,4,527,527,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,37.0,7.0
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown Offensive Rebound.,51,47,4,514,514,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson made Three Point Jumper. Assisted by Kennedy Brown.,54,47,4,507,507,Duke Blue Devils,three point jumper,True,True,True,Ashlon Jackson,True,Kennedy Brown,38.0,22.0
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend made Layup.,54,49,4,497,497,Richmond Spiders,layup,True,True,False,Grace Townsend,False,,22.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Taina Mair Turnover.,54,49,4,494,494,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Steal.,54,49,4,494,494,Richmond Spiders,steal,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Taina Mair.,54,49,4,494,494,Duke Blue Devils,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan missed Three Point Jumper.,54,49,4,478,478,Richmond Spiders,three point jumper,True,False,True,Maggie Doogan,False,,3.0,15.0
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson Defensive Rebound.,54,49,4,478,478,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Taina Mair missed Jumper.,54,49,4,457,457,Duke Blue Devils,jumper,True,False,False,Taina Mair,False,,35.0,8.0
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Defensive Rebound.,54,49,4,457,457,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend missed Layup.,54,49,4,447,447,Richmond Spiders,layup,True,False,False,Grace Townsend,False,,22.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Block.,54,49,4,447,447,Duke Blue Devils,block,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Katie Hill Offensive Rebound.,54,49,4,447,447,Richmond Spiders,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Kennedy Brown.,54,49,4,445,445,Duke Blue Devils,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan missed Jumper.,54,49,4,439,439,Richmond Spiders,jumper,True,False,False,Maggie Doogan,False,,34.0,6.0
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa Defensive Rebound.,54,49,4,439,439,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown missed Layup.,54,49,4,430,430,Duke Blue Devils,layup,True,False,False,Kennedy Brown,False,,22.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa Offensive Rebound.,54,49,4,430,430,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa made Two Point Tip Shot.,56,49,4,430,430,Duke Blue Devils,two point tip shot,True,True,False,Oluchi Okananwa,False,,25.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Maggie Doogan.,56,49,4,401,401,Richmond Spiders,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Turnover.,56,49,4,401,401,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Siobhan Ryan.,56,49,4,370,370,Richmond Spiders,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders, Official TV Timeout,56,49,4,369,369,,tv timeout,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson made Free Throw.,57,49,4,369,369,Duke Blue Devils,free throw,True,True,False,Reigan Richardson,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson made Free Throw.,58,49,4,369,369,Duke Blue Devils,free throw,True,True,False,Reigan Richardson,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jump Ball won by Duke,58,49,4,346,346,Duke Blue Devils,jump ball,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Turnover.,58,49,4,346,346,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Steal.,58,49,4,346,346,Duke Blue Devils,steal,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson missed Three Point Jumper.,58,49,4,330,330,Duke Blue Devils,three point jumper,True,False,True,Reigan Richardson,False,,40.0,25.0
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa Offensive Rebound.,58,49,4,330,330,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa missed Layup.,58,49,4,325,325,Duke Blue Devils,layup,True,False,False,Oluchi Okananwa,False,,26.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa Offensive Rebound.,58,49,4,321,321,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa missed Layup.,58,49,4,318,318,Duke Blue Devils,layup,True,False,False,Oluchi Okananwa,False,,27.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown Offensive Rebound.,58,49,4,316,316,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown made Layup.,60,49,4,314,314,Duke Blue Devils,layup,True,True,False,Kennedy Brown,False,,23.0,3.0
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik made Three Point Jumper. Assisted by Grace Townsend.,60,52,4,309,309,Richmond Spiders,three point jumper,True,True,True,Addie Budnik,True,Grace Townsend,7.0,18.0
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Turnover.,60,52,4,286,286,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik missed Three Point Jumper.,60,52,4,280,280,Richmond Spiders,three point jumper,True,False,True,Addie Budnik,False,,14.0,22.0
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson Defensive Rebound.,60,52,4,280,280,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan made Jumper.,62,52,4,270,270,Duke Blue Devils,jumper,True,True,False,Jadyn Donovan,False,,28.0,6.0
+401637545,Duke Blue Devils,Richmond Spiders,Siobhan Ryan made Layup.,62,54,4,236,236,Richmond Spiders,layup,True,True,False,Siobhan Ryan,False,,21.0,0.0
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson made Three Point Jumper. Assisted by Kennedy Brown.,65,54,4,212,212,Duke Blue Devils,three point jumper,True,True,True,Reigan Richardson,True,Kennedy Brown,42.0,20.0
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Ashlon Jackson.,65,54,4,186,186,Duke Blue Devils,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Siobhan Ryan made Free Throw.,65,55,4,186,186,Richmond Spiders,free throw,True,True,False,Siobhan Ryan,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Siobhan Ryan made Free Throw.,65,56,4,186,186,Richmond Spiders,free throw,True,True,False,Siobhan Ryan,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Reigan Richardson made Jumper. Assisted by Kennedy Brown.,67,56,4,165,165,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,True,Kennedy Brown,28.0,14.0
+401637545,Duke Blue Devils,Richmond Spiders,Grace Townsend missed Layup.,67,56,4,139,139,Richmond Spiders,layup,True,False,False,Grace Townsend,False,,28.0,0.0
+401637545,Duke Blue Devils,Richmond Spiders,Jadyn Donovan Defensive Rebound.,67,56,4,139,139,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson made Three Point Jumper. Assisted by Taina Mair.,70,56,4,112,112,Duke Blue Devils,three point jumper,True,True,True,Ashlon Jackson,True,Taina Mair,49.0,1.0
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan made Three Point Jumper. Assisted by Grace Townsend.,70,59,4,99,99,Richmond Spiders,three point jumper,True,True,True,Maggie Doogan,True,Grace Townsend,38.0,22.0
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Siobhan Ryan.,70,59,4,62,62,Richmond Spiders,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Siobhan Ryan.,70,59,4,42,42,Richmond Spiders,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Foul on Maggie Doogan.,70,59,4,42,42,Richmond Spiders,foul,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown made Free Throw.,71,59,4,42,42,Duke Blue Devils,free throw,True,True,False,Kennedy Brown,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Kennedy Brown made Free Throw.,72,59,4,42,42,Duke Blue Devils,free throw,True,True,False,Kennedy Brown,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Addie Budnik made Layup. Assisted by Grace Townsend.,72,61,4,34,34,Richmond Spiders,layup,True,True,False,Addie Budnik,True,Grace Townsend,22.0,0.0
+401637545,Duke Blue Devils,Richmond Spiders,Ashlon Jackson Turnover.,72,61,4,2,2,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Steal.,72,61,4,2,2,Richmond Spiders,steal,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Maggie Doogan Turnover.,72,61,4,2,2,Richmond Spiders,turnover,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,Oluchi Okananwa Steal.,72,61,4,2,2,Duke Blue Devils,steal,False,False,False,,False,,,
+401637545,Duke Blue Devils,Richmond Spiders,End of Game,72,61,4,0,0,,end,False,False,False,,False,,,

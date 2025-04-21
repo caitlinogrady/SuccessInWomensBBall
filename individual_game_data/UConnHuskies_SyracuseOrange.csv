@@ -1,0 +1,329 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637585,UConn Huskies,Syracuse Orange,Jump Ball won by Syracuse,0,0,1,600,2400,Syracuse Orange,jump ball,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Jumper.,0,0,1,580,2380,Syracuse Orange,jumper,True,False,False,Dyaisha Fair,False,,36.0,4.0
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade Defensive Rebound.,0,0,1,580,2380,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,KK Arnold made Three Point Jumper. Assisted by Aaliyah Edwards.,3,0,1,556,2356,UConn Huskies,three point jumper,True,True,True,KK Arnold,True,Aaliyah Edwards,47.0,10.0
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham missed Jumper.,3,0,1,536,2336,Syracuse Orange,jumper,True,False,False,Alyssa Latham,False,,38.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Defensive Rebound.,3,0,1,536,2336,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers missed Three Point Jumper.,3,0,1,515,2315,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,3.0,8.0
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley Defensive Rebound.,3,0,1,515,2315,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley made Three Point Jumper. Assisted by Alyssa Latham.,3,3,1,497,2297,Syracuse Orange,three point jumper,True,True,True,Georgia Woolley,True,Alyssa Latham,26.0,25.0
+401637585,UConn Huskies,Syracuse Orange,Jump Ball won by UConn,3,3,1,476,2276,UConn Huskies,jump ball,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards missed Jumper.,3,3,1,463,2263,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,29.0,15.0
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham Defensive Rebound.,3,3,1,463,2263,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley made Three Point Jumper. Assisted by Kyra Wood.,3,6,1,450,2250,Syracuse Orange,three point jumper,True,True,True,Georgia Woolley,True,Kyra Wood,5.0,15.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards made Layup. Assisted by Paige Bueckers.,5,6,1,437,2237,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,Paige Bueckers,23.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair Turnover.,5,6,1,427,2227,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Steal.,5,6,1,427,2227,UConn Huskies,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Layup. Assisted by Nika Muhl.,7,6,1,416,2216,UConn Huskies,layup,True,True,False,Paige Bueckers,True,Nika Muhl,23.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows made Three Point Jumper. Assisted by Dyaisha Fair.,7,9,1,398,2198,Syracuse Orange,three point jumper,True,True,True,Sophie Burrows,True,Dyaisha Fair,1.0,2.0
+401637585,UConn Huskies,Syracuse Orange,Nika Muhl Turnover.,7,9,1,392,2192,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley Steal.,7,9,1,392,2192,Syracuse Orange,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley made Jumper.,7,11,1,383,2183,Syracuse Orange,jumper,True,True,False,Georgia Woolley,False,,31.0,15.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers missed Jumper.,7,11,1,369,2169,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,21.0,9.0
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood Defensive Rebound.,7,11,1,369,2169,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley missed Jumper.,7,11,1,363,2163,Syracuse Orange,jumper,True,False,False,Georgia Woolley,False,,17.0,12.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Defensive Rebound.,7,11,1,363,2163,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,KK Arnold made Layup.,9,11,1,348,2148,UConn Huskies,layup,True,True,False,KK Arnold,False,,23.0,2.0
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley missed Jumper.,9,11,1,326,2126,Syracuse Orange,jumper,True,False,False,Georgia Woolley,False,,20.0,8.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Defensive Rebound.,9,11,1,326,2126,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Layup. Assisted by KK Arnold.,11,11,1,318,2118,UConn Huskies,layup,True,True,False,Paige Bueckers,True,KK Arnold,23.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Izabel Varejao missed Three Point Jumper.,11,11,1,310,2110,Syracuse Orange,three point jumper,True,False,True,Izabel Varejao,False,,29.0,25.0
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade Defensive Rebound.,11,11,1,310,2110,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,KK Arnold missed Layup.,11,11,1,299,2099,UConn Huskies,layup,True,False,False,KK Arnold,False,,24.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley Defensive Rebound.,11,11,1,299,2099,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley missed Layup.,11,11,1,288,2088,Syracuse Orange,layup,True,False,False,Georgia Woolley,False,,20.0,0.0
+401637585,UConn Huskies,Syracuse Orange,UConn Defensive Rebound.,11,11,1,288,2088,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Georgia Woolley.,11,11,1,287,2087,Syracuse Orange,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange, Official TV Timeout,11,11,1,287,2087,,tv timeout,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade missed Three Point Jumper.,11,11,1,274,2074,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,41.0,19.0
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair Defensive Rebound.,11,11,1,274,2074,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on KK Arnold.,11,11,1,263,2063,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham missed Layup.,11,11,1,259,2059,Syracuse Orange,layup,True,False,False,Alyssa Latham,False,,28.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Block.,11,11,1,259,2059,UConn Huskies,block,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Syracuse Offensive Rebound.,11,11,1,259,2059,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Izabel Varejao missed Jumper.,11,11,1,245,2045,Syracuse Orange,jumper,True,False,False,Izabel Varejao,False,,21.0,11.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Block.,11,11,1,245,2045,UConn Huskies,block,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Syracuse Offensive Rebound.,11,11,1,245,2045,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows missed Jumper.,11,11,1,243,2043,Syracuse Orange,jumper,True,False,False,Sophie Burrows,False,,21.0,9.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Defensive Rebound.,11,11,1,243,2043,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Turnover.,11,11,1,237,2037,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Three Point Jumper.,11,11,1,222,2022,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,48.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Izabel Varejao Offensive Rebound.,11,11,1,222,2022,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham made Layup. Assisted by Dyaisha Fair.,11,13,1,212,2012,Syracuse Orange,layup,True,True,False,Alyssa Latham,True,Dyaisha Fair,22.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Jumper.,13,13,1,193,1993,UConn Huskies,jumper,True,True,False,Paige Bueckers,False,,22.0,16.0
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley Turnover.,13,13,1,175,1975,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,KK Arnold Steal.,13,13,1,175,1975,UConn Huskies,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,KK Arnold missed Jumper.,13,13,1,168,1968,UConn Huskies,jumper,True,False,False,KK Arnold,False,,32.0,5.0
+401637585,UConn Huskies,Syracuse Orange,Kennedi Perkins Block.,13,13,1,168,1968,Syracuse Orange,block,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Syracuse Defensive Rebound.,13,13,1,168,1968,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Georgia Woolley.,13,13,1,160,1960,Syracuse Orange,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley Turnover.,13,13,1,160,1960,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Turnover.,13,13,1,143,1943,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham Steal.,13,13,1,143,1943,Syracuse Orange,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham missed Layup.,13,13,1,140,1940,Syracuse Orange,layup,True,False,False,Alyssa Latham,False,,22.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Nika Muhl Block.,13,13,1,140,1940,UConn Huskies,block,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Syracuse Offensive Rebound.,13,13,1,140,1940,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows made Three Point Jumper. Assisted by Izabel Varejao.,13,16,1,133,1933,Syracuse Orange,three point jumper,True,True,True,Sophie Burrows,True,Izabel Varejao,2.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade made Three Point Jumper. Assisted by Nika Muhl.,16,16,1,117,1917,UConn Huskies,three point jumper,True,True,True,Ashlynn Shade,True,Nika Muhl,2.0,0.0
+401637585,UConn Huskies,Syracuse Orange,Izabel Varejao Turnover.,16,16,1,95,1895,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,KK Arnold Steal.,16,16,1,95,1895,UConn Huskies,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Jumper. Assisted by Nika Muhl.,18,16,1,84,1884,UConn Huskies,jumper,True,True,False,Paige Bueckers,True,Nika Muhl,23.0,9.0
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham missed Jumper.,18,16,1,61,1861,Syracuse Orange,jumper,True,False,False,Alyssa Latham,False,,7.0,0.0
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows Offensive Rebound.,18,16,1,61,1861,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Ashlynn Shade.,18,16,1,59,1859,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Jumper.,18,16,1,46,1846,Syracuse Orange,jumper,True,False,False,Dyaisha Fair,False,,10.0,4.0
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood Offensive Rebound.,18,16,1,46,1846,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood missed Layup.,18,16,1,37,1837,Syracuse Orange,layup,True,False,False,Kyra Wood,False,,24.0,3.0
+401637585,UConn Huskies,Syracuse Orange,Kennedi Perkins Offensive Rebound.,18,16,1,37,1837,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham Turnover.,18,16,1,29,1829,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Nika Muhl missed Three Point Jumper.,18,16,1,7,1807,UConn Huskies,three point jumper,True,False,True,Nika Muhl,False,,37.0,24.0
+401637585,UConn Huskies,Syracuse Orange,Syracuse Defensive Rebound.,18,16,1,7,1807,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,End of 1st Quarter,18,16,1,0,1800,,end,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Jump Ball won by Syracuse,18,16,2,600,1800,Syracuse Orange,jump ball,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham missed Jumper.,18,16,2,582,1782,Syracuse Orange,jumper,True,False,False,Alyssa Latham,False,,23.0,11.0
+401637585,UConn Huskies,Syracuse Orange,Ice Brady Defensive Rebound.,18,16,2,582,1782,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Alyssa Latham.,18,16,2,580,1780,Syracuse Orange,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade made Three Point Jumper. Assisted by Paige Bueckers.,21,16,2,561,1761,UConn Huskies,three point jumper,True,True,True,Ashlynn Shade,True,Paige Bueckers,48.0,-2.0
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood Turnover.,21,16,2,533,1733,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade Turnover.,21,16,2,516,1716,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Three Point Jumper.,21,16,2,501,1701,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,9.0,25.0
+401637585,UConn Huskies,Syracuse Orange,Nika Muhl Block.,21,16,2,501,1701,UConn Huskies,block,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair Offensive Rebound.,21,16,2,501,1701,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham Turnover.,21,16,2,490,1690,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade made Three Point Jumper. Assisted by Nika Muhl.,24,16,2,471,1671,UConn Huskies,three point jumper,True,True,True,Ashlynn Shade,True,Nika Muhl,48.0,-2.0
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows missed Three Point Jumper.,24,16,2,455,1655,Syracuse Orange,three point jumper,True,False,True,Sophie Burrows,False,,21.0,26.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Defensive Rebound.,24,16,2,455,1655,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Jumper.,26,16,2,440,1640,UConn Huskies,jumper,True,True,False,Paige Bueckers,False,,27.0,11.0
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair made Jumper.,26,18,2,411,1611,Syracuse Orange,jumper,True,True,False,Dyaisha Fair,False,,10.0,6.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards made Layup. Assisted by Paige Bueckers.,28,18,2,393,1593,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,Paige Bueckers,23.0,2.0
+401637585,UConn Huskies,Syracuse Orange,Syracuse  Timeout,28,18,2,390,1590,Syracuse Orange,timeout,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley missed Three Point Jumper.,28,18,2,365,1565,Syracuse Orange,three point jumper,True,False,True,Georgia Woolley,False,,3.0,12.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Defensive Rebound.,28,18,2,365,1565,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers missed Layup.,28,18,2,354,1554,UConn Huskies,layup,True,False,False,Paige Bueckers,False,,29.0,2.0
+401637585,UConn Huskies,Syracuse Orange,UConn Offensive Rebound.,28,18,2,354,1554,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Alyssa Latham.,28,18,2,354,1554,Syracuse Orange,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade missed Three Point Jumper.,28,18,2,344,1544,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,7.0,17.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Offensive Rebound.,28,18,2,338,1538,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Jumper.,30,18,2,337,1537,UConn Huskies,jumper,True,True,False,Paige Bueckers,False,,23.0,7.0
+401637585,UConn Huskies,Syracuse Orange,Foul on KK Arnold.,30,18,2,329,1529,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair Turnover.,30,18,2,328,1528,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ice Brady Steal.,30,18,2,328,1528,UConn Huskies,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ice Brady missed Layup.,30,18,2,318,1518,UConn Huskies,layup,True,False,False,Ice Brady,False,,23.0,3.0
+401637585,UConn Huskies,Syracuse Orange,UConn Offensive Rebound.,30,18,2,318,1518,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards missed Jumper.,30,18,2,314,1514,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,28.0,9.0
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair Defensive Rebound.,30,18,2,314,1514,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley made Jumper.,30,20,2,300,1500,Syracuse Orange,jumper,True,True,False,Georgia Woolley,False,,25.0,8.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers missed Three Point Jumper.,30,20,2,286,1486,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,40.0,23.0
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade Offensive Rebound.,30,20,2,286,1486,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers missed Three Point Jumper.,30,20,2,278,1478,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,2.0,3.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Offensive Rebound.,30,20,2,278,1478,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ice Brady Turnover.,30,20,2,269,1469,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair Steal.,30,20,2,269,1469,Syracuse Orange,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows made Three Point Jumper. Assisted by Dyaisha Fair.,30,23,2,261,1461,Syracuse Orange,three point jumper,True,True,True,Sophie Burrows,True,Dyaisha Fair,45.0,16.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers missed Jumper.,30,23,2,234,1434,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,30.0,10.0
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood Defensive Rebound.,30,23,2,234,1434,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows Turnover.,30,23,2,220,1420,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Steal.,30,23,2,220,1420,UConn Huskies,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Layup.,32,23,2,216,1416,UConn Huskies,layup,True,True,False,Paige Bueckers,False,,23.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Foul on Nika Muhl.,32,23,2,193,1393,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange, Official TV Timeout,32,23,2,193,1393,,tv timeout,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley missed Jumper.,32,23,2,181,1381,Syracuse Orange,jumper,True,False,False,Georgia Woolley,False,,27.0,15.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Defensive Rebound.,32,23,2,181,1381,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Jump Ball won by UConn,32,23,2,181,1381,UConn Huskies,jump ball,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Kyra Wood.,32,23,2,170,1370,Syracuse Orange,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ice Brady missed Layup.,32,23,2,163,1363,UConn Huskies,layup,True,False,False,Ice Brady,False,,26.0,3.0
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood Defensive Rebound.,32,23,2,163,1363,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Jumper.,32,23,2,155,1355,Syracuse Orange,jumper,True,False,False,Dyaisha Fair,False,,17.0,10.0
+401637585,UConn Huskies,Syracuse Orange,Syracuse Offensive Rebound.,32,23,2,155,1355,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley made Layup. Assisted by Sophie Burrows.,32,25,2,150,1350,Syracuse Orange,layup,True,True,False,Georgia Woolley,True,Sophie Burrows,21.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Foul on Ashlynn Shade.,32,25,2,150,1350,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley made Free Throw.,32,26,2,150,1350,Syracuse Orange,free throw,True,True,False,Georgia Woolley,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Jumper. Assisted by Ashlynn Shade.,34,26,2,127,1327,UConn Huskies,jumper,True,True,False,Paige Bueckers,True,Ashlynn Shade,23.0,11.0
+401637585,UConn Huskies,Syracuse Orange,Saniaa Wilson made Jumper. Assisted by Georgia Woolley.,34,28,2,105,1305,Syracuse Orange,jumper,True,True,False,Saniaa Wilson,True,Georgia Woolley,14.0,5.0
+401637585,UConn Huskies,Syracuse Orange,Foul on Kyra Wood.,34,28,2,81,1281,Syracuse Orange,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards missed Free Throw.,34,28,2,81,1281,UConn Huskies,free throw,True,False,False,Aaliyah Edwards,False,,,
+401637585,UConn Huskies,Syracuse Orange,UConn Deadball Team Rebound.,34,28,2,81,1281,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards made Free Throw.,35,28,2,81,1281,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows missed Three Point Jumper.,35,28,2,64,1264,Syracuse Orange,three point jumper,True,False,True,Sophie Burrows,False,,36.0,22.0
+401637585,UConn Huskies,Syracuse Orange,Ice Brady Defensive Rebound.,35,28,2,64,1264,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Jumper.,37,28,2,45,1245,UConn Huskies,jumper,True,True,False,Paige Bueckers,False,,16.0,16.0
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Three Point Jumper.,37,28,2,29,1229,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,42.0,19.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Defensive Rebound.,37,28,2,29,1229,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Jumper.,39,28,2,5,1205,UConn Huskies,jumper,True,True,False,Paige Bueckers,False,,24.0,19.0
+401637585,UConn Huskies,Syracuse Orange,End of 2nd Quarter,39,28,2,0,1200,,end,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Jump Ball won by Syracuse,39,28,3,600,1200,Syracuse Orange,jump ball,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley Turnover.,39,28,3,598,1198,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Steal.,39,28,3,598,1198,UConn Huskies,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Nika Muhl missed Three Point Jumper.,39,28,3,583,1183,UConn Huskies,three point jumper,True,False,True,Nika Muhl,False,,25.0,24.0
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows Defensive Rebound.,39,28,3,583,1183,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Three Point Jumper.,39,28,3,573,1173,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,44.0,17.0
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood Offensive Rebound.,39,28,3,573,1173,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham made Jumper. Assisted by Georgia Woolley.,39,30,3,557,1157,Syracuse Orange,jumper,True,True,False,Alyssa Latham,True,Georgia Woolley,28.0,11.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers missed Jumper.,39,30,3,534,1134,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,27.0,10.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Offensive Rebound.,39,30,3,534,1134,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Kyra Wood.,39,30,3,532,1132,Syracuse Orange,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Free Throw.,40,30,3,532,1132,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Free Throw.,41,30,3,532,1132,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley missed Three Point Jumper.,41,30,3,517,1117,Syracuse Orange,three point jumper,True,False,True,Georgia Woolley,False,,13.0,24.0
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood Offensive Rebound.,41,30,3,517,1117,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood missed Layup.,41,30,3,511,1111,Syracuse Orange,layup,True,False,False,Kyra Wood,False,,22.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Block.,41,30,3,511,1111,UConn Huskies,block,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,KK Arnold Defensive Rebound.,41,30,3,511,1111,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Turnover.,41,30,3,496,1096,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair Steal.,41,30,3,496,1096,Syracuse Orange,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Jumper.,41,30,3,490,1090,Syracuse Orange,jumper,True,False,False,Dyaisha Fair,False,,32.0,6.0
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade Defensive Rebound.,41,30,3,490,1090,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade missed Three Point Jumper.,41,30,3,475,1075,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,48.0,-1.0
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley Defensive Rebound.,41,30,3,475,1075,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham missed Three Point Jumper.,41,30,3,464,1064,Syracuse Orange,three point jumper,True,False,True,Alyssa Latham,False,,24.0,26.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Defensive Rebound.,41,30,3,464,1064,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade missed Jumper.,41,30,3,451,1051,UConn Huskies,jumper,True,False,False,Ashlynn Shade,False,,37.0,14.0
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham Defensive Rebound.,41,30,3,451,1051,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Jumper.,41,30,3,430,1030,Syracuse Orange,jumper,True,False,False,Dyaisha Fair,False,,31.0,11.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Defensive Rebound.,41,30,3,430,1030,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,KK Arnold Turnover.,41,30,3,414,1014,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley missed Jumper.,41,30,3,398,998,Syracuse Orange,jumper,True,False,False,Georgia Woolley,False,,15.0,8.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Defensive Rebound.,41,30,3,398,998,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Turnover.,41,30,3,379,979,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham Steal.,41,30,3,379,979,Syracuse Orange,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair made Three Point Jumper.,41,33,3,373,973,Syracuse Orange,three point jumper,True,True,True,Dyaisha Fair,False,,42.0,17.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers missed Jumper.,41,33,3,353,953,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,6.0,0.0
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood Defensive Rebound.,41,33,3,353,953,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley made Jumper. Assisted by Dyaisha Fair.,41,35,3,336,936,Syracuse Orange,jumper,True,True,False,Georgia Woolley,True,Dyaisha Fair,35.0,14.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers missed Jumper.,41,35,3,312,912,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,25.0,6.0
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood Defensive Rebound.,41,35,3,312,912,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows made Three Point Jumper. Assisted by Georgia Woolley.,41,38,3,305,905,Syracuse Orange,three point jumper,True,True,True,Sophie Burrows,True,Georgia Woolley,48.0,9.0
+401637585,UConn Huskies,Syracuse Orange,UConn  Timeout,41,38,3,295,895,UConn Huskies,timeout,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards made Layup. Assisted by Paige Bueckers.,43,38,3,289,889,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,Paige Bueckers,27.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair Turnover.,43,38,3,274,874,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade Steal.,43,38,3,274,874,UConn Huskies,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade made Jumper.,45,38,3,256,856,UConn Huskies,jumper,True,True,False,Ashlynn Shade,False,,9.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Three Point Jumper.,45,38,3,245,845,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,29.0,24.0
+401637585,UConn Huskies,Syracuse Orange,UConn Defensive Rebound.,45,38,3,245,845,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange, Official TV Timeout,45,38,3,242,842,,tv timeout,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,KK Arnold missed Jumper.,45,38,3,227,827,UConn Huskies,jumper,True,False,False,KK Arnold,False,,24.0,8.0
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham Block.,45,38,3,227,827,Syracuse Orange,block,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham Defensive Rebound.,45,38,3,227,827,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows Turnover.,45,38,3,207,807,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Steal.,45,38,3,207,807,UConn Huskies,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Georgia Woolley.,45,38,3,201,801,Syracuse Orange,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers missed Free Throw.,45,38,3,201,801,UConn Huskies,free throw,True,False,False,Paige Bueckers,False,,,
+401637585,UConn Huskies,Syracuse Orange,UConn Deadball Team Rebound.,45,38,3,201,801,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Free Throw.,46,38,3,201,801,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows Turnover.,46,38,3,187,787,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Turnover.,46,38,3,173,773,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood Steal.,46,38,3,173,773,Syracuse Orange,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley missed Three Point Jumper.,46,38,3,163,763,Syracuse Orange,three point jumper,True,False,True,Georgia Woolley,False,,23.0,25.0
+401637585,UConn Huskies,Syracuse Orange,Nika Muhl Defensive Rebound.,46,38,3,163,763,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade missed Three Point Jumper.,46,38,3,152,752,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,1.0,-2.0
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows Defensive Rebound.,46,38,3,152,752,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair made Three Point Jumper. Assisted by Sophie Burrows.,46,41,3,141,741,Syracuse Orange,three point jumper,True,True,True,Dyaisha Fair,True,Sophie Burrows,2.0,4.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Layup.,48,41,3,124,724,UConn Huskies,layup,True,True,False,Paige Bueckers,False,,25.0,3.0
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair made Layup.,48,43,3,112,712,Syracuse Orange,layup,True,True,False,Dyaisha Fair,False,,23.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Foul on Aaliyah Edwards.,48,43,3,111,711,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair made Free Throw.,48,44,3,110,710,Syracuse Orange,free throw,True,True,False,Dyaisha Fair,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers missed Jumper.,48,44,3,91,691,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,25.0,9.0
+401637585,UConn Huskies,Syracuse Orange,Ice Brady Offensive Rebound.,48,44,3,91,691,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ice Brady missed Layup.,48,44,3,81,681,UConn Huskies,layup,True,False,False,Ice Brady,False,,27.0,3.0
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham Block.,48,44,3,81,681,Syracuse Orange,block,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,KK Arnold Offensive Rebound.,48,44,3,81,681,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,KK Arnold made Layup.,50,44,3,78,678,UConn Huskies,layup,True,True,False,KK Arnold,False,,22.0,2.0
+401637585,UConn Huskies,Syracuse Orange,Foul on Nika Muhl.,50,44,3,72,672,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows Turnover.,50,44,3,63,663,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,UConn  Turnover.,50,44,3,34,634,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley missed Jumper.,50,44,3,22,622,Syracuse Orange,jumper,True,False,False,Georgia Woolley,False,,32.0,12.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Defensive Rebound.,50,44,3,22,622,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade made Three Point Jumper. Assisted by Paige Bueckers.,53,44,3,3,603,UConn Huskies,three point jumper,True,True,True,Ashlynn Shade,True,Paige Bueckers,1.0,0.0
+401637585,UConn Huskies,Syracuse Orange,End of 3rd Quarter,53,44,3,0,600,,end,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Jump Ball won by UConn,53,44,4,600,600,UConn Huskies,jump ball,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Jumper. Assisted by Aaliyah Edwards.,55,44,4,589,589,UConn Huskies,jumper,True,True,False,Paige Bueckers,True,Aaliyah Edwards,16.0,10.0
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley made Three Point Jumper. Assisted by Dyaisha Fair.,55,47,4,574,574,Syracuse Orange,three point jumper,True,True,True,Georgia Woolley,True,Dyaisha Fair,40.0,21.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards made Layup.,57,47,4,552,552,UConn Huskies,layup,True,True,False,Aaliyah Edwards,False,,27.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows made Three Point Jumper. Assisted by Dyaisha Fair.,57,50,4,542,542,Syracuse Orange,three point jumper,True,True,True,Sophie Burrows,True,Dyaisha Fair,2.0,0.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Three Point Jumper. Assisted by Nika Muhl.,60,50,4,522,522,UConn Huskies,three point jumper,True,True,True,Paige Bueckers,True,Nika Muhl,15.0,26.0
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair made Three Point Jumper.,60,53,4,508,508,Syracuse Orange,three point jumper,True,True,True,Dyaisha Fair,False,,41.0,20.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards missed Jumper.,60,53,4,479,479,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,38.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham Defensive Rebound.,60,53,4,479,479,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Jumper.,60,53,4,468,468,Syracuse Orange,jumper,True,False,False,Dyaisha Fair,False,,20.0,5.0
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood Offensive Rebound.,60,53,4,468,468,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Jump Ball won by Syracuse,60,53,4,466,466,Syracuse Orange,jump ball,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Layup.,60,53,4,453,453,Syracuse Orange,layup,True,False,False,Dyaisha Fair,False,,28.0,2.0
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham Offensive Rebound.,60,53,4,453,453,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Paige Bueckers.,60,53,4,443,443,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Jumper.,60,53,4,425,425,Syracuse Orange,jumper,True,False,False,Dyaisha Fair,False,,32.0,13.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Defensive Rebound.,60,53,4,425,425,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade made Three Point Jumper. Assisted by Aaliyah Edwards.,63,53,4,412,412,UConn Huskies,three point jumper,True,True,True,Ashlynn Shade,True,Aaliyah Edwards,2.0,0.0
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley missed Jumper.,63,53,4,392,392,Syracuse Orange,jumper,True,False,False,Georgia Woolley,False,,37.0,14.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Defensive Rebound.,63,53,4,392,392,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Sophie Burrows.,63,53,4,388,388,Syracuse Orange,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Syracuse  Timeout,63,53,4,387,387,Syracuse Orange,timeout,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards missed Layup.,63,53,4,369,369,UConn Huskies,layup,True,False,False,Aaliyah Edwards,False,,23.0,2.0
+401637585,UConn Huskies,Syracuse Orange,UConn Offensive Rebound.,63,53,4,369,369,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Alyssa Latham.,63,53,4,369,369,Syracuse Orange,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Turnover.,63,53,4,364,364,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham Steal.,63,53,4,364,364,Syracuse Orange,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows missed Three Point Jumper.,63,53,4,356,356,Syracuse Orange,three point jumper,True,False,True,Sophie Burrows,False,,3.0,9.0
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood Offensive Rebound.,63,53,4,356,356,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Aaliyah Edwards.,63,53,4,356,356,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Nika Muhl.,63,53,4,347,347,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on KK Arnold.,63,53,4,334,334,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Nika Muhl.,63,53,4,324,324,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Free Throw.,63,53,4,324,324,Syracuse Orange,free throw,True,False,False,Dyaisha Fair,False,,,
+401637585,UConn Huskies,Syracuse Orange,Syracuse Deadball Team Rebound.,63,53,4,324,324,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair made Free Throw.,63,54,4,324,324,Syracuse Orange,free throw,True,True,False,Dyaisha Fair,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair made Free Throw.,63,55,4,324,324,Syracuse Orange,free throw,True,True,False,Dyaisha Fair,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Nika Muhl.,63,55,4,316,316,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Nika Muhl Turnover.,63,55,4,316,316,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Defensive Rebound.,63,55,4,296,296,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham missed Layup.,63,55,4,296,296,Syracuse Orange,layup,True,False,False,Alyssa Latham,False,,23.0,2.0
+401637585,UConn Huskies,Syracuse Orange,UConn  Timeout,63,55,4,282,282,UConn Huskies,timeout,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Turnover.,63,55,4,267,267,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair Steal.,63,55,4,267,267,Syracuse Orange,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Jump Ball won by UConn,63,55,4,264,264,UConn Huskies,jump ball,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair Turnover.,63,55,4,264,264,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Steal.,63,55,4,264,264,UConn Huskies,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Turnover.,63,55,4,244,244,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Three Point Jumper.,63,55,4,226,226,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,2.0,3.0
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham Offensive Rebound.,63,55,4,226,226,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows missed Three Point Jumper.,63,55,4,215,215,Syracuse Orange,three point jumper,True,False,True,Sophie Burrows,False,,48.0,1.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Defensive Rebound.,63,55,4,215,215,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Kyra Wood.,63,55,4,215,215,Syracuse Orange,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade made Jumper. Assisted by KK Arnold.,65,55,4,200,200,UConn Huskies,jumper,True,True,False,Ashlynn Shade,True,KK Arnold,38.0,0.0
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair made Three Point Jumper.,65,58,4,179,179,Syracuse Orange,three point jumper,True,True,True,Dyaisha Fair,False,,25.0,27.0
+401637585,UConn Huskies,Syracuse Orange,Ice Brady Turnover.,65,58,4,161,161,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows Steal.,65,58,4,161,161,Syracuse Orange,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows made Three Point Jumper. Assisted by Georgia Woolley.,65,61,4,153,153,Syracuse Orange,three point jumper,True,True,True,Sophie Burrows,True,Georgia Woolley,47.0,11.0
+401637585,UConn Huskies,Syracuse Orange,Syracuse  Timeout,65,61,4,150,150,Syracuse Orange,timeout,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ice Brady Turnover.,65,61,4,125,125,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Kyra Wood Steal.,65,61,4,125,125,Syracuse Orange,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Three Point Jumper.,65,61,4,116,116,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,23.0,29.0
+401637585,UConn Huskies,Syracuse Orange,Syracuse Offensive Rebound.,65,61,4,116,116,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Alyssa Latham made Jumper. Assisted by Sophie Burrows.,65,63,4,112,112,Syracuse Orange,jumper,True,True,False,Alyssa Latham,True,Sophie Burrows,20.0,16.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers made Jumper.,67,63,4,90,90,UConn Huskies,jumper,True,True,False,Paige Bueckers,False,,29.0,11.0
+401637585,UConn Huskies,Syracuse Orange,Foul on Paige Bueckers.,67,63,4,72,72,UConn Huskies,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair made Free Throw.,67,64,4,72,72,Syracuse Orange,free throw,True,True,False,Dyaisha Fair,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Free Throw.,67,64,4,72,72,Syracuse Orange,free throw,True,False,False,Dyaisha Fair,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Defensive Rebound.,67,64,4,72,72,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers missed Jumper.,67,64,4,60,60,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,15.0,15.0
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley Defensive Rebound.,67,64,4,60,60,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair Turnover.,67,64,4,54,54,Syracuse Orange,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Ashlynn Shade Steal.,67,64,4,54,54,UConn Huskies,steal,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,UConn  Timeout,67,64,4,50,50,UConn Huskies,timeout,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,KK Arnold made Three Point Jumper. Assisted by Paige Bueckers.,70,64,4,29,29,UConn Huskies,three point jumper,True,True,True,KK Arnold,True,Paige Bueckers,46.0,12.0
+401637585,UConn Huskies,Syracuse Orange,Syracuse  Timeout,70,64,4,29,29,Syracuse Orange,timeout,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair missed Three Point Jumper.,70,64,4,19,19,Syracuse Orange,three point jumper,True,False,True,Dyaisha Fair,False,,13.0,22.0
+401637585,UConn Huskies,Syracuse Orange,Dyaisha Fair Offensive Rebound.,70,64,4,19,19,Syracuse Orange,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley missed Three Point Jumper.,70,64,4,12,12,Syracuse Orange,three point jumper,True,False,True,Georgia Woolley,False,,22.0,27.0
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Defensive Rebound.,70,64,4,12,12,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards Turnover.,70,64,4,9,9,UConn Huskies,turnover,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Georgia Woolley missed Three Point Jumper.,70,64,4,5,5,Syracuse Orange,three point jumper,True,False,True,Georgia Woolley,False,,6.0,19.0
+401637585,UConn Huskies,Syracuse Orange,Paige Bueckers Defensive Rebound.,70,64,4,5,5,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Dyaisha Fair.,70,64,4,4,4,Syracuse Orange,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,UConn  Timeout,70,64,4,4,4,UConn Huskies,timeout,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Foul on Alyssa Latham.,70,64,4,2,2,Syracuse Orange,foul,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards made Free Throw.,71,64,4,2,2,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637585,UConn Huskies,Syracuse Orange,Aaliyah Edwards made Free Throw.,72,64,4,2,2,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637585,UConn Huskies,Syracuse Orange,Sophie Burrows missed Three Point Jumper.,72,64,4,1,1,Syracuse Orange,three point jumper,True,False,True,Sophie Burrows,False,,5.0,44.0
+401637585,UConn Huskies,Syracuse Orange,UConn Deadball Team Rebound.,72,64,4,1,1,UConn Huskies,rebound,False,False,False,,False,,,
+401637585,UConn Huskies,Syracuse Orange,End of Game,72,64,4,0,0,,end,False,False,False,,False,,,

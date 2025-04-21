@@ -1,0 +1,353 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637608,South Carolina Gamecocks,Oregon State Beavers,Jump Ball won by South Carolina,0,0,1,600,2400,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso missed Jumper.,0,0,1,585,2385,South Carolina Gamecocks,jumper,True,False,False,Kamilla Cardoso,False,,27.0,8.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Defensive Rebound.,0,0,1,585,2385,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers made Jumper. Assisted by Timea Gardiner.,0,2,1,564,2364,Oregon State Beavers,jumper,True,True,False,Raegan Beers,True,Timea Gardiner,36.0,4.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall missed Jumper.,0,2,1,548,2348,South Carolina Gamecocks,jumper,True,False,False,Bree Hall,False,,21.0,10.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter Block.,0,2,1,548,2348,Oregon State Beavers,block,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,South Carolina Offensive Rebound.,0,2,1,548,2348,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raven Johnson missed Jumper.,0,2,1,531,2331,South Carolina Gamecocks,jumper,True,False,False,Raven Johnson,False,,22.0,11.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen Defensive Rebound.,0,2,1,531,2331,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen missed Jumper.,0,2,1,523,2323,Oregon State Beavers,jumper,True,False,False,Talia von Oelhoffen,False,,21.0,6.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso Defensive Rebound.,0,2,1,523,2323,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall made Layup.,2,2,1,512,2312,South Carolina Gamecocks,layup,True,True,False,Bree Hall,False,,27.0,3.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Raegan Beers.,2,2,1,512,2312,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall made Free Throw.,3,2,1,512,2312,South Carolina Gamecocks,free throw,True,True,False,Bree Hall,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Jump Ball won by Oregon State,3,2,1,510,2310,Oregon State Beavers,jump ball,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Jump Ball won by South Carolina,3,2,1,498,2298,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen Turnover.,3,2,1,498,2298,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall Steal.,3,2,1,498,2298,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso missed Jumper.,3,2,1,479,2279,South Carolina Gamecocks,jumper,True,False,False,Kamilla Cardoso,False,,28.0,7.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Defensive Rebound.,3,2,1,479,2279,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner missed Three Point Jumper.,3,2,1,460,2260,Oregon State Beavers,three point jumper,True,False,True,Timea Gardiner,False,,8.0,18.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao Defensive Rebound.,3,2,1,460,2260,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao missed Three Point Jumper.,3,2,1,449,2249,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,33.0,23.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso Offensive Rebound.,3,2,1,449,2249,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Timea Gardiner.,3,2,1,430,2230,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Chloe Kitts made Free Throw.,4,2,1,430,2230,South Carolina Gamecocks,free throw,True,True,False,Chloe Kitts,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Chloe Kitts made Free Throw.,5,2,1,430,2230,South Carolina Gamecocks,free throw,True,True,False,Chloe Kitts,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Turnover.,5,2,1,403,2203,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall Steal.,5,2,1,403,2203,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao missed Jumper.,5,2,1,392,2192,South Carolina Gamecocks,jumper,True,False,False,Te-Hina Paopao,False,,27.0,10.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Defensive Rebound.,5,2,1,392,2192,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Te-Hina Paopao.,5,2,1,376,2176,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers made Free Throw.,5,3,1,376,2176,Oregon State Beavers,free throw,True,True,False,Raegan Beers,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers made Free Throw.,5,4,1,376,2176,Oregon State Beavers,free throw,True,True,False,Raegan Beers,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso made Jumper.,7,4,1,353,2153,South Carolina Gamecocks,jumper,True,True,False,Kamilla Cardoso,False,,30.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner missed Three Point Jumper.,7,4,1,338,2138,Oregon State Beavers,three point jumper,True,False,True,Timea Gardiner,False,,15.0,23.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall Defensive Rebound.,7,4,1,338,2138,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raven Johnson missed Three Point Jumper.,7,4,1,328,2128,South Carolina Gamecocks,three point jumper,True,False,True,Raven Johnson,False,,1.0,0.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Defensive Rebound.,7,4,1,328,2128,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter missed Three Point Jumper.,7,4,1,298,2098,Oregon State Beavers,three point jumper,True,False,True,Donovyn Hunter,False,,17.0,27.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso Defensive Rebound.,7,4,1,298,2098,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao made Three Point Jumper. Assisted by Raven Johnson.,10,4,1,289,2089,South Carolina Gamecocks,three point jumper,True,True,True,Te-Hina Paopao,True,Raven Johnson,5.0,14.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter Turnover.,10,4,1,272,2072,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raven Johnson Steal.,10,4,1,272,2072,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Chloe Kitts missed Layup.,10,4,1,266,2066,South Carolina Gamecocks,layup,True,False,False,Chloe Kitts,False,,22.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State Defensive Rebound.,10,4,1,266,2066,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers, Official TV Timeout,10,4,1,265,2065,,tv timeout,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Sania Feagin.,10,4,1,249,2049,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen made Jumper. Assisted by Donovyn Hunter.,10,6,1,246,2046,Oregon State Beavers,jumper,True,True,False,Talia von Oelhoffen,True,Donovyn Hunter,36.0,11.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Sania Feagin made Jumper.,12,6,1,226,2026,South Carolina Gamecocks,jumper,True,True,False,Sania Feagin,False,,29.0,9.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers missed Layup.,12,6,1,204,2004,Oregon State Beavers,layup,True,False,False,Raegan Beers,False,,22.0,3.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley Defensive Rebound.,12,6,1,204,2004,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley missed Layup.,12,6,1,195,1995,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,22.0,0.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Offensive Rebound.,12,6,1,195,1995,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins missed Two Point Tip Shot.,12,6,1,195,1995,South Carolina Gamecocks,two point tip shot,True,False,False,Ashlyn Watkins,False,,25.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Offensive Rebound.,12,6,1,195,1995,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley made Layup.,14,6,1,176,1976,South Carolina Gamecocks,layup,True,True,False,MiLaysia Fulwiley,False,,27.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Raven Johnson.,14,6,1,155,1955,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen made Free Throw.,14,7,1,155,1955,Oregon State Beavers,free throw,True,True,False,Talia von Oelhoffen,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen made Free Throw.,14,8,1,155,1955,Oregon State Beavers,free throw,True,True,False,Talia von Oelhoffen,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley made Layup.,16,8,1,140,1940,South Carolina Gamecocks,layup,True,True,False,MiLaysia Fulwiley,False,,21.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on MiLaysia Fulwiley.,16,8,1,129,1929,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Dominika Paurova missed Layup.,16,8,1,121,1921,Oregon State Beavers,layup,True,False,False,Dominika Paurova,False,,22.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Block.,16,8,1,121,1921,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Sania Feagin Defensive Rebound.,16,8,1,121,1921,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins missed Layup.,16,8,1,108,1908,South Carolina Gamecocks,layup,True,False,False,Ashlyn Watkins,False,,29.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Defensive Rebound.,16,8,1,108,1908,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen missed Layup.,16,8,1,88,1888,Oregon State Beavers,layup,True,False,False,Talia von Oelhoffen,False,,24.0,3.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Block.,16,8,1,88,1888,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State Offensive Rebound.,16,8,1,88,1888,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford made Three Point Jumper. Assisted by Talia von Oelhoffen.,16,11,1,80,1880,Oregon State Beavers,three point jumper,True,True,True,Lily Hansford,True,Talia von Oelhoffen,3.0,8.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson missed Jumper.,16,11,1,66,1866,South Carolina Gamecocks,jumper,True,False,False,Tessa Johnson,False,,35.0,5.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Sania Feagin Offensive Rebound.,16,11,1,66,1866,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Kelsey Rees.,16,11,1,66,1866,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall missed Jumper.,16,11,1,60,1860,South Carolina Gamecocks,jumper,True,False,False,Bree Hall,False,,33.0,12.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford Defensive Rebound.,16,11,1,60,1860,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford made Three Point Jumper.,16,14,1,51,1851,Oregon State Beavers,three point jumper,True,True,True,Lily Hansford,False,,15.0,23.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall missed Jumper.,16,14,1,34,1834,South Carolina Gamecocks,jumper,True,False,False,Bree Hall,False,,5.0,5.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall Offensive Rebound.,16,14,1,34,1834,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall made Layup.,18,14,1,24,1824,South Carolina Gamecocks,layup,True,True,False,Bree Hall,False,,21.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford Turnover.,18,14,1,4,1804,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley missed Three Point Jumper.,18,14,1,1,1801,South Carolina Gamecocks,three point jumper,True,False,True,MiLaysia Fulwiley,False,,15.0,25.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State Deadball Team Rebound.,18,14,1,1,1801,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,End of 1st Quarter,18,14,1,0,1800,,end,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Jump Ball won by Oregon State,18,14,2,600,1800,Oregon State Beavers,jump ball,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Dominika Paurova missed Layup.,18,14,2,586,1786,Oregon State Beavers,layup,True,False,False,Dominika Paurova,False,,27.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Block.,18,14,2,586,1786,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State Offensive Rebound.,18,14,2,586,1786,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers missed Jumper.,18,14,2,572,1772,Oregon State Beavers,jumper,True,False,False,Raegan Beers,False,,30.0,19.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Defensive Rebound.,18,14,2,572,1772,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson made Three Point Jumper. Assisted by Raven Johnson.,21,14,2,563,1763,South Carolina Gamecocks,three point jumper,True,True,True,Tessa Johnson,True,Raven Johnson,48.0,0.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers made Layup. Assisted by Dominika Paurova.,21,16,2,533,1733,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Dominika Paurova,24.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Raven Johnson.,21,16,2,533,1733,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers missed Free Throw.,21,16,2,533,1733,Oregon State Beavers,free throw,True,False,False,Raegan Beers,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kennedie Shuler Offensive Rebound.,21,16,2,533,1733,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford missed Three Point Jumper.,21,16,2,529,1729,Oregon State Beavers,three point jumper,True,False,True,Lily Hansford,False,,41.0,19.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso Defensive Rebound.,21,16,2,529,1729,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson missed Jumper.,21,16,2,509,1709,South Carolina Gamecocks,jumper,True,False,False,Tessa Johnson,False,,29.0,10.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford Defensive Rebound.,21,16,2,509,1709,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Jump Ball won by South Carolina,21,16,2,490,1690,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Turnover.,21,16,2,490,1690,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso Steal.,21,16,2,490,1690,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso made Jumper. Assisted by Tessa Johnson.,23,16,2,483,1683,South Carolina Gamecocks,jumper,True,True,False,Kamilla Cardoso,True,Tessa Johnson,26.0,13.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford made Three Point Jumper. Assisted by Donovyn Hunter.,23,19,2,466,1666,Oregon State Beavers,three point jumper,True,True,True,Lily Hansford,True,Donovyn Hunter,10.0,20.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao Turnover.,23,19,2,454,1654,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford Steal.,23,19,2,454,1654,Oregon State Beavers,steal,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Raegan Beers.,23,19,2,436,1636,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Turnover.,23,19,2,436,1636,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins made Jumper. Assisted by Bree Hall.,25,19,2,424,1624,South Carolina Gamecocks,jumper,True,True,False,Ashlyn Watkins,True,Bree Hall,23.0,7.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Timea Gardiner.,25,19,2,424,1624,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins missed Free Throw.,25,19,2,424,1624,South Carolina Gamecocks,free throw,True,False,False,Ashlyn Watkins,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Defensive Rebound.,25,19,2,424,1624,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Kamilla Cardoso.,25,19,2,424,1624,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner made Three Point Jumper. Assisted by Donovyn Hunter.,25,22,2,412,1612,Oregon State Beavers,three point jumper,True,True,True,Timea Gardiner,True,Donovyn Hunter,14.0,22.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao missed Layup.,25,22,2,400,1600,South Carolina Gamecocks,layup,True,False,False,Te-Hina Paopao,False,,22.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Offensive Rebound.,25,22,2,400,1600,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins made Jumper.,27,22,2,394,1594,South Carolina Gamecocks,jumper,True,True,False,Ashlyn Watkins,False,,24.0,5.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen missed Jumper.,27,22,2,383,1583,Oregon State Beavers,jumper,True,False,False,Talia von Oelhoffen,False,,25.0,18.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson Defensive Rebound.,27,22,2,383,1583,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao missed Three Point Jumper.,27,22,2,369,1569,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,6.0,15.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Defensive Rebound.,27,22,2,369,1569,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State  Turnover.,27,22,2,356,1556,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Chloe Kitts missed Layup.,27,22,2,341,1541,South Carolina Gamecocks,layup,True,False,False,Chloe Kitts,False,,29.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,South Carolina Offensive Rebound.,27,22,2,341,1541,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Chloe Kitts Turnover.,27,22,2,330,1530,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen missed Three Point Jumper.,27,22,2,322,1522,Oregon State Beavers,three point jumper,True,False,True,Talia von Oelhoffen,False,,48.0,0.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao Defensive Rebound.,27,22,2,322,1522,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao missed Three Point Jumper.,27,22,2,300,1500,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,40.0,20.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,South Carolina Deadball Team Rebound.,27,22,2,296,1496,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Timea Gardiner.,27,22,2,296,1496,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers, Official TV Timeout,27,22,2,296,1496,,tv timeout,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso made Jumper. Assisted by Bree Hall.,29,22,2,291,1491,South Carolina Gamecocks,jumper,True,True,False,Kamilla Cardoso,True,Bree Hall,24.0,4.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford missed Three Point Jumper.,29,22,2,275,1475,Oregon State Beavers,three point jumper,True,False,True,Lily Hansford,False,,22.0,25.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley Defensive Rebound.,29,22,2,275,1475,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley missed Jumper.,29,22,2,268,1468,South Carolina Gamecocks,jumper,True,False,False,MiLaysia Fulwiley,False,,27.0,9.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley Offensive Rebound.,29,22,2,268,1468,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley made Jumper.,31,22,2,264,1464,South Carolina Gamecocks,jumper,True,True,False,MiLaysia Fulwiley,False,,26.0,5.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State  Timeout,31,22,2,263,1463,Oregon State Beavers,timeout,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers, Official TV Timeout,31,22,2,263,1463,,tv timeout,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers made Layup. Assisted by Dominika Paurova.,31,24,2,252,1452,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Dominika Paurova,24.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Sania Feagin Turnover.,31,24,2,241,1441,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter Steal.,31,24,2,241,1441,Oregon State Beavers,steal,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Dominika Paurova made Layup. Assisted by Donovyn Hunter.,31,26,2,233,1433,Oregon State Beavers,layup,True,True,False,Dominika Paurova,True,Donovyn Hunter,23.0,3.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley missed Three Point Jumper.,31,26,2,223,1423,South Carolina Gamecocks,three point jumper,True,False,True,MiLaysia Fulwiley,False,,44.0,17.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter Defensive Rebound.,31,26,2,221,1421,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Jump Ball won by Oregon State,31,26,2,221,1421,Oregon State Beavers,jump ball,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen missed Three Point Jumper.,31,26,2,193,1393,Oregon State Beavers,three point jumper,True,False,True,Talia von Oelhoffen,False,,40.0,22.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Offensive Rebound.,31,26,2,193,1393,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers missed Layup.,31,26,2,192,1392,Oregon State Beavers,layup,True,False,False,Raegan Beers,False,,24.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Offensive Rebound.,31,26,2,192,1392,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Chloe Kitts.,31,26,2,190,1390,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers missed Free Throw.,31,26,2,190,1390,Oregon State Beavers,free throw,True,False,False,Raegan Beers,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State Deadball Team Rebound.,31,26,2,190,1390,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers made Free Throw.,31,27,2,190,1390,Oregon State Beavers,free throw,True,True,False,Raegan Beers,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley missed Three Point Jumper.,31,27,2,176,1376,South Carolina Gamecocks,three point jumper,True,False,True,MiLaysia Fulwiley,False,,12.0,21.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall Offensive Rebound.,31,27,2,176,1376,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Talia von Oelhoffen.,31,27,2,172,1372,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall made Free Throw.,32,27,2,172,1372,South Carolina Gamecocks,free throw,True,True,False,Bree Hall,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall made Free Throw.,33,27,2,172,1372,South Carolina Gamecocks,free throw,True,True,False,Bree Hall,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter missed Jumper.,33,27,2,153,1353,Oregon State Beavers,jumper,True,False,False,Donovyn Hunter,False,,26.0,11.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,South Carolina Defensive Rebound.,33,27,2,153,1353,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson missed Three Point Jumper.,33,27,2,136,1336,South Carolina Gamecocks,three point jumper,True,False,True,Tessa Johnson,False,,37.0,24.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State Defensive Rebound.,33,27,2,136,1336,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford missed Three Point Jumper.,33,27,2,126,1326,Oregon State Beavers,three point jumper,True,False,True,Lily Hansford,False,,43.0,18.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson Block.,33,27,2,126,1326,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao Defensive Rebound.,33,27,2,126,1326,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson missed Layup.,33,27,2,114,1314,South Carolina Gamecocks,layup,True,False,False,Tessa Johnson,False,,22.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao Offensive Rebound.,33,27,2,114,1314,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Sania Feagin missed Layup.,33,27,2,108,1308,South Carolina Gamecocks,layup,True,False,False,Sania Feagin,False,,26.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Offensive Rebound.,33,27,2,108,1308,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins made Two Point Tip Shot.,35,27,2,108,1308,South Carolina Gamecocks,two point tip shot,True,True,False,Ashlyn Watkins,False,,25.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter made Three Point Jumper. Assisted by Talia von Oelhoffen.,35,30,2,88,1288,Oregon State Beavers,three point jumper,True,True,True,Donovyn Hunter,True,Talia von Oelhoffen,13.0,23.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson missed Three Point Jumper.,35,30,2,57,1257,South Carolina Gamecocks,three point jumper,True,False,True,Tessa Johnson,False,,46.0,13.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,South Carolina Deadball Team Rebound.,35,30,2,57,1257,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Raegan Beers.,35,30,2,57,1257,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Sania Feagin made Free Throw.,36,30,2,57,1257,South Carolina Gamecocks,free throw,True,True,False,Sania Feagin,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Sania Feagin made Free Throw.,37,30,2,57,1257,South Carolina Gamecocks,free throw,True,True,False,Sania Feagin,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,South Carolina  Timeout,37,30,2,57,1257,South Carolina Gamecocks,timeout,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Bree Hall.,37,30,2,46,1246,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter made Three Point Jumper. Assisted by Dominika Paurova.,37,33,2,40,1240,Oregon State Beavers,three point jumper,True,True,True,Donovyn Hunter,True,Dominika Paurova,11.0,21.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall missed Three Point Jumper.,37,33,2,16,1216,South Carolina Gamecocks,three point jumper,True,False,True,Bree Hall,False,,21.0,25.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Offensive Rebound.,37,33,2,16,1216,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins missed Jumper.,37,33,2,11,1211,South Carolina Gamecocks,jumper,True,False,False,Ashlyn Watkins,False,,23.0,6.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter Defensive Rebound.,37,33,2,11,1211,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,End of 2nd Quarter,37,33,2,0,1200,,end,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Jump Ball won by South Carolina,37,33,3,600,1200,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso made Jumper. Assisted by Raven Johnson.,39,33,3,583,1183,South Carolina Gamecocks,jumper,True,True,False,Kamilla Cardoso,True,Raven Johnson,25.0,3.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Kamilla Cardoso.,39,33,3,560,1160,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers made Free Throw.,39,34,3,560,1160,Oregon State Beavers,free throw,True,True,False,Raegan Beers,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers made Free Throw.,39,35,3,560,1160,Oregon State Beavers,free throw,True,True,False,Raegan Beers,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Donovyn Hunter.,39,35,3,546,1146,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso made Layup. Assisted by Raven Johnson.,41,35,3,541,1141,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Raven Johnson,27.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen made Layup.,41,37,3,511,1111,Oregon State Beavers,layup,True,True,False,Talia von Oelhoffen,False,,21.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao missed Three Point Jumper.,41,37,3,496,1096,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,25.0,25.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Defensive Rebound.,41,37,3,496,1096,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen made Jumper. Assisted by Raegan Beers.,41,39,3,479,1079,Oregon State Beavers,jumper,True,True,False,Talia von Oelhoffen,True,Raegan Beers,22.0,20.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raven Johnson Turnover.,41,39,3,469,1069,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Turnover.,41,39,3,453,1053,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Chloe Kitts missed Layup.,41,39,3,425,1025,South Carolina Gamecocks,layup,True,False,False,Chloe Kitts,False,,23.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Block.,41,39,3,425,1025,Oregon State Beavers,block,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Defensive Rebound.,41,39,3,425,1025,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner missed Three Point Jumper.,41,39,3,415,1015,Oregon State Beavers,three point jumper,True,False,True,Timea Gardiner,False,,45.0,14.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso Defensive Rebound.,41,39,3,415,1015,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall missed Three Point Jumper.,41,39,3,410,1010,South Carolina Gamecocks,three point jumper,True,False,True,Bree Hall,False,,23.0,25.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Defensive Rebound.,41,39,3,410,1010,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Turnover.,41,39,3,394,994,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso Steal.,41,39,3,394,994,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso made Layup. Assisted by Raven Johnson.,43,39,3,390,990,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Raven Johnson,24.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers made Layup. Assisted by Talia von Oelhoffen.,43,41,3,367,967,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Talia von Oelhoffen,23.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Chloe Kitts missed Jumper.,43,41,3,349,949,South Carolina Gamecocks,jumper,True,False,False,Chloe Kitts,False,,25.0,16.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Defensive Rebound.,43,41,3,349,949,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Kamilla Cardoso.,43,41,3,324,924,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,AJ Marotte missed Layup.,43,41,3,320,920,Oregon State Beavers,layup,True,False,False,AJ Marotte,False,,23.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raven Johnson Defensive Rebound.,43,41,3,320,920,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao missed Three Point Jumper.,43,41,3,305,905,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,42.0,18.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,South Carolina Offensive Rebound.,43,41,3,305,905,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raven Johnson made Three Point Jumper. Assisted by Tessa Johnson.,46,41,3,295,895,South Carolina Gamecocks,three point jumper,True,True,True,Raven Johnson,True,Tessa Johnson,49.0,0.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Dominika Paurova missed Three Point Jumper.,46,41,3,272,872,Oregon State Beavers,three point jumper,True,False,True,Dominika Paurova,False,,27.0,25.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kelsey Rees Offensive Rebound.,46,41,3,272,872,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen missed Layup.,46,41,3,252,852,Oregon State Beavers,layup,True,False,False,Talia von Oelhoffen,False,,22.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Defensive Rebound.,46,41,3,252,852,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Turnover.,46,41,3,249,849,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen Steal.,46,41,3,249,849,Oregon State Beavers,steal,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen missed Layup.,46,41,3,244,844,Oregon State Beavers,layup,True,False,False,Talia von Oelhoffen,False,,22.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raven Johnson Defensive Rebound.,46,41,3,244,844,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Chloe Kitts missed Layup.,46,41,3,224,824,South Carolina Gamecocks,layup,True,False,False,Chloe Kitts,False,,24.0,3.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kelsey Rees Block.,46,41,3,224,824,Oregon State Beavers,block,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,South Carolina Offensive Rebound.,46,41,3,224,824,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers, Official TV Timeout,46,41,3,224,824,,tv timeout,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson made Three Point Jumper. Assisted by Raven Johnson.,49,41,3,220,820,South Carolina Gamecocks,three point jumper,True,True,True,Tessa Johnson,True,Raven Johnson,49.0,3.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner missed Three Point Jumper.,49,41,3,201,801,Oregon State Beavers,three point jumper,True,False,True,Timea Gardiner,False,,43.0,16.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,South Carolina Defensive Rebound.,49,41,3,201,801,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson made Jumper.,51,41,3,181,781,South Carolina Gamecocks,jumper,True,True,False,Tessa Johnson,False,,21.0,8.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter Turnover.,51,41,3,161,761,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Steal.,51,41,3,161,761,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Sania Feagin made Layup. Assisted by Te-Hina Paopao.,53,41,3,156,756,South Carolina Gamecocks,layup,True,True,False,Sania Feagin,True,Te-Hina Paopao,27.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Sania Feagin.,53,41,3,141,741,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Dominika Paurova missed Jumper.,53,41,3,139,739,Oregon State Beavers,jumper,True,False,False,Dominika Paurova,False,,9.0,4.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Defensive Rebound.,53,41,3,139,739,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raven Johnson missed Layup.,53,41,3,112,712,South Carolina Gamecocks,layup,True,False,False,Raven Johnson,False,,28.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Block.,53,41,3,112,712,Oregon State Beavers,block,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,South Carolina Offensive Rebound.,53,41,3,112,712,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins missed Layup.,53,41,3,110,710,South Carolina Gamecocks,layup,True,False,False,Ashlyn Watkins,False,,28.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Sania Feagin Offensive Rebound.,53,41,3,110,710,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Sania Feagin missed Two Point Tip Shot.,53,41,3,110,710,South Carolina Gamecocks,two point tip shot,True,False,False,Sania Feagin,False,,25.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Sania Feagin Offensive Rebound.,53,41,3,110,710,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Sania Feagin made Two Point Tip Shot.,55,41,3,110,710,South Carolina Gamecocks,two point tip shot,True,True,False,Sania Feagin,False,,25.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State  Timeout,55,41,3,94,694,Oregon State Beavers,timeout,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers, Official TV Timeout,55,41,3,94,694,,tv timeout,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner made Jumper. Assisted by AJ Marotte.,55,43,3,85,685,Oregon State Beavers,jumper,True,True,False,Timea Gardiner,True,AJ Marotte,18.0,12.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins made Layup. Assisted by Sania Feagin.,57,43,3,57,657,South Carolina Gamecocks,layup,True,True,False,Ashlyn Watkins,True,Sania Feagin,26.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Sania Feagin.,57,43,3,38,638,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers missed Free Throw.,57,43,3,38,638,Oregon State Beavers,free throw,True,False,False,Raegan Beers,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State Deadball Team Rebound.,57,43,3,38,638,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers made Free Throw.,57,44,3,38,638,Oregon State Beavers,free throw,True,True,False,Raegan Beers,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson missed Layup.,57,44,3,20,620,South Carolina Gamecocks,layup,True,False,False,Tessa Johnson,False,,28.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Defensive Rebound.,57,44,3,20,620,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Sania Feagin.,57,44,3,9,609,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner made Free Throw.,57,45,3,9,609,Oregon State Beavers,free throw,True,True,False,Timea Gardiner,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner made Free Throw.,57,46,3,9,609,Oregon State Beavers,free throw,True,True,False,Timea Gardiner,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Donovyn Hunter.,57,46,3,1,601,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley made Free Throw.,58,46,3,1,601,South Carolina Gamecocks,free throw,True,True,False,MiLaysia Fulwiley,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley missed Free Throw.,58,46,3,1,601,South Carolina Gamecocks,free throw,True,False,False,MiLaysia Fulwiley,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Defensive Rebound.,58,46,3,1,601,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,End of 3rd Quarter,58,46,3,0,600,,end,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Jump Ball won by Oregon State,58,46,4,600,600,Oregon State Beavers,jump ball,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner missed Three Point Jumper.,58,46,4,581,581,Oregon State Beavers,three point jumper,True,False,True,Timea Gardiner,False,,46.0,13.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao Defensive Rebound.,58,46,4,581,581,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins missed Jumper.,58,46,4,557,557,South Carolina Gamecocks,jumper,True,False,False,Ashlyn Watkins,False,,26.0,17.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State Defensive Rebound.,58,46,4,557,557,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter missed Layup.,58,46,4,542,542,Oregon State Beavers,layup,True,False,False,Donovyn Hunter,False,,23.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley Block.,58,46,4,542,542,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raven Johnson Defensive Rebound.,58,46,4,542,542,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,MiLaysia Fulwiley missed Jumper.,58,46,4,522,522,South Carolina Gamecocks,jumper,True,False,False,MiLaysia Fulwiley,False,,26.0,19.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen Defensive Rebound.,58,46,4,522,522,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers missed Jumper.,58,46,4,512,512,Oregon State Beavers,jumper,True,False,False,Raegan Beers,False,,18.0,18.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Offensive Rebound.,58,46,4,512,512,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen missed Three Point Jumper.,58,46,4,502,502,Oregon State Beavers,three point jumper,True,False,True,Talia von Oelhoffen,False,,33.0,25.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raven Johnson Defensive Rebound.,58,46,4,502,502,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Donovyn Hunter.,58,46,4,487,487,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso missed Jumper.,58,46,4,479,479,South Carolina Gamecocks,jumper,True,False,False,Kamilla Cardoso,False,,29.0,4.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Defensive Rebound.,58,46,4,479,479,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers made Layup. Assisted by Donovyn Hunter.,58,48,4,465,465,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Donovyn Hunter,23.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall missed Jumper.,58,48,4,449,449,South Carolina Gamecocks,jumper,True,False,False,Bree Hall,False,,27.0,11.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen Defensive Rebound.,58,48,4,449,449,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Bree Hall.,58,48,4,448,448,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford made Three Point Jumper. Assisted by Talia von Oelhoffen.,58,51,4,433,433,Oregon State Beavers,three point jumper,True,True,True,Lily Hansford,True,Talia von Oelhoffen,5.0,14.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall made Jumper.,60,51,4,402,402,South Carolina Gamecocks,jumper,True,True,False,Bree Hall,False,,20.0,7.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner made Three Point Jumper. Assisted by Talia von Oelhoffen.,60,54,4,380,380,Oregon State Beavers,three point jumper,True,True,True,Timea Gardiner,True,Talia von Oelhoffen,45.0,14.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Raegan Beers.,60,54,4,365,365,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso missed Free Throw.,60,54,4,365,365,South Carolina Gamecocks,free throw,True,False,False,Kamilla Cardoso,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,South Carolina Deadball Team Rebound.,60,54,4,365,365,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Turnover.,60,54,4,365,365,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Turnover.,60,54,4,340,340,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso missed Jumper.,60,54,4,328,328,South Carolina Gamecocks,jumper,True,False,False,Kamilla Cardoso,False,,29.0,4.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso Offensive Rebound.,60,54,4,328,328,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso missed Jumper.,60,54,4,318,318,South Carolina Gamecocks,jumper,True,False,False,Kamilla Cardoso,False,,28.0,5.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso Offensive Rebound.,60,54,4,318,318,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao made Jumper.,62,54,4,314,314,South Carolina Gamecocks,jumper,True,True,False,Te-Hina Paopao,False,,26.0,7.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter made Jumper. Assisted by Lily Hansford.,62,56,4,285,285,Oregon State Beavers,jumper,True,True,False,Donovyn Hunter,True,Lily Hansford,14.0,9.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Te-Hina Paopao missed Three Point Jumper.,62,56,4,262,262,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,28.0,25.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Offensive Rebound.,62,56,4,262,262,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raven Johnson missed Three Point Jumper.,62,56,4,256,256,South Carolina Gamecocks,three point jumper,True,False,True,Raven Johnson,False,,48.0,6.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Defensive Rebound.,62,56,4,256,256,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter made Layup.,62,58,4,233,233,Oregon State Beavers,layup,True,True,False,Donovyn Hunter,False,,22.0,1.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,South Carolina  Timeout,62,58,4,217,217,South Carolina Gamecocks,timeout,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers, Official TV Timeout,62,58,4,217,217,,tv timeout,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson made Jumper.,64,58,4,209,209,South Carolina Gamecocks,jumper,True,True,False,Tessa Johnson,False,,23.0,8.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Lily Hansford.,64,58,4,209,209,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson made Free Throw.,65,58,4,209,209,South Carolina Gamecocks,free throw,True,True,False,Tessa Johnson,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner missed Jumper.,65,58,4,197,197,Oregon State Beavers,jumper,True,False,False,Timea Gardiner,False,,19.0,13.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Defensive Rebound.,65,58,4,197,197,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall missed Jumper.,65,58,4,175,175,South Carolina Gamecocks,jumper,True,False,False,Bree Hall,False,,21.0,8.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raegan Beers Block.,65,58,4,175,175,Oregon State Beavers,block,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Donovyn Hunter Defensive Rebound.,65,58,4,175,175,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford missed Three Point Jumper.,65,58,4,156,156,Oregon State Beavers,three point jumper,True,False,True,Lily Hansford,False,,6.0,16.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Defensive Rebound.,65,58,4,156,156,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso missed Jumper.,65,58,4,131,131,South Carolina Gamecocks,jumper,True,False,False,Kamilla Cardoso,False,,29.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Defensive Rebound.,65,58,4,131,131,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner missed Jumper.,65,58,4,113,113,Oregon State Beavers,jumper,True,False,False,Timea Gardiner,False,,26.0,11.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Block.,65,58,4,113,113,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Defensive Rebound.,65,58,4,113,113,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Jump Ball won by South Carolina,65,58,4,111,111,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson missed Three Point Jumper.,65,58,4,96,96,South Carolina Gamecocks,three point jumper,True,False,True,Tessa Johnson,False,,8.0,19.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State Defensive Rebound.,65,58,4,96,96,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Talia von Oelhoffen missed Three Point Jumper.,65,58,4,76,76,Oregon State Beavers,three point jumper,True,False,True,Talia von Oelhoffen,False,,49.0,0.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso Defensive Rebound.,65,58,4,76,76,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raven Johnson missed Jumper.,65,58,4,51,51,South Carolina Gamecocks,jumper,True,False,False,Raven Johnson,False,,25.0,9.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso Offensive Rebound.,65,58,4,51,51,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kamilla Cardoso missed Jumper.,65,58,4,48,48,South Carolina Gamecocks,jumper,True,False,False,Kamilla Cardoso,False,,24.0,4.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State Defensive Rebound.,65,58,4,48,48,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State  Turnover.,65,58,4,48,48,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Donovyn Hunter.,65,58,4,45,45,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Lily Hansford.,65,58,4,44,44,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson made Free Throw.,66,58,4,44,44,South Carolina Gamecocks,free throw,True,True,False,Tessa Johnson,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson made Free Throw.,67,58,4,44,44,South Carolina Gamecocks,free throw,True,True,False,Tessa Johnson,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford missed Three Point Jumper.,67,58,4,37,37,Oregon State Beavers,three point jumper,True,False,True,Lily Hansford,False,,6.0,16.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Defensive Rebound.,67,58,4,37,37,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Lily Hansford.,67,58,4,32,32,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall made Free Throw.,68,58,4,32,32,South Carolina Gamecocks,free throw,True,True,False,Bree Hall,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Bree Hall missed Free Throw.,68,58,4,32,32,South Carolina Gamecocks,free throw,True,False,False,Bree Hall,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Timea Gardiner Defensive Rebound.,68,58,4,32,32,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Oregon State  Timeout,68,58,4,32,32,Oregon State Beavers,timeout,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Lily Hansford missed Three Point Jumper.,68,58,4,28,28,Oregon State Beavers,three point jumper,True,False,True,Lily Hansford,False,,8.0,17.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Ashlyn Watkins Defensive Rebound.,68,58,4,28,28,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,South Carolina  Timeout,68,58,4,26,26,South Carolina Gamecocks,timeout,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Foul on Talia von Oelhoffen.,68,58,4,26,26,Oregon State Beavers,foul,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson made Free Throw.,69,58,4,26,26,South Carolina Gamecocks,free throw,True,True,False,Tessa Johnson,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Tessa Johnson made Free Throw.,70,58,4,26,26,South Carolina Gamecocks,free throw,True,True,False,Tessa Johnson,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,Kennedie Shuler missed Layup.,70,58,4,20,20,Oregon State Beavers,layup,True,False,False,Kennedie Shuler,False,,23.0,2.0
+401637608,South Carolina Gamecocks,Oregon State Beavers,Raven Johnson Defensive Rebound.,70,58,4,20,20,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637608,South Carolina Gamecocks,Oregon State Beavers,End of Game,70,58,4,0,0,,end,False,False,False,,False,,,

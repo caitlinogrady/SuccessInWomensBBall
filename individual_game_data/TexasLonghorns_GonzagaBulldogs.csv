@@ -1,0 +1,321 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637600,Texas Longhorns,Gonzaga Bulldogs,Jump Ball won by Texas,0,0,1,600,2400,Texas Longhorns,jump ball,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker made Layup. Assisted by Aaliyah Moore.,2,0,1,588,2388,Texas Longhorns,layup,True,True,False,Madison Booker,True,Aaliyah Moore,28.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Yvonne Ejim.,2,0,1,570,2370,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim Turnover.,2,0,1,570,2370,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker missed Jumper.,2,0,1,561,2361,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,43.0,-1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gonzaga Defensive Rebound.,2,0,1,561,2361,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell made Three Point Jumper. Assisted by Eliza Hollingsworth.,2,3,1,540,2340,Gonzaga Bulldogs,three point jumper,True,True,True,Brynna Maxwell,True,Eliza Hollingsworth,3.0,9.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Turnover.,2,3,1,518,2318,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell Steal.,2,3,1,518,2318,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth Turnover.,2,3,1,501,2301,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Steal.,2,3,1,501,2301,Texas Longhorns,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,DeYona Gaston missed Layup.,2,3,1,493,2293,Texas Longhorns,layup,True,False,False,DeYona Gaston,False,,28.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gonzaga Defensive Rebound.,2,3,1,493,2293,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kaylynne Truong missed Layup.,2,3,1,466,2266,Gonzaga Bulldogs,layup,True,False,False,Kaylynne Truong,False,,27.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Defensive Rebound.,2,3,1,466,2266,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle made Jumper. Assisted by Aaliyah Moore.,4,3,1,450,2250,Texas Longhorns,jumper,True,True,False,Shay Holle,True,Aaliyah Moore,20.0,11.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim missed Layup.,4,3,1,424,2224,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,27.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim Offensive Rebound.,4,3,1,424,2224,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Shaylee Gonzales.,4,3,1,421,2221,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim made Free Throw.,4,4,1,421,2221,Gonzaga Bulldogs,free throw,True,True,False,Yvonne Ejim,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim made Free Throw.,4,5,1,421,2221,Gonzaga Bulldogs,free throw,True,True,False,Yvonne Ejim,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales missed Three Point Jumper.,4,5,1,407,2207,Texas Longhorns,three point jumper,True,False,True,Shaylee Gonzales,False,,4.0,11.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth Defensive Rebound.,4,5,1,407,2207,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong missed Three Point Jumper.,4,5,1,389,2189,Gonzaga Bulldogs,three point jumper,True,False,True,Kayleigh Truong,False,,45.0,13.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore Defensive Rebound.,4,5,1,389,2189,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore Turnover.,4,5,1,369,2169,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Madison Booker.,4,5,1,356,2156,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong made Layup. Assisted by Kaylynne Truong.,4,7,1,351,2151,Gonzaga Bulldogs,layup,True,True,False,Kayleigh Truong,True,Kaylynne Truong,21.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Kayleigh Truong.,4,7,1,330,2130,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore made Free Throw.,5,7,1,330,2130,Texas Longhorns,free throw,True,True,False,Aaliyah Moore,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore made Free Throw.,6,7,1,330,2130,Texas Longhorns,free throw,True,True,False,Aaliyah Moore,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Esther Little Turnover.,6,7,1,319,2119,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore Steal.,6,7,1,319,2119,Texas Longhorns,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore missed Layup.,6,7,1,314,2114,Texas Longhorns,layup,True,False,False,Aaliyah Moore,False,,28.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth Defensive Rebound.,6,7,1,314,2114,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Maud Huijbens missed Layup.,6,7,1,305,2105,Gonzaga Bulldogs,layup,True,False,False,Maud Huijbens,False,,27.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye Block.,6,7,1,305,2105,Texas Longhorns,block,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye Defensive Rebound.,6,7,1,305,2105,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales made Jumper.,8,7,1,292,2092,Texas Longhorns,jumper,True,True,False,Shaylee Gonzales,False,,30.0,7.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Maud Huijbens.,8,7,1,275,2075,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Maud Huijbens Turnover.,8,7,1,275,2075,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs, Official TV Timeout,8,7,1,275,2075,,tv timeout,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales made Three Point Jumper. Assisted by Shay Holle.,11,7,1,266,2066,Texas Longhorns,three point jumper,True,True,True,Shaylee Gonzales,True,Shay Holle,1.0,-1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kaylynne Truong missed Three Point Jumper.,11,7,1,248,2048,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,5.0,13.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Defensive Rebound.,11,7,1,248,2048,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle made Three Point Jumper. Assisted by Madison Booker.,14,7,1,235,2035,Texas Longhorns,three point jumper,True,True,True,Shay Holle,True,Madison Booker,2.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim missed Jumper.,14,7,1,204,2004,Gonzaga Bulldogs,jumper,True,False,False,Yvonne Ejim,False,,35.0,19.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Texas Defensive Rebound.,14,7,1,204,2004,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker missed Jumper.,14,7,1,182,1982,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,15.0,5.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Offensive Rebound.,14,7,1,182,1982,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker missed Jumper.,14,7,1,172,1972,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,39.0,13.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell Defensive Rebound.,14,7,1,172,1972,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Madison Booker.,14,7,1,158,1958,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim made Free Throw.,14,8,1,158,1958,Gonzaga Bulldogs,free throw,True,True,False,Yvonne Ejim,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim made Free Throw.,14,9,1,158,1958,Gonzaga Bulldogs,free throw,True,True,False,Yvonne Ejim,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Jump Ball won by Gonzaga,14,9,1,151,1951,Gonzaga Bulldogs,jump ball,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Ndjakalenga Mwenentanda Turnover.,14,9,1,151,1951,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth Steal.,14,9,1,151,1951,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong missed Jumper.,14,9,1,139,1939,Gonzaga Bulldogs,jumper,True,False,False,Kayleigh Truong,False,,47.0,-1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye Defensive Rebound.,14,9,1,139,1939,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore missed Three Point Jumper.,14,9,1,119,1919,Texas Longhorns,three point jumper,True,False,True,Aaliyah Moore,False,,49.0,-1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Ndjakalenga Mwenentanda Offensive Rebound.,14,9,1,119,1919,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Ndjakalenga Mwenentanda missed Layup.,14,9,1,110,1910,Texas Longhorns,layup,True,False,False,Ndjakalenga Mwenentanda,False,,22.0,2.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell Block.,14,9,1,110,1910,Gonzaga Bulldogs,block,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim Defensive Rebound.,14,9,1,110,1910,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Kayleigh Truong.,14,9,1,105,1905,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong Turnover.,14,9,1,105,1905,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Turnover.,14,9,1,94,1894,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell missed Three Point Jumper.,14,9,1,83,1883,Gonzaga Bulldogs,three point jumper,True,False,True,Brynna Maxwell,False,,43.0,16.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Ndjakalenga Mwenentanda Defensive Rebound.,14,9,1,83,1883,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore missed Layup.,14,9,1,64,1864,Texas Longhorns,layup,True,False,False,Aaliyah Moore,False,,28.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gonzaga Defensive Rebound.,14,9,1,64,1864,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on DeYona Gaston.,14,9,1,48,1848,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell missed Jumper.,14,9,1,45,1845,Gonzaga Bulldogs,jumper,True,False,False,Brynna Maxwell,False,,27.0,11.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Ndjakalenga Mwenentanda Defensive Rebound.,14,9,1,45,1845,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore made Layup.,16,9,1,31,1831,Texas Longhorns,layup,True,True,False,Aaliyah Moore,False,,23.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim Turnover.,16,9,1,8,1808,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,DeYona Gaston made Jumper. Assisted by Shaylee Gonzales.,18,9,1,2,1802,Texas Longhorns,jumper,True,True,False,DeYona Gaston,True,Shaylee Gonzales,41.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,End of 1st Quarter,18,9,1,0,1800,,end,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Jump Ball won by Texas,18,9,2,600,1800,Texas Longhorns,jump ball,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Ndjakalenga Mwenentanda Turnover.,18,9,2,588,1788,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell Steal.,18,9,2,588,1788,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Ndjakalenga Mwenentanda.,18,9,2,583,1783,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim made Free Throw.,18,10,2,583,1783,Gonzaga Bulldogs,free throw,True,True,False,Yvonne Ejim,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim made Free Throw.,18,11,2,583,1783,Gonzaga Bulldogs,free throw,True,True,False,Yvonne Ejim,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Eliza Hollingsworth.,18,11,2,565,1765,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,DeYona Gaston missed Free Throw.,18,11,2,565,1765,Texas Longhorns,free throw,True,False,False,DeYona Gaston,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Texas Deadball Team Rebound.,18,11,2,565,1765,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,DeYona Gaston missed Free Throw.,18,11,2,565,1765,Texas Longhorns,free throw,True,False,False,DeYona Gaston,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim Defensive Rebound.,18,11,2,565,1765,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell missed Jumper.,18,11,2,538,1738,Gonzaga Bulldogs,jumper,True,False,False,Brynna Maxwell,False,,25.0,17.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales Defensive Rebound.,18,11,2,538,1738,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales made Three Point Jumper. Assisted by Shay Holle.,21,11,2,521,1721,Texas Longhorns,three point jumper,True,True,True,Shaylee Gonzales,True,Shay Holle,48.0,4.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on DeYona Gaston.,21,11,2,510,1710,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong Turnover.,21,11,2,498,1698,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye Steal.,21,11,2,498,1698,Texas Longhorns,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye made Layup.,23,11,2,492,1692,Texas Longhorns,layup,True,True,False,Khadija Faye,False,,23.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Yvonne Ejim.,23,11,2,476,1676,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim Turnover.,23,11,2,476,1676,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Eliza Hollingsworth.,23,11,2,464,1664,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales missed Jumper.,23,11,2,462,1662,Texas Longhorns,jumper,True,False,False,Shaylee Gonzales,False,,11.0,3.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye Offensive Rebound.,23,11,2,462,1662,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Jump Ball won by Gonzaga,23,11,2,460,1660,Gonzaga Bulldogs,jump ball,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye Turnover.,23,11,2,460,1660,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kaylynne Truong Steal.,23,11,2,460,1660,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kaylynne Truong missed Three Point Jumper.,23,11,2,447,1647,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,20.0,25.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gonzaga Deadball Team Rebound.,23,11,2,447,1647,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Khadija Faye.,23,11,2,447,1647,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kaylynne Truong missed Three Point Jumper.,23,11,2,428,1628,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,5.0,17.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales Defensive Rebound.,23,11,2,428,1628,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle missed Jumper.,23,11,2,417,1617,Texas Longhorns,jumper,True,False,False,Shay Holle,False,,29.0,10.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gonzaga Defensive Rebound.,23,11,2,417,1617,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Khadija Faye.,23,11,2,415,1615,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kaylynne Truong made Three Point Jumper. Assisted by Kayleigh Truong.,23,14,2,399,1599,Gonzaga Bulldogs,three point jumper,True,True,True,Kaylynne Truong,True,Kayleigh Truong,3.0,9.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Amina Muhammad made Jumper. Assisted by Shaylee Gonzales.,25,14,2,371,1571,Texas Longhorns,jumper,True,True,False,Amina Muhammad,True,Shaylee Gonzales,23.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth missed Jumper.,25,14,2,338,1538,Gonzaga Bulldogs,jumper,True,False,False,Eliza Hollingsworth,False,,21.0,3.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore Defensive Rebound.,25,14,2,338,1538,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Brynna Maxwell.,25,14,2,333,1533,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Turnover.,25,14,2,319,1519,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell Steal.,25,14,2,319,1519,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Amina Muhammad.,25,14,2,306,1506,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Maud Huijbens made Free Throw.,25,15,2,306,1506,Gonzaga Bulldogs,free throw,True,True,False,Maud Huijbens,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Maud Huijbens missed Free Throw.,25,15,2,306,1506,Gonzaga Bulldogs,free throw,True,False,False,Maud Huijbens,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gisella Maul Defensive Rebound.,25,15,2,306,1506,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle made Layup.,27,15,2,287,1487,Texas Longhorns,layup,True,True,False,Shay Holle,False,,24.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kaylynne Truong missed Jumper.,27,15,2,275,1475,Gonzaga Bulldogs,jumper,True,False,False,Kaylynne Truong,False,,30.0,7.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Maud Huijbens Offensive Rebound.,27,15,2,275,1475,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Shay Holle.,27,15,2,270,1470,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs, Official TV Timeout,27,15,2,270,1470,,tv timeout,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell missed Free Throw.,27,15,2,270,1470,Gonzaga Bulldogs,free throw,True,False,False,Brynna Maxwell,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gonzaga Deadball Team Rebound.,27,15,2,270,1470,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell made Free Throw.,27,16,2,270,1470,Gonzaga Bulldogs,free throw,True,True,False,Brynna Maxwell,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Shay Holle.,27,16,2,243,1443,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Turnover.,27,16,2,243,1443,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim missed Jumper.,27,16,2,226,1426,Gonzaga Bulldogs,jumper,True,False,False,Yvonne Ejim,False,,26.0,10.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Texas Defensive Rebound.,27,16,2,226,1426,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gisella Maul missed Three Point Jumper.,27,16,2,205,1405,Texas Longhorns,three point jumper,True,False,True,Gisella Maul,False,,6.0,16.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell Defensive Rebound.,27,16,2,205,1405,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell missed Jumper.,27,16,2,197,1397,Gonzaga Bulldogs,jumper,True,False,False,Brynna Maxwell,False,,18.0,5.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore Defensive Rebound.,27,16,2,197,1397,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Yvonne Ejim.,27,16,2,193,1393,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore made Free Throw.,28,16,2,193,1393,Texas Longhorns,free throw,True,True,False,Aaliyah Moore,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore made Free Throw.,29,16,2,193,1393,Texas Longhorns,free throw,True,True,False,Aaliyah Moore,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell missed Three Point Jumper.,29,16,2,175,1375,Gonzaga Bulldogs,three point jumper,True,False,True,Brynna Maxwell,False,,27.0,25.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Texas Defensive Rebound.,29,16,2,175,1375,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gonzaga  Timeout,29,16,2,172,1372,Gonzaga Bulldogs,timeout,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs, Official TV Timeout,29,16,2,172,1372,,tv timeout,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Aaliyah Moore.,29,16,2,155,1355,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore Turnover.,29,16,2,155,1355,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Esther Little missed Three Point Jumper.,29,16,2,130,1330,Gonzaga Bulldogs,three point jumper,True,False,True,Esther Little,False,,1.0,2.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales Defensive Rebound.,29,16,2,130,1330,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gisella Maul missed Jumper.,29,16,2,102,1302,Texas Longhorns,jumper,True,False,False,Gisella Maul,False,,26.0,9.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore Offensive Rebound.,29,16,2,102,1302,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore made Two Point Tip Shot.,31,16,2,102,1302,Texas Longhorns,two point tip shot,True,True,False,Aaliyah Moore,False,,25.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Maud Huijbens.,31,16,2,102,1302,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore made Free Throw.,32,16,2,102,1302,Texas Longhorns,free throw,True,True,False,Aaliyah Moore,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Amina Muhammad.,32,16,2,74,1274,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell made Free Throw.,32,17,2,74,1274,Gonzaga Bulldogs,free throw,True,True,False,Brynna Maxwell,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell made Free Throw.,32,18,2,74,1274,Gonzaga Bulldogs,free throw,True,True,False,Brynna Maxwell,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Amina Muhammad made Layup. Assisted by Aaliyah Moore.,34,18,2,58,1258,Texas Longhorns,layup,True,True,False,Amina Muhammad,True,Aaliyah Moore,23.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Kaylynne Truong.,34,18,2,32,1232,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kaylynne Truong Turnover.,34,18,2,32,1232,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle made Three Point Jumper. Assisted by Amina Muhammad.,37,18,2,8,1208,Texas Longhorns,three point jumper,True,True,True,Shay Holle,True,Amina Muhammad,48.0,-1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,End of 2nd Quarter,37,18,2,0,1200,,end,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Jump Ball won by Texas,37,18,3,600,1200,Texas Longhorns,jump ball,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales missed Three Point Jumper.,37,18,3,588,1188,Texas Longhorns,three point jumper,True,False,True,Shaylee Gonzales,False,,48.0,-2.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim Defensive Rebound.,37,18,3,588,1188,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell missed Three Point Jumper.,37,18,3,578,1178,Gonzaga Bulldogs,three point jumper,True,False,True,Brynna Maxwell,False,,8.0,17.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Defensive Rebound.,37,18,3,578,1178,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,DeYona Gaston missed Jumper.,37,18,3,566,1166,Texas Longhorns,jumper,True,False,False,DeYona Gaston,False,,25.0,5.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gonzaga Defensive Rebound.,37,18,3,566,1166,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kaylynne Truong missed Layup.,37,18,3,552,1152,Gonzaga Bulldogs,layup,True,False,False,Kaylynne Truong,False,,26.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth Offensive Rebound.,37,18,3,552,1152,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell missed Layup.,37,18,3,539,1139,Gonzaga Bulldogs,layup,True,False,False,Brynna Maxwell,False,,29.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Block.,37,18,3,539,1139,Texas Longhorns,block,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Defensive Rebound.,37,18,3,539,1139,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales missed Jumper.,37,18,3,512,1112,Texas Longhorns,jumper,True,False,False,Shaylee Gonzales,False,,25.0,18.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong Defensive Rebound.,37,18,3,512,1112,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong Turnover.,37,18,3,491,1091,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,DeYona Gaston made Layup. Assisted by Aaliyah Moore.,39,18,3,477,1077,Texas Longhorns,layup,True,True,False,DeYona Gaston,True,Aaliyah Moore,22.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong missed Three Point Jumper.,39,18,3,455,1055,Gonzaga Bulldogs,three point jumper,True,False,True,Kayleigh Truong,False,,39.0,19.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth Offensive Rebound.,39,18,3,455,1055,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth made Layup.,39,20,3,451,1051,Gonzaga Bulldogs,layup,True,True,False,Eliza Hollingsworth,False,,28.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Turnover.,39,20,3,434,1034,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim Turnover.,39,20,3,434,1034,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales Steal.,39,20,3,434,1034,Texas Longhorns,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker made Layup. Assisted by Shaylee Gonzales.,41,20,3,427,1027,Texas Longhorns,layup,True,True,False,Madison Booker,True,Shaylee Gonzales,22.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Aaliyah Moore.,41,20,3,418,1018,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong made Free Throw.,41,21,3,418,1018,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong made Free Throw.,41,22,3,418,1018,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Turnover.,41,22,3,403,1003,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kaylynne Truong Steal.,41,22,3,403,1003,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell made Layup. Assisted by Kaylynne Truong.,41,24,3,397,997,Gonzaga Bulldogs,layup,True,True,False,Brynna Maxwell,True,Kaylynne Truong,28.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Turnover.,41,24,3,386,986,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell Steal.,41,24,3,386,986,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong missed Three Point Jumper.,41,24,3,371,971,Gonzaga Bulldogs,three point jumper,True,False,True,Kayleigh Truong,False,,43.0,17.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Defensive Rebound.,41,24,3,371,971,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,DeYona Gaston missed Jumper.,41,24,3,352,952,Texas Longhorns,jumper,True,False,False,DeYona Gaston,False,,26.0,3.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gonzaga Defensive Rebound.,41,24,3,352,952,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell made Three Point Jumper. Assisted by Yvonne Ejim.,41,27,3,332,932,Gonzaga Bulldogs,three point jumper,True,True,True,Brynna Maxwell,True,Yvonne Ejim,38.0,21.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Turnover.,41,27,3,306,906,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kaylynne Truong made Layup.,41,29,3,302,902,Gonzaga Bulldogs,layup,True,True,False,Kaylynne Truong,False,,28.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Amina Muhammad missed Layup.,41,29,3,286,886,Texas Longhorns,layup,True,False,False,Amina Muhammad,False,,22.0,2.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Offensive Rebound.,41,29,3,286,886,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales made Three Point Jumper. Assisted by Madison Booker.,44,29,3,279,879,Texas Longhorns,three point jumper,True,True,True,Shaylee Gonzales,True,Madison Booker,10.0,19.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell made Jumper. Assisted by Yvonne Ejim.,44,31,3,260,860,Gonzaga Bulldogs,jumper,True,True,False,Brynna Maxwell,True,Yvonne Ejim,30.0,3.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales made Jumper.,46,31,3,237,837,Texas Longhorns,jumper,True,True,False,Shaylee Gonzales,False,,25.0,12.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Amina Muhammad.,46,31,3,237,837,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs, Official TV Timeout,46,31,3,237,837,,tv timeout,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth made Free Throw.,46,32,3,237,837,Gonzaga Bulldogs,free throw,True,True,False,Eliza Hollingsworth,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth made Free Throw.,46,33,3,237,837,Gonzaga Bulldogs,free throw,True,True,False,Eliza Hollingsworth,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,DeYona Gaston made Jumper. Assisted by Shay Holle.,48,33,3,226,826,Texas Longhorns,jumper,True,True,False,DeYona Gaston,True,Shay Holle,28.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth missed Layup.,48,33,3,180,780,Gonzaga Bulldogs,layup,True,False,False,Eliza Hollingsworth,False,,24.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Block.,48,33,3,180,780,Texas Longhorns,block,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Defensive Rebound.,48,33,3,180,780,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore made Layup. Assisted by Shaylee Gonzales.,50,33,3,157,757,Texas Longhorns,layup,True,True,False,Aaliyah Moore,True,Shaylee Gonzales,27.0,2.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell Turnover.,50,33,3,134,734,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales Steal.,50,33,3,134,734,Texas Longhorns,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales made Jumper.,52,33,3,122,722,Texas Longhorns,jumper,True,True,False,Shaylee Gonzales,False,,29.0,11.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Esther Little Turnover.,52,33,3,108,708,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Amina Muhammad missed Layup.,52,33,3,95,695,Texas Longhorns,layup,True,False,False,Amina Muhammad,False,,22.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim Defensive Rebound.,52,33,3,95,695,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Madison Booker.,52,33,3,84,684,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim missed Jumper.,52,33,3,82,682,Gonzaga Bulldogs,jumper,True,False,False,Yvonne Ejim,False,,30.0,10.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,DeYona Gaston Block.,52,33,3,82,682,Texas Longhorns,block,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Defensive Rebound.,52,33,3,82,682,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Maud Huijbens.,52,33,3,61,661,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Amina Muhammad made Free Throw.,53,33,3,61,661,Texas Longhorns,free throw,True,True,False,Amina Muhammad,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Amina Muhammad made Free Throw.,54,33,3,61,661,Texas Longhorns,free throw,True,True,False,Amina Muhammad,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs, Official TV Timeout,54,33,3,61,661,,tv timeout,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gonzaga  Timeout,54,33,3,61,661,Gonzaga Bulldogs,timeout,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell missed Three Point Jumper.,54,33,3,52,652,Gonzaga Bulldogs,three point jumper,True,False,True,Brynna Maxwell,False,,14.0,21.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Amina Muhammad Defensive Rebound.,54,33,3,52,652,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,DeYona Gaston missed Jumper.,54,33,3,38,638,Texas Longhorns,jumper,True,False,False,DeYona Gaston,False,,23.0,14.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong Defensive Rebound.,54,33,3,38,638,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kaylynne Truong missed Three Point Jumper.,54,33,3,30,630,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,13.0,21.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Maud Huijbens Offensive Rebound.,54,33,3,30,630,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim made Layup.,54,35,3,9,609,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,False,,22.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,End of 3rd Quarter,54,35,3,0,600,,end,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Jump Ball won by Gonzaga,54,35,4,600,600,Gonzaga Bulldogs,jump ball,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim made Layup.,54,37,4,591,591,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,False,,23.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Turnover.,54,37,4,569,569,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell Steal.,54,37,4,569,569,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Shaylee Gonzales.,54,37,4,569,569,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim made Jumper. Assisted by Kaylynne Truong.,54,39,4,557,557,Gonzaga Bulldogs,jumper,True,True,False,Yvonne Ejim,True,Kaylynne Truong,27.0,10.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Turnover.,54,39,4,539,539,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim missed Layup.,54,39,4,529,529,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,29.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore Defensive Rebound.,54,39,4,529,529,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Eliza Hollingsworth.,54,39,4,512,512,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore made Free Throw.,55,39,4,512,512,Texas Longhorns,free throw,True,True,False,Aaliyah Moore,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore missed Free Throw.,55,39,4,512,512,Texas Longhorns,free throw,True,False,False,Aaliyah Moore,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore Offensive Rebound.,55,39,4,512,512,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shaylee Gonzales missed Layup.,55,39,4,498,498,Texas Longhorns,layup,True,False,False,Shaylee Gonzales,False,,22.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gonzaga Defensive Rebound.,55,39,4,498,498,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Khadija Faye.,55,39,4,495,495,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim missed Jumper.,55,39,4,471,471,Gonzaga Bulldogs,jumper,True,False,False,Yvonne Ejim,False,,28.0,13.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore Defensive Rebound.,55,39,4,471,471,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle missed Three Point Jumper.,55,39,4,451,451,Texas Longhorns,three point jumper,True,False,True,Shay Holle,False,,48.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore Offensive Rebound.,55,39,4,451,451,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore made Layup.,57,39,4,446,446,Texas Longhorns,layup,True,True,False,Aaliyah Moore,False,,22.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong Turnover.,57,39,4,440,440,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Steal.,57,39,4,440,440,Texas Longhorns,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Turnover.,57,39,4,424,424,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong missed Three Point Jumper.,57,39,4,408,408,Gonzaga Bulldogs,three point jumper,True,False,True,Kayleigh Truong,False,,11.0,19.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore Defensive Rebound.,57,39,4,408,408,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Yvonne Ejim.,57,39,4,405,405,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Turnover.,57,39,4,392,392,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong Steal.,57,39,4,392,392,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong Turnover.,57,39,4,382,382,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye Steal.,57,39,4,382,382,Texas Longhorns,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Brynna Maxwell.,57,39,4,361,361,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye missed Layup.,57,39,4,358,358,Texas Longhorns,layup,True,False,False,Khadija Faye,False,,22.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth Defensive Rebound.,57,39,4,358,358,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth made Three Point Jumper. Assisted by Kaylynne Truong.,57,42,4,347,347,Gonzaga Bulldogs,three point jumper,True,True,True,Eliza Hollingsworth,True,Kaylynne Truong,28.0,24.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Kayleigh Truong.,57,42,4,331,331,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye made Layup. Assisted by Aaliyah Moore.,59,42,4,319,319,Texas Longhorns,layup,True,True,False,Khadija Faye,True,Aaliyah Moore,22.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong missed Three Point Jumper.,59,42,4,310,310,Gonzaga Bulldogs,three point jumper,True,False,True,Kayleigh Truong,False,,42.0,19.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gonzaga Offensive Rebound.,59,42,4,310,310,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Madison Booker.,59,42,4,304,304,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Maud Huijbens Turnover.,59,42,4,294,294,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs, Official TV Timeout,59,42,4,294,294,,tv timeout,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle made Jumper. Assisted by Aaliyah Moore.,61,42,4,282,282,Texas Longhorns,jumper,True,True,False,Shay Holle,True,Aaliyah Moore,46.0,2.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim made Layup. Assisted by Maud Huijbens.,61,44,4,261,261,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,True,Maud Huijbens,28.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore missed Layup.,61,44,4,232,232,Texas Longhorns,layup,True,False,False,Aaliyah Moore,False,,27.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Yvonne Ejim Block.,61,44,4,232,232,Gonzaga Bulldogs,block,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore Offensive Rebound.,61,44,4,232,232,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Aaliyah Moore made Layup.,63,44,4,223,223,Texas Longhorns,layup,True,True,False,Aaliyah Moore,False,,22.0,0.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong missed Three Point Jumper.,63,44,4,215,215,Gonzaga Bulldogs,three point jumper,True,False,True,Kayleigh Truong,False,,43.0,17.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Defensive Rebound.,63,44,4,215,215,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Maud Huijbens.,63,44,4,197,197,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye made Free Throw.,64,44,4,197,197,Texas Longhorns,free throw,True,True,False,Khadija Faye,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye made Free Throw.,65,44,4,197,197,Texas Longhorns,free throw,True,True,False,Khadija Faye,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth missed Jumper.,65,44,4,182,182,Gonzaga Bulldogs,jumper,True,False,False,Eliza Hollingsworth,False,,30.0,5.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Defensive Rebound.,65,44,4,182,182,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker missed Layup.,65,44,4,165,165,Texas Longhorns,layup,True,False,False,Madison Booker,False,,21.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Offensive Rebound.,65,44,4,165,165,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker missed Layup.,65,44,4,165,165,Texas Longhorns,layup,True,False,False,Madison Booker,False,,24.0,2.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Shay Holle Offensive Rebound.,65,44,4,165,165,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Yvonne Ejim.,65,44,4,146,146,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye made Free Throw.,66,44,4,146,146,Texas Longhorns,free throw,True,True,False,Khadija Faye,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Khadija Faye made Free Throw.,67,44,4,146,146,Texas Longhorns,free throw,True,True,False,Khadija Faye,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Eliza Hollingsworth missed Three Point Jumper.,67,44,4,135,135,Gonzaga Bulldogs,three point jumper,True,False,True,Eliza Hollingsworth,False,,38.0,20.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker Defensive Rebound.,67,44,4,135,135,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Madison Booker made Layup.,69,44,4,120,120,Texas Longhorns,layup,True,True,False,Madison Booker,False,,23.0,1.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Khadija Faye.,69,44,4,105,105,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong made Free Throw.,69,45,4,105,105,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong made Free Throw.,69,46,4,105,105,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Ndjakalenga Mwenentanda Turnover.,69,46,4,81,81,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell Steal.,69,46,4,81,81,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kaylynne Truong missed Three Point Jumper.,69,46,4,67,67,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,8.0,21.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Kayleigh Truong Offensive Rebound.,69,46,4,67,67,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Brynna Maxwell missed Three Point Jumper.,69,46,4,61,61,Gonzaga Bulldogs,three point jumper,True,False,True,Brynna Maxwell,False,,36.0,21.0
+401637600,Texas Longhorns,Gonzaga Bulldogs,Amina Muhammad Defensive Rebound.,69,46,4,61,61,Texas Longhorns,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Ndjakalenga Mwenentanda Turnover.,69,46,4,26,26,Texas Longhorns,turnover,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Maud Huijbens Steal.,69,46,4,26,26,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Foul on Shaylee Gonzales.,69,46,4,23,23,Texas Longhorns,foul,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Claire O'Connor missed Free Throw.,69,46,4,23,23,Gonzaga Bulldogs,free throw,True,False,False,Claire O'Connor,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Gonzaga Deadball Team Rebound.,69,46,4,23,23,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,Claire O'Connor made Free Throw.,69,47,4,23,23,Gonzaga Bulldogs,free throw,True,True,False,Claire O'Connor,False,,,
+401637600,Texas Longhorns,Gonzaga Bulldogs,End of Game,69,47,4,0,0,,end,False,False,False,,False,,,

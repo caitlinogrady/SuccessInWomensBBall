@@ -1,0 +1,304 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Jump Ball won by UT Martin,0,0,1,600,2400,UT Martin Skyhawks,jump ball,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays missed Three Point Jumper.,0,0,1,583,2383,UT Martin Skyhawks,three point jumper,True,False,True,Love Mays,False,,35.0,22.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Callie Wright Defensive Rebound.,0,0,1,583,2383,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack missed Three Point Jumper.,0,0,1,569,2369,Holy Cross Crusaders,three point jumper,True,False,True,Cara McCormack,False,,12.0,20.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen Offensive Rebound.,0,0,1,569,2369,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Jump Ball won by Holy Cross,0,0,1,569,2369,Holy Cross Crusaders,jump ball,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy made Three Point Jumper.,3,0,1,565,2365,Holy Cross Crusaders,three point jumper,True,True,True,Bronagh Power-Cassidy,False,,5.0,14.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Three Point Jumper.,3,0,1,552,2352,UT Martin Skyhawks,three point jumper,True,False,True,Anaya Brown,False,,37.0,21.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack Defensive Rebound.,3,0,1,552,2352,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen missed Layup.,3,0,1,533,2333,Holy Cross Crusaders,layup,True,False,False,Janelle Allen,False,,21.0,1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn Defensive Rebound.,3,0,1,533,2333,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn missed Jumper.,3,0,1,517,2317,UT Martin Skyhawks,jumper,True,False,False,Kenley McCarn,False,,20.0,9.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Holy Cross Defensive Rebound.,3,0,1,517,2317,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy missed Three Point Jumper.,3,0,1,483,2283,Holy Cross Crusaders,three point jumper,True,False,True,Bronagh Power-Cassidy,False,,48.0,-1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays Defensive Rebound.,3,0,1,483,2283,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn made Layup.,3,2,1,469,2269,UT Martin Skyhawks,layup,True,True,False,Kenley McCarn,False,,23.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen made Jumper. Assisted by Callie Wright.,5,2,1,460,2260,Holy Cross Crusaders,jumper,True,True,False,Janelle Allen,True,Callie Wright,29.0,15.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays missed Three Point Jumper.,5,2,1,442,2242,UT Martin Skyhawks,three point jumper,True,False,True,Love Mays,False,,14.0,23.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Callie Wright Defensive Rebound.,5,2,1,442,2242,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack made Three Point Jumper. Assisted by Janelle Allen.,8,2,1,426,2226,Holy Cross Crusaders,three point jumper,True,True,True,Cara McCormack,True,Janelle Allen,14.0,21.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown made Jumper.,8,4,1,410,2210,UT Martin Skyhawks,jumper,True,True,False,Anaya Brown,False,,18.0,9.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy missed Jumper.,8,4,1,395,2195,Holy Cross Crusaders,jumper,True,False,False,Bronagh Power-Cassidy,False,,21.0,19.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays Defensive Rebound.,8,4,1,395,2195,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown made Jumper.,8,6,1,373,2173,UT Martin Skyhawks,jumper,True,True,False,Anaya Brown,False,,25.0,8.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack made Three Point Jumper. Assisted by Janelle Allen.,11,6,1,358,2158,Holy Cross Crusaders,three point jumper,True,True,True,Cara McCormack,True,Janelle Allen,20.0,24.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Layup.,11,6,1,338,2138,UT Martin Skyhawks,layup,True,False,False,Anaya Brown,False,,28.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen Defensive Rebound.,11,6,1,338,2138,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy made Three Point Jumper.,14,6,1,329,2129,Holy Cross Crusaders,three point jumper,True,True,True,Bronagh Power-Cassidy,False,,8.0,17.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Three Point Jumper.,14,6,1,310,2110,UT Martin Skyhawks,three point jumper,True,False,True,Anaya Brown,False,,19.0,24.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel Offensive Rebound.,14,6,1,310,2110,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Jumper.,14,6,1,303,2103,UT Martin Skyhawks,jumper,True,False,False,Anaya Brown,False,,45.0,7.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen Defensive Rebound.,14,6,1,303,2103,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen missed Jumper.,14,6,1,288,2088,Holy Cross Crusaders,jumper,True,False,False,Janelle Allen,False,,30.0,19.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lindsay Berger Offensive Rebound.,14,6,1,288,2088,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Anaya Brown.,14,6,1,288,2088,UT Martin Skyhawks,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks, Official TV Timeout,14,6,1,288,2088,,tv timeout,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lindsay Berger made Layup. Assisted by Kaitlyn Flanagan.,16,6,1,278,2078,Holy Cross Crusaders,layup,True,True,False,Lindsay Berger,True,Kaitlyn Flanagan,22.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn Turnover.,16,6,1,261,2061,UT Martin Skyhawks,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy missed Three Point Jumper.,16,6,1,243,2043,Holy Cross Crusaders,three point jumper,True,False,True,Bronagh Power-Cassidy,False,,39.0,20.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman Offensive Rebound.,16,6,1,243,2043,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lindsay Berger Turnover.,16,6,1,232,2032,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn Steal.,16,6,1,232,2032,UT Martin Skyhawks,steal,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn missed Three Point Jumper.,16,6,1,223,2023,UT Martin Skyhawks,three point jumper,True,False,True,Kenley McCarn,False,,35.0,22.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman Defensive Rebound.,16,6,1,223,2023,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy missed Three Point Jumper.,16,6,1,218,2018,Holy Cross Crusaders,three point jumper,True,False,True,Bronagh Power-Cassidy,False,,26.0,23.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn Defensive Rebound.,16,6,1,218,2018,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays made Three Point Jumper. Assisted by Anaya Brown.,16,9,1,199,1999,UT Martin Skyhawks,three point jumper,True,True,True,Love Mays,True,Anaya Brown,7.0,19.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kaitlyn Flanagan made Three Point Jumper. Assisted by Bronagh Power-Cassidy.,19,9,1,177,1977,Holy Cross Crusaders,three point jumper,True,True,True,Kaitlyn Flanagan,True,Bronagh Power-Cassidy,39.0,20.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Josie Storey missed Three Point Jumper.,19,9,1,154,1954,UT Martin Skyhawks,three point jumper,True,False,True,Josie Storey,False,,37.0,21.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lindsay Berger Defensive Rebound.,19,9,1,154,1954,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kaitlyn Flanagan missed Three Point Jumper.,19,9,1,133,1933,Holy Cross Crusaders,three point jumper,True,False,True,Kaitlyn Flanagan,False,,48.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays Defensive Rebound.,19,9,1,133,1933,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Josie Storey missed Three Point Jumper.,19,9,1,116,1916,UT Martin Skyhawks,three point jumper,True,False,True,Josie Storey,False,,2.0,5.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy Block.,19,9,1,116,1916,Holy Cross Crusaders,block,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman Defensive Rebound.,19,9,1,116,1916,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman Turnover.,19,9,1,105,1905,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn Steal.,19,9,1,105,1905,UT Martin Skyhawks,steal,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays missed Three Point Jumper.,19,9,1,97,1897,UT Martin Skyhawks,three point jumper,True,False,True,Love Mays,False,,1.0,2.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman Defensive Rebound.,19,9,1,97,1897,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman missed Three Point Jumper.,19,9,1,79,1879,Holy Cross Crusaders,three point jumper,True,False,True,Simone Foreman,False,,2.0,2.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Josie Storey Defensive Rebound.,19,9,1,79,1879,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn made Jumper. Assisted by Josie Storey.,19,11,1,57,1857,UT Martin Skyhawks,jumper,True,True,False,Kenley McCarn,True,Josie Storey,23.0,15.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Josie Storey.,19,11,1,41,1841,UT Martin Skyhawks,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen missed Layup.,19,11,1,36,1836,Holy Cross Crusaders,layup,True,False,False,Janelle Allen,False,,20.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lindsay Berger Offensive Rebound.,19,11,1,36,1836,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Lexi Rubel.,19,11,1,34,1834,UT Martin Skyhawks,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lindsay Berger made Free Throw.,20,11,1,34,1834,Holy Cross Crusaders,free throw,True,True,False,Lindsay Berger,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lindsay Berger missed Free Throw.,20,11,1,34,1834,Holy Cross Crusaders,free throw,True,False,False,Lindsay Berger,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown Defensive Rebound.,20,11,1,34,1834,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel made Jumper.,20,13,1,21,1821,UT Martin Skyhawks,jumper,True,True,False,Lexi Rubel,False,,24.0,8.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen made Jumper. Assisted by Cara McCormack.,22,13,1,5,1805,Holy Cross Crusaders,jumper,True,True,False,Janelle Allen,True,Cara McCormack,17.0,18.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,End of 1st Quarter,22,13,1,0,1800,,end,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Jump Ball won by UT Martin,22,13,2,600,1800,UT Martin Skyhawks,jump ball,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn missed Jumper.,22,13,2,588,1788,UT Martin Skyhawks,jumper,True,False,False,Kenley McCarn,False,,37.0,6.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen Defensive Rebound.,22,13,2,588,1788,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack made Three Point Jumper. Assisted by Callie Wright.,25,13,2,571,1771,Holy Cross Crusaders,three point jumper,True,True,True,Cara McCormack,True,Callie Wright,3.0,8.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Layup.,25,13,2,552,1752,UT Martin Skyhawks,layup,True,False,False,Anaya Brown,False,,24.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Callie Wright Defensive Rebound.,25,13,2,552,1752,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Love Mays.,25,13,2,542,1742,UT Martin Skyhawks,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy made Three Point Jumper. Assisted by Kaitlyn Flanagan.,28,13,2,534,1734,Holy Cross Crusaders,three point jumper,True,True,True,Bronagh Power-Cassidy,True,Kaitlyn Flanagan,10.0,19.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Josie Storey missed Three Point Jumper.,28,13,2,514,1714,UT Martin Skyhawks,three point jumper,True,False,True,Josie Storey,False,,42.0,19.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen Defensive Rebound.,28,13,2,514,1714,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack made Three Point Jumper. Assisted by Janelle Allen.,31,13,2,490,1690,Holy Cross Crusaders,three point jumper,True,True,True,Cara McCormack,True,Janelle Allen,30.0,24.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,UT Martin  Timeout,31,13,2,483,1683,UT Martin Skyhawks,timeout,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn missed Layup.,31,13,2,471,1671,UT Martin Skyhawks,layup,True,False,False,Kenley McCarn,False,,21.0,1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen Block.,31,13,2,471,1671,Holy Cross Crusaders,block,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,UT Martin Offensive Rebound.,31,13,2,471,1671,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown made Jumper.,31,15,2,469,1669,UT Martin Skyhawks,jumper,True,True,False,Anaya Brown,False,,27.0,11.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Callie Wright made Layup. Assisted by Janelle Allen.,33,15,2,450,1650,Holy Cross Crusaders,layup,True,True,False,Callie Wright,True,Janelle Allen,23.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Kaitlyn Flanagan.,33,15,2,427,1627,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,UT Martin  Turnover.,33,15,2,406,1606,UT Martin Skyhawks,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack made Three Point Jumper. Assisted by Janelle Allen.,36,15,2,397,1597,Holy Cross Crusaders,three point jumper,True,True,True,Cara McCormack,True,Janelle Allen,12.0,19.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn made Jumper. Assisted by Lexi Rubel.,36,17,2,379,1579,UT Martin Skyhawks,jumper,True,True,False,Kenley McCarn,True,Lexi Rubel,20.0,11.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman missed Jumper.,36,17,2,368,1568,Holy Cross Crusaders,jumper,True,False,False,Simone Foreman,False,,25.0,12.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen Offensive Rebound.,36,17,2,368,1568,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen missed Layup.,36,17,2,362,1562,Holy Cross Crusaders,layup,True,False,False,Janelle Allen,False,,25.0,2.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack Offensive Rebound.,36,17,2,362,1562,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman made Jumper.,38,17,2,347,1547,Holy Cross Crusaders,jumper,True,True,False,Simone Foreman,False,,12.0,17.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Layup.,38,17,2,331,1531,UT Martin Skyhawks,layup,True,False,False,Anaya Brown,False,,24.0,1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen Block.,38,17,2,331,1531,Holy Cross Crusaders,block,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,UT Martin Offensive Rebound.,38,17,2,331,1531,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays made Layup. Assisted by Kenley McCarn.,38,19,2,329,1529,UT Martin Skyhawks,layup,True,True,False,Love Mays,True,Kenley McCarn,30.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy made Jumper.,40,19,2,315,1515,Holy Cross Crusaders,jumper,True,True,False,Bronagh Power-Cassidy,False,,28.0,12.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Simone Foreman.,40,19,2,292,1492,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn missed Jumper.,40,19,2,290,1490,UT Martin Skyhawks,jumper,True,False,False,Kenley McCarn,False,,30.0,11.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack Defensive Rebound.,40,19,2,290,1490,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Meg Cahalan missed Three Point Jumper.,40,19,2,282,1482,Holy Cross Crusaders,three point jumper,True,False,True,Meg Cahalan,False,,2.0,-1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman Offensive Rebound.,40,19,2,282,1482,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack missed Three Point Jumper.,40,19,2,276,1476,Holy Cross Crusaders,three point jumper,True,False,True,Cara McCormack,False,,43.0,17.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,UT Martin Defensive Rebound.,40,19,2,276,1476,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Jumper.,40,19,2,260,1460,UT Martin Skyhawks,jumper,True,False,False,Anaya Brown,False,,23.0,3.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack Defensive Rebound.,40,19,2,260,1460,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman missed Jumper.,40,19,2,251,1451,Holy Cross Crusaders,jumper,True,False,False,Simone Foreman,False,,18.0,17.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Josie Storey Defensive Rebound.,40,19,2,251,1451,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Josie Storey missed Three Point Jumper.,40,19,2,237,1437,UT Martin Skyhawks,three point jumper,True,False,True,Josie Storey,False,,23.0,24.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lindsay Berger Defensive Rebound.,40,19,2,237,1437,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack missed Three Point Jumper.,40,19,2,219,1419,Holy Cross Crusaders,three point jumper,True,False,True,Cara McCormack,False,,9.0,17.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn Defensive Rebound.,40,19,2,219,1419,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Lindsay Berger.,40,19,2,199,1399,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown made Free Throw.,40,20,2,199,1399,UT Martin Skyhawks,free throw,True,True,False,Anaya Brown,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown made Free Throw.,40,21,2,199,1399,UT Martin Skyhawks,free throw,True,True,False,Anaya Brown,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman made Layup. Assisted by Kaitlyn Flanagan.,42,21,2,191,1391,Holy Cross Crusaders,layup,True,True,False,Simone Foreman,True,Kaitlyn Flanagan,23.0,1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn missed Jumper.,42,21,2,182,1382,UT Martin Skyhawks,jumper,True,False,False,Kenley McCarn,False,,24.0,14.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman Defensive Rebound.,42,21,2,182,1382,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lindsay Berger Turnover.,42,21,2,162,1362,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Layup.,42,21,2,147,1347,UT Martin Skyhawks,layup,True,False,False,Anaya Brown,False,,21.0,2.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen Defensive Rebound.,42,21,2,147,1347,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman Turnover.,42,21,2,137,1337,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays Steal.,42,21,2,137,1337,UT Martin Skyhawks,steal,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Cara McCormack.,42,21,2,135,1335,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays made Free Throw.,42,22,2,135,1335,UT Martin Skyhawks,free throw,True,True,False,Love Mays,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays made Free Throw.,42,23,2,135,1335,UT Martin Skyhawks,free throw,True,True,False,Love Mays,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kaitlyn Flanagan Turnover.,42,23,2,120,1320,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Kaitlyn Flanagan.,42,23,2,101,1301,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays missed Free Throw.,42,23,2,101,1301,UT Martin Skyhawks,free throw,True,False,False,Love Mays,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,UT Martin Deadball Team Rebound.,42,23,2,101,1301,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays made Free Throw.,42,24,2,101,1301,UT Martin Skyhawks,free throw,True,True,False,Love Mays,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy missed Three Point Jumper.,42,24,2,88,1288,Holy Cross Crusaders,three point jumper,True,False,True,Bronagh Power-Cassidy,False,,42.0,17.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays Defensive Rebound.,42,24,2,88,1288,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays Turnover.,42,24,2,66,1266,UT Martin Skyhawks,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen Steal.,42,24,2,66,1266,Holy Cross Crusaders,steal,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Kenley McCarn.,42,24,2,57,1257,UT Martin Skyhawks,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack made Three Point Jumper. Assisted by Kaitlyn Flanagan.,45,24,2,55,1255,Holy Cross Crusaders,three point jumper,True,True,True,Cara McCormack,True,Kaitlyn Flanagan,48.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn missed Jumper.,45,24,2,34,1234,UT Martin Skyhawks,jumper,True,False,False,Kenley McCarn,False,,22.0,12.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack Defensive Rebound.,45,24,2,34,1234,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy missed Three Point Jumper.,45,24,2,13,1213,Holy Cross Crusaders,three point jumper,True,False,True,Bronagh Power-Cassidy,False,,48.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Tori Rubel Defensive Rebound.,45,24,2,13,1213,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays missed Jumper.,45,24,2,2,1202,UT Martin Skyhawks,jumper,True,False,False,Love Mays,False,,19.0,13.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack Defensive Rebound.,45,24,2,1,1201,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,End of 2nd Quarter,45,24,2,0,1200,,end,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Jump Ball won by Holy Cross,45,24,3,600,1200,Holy Cross Crusaders,jump ball,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Callie Wright made Layup. Assisted by Kaitlyn Flanagan.,47,24,3,582,1182,Holy Cross Crusaders,layup,True,True,False,Callie Wright,True,Kaitlyn Flanagan,27.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Janelle Allen.,47,24,3,560,1160,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown made Free Throw.,47,25,3,560,1160,UT Martin Skyhawks,free throw,True,True,False,Anaya Brown,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown made Free Throw.,47,26,3,560,1160,UT Martin Skyhawks,free throw,True,True,False,Anaya Brown,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack made Three Point Jumper.,50,26,3,537,1137,Holy Cross Crusaders,three point jumper,True,True,True,Cara McCormack,False,,27.0,24.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Layup.,50,26,3,513,1113,UT Martin Skyhawks,layup,True,False,False,Anaya Brown,False,,23.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Callie Wright Defensive Rebound.,50,26,3,513,1113,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kaitlyn Flanagan Turnover.,50,26,3,503,1103,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel missed Three Point Jumper.,50,26,3,492,1092,UT Martin Skyhawks,three point jumper,True,False,True,Lexi Rubel,False,,2.0,-1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy Defensive Rebound.,50,26,3,492,1092,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy missed Three Point Jumper.,50,26,3,474,1074,Holy Cross Crusaders,three point jumper,True,False,True,Bronagh Power-Cassidy,False,,36.0,22.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn Defensive Rebound.,50,26,3,474,1074,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Jumper.,50,26,3,456,1056,UT Martin Skyhawks,jumper,True,False,False,Anaya Brown,False,,16.0,12.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy Defensive Rebound.,50,26,3,456,1056,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Janelle Allen.,50,26,3,429,1029,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen Turnover.,50,26,3,429,1029,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Simone Foreman.,50,26,3,416,1016,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn missed Jumper.,50,26,3,412,1012,UT Martin Skyhawks,jumper,True,False,False,Kenley McCarn,False,,22.0,11.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Holy Cross Defensive Rebound.,50,26,3,412,1012,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lindsay Berger made Jumper. Assisted by Bronagh Power-Cassidy.,52,26,3,391,991,Holy Cross Crusaders,jumper,True,True,False,Lindsay Berger,True,Bronagh Power-Cassidy,10.0,2.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn missed Jumper.,52,26,3,378,978,UT Martin Skyhawks,jumper,True,False,False,Kenley McCarn,False,,38.0,2.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown Offensive Rebound.,52,26,3,378,978,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Layup.,52,26,3,374,974,UT Martin Skyhawks,layup,True,False,False,Anaya Brown,False,,26.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack Defensive Rebound.,52,26,3,374,974,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman missed Layup.,52,26,3,352,952,Holy Cross Crusaders,layup,True,False,False,Simone Foreman,False,,22.0,1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel Defensive Rebound.,52,26,3,352,952,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel missed Jumper.,52,26,3,333,933,UT Martin Skyhawks,jumper,True,False,False,Lexi Rubel,False,,25.0,6.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown Offensive Rebound.,52,26,3,333,933,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown made Layup.,52,28,3,329,929,UT Martin Skyhawks,layup,True,True,False,Anaya Brown,False,,24.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy made Jumper.,54,28,3,308,908,Holy Cross Crusaders,jumper,True,True,False,Bronagh Power-Cassidy,False,,30.0,19.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks, Official TV Timeout,54,28,3,287,887,,tv timeout,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel missed Three Point Jumper.,54,28,3,283,883,UT Martin Skyhawks,three point jumper,True,False,True,Lexi Rubel,False,,39.0,20.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman Defensive Rebound.,54,28,3,283,883,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy missed Jumper.,54,28,3,262,862,Holy Cross Crusaders,jumper,True,False,False,Bronagh Power-Cassidy,False,,37.0,10.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy Offensive Rebound.,54,28,3,262,862,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lindsay Berger missed Layup.,54,28,3,246,846,Holy Cross Crusaders,layup,True,False,False,Lindsay Berger,False,,23.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown Defensive Rebound.,54,28,3,246,846,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn missed Three Point Jumper.,54,28,3,228,828,UT Martin Skyhawks,three point jumper,True,False,True,Kenley McCarn,False,,27.0,25.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel Offensive Rebound.,54,28,3,228,828,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Bronagh Power-Cassidy.,54,28,3,220,820,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel missed Free Throw.,54,28,3,220,820,UT Martin Skyhawks,free throw,True,False,False,Lexi Rubel,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,UT Martin Deadball Team Rebound.,54,28,3,220,820,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel made Free Throw.,54,29,3,220,820,UT Martin Skyhawks,free throw,True,True,False,Lexi Rubel,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy Turnover.,54,29,3,206,806,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn Steal.,54,29,3,206,806,UT Martin Skyhawks,steal,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays made Layup.,54,31,3,193,793,UT Martin Skyhawks,layup,True,True,False,Love Mays,False,,25.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kaitlyn Flanagan made Three Point Jumper. Assisted by Janelle Allen.,57,31,3,179,779,Holy Cross Crusaders,three point jumper,True,True,True,Kaitlyn Flanagan,True,Janelle Allen,48.0,-1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Lexi Rubel.,57,31,3,159,759,UT Martin Skyhawks,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel Turnover.,57,31,3,154,754,UT Martin Skyhawks,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy missed Three Point Jumper.,57,31,3,147,747,Holy Cross Crusaders,three point jumper,True,False,True,Bronagh Power-Cassidy,False,,3.0,10.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman Offensive Rebound.,57,31,3,147,747,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Lexi Rubel.,57,31,3,140,740,UT Martin Skyhawks,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman missed Free Throw.,57,31,3,140,740,Holy Cross Crusaders,free throw,True,False,False,Simone Foreman,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Holy Cross Deadball Team Rebound.,57,31,3,140,740,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman made Free Throw.,58,31,3,140,740,Holy Cross Crusaders,free throw,True,True,False,Simone Foreman,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Josie Storey missed Jumper.,58,31,3,123,723,UT Martin Skyhawks,jumper,True,False,False,Josie Storey,False,,22.0,12.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays Offensive Rebound.,58,31,3,123,723,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel missed Three Point Jumper.,58,31,3,108,708,UT Martin Skyhawks,three point jumper,True,False,True,Lexi Rubel,False,,2.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel Offensive Rebound.,58,31,3,108,708,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel missed Layup.,58,31,3,104,704,UT Martin Skyhawks,layup,True,False,False,Lexi Rubel,False,,24.0,-1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel Offensive Rebound.,58,31,3,104,704,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel missed Layup.,58,31,3,99,699,UT Martin Skyhawks,layup,True,False,False,Lexi Rubel,False,,23.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen Defensive Rebound.,58,31,3,99,699,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Anaya Brown.,58,31,3,99,699,UT Martin Skyhawks,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Josie Storey.,58,31,3,88,688,UT Martin Skyhawks,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Callie Wright made Layup. Assisted by Kaitlyn Flanagan.,60,31,3,87,687,Holy Cross Crusaders,layup,True,True,False,Callie Wright,True,Kaitlyn Flanagan,26.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Josie Storey Turnover.,60,31,3,76,676,UT Martin Skyhawks,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy Steal.,60,31,3,76,676,Holy Cross Crusaders,steal,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Foreman missed Three Point Jumper.,60,31,3,50,650,Holy Cross Crusaders,three point jumper,True,False,True,Simone Foreman,False,,16.0,24.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Love Mays Defensive Rebound.,60,31,3,50,650,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Jump Ball won by UT Martin,60,31,3,44,644,UT Martin Skyhawks,jump ball,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Janelle Allen.,60,31,3,27,627,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Free Throw.,60,31,3,27,627,UT Martin Skyhawks,free throw,True,False,False,Anaya Brown,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,UT Martin Deadball Team Rebound.,60,31,3,27,627,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown made Free Throw.,60,32,3,27,627,UT Martin Skyhawks,free throw,True,True,False,Anaya Brown,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Cara McCormack made Jumper.,62,32,3,7,607,Holy Cross Crusaders,jumper,True,True,False,Cara McCormack,False,,17.0,15.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,End of 3rd Quarter,62,32,3,0,600,,end,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Jump Ball won by Holy Cross,62,32,4,600,600,Holy Cross Crusaders,jump ball,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Kenley McCarn.,62,32,4,580,580,UT Martin Skyhawks,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen made Free Throw.,63,32,4,580,580,Holy Cross Crusaders,free throw,True,True,False,Janelle Allen,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen made Free Throw.,64,32,4,580,580,Holy Cross Crusaders,free throw,True,True,False,Janelle Allen,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Josie Storey missed Three Point Jumper.,64,32,4,556,556,UT Martin Skyhawks,three point jumper,True,False,True,Josie Storey,False,,11.0,22.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janelle Allen Defensive Rebound.,64,32,4,556,556,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Meg Cahalan missed Three Point Jumper.,64,32,4,540,540,Holy Cross Crusaders,three point jumper,True,False,True,Meg Cahalan,False,,17.0,22.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown Defensive Rebound.,64,32,4,540,540,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn made Layup.,64,34,4,516,516,UT Martin Skyhawks,layup,True,True,False,Kenley McCarn,False,,29.0,2.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Bronagh Power-Cassidy made Layup. Assisted by Janelle Allen.,66,34,4,501,501,Holy Cross Crusaders,layup,True,True,False,Bronagh Power-Cassidy,True,Janelle Allen,26.0,1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn missed Layup.,66,34,4,495,495,UT Martin Skyhawks,layup,True,False,False,Kenley McCarn,False,,20.0,1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kaitlyn Flanagan Defensive Rebound.,66,34,4,495,495,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Anaya Brown.,66,34,4,492,492,UT Martin Skyhawks,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Hannah Griffin missed Three Point Jumper.,66,34,4,481,481,Holy Cross Crusaders,three point jumper,True,False,True,Hannah Griffin,False,,47.0,-1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn Defensive Rebound.,66,34,4,481,481,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Three Point Jumper.,66,34,4,470,470,UT Martin Skyhawks,three point jumper,True,False,True,Anaya Brown,False,,45.0,12.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Mary-Elizabeth Donnelly Defensive Rebound.,66,34,4,470,470,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Mary-Elizabeth Donnelly Turnover.,66,34,4,460,460,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Josie Storey missed Three Point Jumper.,66,34,4,449,449,UT Martin Skyhawks,three point jumper,True,False,True,Josie Storey,False,,42.0,16.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Grace Munt Defensive Rebound.,66,34,4,449,449,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Grace Munt missed Three Point Jumper.,66,34,4,429,429,Holy Cross Crusaders,three point jumper,True,False,True,Grace Munt,False,,2.0,1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel Defensive Rebound.,66,34,4,429,429,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn missed Three Point Jumper.,66,34,4,409,409,UT Martin Skyhawks,three point jumper,True,False,True,Kenley McCarn,False,,40.0,20.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Grace Munt Defensive Rebound.,66,34,4,409,409,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Mary-Elizabeth Donnelly Turnover.,66,34,4,387,387,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,UT Martin  Timeout,66,34,4,387,387,UT Martin Skyhawks,timeout,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn made Layup. Assisted by Lexi Rubel.,66,36,4,376,376,UT Martin Skyhawks,layup,True,True,False,Kenley McCarn,True,Lexi Rubel,23.0,1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lauren Huber missed Jumper.,66,36,4,362,362,Holy Cross Crusaders,jumper,True,False,False,Lauren Huber,False,,39.0,9.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Callie Wright Offensive Rebound.,66,36,4,362,362,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lindsay Berger made Layup. Assisted by Mary-Elizabeth Donnelly.,68,36,4,346,346,Holy Cross Crusaders,layup,True,True,False,Lindsay Berger,True,Mary-Elizabeth Donnelly,27.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lexi Rubel Turnover.,68,36,4,328,328,UT Martin Skyhawks,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Callie Wright Steal.,68,36,4,328,328,Holy Cross Crusaders,steal,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Hannah Griffin missed Three Point Jumper.,68,36,4,304,304,Holy Cross Crusaders,three point jumper,True,False,True,Hannah Griffin,False,,10.0,21.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn Defensive Rebound.,68,36,4,304,304,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn missed Jumper.,68,36,4,281,281,UT Martin Skyhawks,jumper,True,False,False,Kenley McCarn,False,,25.0,9.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Mary-Elizabeth Donnelly Block.,68,36,4,281,281,Holy Cross Crusaders,block,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,UT Martin Offensive Rebound.,68,36,4,281,281,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks, Official TV Timeout,68,36,4,278,278,,tv timeout,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kenley McCarn made Layup.,68,38,4,275,275,UT Martin Skyhawks,layup,True,True,False,Kenley McCarn,False,,26.0,1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Lauren Huber made Jumper. Assisted by Hannah Griffin.,70,38,4,257,257,Holy Cross Crusaders,jumper,True,True,False,Lauren Huber,True,Hannah Griffin,41.0,-1.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Lauren Huber.,70,38,4,233,233,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Josie Storey missed Free Throw.,70,38,4,233,233,UT Martin Skyhawks,free throw,True,False,False,Josie Storey,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,UT Martin Deadball Team Rebound.,70,38,4,233,233,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Josie Storey made Free Throw.,70,39,4,233,233,UT Martin Skyhawks,free throw,True,True,False,Josie Storey,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Kenley McCarn.,70,39,4,212,212,UT Martin Skyhawks,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Mary-Elizabeth Donnelly missed Three Point Jumper.,70,39,4,210,210,Holy Cross Crusaders,three point jumper,True,False,True,Mary-Elizabeth Donnelly,False,,7.0,18.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,UT Martin Defensive Rebound.,70,39,4,210,210,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Jumper.,70,39,4,196,196,UT Martin Skyhawks,jumper,True,False,False,Anaya Brown,False,,30.0,10.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janie Bachmann Defensive Rebound.,70,39,4,196,196,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janie Bachmann Turnover.,70,39,4,176,176,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Tori Rubel Steal.,70,39,4,176,176,UT Martin Skyhawks,steal,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Tori Rubel Turnover.,70,39,4,157,157,UT Martin Skyhawks,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Hannah Griffin Steal.,70,39,4,157,157,Holy Cross Crusaders,steal,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Lewis missed Jumper.,70,39,4,142,142,Holy Cross Crusaders,jumper,True,False,False,Simone Lewis,False,,8.0,9.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Janie Bachmann Offensive Rebound.,70,39,4,142,142,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Mary-Elizabeth Donnelly Turnover.,70,39,4,137,137,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown missed Layup.,70,39,4,135,135,UT Martin Skyhawks,layup,True,False,False,Anaya Brown,False,,23.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Lewis Block.,70,39,4,135,135,Holy Cross Crusaders,block,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown Offensive Rebound.,70,39,4,135,135,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Anaya Brown made Layup.,70,41,4,132,132,UT Martin Skyhawks,layup,True,True,False,Anaya Brown,False,,23.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Hannah Griffin Turnover.,70,41,4,102,102,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Foul on Hannah Griffin.,70,41,4,87,87,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Sophie Singleton made Free Throw.,70,42,4,87,87,UT Martin Skyhawks,free throw,True,True,False,Sophie Singleton,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Sophie Singleton made Free Throw.,70,43,4,87,87,UT Martin Skyhawks,free throw,True,True,False,Sophie Singleton,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Mary-Elizabeth Donnelly missed Three Point Jumper.,70,43,4,76,76,Holy Cross Crusaders,three point jumper,True,False,True,Mary-Elizabeth Donnelly,False,,32.0,22.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Amari Bonds Defensive Rebound.,70,43,4,76,76,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Amari Bonds missed Jumper.,70,43,4,61,61,UT Martin Skyhawks,jumper,True,False,False,Amari Bonds,False,,34.0,17.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Lewis Defensive Rebound.,70,43,4,61,61,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Simone Lewis missed Jumper.,70,43,4,46,46,Holy Cross Crusaders,jumper,True,False,False,Simone Lewis,False,,10.0,10.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Sophie Singleton Defensive Rebound.,70,43,4,46,46,UT Martin Skyhawks,rebound,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Kendal George Turnover.,70,43,4,31,31,UT Martin Skyhawks,turnover,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Mary-Elizabeth Donnelly Steal.,70,43,4,31,31,Holy Cross Crusaders,steal,False,False,False,,False,,,
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Mary-Elizabeth Donnelly made Layup.,72,43,4,25,25,Holy Cross Crusaders,layup,True,True,False,Mary-Elizabeth Donnelly,False,,26.0,0.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,Mah Minthe made Jumper.,72,45,4,9,9,UT Martin Skyhawks,jumper,True,True,False,Mah Minthe,False,,25.0,13.0
+401637541,Holy Cross Crusaders,UT Martin Skyhawks,End of Game,72,45,4,0,0,,end,False,False,False,,False,,,

@@ -1,0 +1,322 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jump Ball won by Oregon State,0,0,1,600,2400,Oregon State Beavers,jump ball,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers made Layup. Assisted by Talia von Oelhoffen.,2,0,1,584,2384,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Talia von Oelhoffen,22.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander made Jumper.,2,2,1,557,2357,Eastern Washington Eagles,jumper,True,True,False,Aaliyah Alexander,False,,29.0,6.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers made Layup. Assisted by AJ Marotte.,4,2,1,547,2347,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,AJ Marotte,25.0,3.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera missed Jumper.,4,2,1,514,2314,Eastern Washington Eagles,jumper,True,False,False,Jamie Loera,False,,30.0,2.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen Defensive Rebound.,4,2,1,514,2314,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,AJ Marotte Turnover.,4,2,1,504,2304,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaleesa Lawrence Steal.,4,2,1,504,2304,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley missed Three Point Jumper.,4,2,1,492,2292,Eastern Washington Eagles,three point jumper,True,False,True,Jacinta Buckley,False,,35.0,22.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Donovyn Hunter Defensive Rebound.,4,2,1,492,2292,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen Turnover.,4,2,1,469,2269,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Milly Knowles Steal.,4,2,1,469,2269,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera made Three Point Jumper. Assisted by Milly Knowles.,4,5,1,454,2254,Eastern Washington Eagles,three point jumper,True,True,True,Jamie Loera,True,Milly Knowles,41.0,19.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,AJ Marotte missed Jumper.,4,5,1,442,2242,Oregon State Beavers,jumper,True,False,False,AJ Marotte,False,,22.0,13.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera Defensive Rebound.,4,5,1,442,2242,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera made Jumper.,4,7,1,419,2219,Eastern Washington Eagles,jumper,True,True,False,Jamie Loera,False,,20.0,12.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner missed Three Point Jumper.,4,7,1,404,2204,Oregon State Beavers,three point jumper,True,False,True,Timea Gardiner,False,,14.0,22.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Donovyn Hunter Offensive Rebound.,4,7,1,404,2204,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,AJ Marotte Turnover.,4,7,1,389,2189,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Milly Knowles Steal.,4,7,1,389,2189,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Alexis Pettis missed Three Point Jumper.,4,7,1,376,2176,Eastern Washington Eagles,three point jumper,True,False,True,Alexis Pettis,False,,9.0,20.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers Defensive Rebound.,4,7,1,376,2176,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Jaydia Martin.,4,7,1,373,2173,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen missed Jumper.,4,7,1,370,2170,Oregon State Beavers,jumper,True,False,False,Talia von Oelhoffen,False,,36.0,5.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers Offensive Rebound.,4,7,1,370,2170,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers made Layup.,6,7,1,365,2165,Oregon State Beavers,layup,True,True,False,Raegan Beers,False,,23.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Donovyn Hunter.,6,7,1,365,2165,Oregon State Beavers,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera missed Jumper.,6,7,1,353,2153,Eastern Washington Eagles,jumper,True,False,False,Jamie Loera,False,,32.0,11.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen Defensive Rebound.,6,7,1,353,2153,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen Turnover.,6,7,1,343,2143,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Alexis Pettis Turnover.,6,7,1,329,2129,Eastern Washington Eagles,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers Steal.,6,7,1,329,2129,Oregon State Beavers,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Donovyn Hunter Turnover.,6,7,1,319,2119,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera Steal.,6,7,1,319,2119,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Alexis Pettis made Jumper.,6,9,1,311,2111,Eastern Washington Eagles,jumper,True,True,False,Alexis Pettis,False,,23.0,15.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Bella Hays.,6,9,1,299,2099,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles, Official TV Timeout,6,9,1,297,2097,,tv timeout,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Lily Hansford missed Three Point Jumper.,6,9,1,295,2095,Oregon State Beavers,three point jumper,True,False,True,Lily Hansford,False,,2.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera Block.,6,9,1,295,2095,Eastern Washington Eagles,block,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley Defensive Rebound.,6,9,1,295,2095,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley missed Jumper.,6,9,1,277,2077,Eastern Washington Eagles,jumper,True,False,False,Jacinta Buckley,False,,32.0,10.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Lily Hansford Block.,6,9,1,277,2077,Oregon State Beavers,block,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Lily Hansford Defensive Rebound.,6,9,1,277,2077,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,AJ Marotte made Jumper.,8,9,1,251,2051,Oregon State Beavers,jumper,True,True,False,AJ Marotte,False,,24.0,11.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander Turnover.,8,9,1,223,2023,Eastern Washington Eagles,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Jaleesa Lawrence.,8,9,1,211,2011,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen Turnover.,8,9,1,209,2009,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Milly Knowles Steal.,8,9,1,209,2009,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera missed Layup.,8,9,1,186,1986,Eastern Washington Eagles,layup,True,False,False,Jamie Loera,False,,28.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Eastern Washington Offensive Rebound.,8,9,1,186,1986,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera made Layup.,8,11,1,180,1980,Eastern Washington Eagles,layup,True,True,False,Jamie Loera,False,,28.0,2.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova made Layup.,10,11,1,164,1964,Oregon State Beavers,layup,True,True,False,Dominika Paurova,False,,22.0,0.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera made Jumper.,10,13,1,146,1946,Eastern Washington Eagles,jumper,True,True,False,Jamie Loera,False,,25.0,15.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova Turnover.,10,13,1,138,1938,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin made Three Point Jumper. Assisted by Jamie Loera.,10,16,1,123,1923,Eastern Washington Eagles,three point jumper,True,True,True,Jaydia Martin,True,Jamie Loera,6.0,16.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen missed Jumper.,10,16,1,106,1906,Oregon State Beavers,jumper,True,False,False,Talia von Oelhoffen,False,,22.0,15.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Milly Knowles Block.,10,16,1,106,1906,Eastern Washington Eagles,block,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaleesa Lawrence Defensive Rebound.,10,16,1,106,1906,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Timea Gardiner.,10,16,1,99,1899,Oregon State Beavers,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera made Jumper.,10,18,1,96,1896,Eastern Washington Eagles,jumper,True,True,False,Jamie Loera,False,,9.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova made Three Point Jumper. Assisted by Donovyn Hunter.,13,18,1,86,1886,Oregon State Beavers,three point jumper,True,True,True,Dominika Paurova,True,Donovyn Hunter,10.0,19.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander Turnover.,13,18,1,61,1861,Eastern Washington Eagles,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers Steal.,13,18,1,61,1861,Oregon State Beavers,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova Turnover.,13,18,1,55,1855,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaleesa Lawrence Steal.,13,18,1,55,1855,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jump Ball won by Eastern Washington,13,18,1,40,1840,Eastern Washington Eagles,jump ball,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera missed Jumper.,13,18,1,36,1836,Eastern Washington Eagles,jumper,True,False,False,Jamie Loera,False,,20.0,9.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner Defensive Rebound.,13,18,1,36,1836,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers missed Layup.,13,18,1,18,1818,Oregon State Beavers,layup,True,False,False,Raegan Beers,False,,22.0,0.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin Block.,13,18,1,18,1818,Eastern Washington Eagles,block,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Oregon State Offensive Rebound.,13,18,1,18,1818,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers made Layup. Assisted by Donovyn Hunter.,15,18,1,11,1811,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Donovyn Hunter,27.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,End of 1st Quarter,15,18,1,0,1800,,end,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jump Ball won by Oregon State,15,18,2,600,1800,Oregon State Beavers,jump ball,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Milly Knowles.,15,18,2,591,1791,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers made Free Throw.,16,18,2,591,1791,Oregon State Beavers,free throw,True,True,False,Raegan Beers,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers made Free Throw.,17,18,2,591,1791,Oregon State Beavers,free throw,True,True,False,Raegan Beers,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander made Jumper.,17,20,2,576,1776,Eastern Washington Eagles,jumper,True,True,False,Aaliyah Alexander,False,,23.0,10.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers made Layup. Assisted by Timea Gardiner.,19,20,2,560,1760,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Timea Gardiner,23.0,0.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Jumper.,19,20,2,546,1746,Eastern Washington Eagles,jumper,True,False,False,Aaliyah Alexander,False,,18.0,12.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen Block.,19,20,2,546,1746,Oregon State Beavers,block,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers Defensive Rebound.,19,20,2,546,1746,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers missed Layup.,19,20,2,530,1730,Oregon State Beavers,layup,True,False,False,Raegan Beers,False,,22.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera Defensive Rebound.,19,20,2,530,1730,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera missed Three Point Jumper.,19,20,2,496,1696,Eastern Washington Eagles,three point jumper,True,False,True,Jamie Loera,False,,19.0,25.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen Defensive Rebound.,19,20,2,496,1696,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Jamie Loera.,19,20,2,481,1681,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner missed Free Throw.,19,20,2,481,1681,Oregon State Beavers,free throw,True,False,False,Timea Gardiner,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Oregon State Deadball Team Rebound.,19,20,2,481,1681,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner made Free Throw.,20,20,2,481,1681,Oregon State Beavers,free throw,True,True,False,Timea Gardiner,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Donovyn Hunter.,20,20,2,474,1674,Oregon State Beavers,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera Turnover.,20,20,2,471,1671,Eastern Washington Eagles,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers Steal.,20,20,2,471,1671,Oregon State Beavers,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova made Three Point Jumper. Assisted by Raegan Beers.,23,20,2,460,1660,Oregon State Beavers,three point jumper,True,True,True,Dominika Paurova,True,Raegan Beers,2.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Three Point Jumper.,23,20,2,437,1637,Eastern Washington Eagles,three point jumper,True,False,True,Aaliyah Alexander,False,,11.0,20.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner Defensive Rebound.,23,20,2,437,1637,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova missed Three Point Jumper.,23,20,2,425,1625,Oregon State Beavers,three point jumper,True,False,True,Dominika Paurova,False,,48.0,6.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers Offensive Rebound.,23,20,2,425,1625,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner made Three Point Jumper. Assisted by Dominika Paurova.,26,20,2,409,1609,Oregon State Beavers,three point jumper,True,True,True,Timea Gardiner,True,Dominika Paurova,26.0,24.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander Turnover.,26,20,2,392,1592,Eastern Washington Eagles,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova Steal.,26,20,2,392,1592,Oregon State Beavers,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova made Layup.,28,20,2,387,1587,Oregon State Beavers,layup,True,True,False,Dominika Paurova,False,,23.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Eastern Washington  Timeout,28,20,2,383,1583,Eastern Washington Eagles,timeout,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles, Official TV Timeout,28,20,2,383,1583,,tv timeout,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera made Jumper.,28,22,2,379,1579,Eastern Washington Eagles,jumper,True,True,False,Jamie Loera,False,,28.0,16.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova Turnover.,28,22,2,360,1560,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin Steal.,28,22,2,360,1560,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Milly Knowles missed Jumper.,28,22,2,341,1541,Eastern Washington Eagles,jumper,True,False,False,Milly Knowles,False,,25.0,7.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers Defensive Rebound.,28,22,2,341,1541,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers made Layup. Assisted by Talia von Oelhoffen.,30,22,2,329,1529,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Talia von Oelhoffen,22.0,0.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Jaleesa Lawrence.,30,22,2,329,1529,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers missed Free Throw.,30,22,2,329,1529,Oregon State Beavers,free throw,True,False,False,Raegan Beers,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley Defensive Rebound.,30,22,2,329,1529,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley missed Three Point Jumper.,30,22,2,308,1508,Eastern Washington Eagles,three point jumper,True,False,True,Jacinta Buckley,False,,6.0,16.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers Defensive Rebound.,30,22,2,308,1508,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova made Three Point Jumper. Assisted by Talia von Oelhoffen.,33,22,2,297,1497,Oregon State Beavers,three point jumper,True,True,True,Dominika Paurova,True,Talia von Oelhoffen,44.0,16.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Milly Knowles made Jumper. Assisted by Jaydia Martin.,33,24,2,274,1474,Eastern Washington Eagles,jumper,True,True,False,Milly Knowles,True,Jaydia Martin,20.0,19.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers made Layup. Assisted by Timea Gardiner.,35,24,2,259,1459,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Timea Gardiner,22.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera missed Jumper.,35,24,2,241,1441,Eastern Washington Eagles,jumper,True,False,False,Jamie Loera,False,,31.0,16.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner Defensive Rebound.,35,24,2,241,1441,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,AJ Marotte missed Three Point Jumper.,35,24,2,234,1434,Oregon State Beavers,three point jumper,True,False,True,AJ Marotte,False,,2.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Milly Knowles Defensive Rebound.,35,24,2,234,1434,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin Turnover.,35,24,2,222,1422,Eastern Washington Eagles,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova Steal.,35,24,2,222,1422,Oregon State Beavers,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen made Layup. Assisted by Dominika Paurova.,37,24,2,213,1413,Oregon State Beavers,layup,True,True,False,Talia von Oelhoffen,True,Dominika Paurova,27.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles, Official TV Timeout,37,24,2,213,1413,,tv timeout,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Jumper.,37,24,2,201,1401,Eastern Washington Eagles,jumper,True,False,False,Aaliyah Alexander,False,,28.0,15.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Sela Heide Block.,37,24,2,201,1401,Oregon State Beavers,block,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera Offensive Rebound.,37,24,2,201,1401,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Layup.,37,24,2,194,1394,Eastern Washington Eagles,layup,True,False,False,Aaliyah Alexander,False,,22.0,2.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Bella Hays Offensive Rebound.,37,24,2,194,1394,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera missed Jumper.,37,24,2,173,1373,Eastern Washington Eagles,jumper,True,False,False,Jamie Loera,False,,18.0,8.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner Defensive Rebound.,37,24,2,173,1373,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Dominika Paurova.,37,24,2,162,1362,Oregon State Beavers,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova Turnover.,37,24,2,162,1362,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Jumper.,37,24,2,143,1343,Eastern Washington Eagles,jumper,True,False,False,Aaliyah Alexander,False,,20.0,18.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Bella Hays Offensive Rebound.,37,24,2,143,1343,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin missed Three Point Jumper.,37,24,2,135,1335,Eastern Washington Eagles,three point jumper,True,False,True,Jaydia Martin,False,,39.0,20.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova Defensive Rebound.,37,24,2,135,1335,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Sela Heide.,37,24,2,114,1314,Oregon State Beavers,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Sela Heide Turnover.,37,24,2,114,1314,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley made Three Point Jumper.,37,27,2,97,1297,Eastern Washington Eagles,three point jumper,True,True,True,Jacinta Buckley,False,,26.0,24.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,AJ Marotte Turnover.,37,27,2,60,1260,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera Steal.,37,27,2,60,1260,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin missed Three Point Jumper.,37,27,2,51,1251,Eastern Washington Eagles,three point jumper,True,False,True,Jaydia Martin,False,,33.0,23.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley Offensive Rebound.,37,27,2,51,1251,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin missed Three Point Jumper.,37,27,2,38,1238,Eastern Washington Eagles,three point jumper,True,False,True,Jaydia Martin,False,,43.0,16.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander Offensive Rebound.,37,27,2,38,1238,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Three Point Jumper.,37,27,2,32,1232,Eastern Washington Eagles,three point jumper,True,False,True,Aaliyah Alexander,False,,25.0,23.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,AJ Marotte Defensive Rebound.,37,27,2,32,1232,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers made Layup. Assisted by Dominika Paurova.,39,27,2,21,1221,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Dominika Paurova,28.0,2.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Kennedie Shuler.,39,27,2,3,1203,Oregon State Beavers,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin missed Layup.,39,27,2,1,1201,Eastern Washington Eagles,layup,True,False,False,Jaydia Martin,False,,22.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,AJ Marotte Defensive Rebound.,39,27,2,1,1201,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,End of 2nd Quarter,39,27,2,0,1200,,end,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jump Ball won by Eastern Washington,39,27,3,600,1200,Eastern Washington Eagles,jump ball,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Milly Knowles missed Layup.,39,27,3,590,1190,Eastern Washington Eagles,layup,True,False,False,Milly Knowles,False,,22.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers Block.,39,27,3,590,1190,Oregon State Beavers,block,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers Defensive Rebound.,39,27,3,590,1190,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Milly Knowles.,39,27,3,570,1170,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen missed Jumper.,39,27,3,555,1155,Oregon State Beavers,jumper,True,False,False,Talia von Oelhoffen,False,,16.0,8.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Bella Hays Defensive Rebound.,39,27,3,555,1155,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Three Point Jumper.,39,27,3,529,1129,Eastern Washington Eagles,three point jumper,True,False,True,Aaliyah Alexander,False,,9.0,18.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner Defensive Rebound.,39,27,3,529,1129,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Bella Hays.,39,27,3,517,1117,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers missed Free Throw.,39,27,3,517,1117,Oregon State Beavers,free throw,True,False,False,Raegan Beers,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Oregon State Deadball Team Rebound.,39,27,3,517,1117,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers made Free Throw.,40,27,3,517,1117,Oregon State Beavers,free throw,True,True,False,Raegan Beers,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera missed Jumper.,40,27,3,505,1105,Eastern Washington Eagles,jumper,True,False,False,Jamie Loera,False,,23.0,16.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Donovyn Hunter Defensive Rebound.,40,27,3,505,1105,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Jaleesa Lawrence.,40,27,3,497,1097,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner made Free Throw.,41,27,3,497,1097,Oregon State Beavers,free throw,True,True,False,Timea Gardiner,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner made Free Throw.,42,27,3,497,1097,Oregon State Beavers,free throw,True,True,False,Timea Gardiner,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on AJ Marotte.,42,27,3,489,1089,Oregon State Beavers,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera missed Jumper.,42,27,3,473,1073,Eastern Washington Eagles,jumper,True,False,False,Jamie Loera,False,,14.0,8.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Donovyn Hunter Defensive Rebound.,42,27,3,473,1073,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers missed Layup.,42,27,3,447,1047,Oregon State Beavers,layup,True,False,False,Raegan Beers,False,,23.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin Defensive Rebound.,42,27,3,447,1047,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera made Jumper.,42,29,3,430,1030,Eastern Washington Eagles,jumper,True,True,False,Jamie Loera,False,,22.0,12.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Donovyn Hunter made Layup.,44,29,3,413,1013,Oregon State Beavers,layup,True,True,False,Donovyn Hunter,False,,28.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Jumper.,44,29,3,391,991,Eastern Washington Eagles,jumper,True,False,False,Aaliyah Alexander,False,,30.0,13.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers Defensive Rebound.,44,29,3,391,991,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Jaydia Martin.,44,29,3,383,983,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen made Three Point Jumper.,47,29,3,367,967,Oregon State Beavers,three point jumper,True,True,True,Talia von Oelhoffen,False,,23.0,24.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin Turnover.,47,29,3,346,946,Eastern Washington Eagles,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen Steal.,47,29,3,346,946,Oregon State Beavers,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen missed Layup.,47,29,3,337,937,Oregon State Beavers,layup,True,False,False,Talia von Oelhoffen,False,,22.0,2.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley Defensive Rebound.,47,29,3,337,937,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley missed Three Point Jumper.,47,29,3,323,923,Eastern Washington Eagles,three point jumper,True,False,True,Jacinta Buckley,False,,27.0,25.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen Defensive Rebound.,47,29,3,323,923,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen missed Jumper.,47,29,3,309,909,Oregon State Beavers,jumper,True,False,False,Talia von Oelhoffen,False,,19.0,15.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Eastern Washington Defensive Rebound.,47,29,3,309,909,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Dominika Paurova.,47,29,3,295,895,Oregon State Beavers,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles, Official TV Timeout,47,29,3,293,893,,tv timeout,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaleesa Lawrence missed Three Point Jumper.,47,29,3,286,886,Eastern Washington Eagles,three point jumper,True,False,True,Jaleesa Lawrence,False,,48.0,0.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Oregon State Defensive Rebound.,47,29,3,286,886,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Lily Hansford missed Three Point Jumper.,47,29,3,265,865,Oregon State Beavers,three point jumper,True,False,True,Lily Hansford,False,,48.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Eastern Washington Defensive Rebound.,47,29,3,265,865,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley missed Three Point Jumper.,47,29,3,248,848,Eastern Washington Eagles,three point jumper,True,False,True,Jacinta Buckley,False,,9.0,19.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Alexis Pettis Offensive Rebound.,47,29,3,248,848,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera missed Jumper.,47,29,3,234,834,Eastern Washington Eagles,jumper,True,False,False,Jamie Loera,False,,34.0,9.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kelsey Rees Defensive Rebound.,47,29,3,234,834,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova made Jumper.,49,29,3,218,818,Oregon State Beavers,jumper,True,True,False,Dominika Paurova,False,,32.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Milly Knowles.,49,29,3,218,818,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova made Free Throw.,50,29,3,218,818,Oregon State Beavers,free throw,True,True,False,Dominika Paurova,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera made Layup.,50,31,3,199,799,Eastern Washington Eagles,layup,True,True,False,Jamie Loera,False,,29.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner missed Three Point Jumper.,50,31,3,185,785,Oregon State Beavers,three point jumper,True,False,True,Timea Gardiner,False,,8.0,19.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kennedie Shuler Offensive Rebound.,50,31,3,185,785,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kennedie Shuler Turnover.,50,31,3,165,765,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera Steal.,50,31,3,165,765,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Layup.,50,31,3,157,757,Eastern Washington Eagles,layup,True,False,False,Aaliyah Alexander,False,,22.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Lily Hansford Block.,50,31,3,157,757,Oregon State Beavers,block,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Eastern Washington Offensive Rebound.,50,31,3,157,757,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Timea Gardiner.,50,31,3,155,755,Oregon State Beavers,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley missed Free Throw.,50,31,3,155,755,Eastern Washington Eagles,free throw,True,False,False,Jacinta Buckley,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Eastern Washington Deadball Team Rebound.,50,31,3,155,755,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley made Free Throw.,50,32,3,155,755,Eastern Washington Eagles,free throw,True,True,False,Jacinta Buckley,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kennedie Shuler missed Layup.,50,32,3,144,744,Oregon State Beavers,layup,True,False,False,Kennedie Shuler,False,,28.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kelsey Rees Offensive Rebound.,50,32,3,144,744,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kelsey Rees made Layup.,52,32,3,138,738,Oregon State Beavers,layup,True,True,False,Kelsey Rees,False,,24.0,3.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Timea Gardiner.,52,32,3,125,725,Oregon State Beavers,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Jumper.,52,32,3,113,713,Eastern Washington Eagles,jumper,True,False,False,Aaliyah Alexander,False,,27.0,11.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Lily Hansford Block.,52,32,3,113,713,Oregon State Beavers,block,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Raegan Beers Defensive Rebound.,52,32,3,113,713,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kelsey Rees made Three Point Jumper. Assisted by Kennedie Shuler.,55,32,3,95,695,Oregon State Beavers,three point jumper,True,True,True,Kelsey Rees,True,Kennedie Shuler,30.0,25.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera made Jumper.,55,34,3,78,678,Eastern Washington Eagles,jumper,True,True,False,Jamie Loera,False,,30.0,10.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova missed Layup.,55,34,3,57,657,Oregon State Beavers,layup,True,False,False,Dominika Paurova,False,,23.0,2.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova Offensive Rebound.,55,34,3,57,657,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Jacinta Buckley.,55,34,3,54,654,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova missed Free Throw.,55,34,3,54,654,Oregon State Beavers,free throw,True,False,False,Dominika Paurova,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Oregon State Offensive Rebound.,55,34,3,54,654,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Dominika Paurova made Free Throw.,56,34,3,54,654,Oregon State Beavers,free throw,True,True,False,Dominika Paurova,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin made Three Point Jumper. Assisted by Jamie Loera.,56,37,3,43,643,Eastern Washington Eagles,three point jumper,True,True,True,Jaydia Martin,True,Jamie Loera,24.0,27.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Martha Pietsch Turnover.,56,37,3,35,635,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera Steal.,56,37,3,35,635,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera made Layup.,56,39,3,28,628,Eastern Washington Eagles,layup,True,True,False,Jamie Loera,False,,28.0,2.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,End of 3rd Quarter,56,39,3,0,600,,end,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jump Ball won by Oregon State,56,39,4,600,600,Oregon State Beavers,jump ball,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Jacinta Buckley.,56,39,4,577,577,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Donovyn Hunter made Three Point Jumper. Assisted by Talia von Oelhoffen.,59,39,4,563,563,Oregon State Beavers,three point jumper,True,True,True,Donovyn Hunter,True,Talia von Oelhoffen,46.0,10.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera missed Jumper.,59,39,4,549,549,Eastern Washington Eagles,jumper,True,False,False,Jamie Loera,False,,38.0,12.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner Defensive Rebound.,59,39,4,549,549,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen missed Three Point Jumper.,59,39,4,529,529,Oregon State Beavers,three point jumper,True,False,True,Talia von Oelhoffen,False,,1.0,-1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin Defensive Rebound.,59,39,4,529,529,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley missed Jumper.,59,39,4,515,515,Eastern Washington Eagles,jumper,True,False,False,Jacinta Buckley,False,,32.0,5.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kelsey Rees Defensive Rebound.,59,39,4,515,515,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kelsey Rees made Layup. Assisted by Timea Gardiner.,61,39,4,491,491,Oregon State Beavers,layup,True,True,False,Kelsey Rees,True,Timea Gardiner,22.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley made Three Point Jumper. Assisted by Jamie Loera.,61,42,4,478,478,Eastern Washington Eagles,three point jumper,True,True,True,Jacinta Buckley,True,Jamie Loera,19.0,24.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen Turnover.,61,42,4,454,454,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaleesa Lawrence Steal.,61,42,4,454,454,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Three Point Jumper.,61,42,4,443,443,Eastern Washington Eagles,three point jumper,True,False,True,Aaliyah Alexander,False,,4.0,14.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Oregon State Defensive Rebound.,61,42,4,443,443,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner made Jumper. Assisted by Talia von Oelhoffen.,63,42,4,434,434,Oregon State Beavers,jumper,True,True,False,Timea Gardiner,True,Talia von Oelhoffen,31.0,9.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaleesa Lawrence missed Jumper.,63,42,4,419,419,Eastern Washington Eagles,jumper,True,False,False,Jaleesa Lawrence,False,,9.0,4.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kelsey Rees Defensive Rebound.,63,42,4,419,419,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner made Layup. Assisted by Talia von Oelhoffen.,65,42,4,411,411,Oregon State Beavers,layup,True,True,False,Timea Gardiner,True,Talia von Oelhoffen,27.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Eastern Washington  Timeout,65,42,4,403,403,Eastern Washington Eagles,timeout,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles, Official TV Timeout,65,42,4,403,403,,tv timeout,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Three Point Jumper.,65,42,4,390,390,Eastern Washington Eagles,three point jumper,True,False,True,Aaliyah Alexander,False,,36.0,22.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kelsey Rees Defensive Rebound.,65,42,4,390,390,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kelsey Rees missed Three Point Jumper.,65,42,4,372,372,Oregon State Beavers,three point jumper,True,False,True,Kelsey Rees,False,,48.0,-1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander Defensive Rebound.,65,42,4,372,372,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Layup.,65,42,4,360,360,Eastern Washington Eagles,layup,True,False,False,Aaliyah Alexander,False,,21.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kelsey Rees Defensive Rebound.,65,42,4,360,360,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Donovyn Hunter missed Three Point Jumper.,65,42,4,342,342,Oregon State Beavers,three point jumper,True,False,True,Donovyn Hunter,False,,24.0,24.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Oregon State Offensive Rebound.,65,42,4,342,342,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen Turnover.,65,42,4,334,334,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander Steal.,65,42,4,334,334,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander missed Three Point Jumper.,65,42,4,324,324,Eastern Washington Eagles,three point jumper,True,False,True,Aaliyah Alexander,False,,23.0,24.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin Offensive Rebound.,65,42,4,324,324,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin missed Jumper.,65,42,4,320,320,Eastern Washington Eagles,jumper,True,False,False,Jaydia Martin,False,,16.0,7.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Oregon State Defensive Rebound.,65,42,4,320,320,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Milly Knowles.,65,42,4,313,313,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Donovyn Hunter made Free Throw.,66,42,4,313,313,Oregon State Beavers,free throw,True,True,False,Donovyn Hunter,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Donovyn Hunter made Free Throw.,67,42,4,313,313,Oregon State Beavers,free throw,True,True,False,Donovyn Hunter,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera missed Three Point Jumper.,67,42,4,297,297,Eastern Washington Eagles,three point jumper,True,False,True,Jamie Loera,False,,30.0,27.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kelsey Rees Defensive Rebound.,67,42,4,297,297,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Talia von Oelhoffen Turnover.,67,42,4,277,277,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley Steal.,67,42,4,277,277,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Talia von Oelhoffen.,67,42,4,264,264,Oregon State Beavers,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles, Official TV Timeout,67,42,4,264,264,,tv timeout,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Ella Gallatin missed Free Throw.,67,42,4,264,264,Eastern Washington Eagles,free throw,True,False,False,Ella Gallatin,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Eastern Washington Deadball Team Rebound.,67,42,4,264,264,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Ella Gallatin made Free Throw.,67,43,4,264,264,Eastern Washington Eagles,free throw,True,True,False,Ella Gallatin,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jump Ball won by Eastern Washington,67,43,4,250,250,Eastern Washington Eagles,jump ball,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kelsey Rees Turnover.,67,43,4,250,250,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Ella Gallatin Steal.,67,43,4,250,250,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jamie Loera missed Three Point Jumper.,67,43,4,243,243,Eastern Washington Eagles,three point jumper,True,False,True,Jamie Loera,False,,30.0,24.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Eastern Washington Offensive Rebound.,67,43,4,243,243,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on AJ Marotte.,67,43,4,234,234,Oregon State Beavers,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley made Three Point Jumper. Assisted by Jamie Loera.,67,46,4,228,228,Eastern Washington Eagles,three point jumper,True,True,True,Jacinta Buckley,True,Jamie Loera,46.0,11.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Lily Hansford missed Three Point Jumper.,67,46,4,218,218,Oregon State Beavers,three point jumper,True,False,True,Lily Hansford,False,,8.0,18.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Eastern Washington Defensive Rebound.,67,46,4,218,218,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin missed Jumper.,67,46,4,188,188,Eastern Washington Eagles,jumper,True,False,False,Jaydia Martin,False,,38.0,16.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaleesa Lawrence Offensive Rebound.,67,46,4,188,188,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaleesa Lawrence missed Three Point Jumper.,67,46,4,184,184,Eastern Washington Eagles,three point jumper,True,False,True,Jaleesa Lawrence,False,,46.0,13.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Oregon State Defensive Rebound.,67,46,4,184,184,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kelsey Rees missed Jumper.,67,46,4,165,165,Oregon State Beavers,jumper,True,False,False,Kelsey Rees,False,,32.0,2.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin Defensive Rebound.,67,46,4,165,165,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jaydia Martin missed Three Point Jumper.,67,46,4,157,157,Eastern Washington Eagles,three point jumper,True,False,True,Jaydia Martin,False,,32.0,23.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley Offensive Rebound.,67,46,4,157,157,Eastern Washington Eagles,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Jacinta Buckley made Layup.,67,48,4,148,148,Eastern Washington Eagles,layup,True,True,False,Jacinta Buckley,False,,22.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,AJ Marotte missed Three Point Jumper.,67,48,4,123,123,Oregon State Beavers,three point jumper,True,False,True,AJ Marotte,False,,2.0,9.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Lily Hansford Offensive Rebound.,67,48,4,123,123,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on Jacinta Buckley.,67,48,4,119,119,Eastern Washington Eagles,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner made Layup. Assisted by Donovyn Hunter.,69,48,4,110,110,Oregon State Beavers,layup,True,True,False,Timea Gardiner,True,Donovyn Hunter,28.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Andie Zylak missed Jumper.,69,48,4,96,96,Eastern Washington Eagles,jumper,True,False,False,Andie Zylak,False,,24.0,15.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner Defensive Rebound.,69,48,4,96,96,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Timea Gardiner Turnover.,69,48,4,87,87,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Ella Gallatin Steal.,69,48,4,87,87,Eastern Washington Eagles,steal,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander made Layup.,69,50,4,79,79,Eastern Washington Eagles,layup,True,True,False,Aaliyah Alexander,False,,27.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Foul on AJ Marotte.,69,50,4,79,79,Oregon State Beavers,foul,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Aaliyah Alexander made Free Throw.,69,51,4,79,79,Eastern Washington Eagles,free throw,True,True,False,Aaliyah Alexander,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Kennedie Shuler made Layup.,71,51,4,54,54,Oregon State Beavers,layup,True,True,False,Kennedie Shuler,False,,23.0,2.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Andie Zylak missed Layup.,71,51,4,42,42,Eastern Washington Eagles,layup,True,False,False,Andie Zylak,False,,22.0,1.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Sela Heide Defensive Rebound.,71,51,4,42,42,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Adlee Blacklock made Jumper. Assisted by Kennedie Shuler.,73,51,4,22,22,Oregon State Beavers,jumper,True,True,False,Adlee Blacklock,True,Kennedie Shuler,10.0,10.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Eastern Washington  Timeout,73,51,4,22,22,Eastern Washington Eagles,timeout,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,Andie Zylak missed Three Point Jumper.,73,51,4,1,1,Eastern Washington Eagles,three point jumper,True,False,True,Andie Zylak,False,,26.0,25.0
+401637547,Oregon State Beavers,Eastern Washington Eagles,Oregon State Deadball Team Rebound.,73,51,4,1,1,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637547,Oregon State Beavers,Eastern Washington Eagles,End of Game,73,51,4,0,0,,end,False,False,False,,False,,,

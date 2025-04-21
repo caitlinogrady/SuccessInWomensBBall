@@ -1,0 +1,371 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Jump Ball won by Virginia Tech,0,0,1,600,2400,Virginia Tech Hokies,jump ball,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore missed Jumper.,0,0,1,590,2390,Virginia Tech Hokies,jumper,True,False,False,Georgia Amoore,False,,37.0,10.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier Defensive Rebound.,0,0,1,590,2390,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Three Point Jumper.,0,0,1,576,2376,Marshall Thundering Herd,three point jumper,True,False,True,Aislynn Hayes,False,,17.0,24.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Defensive Rebound.,0,0,1,576,2376,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh missed Three Point Jumper.,0,0,1,560,2360,Virginia Tech Hokies,three point jumper,True,False,True,Matilda Ekh,False,,2.0,3.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews Defensive Rebound.,0,0,1,560,2360,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Jumper.,0,0,1,545,2345,Marshall Thundering Herd,jumper,True,False,False,Aislynn Hayes,False,,22.0,8.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh Defensive Rebound.,0,0,1,545,2345,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack made Layup. Assisted by Olivia Summiel.,2,0,1,518,2318,Virginia Tech Hokies,layup,True,True,False,Clara Strack,True,Olivia Summiel,22.0,0.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Mahogany Matthews.,2,0,1,500,2300,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews Turnover.,2,0,1,500,2300,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore missed Layup.,2,0,1,490,2290,Virginia Tech Hokies,layup,True,False,False,Georgia Amoore,False,,27.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aarionna Redman Defensive Rebound.,2,0,1,490,2290,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Aarionna Redman.,2,0,1,481,2281,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aarionna Redman Turnover.,2,0,1,481,2281,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack made Layup. Assisted by Olivia Summiel.,4,0,1,469,2269,Virginia Tech Hokies,layup,True,True,False,Clara Strack,True,Olivia Summiel,22.0,0.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell missed Jumper.,4,0,1,457,2257,Marshall Thundering Herd,jumper,True,False,False,Breanna Campbell,False,,25.0,8.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack Defensive Rebound.,4,0,1,457,2257,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore made Layup.,6,0,1,447,2247,Virginia Tech Hokies,layup,True,True,False,Georgia Amoore,False,,27.0,0.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,CC Mays missed Three Point Jumper.,6,0,1,431,2231,Marshall Thundering Herd,three point jumper,True,False,True,CC Mays,False,,17.0,22.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Marshall Offensive Rebound.,6,0,1,431,2231,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman missed Jumper.,6,0,1,426,2226,Marshall Thundering Herd,jumper,True,False,False,Abby Beeman,False,,27.0,8.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Virginia Tech Deadball Team Rebound.,6,0,1,426,2226,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack Turnover.,6,0,1,410,2210,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Sydni Scott Steal.,6,0,1,410,2210,Marshall Thundering Herd,steal,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Sydni Scott missed Three Point Jumper.,6,0,1,403,2203,Marshall Thundering Herd,three point jumper,True,False,True,Sydni Scott,False,,7.0,19.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King Defensive Rebound.,6,0,1,403,2203,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore made Jumper.,8,0,1,386,2186,Virginia Tech Hokies,jumper,True,True,False,Georgia Amoore,False,,28.0,8.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman missed Three Point Jumper.,8,0,1,374,2174,Marshall Thundering Herd,three point jumper,True,False,True,Abby Beeman,False,,10.0,19.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Defensive Rebound.,8,0,1,374,2174,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack made Layup. Assisted by Georgia Amoore.,10,0,1,367,2167,Virginia Tech Hokies,layup,True,True,False,Clara Strack,True,Georgia Amoore,22.0,0.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Marshall  Timeout,10,0,1,366,2166,Marshall Thundering Herd,timeout,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Layup.,10,0,1,342,2142,Marshall Thundering Herd,layup,True,False,False,Aislynn Hayes,False,,29.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Defensive Rebound.,10,0,1,342,2142,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on CC Mays.,10,0,1,337,2137,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Ashley Tudor.,10,0,1,315,2115,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel missed Layup.,10,0,1,303,2103,Virginia Tech Hokies,layup,True,False,False,Carleigh Wenzel,False,,22.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews Block.,10,0,1,303,2103,Marshall Thundering Herd,block,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Sydni Scott Defensive Rebound.,10,0,1,303,2103,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Carleigh Wenzel.,10,0,1,299,2099,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd, Official TV Timeout,10,0,1,299,2099,,tv timeout,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman missed Layup.,10,0,1,298,2098,Marshall Thundering Herd,layup,True,False,False,Abby Beeman,False,,27.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel Block.,10,0,1,298,2098,Virginia Tech Hokies,block,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Rose Micheaux Defensive Rebound.,10,0,1,298,2098,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore missed Three Point Jumper.,10,0,1,287,2087,Virginia Tech Hokies,three point jumper,True,False,True,Georgia Amoore,False,,2.0,8.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews Defensive Rebound.,10,0,1,287,2087,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews missed Three Point Jumper.,10,0,1,279,2079,Marshall Thundering Herd,three point jumper,True,False,True,Mahogany Matthews,False,,11.0,19.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker Defensive Rebound.,10,0,1,279,2079,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Rose Micheaux made Layup. Assisted by Carleigh Wenzel.,12,0,1,256,2056,Virginia Tech Hokies,layup,True,True,False,Rose Micheaux,True,Carleigh Wenzel,24.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Sydni Scott missed Three Point Jumper.,12,0,1,239,2039,Marshall Thundering Herd,three point jumper,True,False,True,Sydni Scott,False,,21.0,25.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel Defensive Rebound.,12,0,1,239,2039,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Sydni Scott.,12,0,1,225,2025,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Rose Micheaux made Free Throw.,13,0,1,225,2025,Virginia Tech Hokies,free throw,True,True,False,Rose Micheaux,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Rose Micheaux missed Free Throw.,13,0,1,225,2025,Virginia Tech Hokies,free throw,True,False,False,Rose Micheaux,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,CC Mays Defensive Rebound.,13,0,1,225,2025,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Jumper.,13,0,1,209,2009,Marshall Thundering Herd,jumper,True,False,False,Aislynn Hayes,False,,26.0,4.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King Block.,13,0,1,209,2009,Virginia Tech Hokies,block,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,CC Mays Offensive Rebound.,13,0,1,209,2009,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell made Layup.,13,2,1,199,1999,Marshall Thundering Herd,layup,True,True,False,Breanna Campbell,False,,27.0,4.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Cayla King.,13,2,1,199,1999,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell made Free Throw.,13,3,1,199,1999,Marshall Thundering Herd,free throw,True,True,False,Breanna Campbell,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Ashley Tudor.,13,3,1,185,1985,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel made Free Throw.,14,3,1,185,1985,Virginia Tech Hokies,free throw,True,True,False,Carleigh Wenzel,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel made Free Throw.,15,3,1,185,1985,Virginia Tech Hokies,free throw,True,True,False,Carleigh Wenzel,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Three Point Jumper.,15,3,1,165,1965,Marshall Thundering Herd,three point jumper,True,False,True,Aislynn Hayes,False,,20.0,26.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell Offensive Rebound.,15,3,1,165,1965,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Layup.,15,3,1,148,1948,Marshall Thundering Herd,layup,True,False,False,Aislynn Hayes,False,,28.0,0.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel Defensive Rebound.,15,3,1,148,1948,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh made Three Point Jumper. Assisted by Clara Strack.,18,3,1,131,1931,Virginia Tech Hokies,three point jumper,True,True,True,Matilda Ekh,True,Clara Strack,48.0,4.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,CC Mays Turnover.,18,3,1,117,1917,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Georgia Amoore.,18,3,1,109,1909,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore Turnover.,18,3,1,109,1909,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews made Three Point Jumper. Assisted by Abby Beeman.,18,6,1,99,1899,Marshall Thundering Herd,three point jumper,True,True,True,Mahogany Matthews,True,Abby Beeman,2.0,4.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Georgia Amoore.,18,6,1,78,1878,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore Turnover.,18,6,1,78,1878,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Jumper.,18,6,1,61,1861,Marshall Thundering Herd,jumper,True,False,False,Aislynn Hayes,False,,28.0,4.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack Defensive Rebound.,18,6,1,61,1861,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack Turnover.,18,6,1,55,1855,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman Steal.,18,6,1,55,1855,Marshall Thundering Herd,steal,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Clara Strack.,18,6,1,54,1854,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman made Free Throw.,18,7,1,54,1854,Marshall Thundering Herd,free throw,True,True,False,Abby Beeman,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman missed Free Throw.,18,7,1,54,1854,Marshall Thundering Herd,free throw,True,False,False,Abby Beeman,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell Offensive Rebound.,18,7,1,47,1847,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier made Three Point Jumper. Assisted by Breanna Campbell.,18,10,1,47,1847,Marshall Thundering Herd,three point jumper,True,True,True,Meredith Maier,True,Breanna Campbell,22.0,24.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack Turnover.,18,10,1,29,1829,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell Turnover.,18,10,1,8,1808,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel Turnover.,18,10,1,4,1804,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell made Layup.,18,12,1,0,1800,Marshall Thundering Herd,layup,True,True,False,Breanna Campbell,False,,24.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,End of 1st Quarter,18,12,1,0,1800,,end,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Jump Ball won by Marshall,18,12,2,600,1800,Marshall Thundering Herd,jump ball,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell Turnover.,18,12,2,591,1791,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King Steal.,18,12,2,591,1791,Virginia Tech Hokies,steal,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack made Jumper. Assisted by Carleigh Wenzel.,20,12,2,565,1765,Virginia Tech Hokies,jumper,True,True,False,Clara Strack,True,Carleigh Wenzel,19.0,0.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell missed Three Point Jumper.,20,12,2,549,1749,Marshall Thundering Herd,three point jumper,True,False,True,Breanna Campbell,False,,6.0,15.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh Defensive Rebound.,20,12,2,549,1749,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Mahogany Matthews.,20,12,2,527,1727,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack missed Free Throw.,20,12,2,527,1727,Virginia Tech Hokies,free throw,True,False,False,Clara Strack,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Virginia Tech Deadball Team Rebound.,20,12,2,527,1727,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack made Free Throw.,21,12,2,527,1727,Virginia Tech Hokies,free throw,True,True,False,Clara Strack,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,CC Mays missed Jumper.,21,12,2,517,1717,Marshall Thundering Herd,jumper,True,False,False,CC Mays,False,,15.0,9.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack Block.,21,12,2,517,1717,Virginia Tech Hokies,block,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Defensive Rebound.,21,12,2,517,1717,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel missed Jumper.,21,12,2,486,1686,Virginia Tech Hokies,jumper,True,False,False,Olivia Summiel,False,,22.0,5.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier Defensive Rebound.,21,12,2,486,1686,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier missed Three Point Jumper.,21,12,2,475,1675,Marshall Thundering Herd,three point jumper,True,False,True,Meredith Maier,False,,31.0,24.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman Offensive Rebound.,21,12,2,475,1675,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Sydni Scott Turnover.,21,12,2,468,1668,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King Steal.,21,12,2,468,1668,Virginia Tech Hokies,steal,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Sydni Scott.,21,12,2,463,1663,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King made Free Throw.,22,12,2,463,1663,Virginia Tech Hokies,free throw,True,True,False,Cayla King,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King made Free Throw.,23,12,2,463,1663,Virginia Tech Hokies,free throw,True,True,False,Cayla King,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier made Three Point Jumper. Assisted by Mahogany Matthews.,23,15,2,442,1642,Marshall Thundering Herd,three point jumper,True,True,True,Meredith Maier,True,Mahogany Matthews,5.0,18.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Abby Beeman.,23,15,2,418,1618,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King made Three Point Jumper. Assisted by Rose Micheaux.,26,15,2,405,1605,Virginia Tech Hokies,three point jumper,True,True,True,Cayla King,True,Rose Micheaux,2.0,4.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Three Point Jumper.,26,15,2,392,1592,Marshall Thundering Herd,three point jumper,True,False,True,Aislynn Hayes,False,,18.0,25.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Peyton Ilderton Offensive Rebound.,26,15,2,392,1592,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Three Point Jumper.,26,15,2,384,1584,Marshall Thundering Herd,three point jumper,True,False,True,Aislynn Hayes,False,,25.0,24.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,CC Mays Offensive Rebound.,26,15,2,384,1584,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,CC Mays missed Layup.,26,15,2,377,1577,Marshall Thundering Herd,layup,True,False,False,CC Mays,False,,25.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King Defensive Rebound.,26,15,2,377,1577,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Ashley Tudor.,26,15,2,377,1577,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Turnover.,26,15,2,367,1567,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aarionna Redman Steal.,26,15,2,367,1567,Marshall Thundering Herd,steal,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aarionna Redman missed Three Point Jumper.,26,15,2,357,1557,Marshall Thundering Herd,three point jumper,True,False,True,Aarionna Redman,False,,27.0,24.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King Defensive Rebound.,26,15,2,357,1557,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Aislynn Hayes.,26,15,2,354,1554,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King made Free Throw.,27,15,2,354,1554,Virginia Tech Hokies,free throw,True,True,False,Cayla King,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King made Free Throw.,28,15,2,354,1554,Virginia Tech Hokies,free throw,True,True,False,Cayla King,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman Turnover.,28,15,2,342,1542,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Rose Micheaux made Layup. Assisted by Olivia Summiel.,30,15,2,329,1529,Virginia Tech Hokies,layup,True,True,False,Rose Micheaux,True,Olivia Summiel,30.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman made Jumper. Assisted by Breanna Campbell.,30,17,2,317,1517,Marshall Thundering Herd,jumper,True,True,False,Abby Beeman,True,Breanna Campbell,24.0,15.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King Turnover.,30,17,2,297,1497,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews Steal.,30,17,2,297,1497,Marshall Thundering Herd,steal,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd, Official TV Timeout,30,17,2,297,1497,,tv timeout,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews made Jumper.,30,19,2,284,1484,Marshall Thundering Herd,jumper,True,True,False,Mahogany Matthews,False,,21.0,9.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King Turnover.,30,19,2,275,1475,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell Steal.,30,19,2,275,1475,Marshall Thundering Herd,steal,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes made Jumper.,30,21,2,262,1462,Marshall Thundering Herd,jumper,True,True,False,Aislynn Hayes,False,,29.0,16.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker missed Three Point Jumper.,30,21,2,247,1447,Virginia Tech Hokies,three point jumper,True,False,True,Carys Baker,False,,1.0,3.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell Defensive Rebound.,30,21,2,247,1447,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier missed Three Point Jumper.,30,21,2,225,1425,Marshall Thundering Herd,three point jumper,True,False,True,Meredith Maier,False,,3.0,7.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes Offensive Rebound.,30,21,2,225,1425,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes Turnover.,30,21,2,213,1413,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel Steal.,30,21,2,213,1413,Virginia Tech Hokies,steal,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack made Layup. Assisted by Cayla King.,32,21,2,204,1404,Virginia Tech Hokies,layup,True,True,False,Clara Strack,True,Cayla King,22.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews made Jumper. Assisted by Abby Beeman.,32,23,2,189,1389,Marshall Thundering Herd,jumper,True,True,False,Mahogany Matthews,True,Abby Beeman,12.0,0.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker missed Three Point Jumper.,32,23,2,172,1372,Virginia Tech Hokies,three point jumper,True,False,True,Carys Baker,False,,2.0,4.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes Defensive Rebound.,32,23,2,172,1372,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier missed Three Point Jumper.,32,23,2,152,1352,Marshall Thundering Herd,three point jumper,True,False,True,Meredith Maier,False,,2.0,0.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker Defensive Rebound.,32,23,2,152,1352,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker missed Three Point Jumper.,32,23,2,142,1342,Virginia Tech Hokies,three point jumper,True,False,True,Carys Baker,False,,11.0,19.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman Defensive Rebound.,32,23,2,142,1342,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell made Layup. Assisted by Abby Beeman.,32,25,2,132,1332,Marshall Thundering Herd,layup,True,True,False,Breanna Campbell,True,Abby Beeman,23.0,0.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Mahogany Matthews.,32,25,2,112,1312,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker made Free Throw.,33,25,2,112,1312,Virginia Tech Hokies,free throw,True,True,False,Carys Baker,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker made Free Throw.,34,25,2,112,1312,Virginia Tech Hokies,free throw,True,True,False,Carys Baker,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Cayla King.,34,25,2,91,1291,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Layup.,34,25,2,81,1281,Marshall Thundering Herd,layup,True,False,False,Aislynn Hayes,False,,28.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack Block.,34,25,2,81,1281,Virginia Tech Hokies,block,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel Defensive Rebound.,34,25,2,81,1281,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh made Three Point Jumper. Assisted by Carleigh Wenzel.,37,25,2,55,1255,Virginia Tech Hokies,three point jumper,True,True,True,Matilda Ekh,True,Carleigh Wenzel,46.0,16.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Sydni Scott missed Three Point Jumper.,37,25,2,42,1242,Marshall Thundering Herd,three point jumper,True,False,True,Sydni Scott,False,,43.0,18.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker Defensive Rebound.,37,25,2,42,1242,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack made Three Point Jumper. Assisted by Olivia Summiel.,40,25,2,19,1219,Virginia Tech Hokies,three point jumper,True,True,True,Clara Strack,True,Olivia Summiel,45.0,15.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Three Point Jumper.,40,25,2,5,1205,Marshall Thundering Herd,three point jumper,True,False,True,Aislynn Hayes,False,,36.0,23.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker Defensive Rebound.,40,25,2,5,1205,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on CC Mays.,40,25,2,3,1203,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker made Free Throw.,41,25,2,3,1203,Virginia Tech Hokies,free throw,True,True,False,Carys Baker,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker made Free Throw.,42,25,2,3,1203,Virginia Tech Hokies,free throw,True,True,False,Carys Baker,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,End of 2nd Quarter,42,25,2,0,1200,,end,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Jump Ball won by Marshall,42,25,3,600,1200,Marshall Thundering Herd,jump ball,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman missed Three Point Jumper.,42,25,3,582,1182,Marshall Thundering Herd,three point jumper,True,False,True,Abby Beeman,False,,12.0,21.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King Defensive Rebound.,42,25,3,582,1182,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh made Three Point Jumper. Assisted by Georgia Amoore.,45,25,3,563,1163,Virginia Tech Hokies,three point jumper,True,True,True,Matilda Ekh,True,Georgia Amoore,49.0,4.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes made Layup.,45,27,3,549,1149,Marshall Thundering Herd,layup,True,True,False,Aislynn Hayes,False,,22.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Cayla King.,45,27,3,549,1149,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Free Throw.,45,27,3,549,1149,Marshall Thundering Herd,free throw,True,False,False,Aislynn Hayes,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Defensive Rebound.,45,27,3,549,1149,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh made Three Point Jumper. Assisted by Carleigh Wenzel.,48,27,3,534,1134,Virginia Tech Hokies,three point jumper,True,True,True,Matilda Ekh,True,Carleigh Wenzel,2.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Three Point Jumper.,48,27,3,523,1123,Marshall Thundering Herd,three point jumper,True,False,True,Aislynn Hayes,False,,45.0,19.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Defensive Rebound.,48,27,3,523,1123,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel made Layup. Assisted by Georgia Amoore.,50,27,3,513,1113,Virginia Tech Hokies,layup,True,True,False,Carleigh Wenzel,True,Georgia Amoore,29.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell missed Jumper.,50,27,3,491,1091,Marshall Thundering Herd,jumper,True,False,False,Breanna Campbell,False,,26.0,6.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack Defensive Rebound.,50,27,3,491,1091,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh missed Three Point Jumper.,50,27,3,475,1075,Virginia Tech Hokies,three point jumper,True,False,True,Matilda Ekh,False,,48.0,0.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Offensive Rebound.,50,27,3,475,1075,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore made Three Point Jumper. Assisted by Olivia Summiel.,53,27,3,470,1070,Virginia Tech Hokies,three point jumper,True,True,True,Georgia Amoore,True,Olivia Summiel,36.0,22.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Marshall  Timeout,53,27,3,470,1070,Marshall Thundering Herd,timeout,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd, Official TV Timeout,53,27,3,470,1070,,tv timeout,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier Turnover.,53,27,3,455,1055,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel Turnover.,53,27,3,443,1043,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Georgia Amoore.,53,27,3,433,1033,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Ashley Tudor missed Layup.,53,27,3,421,1021,Marshall Thundering Herd,layup,True,False,False,Ashley Tudor,False,,23.0,4.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack Block.,53,27,3,421,1021,Virginia Tech Hokies,block,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell Offensive Rebound.,53,27,3,421,1021,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman missed Three Point Jumper.,53,27,3,412,1012,Marshall Thundering Herd,three point jumper,True,False,True,Abby Beeman,False,,7.0,16.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Virginia Tech Deadball Team Rebound.,53,27,3,412,1012,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Ashley Tudor.,53,27,3,412,1012,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel made Layup.,55,27,3,395,995,Virginia Tech Hokies,layup,True,True,False,Carleigh Wenzel,False,,23.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Ashley Tudor.,55,27,3,395,995,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel made Free Throw.,56,27,3,395,995,Virginia Tech Hokies,free throw,True,True,False,Carleigh Wenzel,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman made Layup. Assisted by Sydni Scott.,56,29,3,390,990,Marshall Thundering Herd,layup,True,True,False,Abby Beeman,True,Sydni Scott,22.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Sydni Scott.,56,29,3,383,983,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Sydni Scott.,56,29,3,383,983,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd, Official TV Timeout,56,29,3,382,982,,tv timeout,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh made Free Throw.,57,29,3,382,982,Virginia Tech Hokies,free throw,True,True,False,Matilda Ekh,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh made Free Throw.,58,29,3,382,982,Virginia Tech Hokies,free throw,True,True,False,Matilda Ekh,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack made Jumper.,60,29,3,361,961,Virginia Tech Hokies,jumper,True,True,False,Clara Strack,False,,19.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman made Jumper.,60,31,3,347,947,Marshall Thundering Herd,jumper,True,True,False,Abby Beeman,False,,20.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Aislynn Hayes.,60,31,3,340,940,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel missed Free Throw.,60,31,3,340,940,Virginia Tech Hokies,free throw,True,False,False,Carleigh Wenzel,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Virginia Tech Deadball Team Rebound.,60,31,3,340,940,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel made Free Throw.,61,31,3,340,940,Virginia Tech Hokies,free throw,True,True,False,Carleigh Wenzel,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell missed Three Point Jumper.,61,31,3,331,931,Marshall Thundering Herd,three point jumper,True,False,True,Breanna Campbell,False,,13.0,20.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack Defensive Rebound.,61,31,3,331,931,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker made Layup. Assisted by Carleigh Wenzel.,63,31,3,321,921,Virginia Tech Hokies,layup,True,True,False,Carys Baker,True,Carleigh Wenzel,28.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman made Layup.,63,33,3,312,912,Marshall Thundering Herd,layup,True,True,False,Abby Beeman,False,,27.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Aislynn Hayes.,63,33,3,281,881,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh made Free Throw.,64,33,3,281,881,Virginia Tech Hokies,free throw,True,True,False,Matilda Ekh,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh made Free Throw.,65,33,3,281,881,Virginia Tech Hokies,free throw,True,True,False,Matilda Ekh,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Layup.,65,33,3,267,867,Marshall Thundering Herd,layup,True,False,False,Aislynn Hayes,False,,22.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Defensive Rebound.,65,33,3,267,867,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh missed Jumper.,65,33,3,248,848,Virginia Tech Hokies,jumper,True,False,False,Matilda Ekh,False,,25.0,6.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman Defensive Rebound.,65,33,3,248,848,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman missed Layup.,65,33,3,233,833,Marshall Thundering Herd,layup,True,False,False,Abby Beeman,False,,21.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack Defensive Rebound.,65,33,3,233,833,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Alasia Hayes.,65,33,3,217,817,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack made Free Throw.,66,33,3,217,817,Virginia Tech Hokies,free throw,True,True,False,Clara Strack,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack missed Free Throw.,66,33,3,217,817,Virginia Tech Hokies,free throw,True,False,False,Clara Strack,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier Defensive Rebound.,66,33,3,217,817,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier missed Three Point Jumper.,66,33,3,208,808,Marshall Thundering Herd,three point jumper,True,False,True,Meredith Maier,False,,26.0,24.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Marshall Offensive Rebound.,66,33,3,208,808,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell missed Three Point Jumper.,66,33,3,205,805,Marshall Thundering Herd,three point jumper,True,False,True,Breanna Campbell,False,,9.0,18.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Virginia Tech Defensive Rebound.,66,33,3,205,805,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel missed Three Point Jumper.,66,33,3,176,776,Virginia Tech Hokies,three point jumper,True,False,True,Carleigh Wenzel,False,,25.0,24.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Rose Micheaux Offensive Rebound.,66,33,3,176,776,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Rose Micheaux made Layup.,68,33,3,172,772,Virginia Tech Hokies,layup,True,True,False,Rose Micheaux,False,,27.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews missed Jumper.,68,33,3,148,748,Marshall Thundering Herd,jumper,True,False,False,Mahogany Matthews,False,,16.0,7.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Peyton Ilderton Offensive Rebound.,68,33,3,148,748,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Peyton Ilderton.,68,33,3,146,746,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel made Free Throw.,69,33,3,146,746,Virginia Tech Hokies,free throw,True,True,False,Olivia Summiel,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel made Free Throw.,70,33,3,146,746,Virginia Tech Hokies,free throw,True,True,False,Olivia Summiel,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman missed Layup.,70,33,3,139,739,Marshall Thundering Herd,layup,True,False,False,Abby Beeman,False,,21.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman Offensive Rebound.,70,33,3,139,739,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Rose Micheaux.,70,33,3,139,739,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman missed Free Throw.,70,33,3,139,739,Marshall Thundering Herd,free throw,True,False,False,Abby Beeman,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Marshall Deadball Team Rebound.,70,33,3,139,739,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman made Free Throw.,70,34,3,139,739,Marshall Thundering Herd,free throw,True,True,False,Abby Beeman,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Cayla King.,70,34,3,122,722,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King Turnover.,70,34,3,122,722,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Layup.,70,34,3,113,713,Marshall Thundering Herd,layup,True,False,False,Aislynn Hayes,False,,27.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel Block.,70,34,3,113,713,Virginia Tech Hokies,block,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel Defensive Rebound.,70,34,3,113,713,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Rose Micheaux Turnover.,70,34,3,103,703,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman missed Jumper.,70,34,3,91,691,Marshall Thundering Herd,jumper,True,False,False,Abby Beeman,False,,25.0,9.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Rose Micheaux Defensive Rebound.,70,34,3,91,691,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker missed Three Point Jumper.,70,34,3,75,675,Virginia Tech Hokies,three point jumper,True,False,True,Carys Baker,False,,27.0,26.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman Defensive Rebound.,70,34,3,75,675,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman Turnover.,70,34,3,68,668,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Abby Beeman.,70,34,3,59,659,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel made Free Throw.,71,34,3,59,659,Virginia Tech Hokies,free throw,True,True,False,Carleigh Wenzel,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel made Free Throw.,72,34,3,59,659,Virginia Tech Hokies,free throw,True,True,False,Carleigh Wenzel,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews Turnover.,72,34,3,45,645,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carys Baker Steal.,72,34,3,45,645,Virginia Tech Hokies,steal,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel made Three Point Jumper. Assisted by Carleigh Wenzel.,75,34,3,35,635,Virginia Tech Hokies,three point jumper,True,True,True,Olivia Summiel,True,Carleigh Wenzel,41.0,17.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman missed Three Point Jumper.,75,34,3,23,623,Marshall Thundering Herd,three point jumper,True,False,True,Abby Beeman,False,,30.0,24.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Rose Micheaux Defensive Rebound.,75,34,3,23,623,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh made Three Point Jumper. Assisted by Carleigh Wenzel.,78,34,3,4,604,Virginia Tech Hokies,three point jumper,True,True,True,Matilda Ekh,True,Carleigh Wenzel,26.0,25.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,End of 3rd Quarter,78,34,3,0,600,,end,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Jump Ball won by Virginia Tech,78,34,4,600,600,Virginia Tech Hokies,jump ball,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore missed Three Point Jumper.,78,34,4,596,596,Virginia Tech Hokies,three point jumper,True,False,True,Georgia Amoore,False,,8.0,17.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes Defensive Rebound.,78,34,4,596,596,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,CC Mays missed Three Point Jumper.,78,34,4,584,584,Marshall Thundering Herd,three point jumper,True,False,True,CC Mays,False,,44.0,14.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Defensive Rebound.,78,34,4,584,584,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore made Layup. Assisted by Clara Strack.,80,34,4,578,578,Virginia Tech Hokies,layup,True,True,False,Georgia Amoore,True,Clara Strack,28.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell missed Layup.,80,34,4,570,570,Marshall Thundering Herd,layup,True,False,False,Breanna Campbell,False,,22.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Block.,80,34,4,570,570,Virginia Tech Hokies,block,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Defensive Rebound.,80,34,4,570,570,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Turnover.,80,34,4,565,565,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell Steal.,80,34,4,565,565,Marshall Thundering Herd,steal,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Tamia Lawhorne missed Three Point Jumper.,80,34,4,554,554,Marshall Thundering Herd,three point jumper,True,False,True,Tamia Lawhorne,False,,4.0,15.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Marshall Offensive Rebound.,80,34,4,554,554,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Tamia Lawhorne made Three Point Jumper. Assisted by Aislynn Hayes.,80,37,4,547,547,Marshall Thundering Herd,three point jumper,True,True,True,Tamia Lawhorne,True,Aislynn Hayes,5.0,13.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on CC Mays.,80,37,4,509,509,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore missed Jumper.,80,37,4,508,508,Virginia Tech Hokies,jumper,True,False,False,Georgia Amoore,False,,11.0,0.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Alasia Hayes Defensive Rebound.,80,37,4,508,508,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier missed Three Point Jumper.,80,37,4,496,496,Marshall Thundering Herd,three point jumper,True,False,True,Meredith Maier,False,,1.0,3.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Defensive Rebound.,80,37,4,485,485,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King made Three Point Jumper. Assisted by Georgia Amoore.,83,37,4,485,485,Virginia Tech Hokies,three point jumper,True,True,True,Cayla King,True,Georgia Amoore,38.0,20.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman missed Layup.,83,37,4,474,474,Marshall Thundering Herd,layup,True,False,False,Abby Beeman,False,,22.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore Block.,83,37,4,474,474,Virginia Tech Hokies,block,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Marshall Offensive Rebound.,83,37,4,474,474,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier missed Three Point Jumper.,83,37,4,462,462,Marshall Thundering Herd,three point jumper,True,False,True,Meredith Maier,False,,3.0,8.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh Defensive Rebound.,83,37,4,462,462,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore Turnover.,83,37,4,452,452,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Sydni Scott made Three Point Jumper. Assisted by Abby Beeman.,83,40,4,444,444,Marshall Thundering Herd,three point jumper,True,True,True,Sydni Scott,True,Abby Beeman,13.0,21.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel made Layup. Assisted by Cayla King.,85,40,4,431,431,Virginia Tech Hokies,layup,True,True,False,Olivia Summiel,True,Cayla King,28.0,0.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier missed Three Point Jumper.,85,40,4,421,421,Marshall Thundering Herd,three point jumper,True,False,True,Meredith Maier,False,,38.0,21.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore Defensive Rebound.,85,40,4,421,421,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore missed Three Point Jumper.,85,40,4,400,400,Virginia Tech Hokies,three point jumper,True,False,True,Georgia Amoore,False,,19.0,23.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Alasia Hayes Defensive Rebound.,85,40,4,400,400,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman Turnover.,85,40,4,391,391,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack Steal.,85,40,4,391,391,Virginia Tech Hokies,steal,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh made Layup. Assisted by Cayla King.,87,40,4,385,385,Virginia Tech Hokies,layup,True,True,False,Matilda Ekh,True,Cayla King,28.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Sydni Scott made Three Point Jumper. Assisted by Mahogany Matthews.,87,43,4,378,378,Marshall Thundering Herd,three point jumper,True,True,True,Sydni Scott,True,Mahogany Matthews,46.0,11.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King missed Three Point Jumper.,87,43,4,360,360,Virginia Tech Hokies,three point jumper,True,False,True,Cayla King,False,,6.0,15.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Virginia Tech Offensive Rebound.,87,43,4,360,360,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on CC Mays.,87,43,4,347,347,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Breanna Campbell.,87,43,4,345,345,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel made Free Throw.,88,43,4,345,345,Virginia Tech Hokies,free throw,True,True,False,Carleigh Wenzel,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel made Free Throw.,89,43,4,345,345,Virginia Tech Hokies,free throw,True,True,False,Carleigh Wenzel,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Three Point Jumper.,89,43,4,339,339,Marshall Thundering Herd,three point jumper,True,False,True,Aislynn Hayes,False,,32.0,27.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Defensive Rebound.,89,43,4,339,339,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore missed Layup.,89,43,4,312,312,Virginia Tech Hokies,layup,True,False,False,Georgia Amoore,False,,29.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Tamia Lawhorne Defensive Rebound.,89,43,4,312,312,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Tamia Lawhorne Turnover.,89,43,4,307,307,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Matilda Ekh Steal.,89,43,4,307,307,Virginia Tech Hokies,steal,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel missed Layup.,89,43,4,301,301,Virginia Tech Hokies,layup,True,False,False,Carleigh Wenzel,False,,23.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Marshall Defensive Rebound.,89,43,4,301,301,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Marshall  Timeout,89,43,4,286,286,Marshall Thundering Herd,timeout,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd, Official TV Timeout,89,43,4,286,286,,tv timeout,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Olivia Summiel.,89,43,4,277,277,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews missed Three Point Jumper.,89,43,4,273,273,Marshall Thundering Herd,three point jumper,True,False,True,Mahogany Matthews,False,,47.0,9.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Sydni Scott Offensive Rebound.,89,43,4,273,273,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Sydni Scott missed Two Point Tip Shot.,89,43,4,273,273,Marshall Thundering Herd,two point tip shot,True,False,False,Sydni Scott,False,,25.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Sydni Scott Offensive Rebound.,89,43,4,273,273,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Sydni Scott Turnover.,89,43,4,262,262,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Steal.,89,43,4,262,262,Virginia Tech Hokies,steal,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel missed Layup.,89,43,4,241,241,Virginia Tech Hokies,layup,True,False,False,Carleigh Wenzel,False,,26.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel Offensive Rebound.,89,43,4,241,241,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel missed Layup.,89,43,4,239,239,Virginia Tech Hokies,layup,True,False,False,Carleigh Wenzel,False,,26.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier Block.,89,43,4,239,239,Marshall Thundering Herd,block,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Carleigh Wenzel Offensive Rebound.,89,43,4,239,239,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Abby Beeman.,89,43,4,239,239,Marshall Thundering Herd,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Rose Micheaux missed Free Throw.,89,43,4,239,239,Virginia Tech Hokies,free throw,True,False,False,Rose Micheaux,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Virginia Tech Deadball Team Rebound.,89,43,4,239,239,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Rose Micheaux made Free Throw.,90,43,4,239,239,Virginia Tech Hokies,free throw,True,True,False,Rose Micheaux,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Tamia Lawhorne missed Three Point Jumper.,90,43,4,234,234,Marshall Thundering Herd,three point jumper,True,False,True,Tamia Lawhorne,False,,23.0,25.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,CC Mays Offensive Rebound.,90,43,4,234,234,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes missed Layup.,90,43,4,224,224,Marshall Thundering Herd,layup,True,False,False,Aislynn Hayes,False,,26.0,3.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Defensive Rebound.,90,43,4,224,224,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Georgia Amoore missed Three Point Jumper.,90,43,4,217,217,Virginia Tech Hokies,three point jumper,True,False,True,Georgia Amoore,False,,49.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Tamia Lawhorne Defensive Rebound.,90,43,4,217,217,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Tamia Lawhorne missed Three Point Jumper.,90,43,4,195,195,Marshall Thundering Herd,three point jumper,True,False,True,Tamia Lawhorne,False,,39.0,20.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,CC Mays Offensive Rebound.,90,43,4,195,195,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Aislynn Hayes made Layup.,90,45,4,178,178,Marshall Thundering Herd,layup,True,True,False,Aislynn Hayes,False,,22.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel missed Three Point Jumper.,90,45,4,149,149,Virginia Tech Hokies,three point jumper,True,False,True,Olivia Summiel,False,,24.0,26.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Marshall Deadball Team Rebound.,90,45,4,149,149,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Rose Micheaux.,90,45,4,149,149,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Carleigh Wenzel.,90,45,4,142,142,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman made Free Throw.,90,46,4,142,142,Marshall Thundering Herd,free throw,True,True,False,Abby Beeman,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Abby Beeman made Free Throw.,90,47,4,142,142,Marshall Thundering Herd,free throw,True,True,False,Abby Beeman,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Cayla King Turnover.,90,47,4,134,134,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier missed Three Point Jumper.,90,47,4,125,125,Marshall Thundering Herd,three point jumper,True,False,True,Meredith Maier,False,,48.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel Defensive Rebound.,90,47,4,125,125,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Olivia Summiel missed Jumper.,90,47,4,105,105,Virginia Tech Hokies,jumper,True,False,False,Olivia Summiel,False,,25.0,5.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier Defensive Rebound.,90,47,4,105,105,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Meredith Maier missed Three Point Jumper.,90,47,4,86,86,Marshall Thundering Herd,three point jumper,True,False,True,Meredith Maier,False,,1.0,1.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Marshall Offensive Rebound.,90,47,4,83,83,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Breanna Campbell Turnover.,90,47,4,76,76,Marshall Thundering Herd,turnover,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Rose Micheaux made Layup. Assisted by Carys Baker.,92,47,4,62,62,Virginia Tech Hokies,layup,True,True,False,Rose Micheaux,True,Carys Baker,25.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews missed Three Point Jumper.,92,47,4,48,48,Marshall Thundering Herd,three point jumper,True,False,True,Mahogany Matthews,False,,25.0,24.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Marshall Deadball Team Rebound.,92,47,4,48,48,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Foul on Carys Baker.,92,47,4,42,42,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews missed Layup.,92,47,4,31,31,Marshall Thundering Herd,layup,True,False,False,Mahogany Matthews,False,,28.0,2.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Clara Strack Block.,92,47,4,31,31,Virginia Tech Hokies,block,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Marshall Offensive Rebound.,92,47,4,31,31,Marshall Thundering Herd,rebound,False,False,False,,False,,,
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,Mahogany Matthews made Jumper. Assisted by Alasia Hayes.,92,49,4,28,28,Marshall Thundering Herd,jumper,True,True,False,Mahogany Matthews,True,Alasia Hayes,35.0,10.0
+401637553,Virginia Tech Hokies,Marshall Thundering Herd,End of Game,92,49,4,0,0,,end,False,False,False,,False,,,

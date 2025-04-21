@@ -1,0 +1,340 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637551,Iowa State Cyclones,Maryland Terrapins,Jump Ball won by Iowa State,0,0,1,600,2400,Iowa State Cyclones,jump ball,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown made Layup. Assisted by Emily Ryan.,2,0,1,590,2390,Iowa State Cyclones,layup,True,True,False,Addy Brown,True,Emily Ryan,28.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel made Jumper.,2,2,1,578,2378,Maryland Terrapins,jumper,True,True,False,Bri McDaniel,False,,14.0,17.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan missed Jumper.,2,2,1,544,2344,Iowa State Cyclones,jumper,True,False,False,Emily Ryan,False,,26.0,10.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Offensive Rebound.,2,2,1,544,2344,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks missed Layup.,2,2,1,540,2340,Iowa State Cyclones,layup,True,False,False,Audi Crooks,False,,23.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius Defensive Rebound.,2,2,1,540,2340,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers made Three Point Jumper.,2,5,1,525,2325,Maryland Terrapins,three point jumper,True,True,True,Shyanne Sellers,False,,34.0,24.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Addy Brown.,4,5,1,512,2312,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Addy Brown,21.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel made Three Point Jumper. Assisted by Faith Masonius.,4,8,1,501,2301,Maryland Terrapins,three point jumper,True,True,True,Bri McDaniel,True,Faith Masonius,2.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown missed Three Point Jumper.,4,8,1,488,2288,Iowa State Cyclones,three point jumper,True,False,True,Addy Brown,False,,7.0,19.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel Defensive Rebound.,4,8,1,488,2288,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers missed Three Point Jumper.,4,8,1,479,2279,Maryland Terrapins,three point jumper,True,False,True,Shyanne Sellers,False,,1.0,2.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Defensive Rebound.,4,8,1,479,2279,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown made Layup. Assisted by Emily Ryan.,6,8,1,456,2256,Iowa State Cyclones,layup,True,True,False,Addy Brown,True,Emily Ryan,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius made Layup. Assisted by Bri McDaniel.,6,10,1,442,2242,Maryland Terrapins,layup,True,True,False,Faith Masonius,True,Bri McDaniel,22.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Isnelle Natabou missed Layup.,6,10,1,417,2217,Iowa State Cyclones,layup,True,False,False,Isnelle Natabou,False,,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner Defensive Rebound.,6,10,1,417,2217,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius made Layup.,6,12,1,405,2205,Maryland Terrapins,layup,True,True,False,Faith Masonius,False,,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Hannah Belanger missed Three Point Jumper.,6,12,1,383,2183,Iowa State Cyclones,three point jumper,True,False,True,Hannah Belanger,False,,45.0,13.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers Defensive Rebound.,6,12,1,383,2183,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel missed Jumper.,6,12,1,374,2174,Maryland Terrapins,jumper,True,False,False,Bri McDaniel,False,,15.0,14.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Hannah Belanger Defensive Rebound.,6,12,1,374,2174,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Isnelle Natabou.,6,12,1,364,2164,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Isnelle Natabou Turnover.,6,12,1,364,2164,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek made Three Point Jumper. Assisted by Shyanne Sellers.,6,15,1,344,2144,Maryland Terrapins,three point jumper,True,True,True,Allie Kubek,True,Shyanne Sellers,39.0,23.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Nyamer Diew.,8,15,1,331,2131,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Nyamer Diew,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek made Three Point Jumper.,8,18,1,318,2118,Maryland Terrapins,three point jumper,True,True,True,Allie Kubek,False,,35.0,24.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Emily Ryan.,10,18,1,310,2110,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Emily Ryan,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Nyamer Diew.,10,18,1,303,2103,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers made Free Throw.,10,19,1,303,2103,Maryland Terrapins,free throw,True,True,False,Shyanne Sellers,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers made Free Throw.,10,20,1,303,2103,Maryland Terrapins,free throw,True,True,False,Shyanne Sellers,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens missed Jumper.,10,20,1,279,2079,Iowa State Cyclones,jumper,True,False,False,Kelsey Joens,False,,38.0,2.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Offensive Rebound.,10,20,1,279,2079,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup.,12,20,1,275,2075,Iowa State Cyclones,layup,True,True,False,Audi Crooks,False,,28.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Maryland  Turnover.,12,20,1,275,2075,Maryland Terrapins,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins, Official TV Timeout,12,20,1,275,2075,,tv timeout,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan made Three Point Jumper. Assisted by Addy Brown.,15,20,1,267,2067,Iowa State Cyclones,three point jumper,True,True,True,Emily Ryan,True,Addy Brown,2.0,11.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek Turnover.,15,20,1,247,2047,Maryland Terrapins,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Emily Ryan.,15,20,1,237,2037,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan Turnover.,15,20,1,237,2037,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek made Three Point Jumper. Assisted by Bri McDaniel.,15,23,1,226,2026,Maryland Terrapins,three point jumper,True,True,True,Allie Kubek,True,Bri McDaniel,42.0,19.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Allie Kubek.,15,23,1,202,2002,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Nyamer Diew made Free Throw.,16,23,1,202,2002,Iowa State Cyclones,free throw,True,True,False,Nyamer Diew,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Nyamer Diew missed Free Throw.,16,23,1,202,2002,Iowa State Cyclones,free throw,True,False,False,Nyamer Diew,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers Defensive Rebound.,16,23,1,202,2002,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius missed Jumper.,16,23,1,185,1985,Maryland Terrapins,jumper,True,False,False,Faith Masonius,False,,38.0,8.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers Offensive Rebound.,16,23,1,185,1985,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers made Layup.,16,25,1,180,1980,Maryland Terrapins,layup,True,True,False,Shyanne Sellers,False,,24.0,2.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown missed Three Point Jumper.,16,25,1,172,1972,Iowa State Cyclones,three point jumper,True,False,True,Addy Brown,False,,27.0,24.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers Defensive Rebound.,16,25,1,172,1972,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Brinae Alexander made Three Point Jumper.,16,28,1,159,1959,Maryland Terrapins,three point jumper,True,True,True,Brinae Alexander,False,,6.0,15.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Nyamer Diew missed Layup.,16,28,1,129,1929,Iowa State Cyclones,layup,True,False,False,Nyamer Diew,False,,22.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers Defensive Rebound.,16,28,1,129,1929,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel missed Layup.,16,28,1,121,1921,Maryland Terrapins,layup,True,False,False,Bri McDaniel,False,,27.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown Block.,16,28,1,121,1921,Iowa State Cyclones,block,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius Offensive Rebound.,16,28,1,120,1920,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius made Layup.,16,30,1,120,1920,Maryland Terrapins,layup,True,True,False,Faith Masonius,False,,23.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Nyamer Diew made Layup. Assisted by Addy Brown.,18,30,1,93,1893,Iowa State Cyclones,layup,True,True,False,Nyamer Diew,True,Addy Brown,28.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius made Jumper.,18,32,1,75,1875,Maryland Terrapins,jumper,True,True,False,Faith Masonius,False,,27.0,5.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Brinae Alexander.,18,32,1,65,1865,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown Turnover.,18,32,1,56,1856,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek Steal.,18,32,1,56,1856,Maryland Terrapins,steal,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius missed Jumper.,18,32,1,33,1833,Maryland Terrapins,jumper,True,False,False,Faith Masonius,False,,24.0,15.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Fisher Offensive Rebound.,18,32,1,33,1833,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Emily Ryan.,18,32,1,33,1833,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Fisher missed Free Throw.,18,32,1,33,1833,Maryland Terrapins,free throw,True,False,False,Emily Fisher,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Maryland Deadball Team Rebound.,18,32,1,33,1833,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Fisher made Free Throw.,18,33,1,33,1833,Maryland Terrapins,free throw,True,True,False,Emily Fisher,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens made Layup.,20,33,1,6,1806,Iowa State Cyclones,layup,True,True,False,Kelsey Joens,False,,28.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,End of 1st Quarter,20,33,1,0,1800,,end,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Jump Ball won by Maryland,20,33,2,600,1800,Maryland Terrapins,jump ball,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek made Layup. Assisted by Brinae Alexander.,20,35,2,587,1787,Maryland Terrapins,layup,True,True,False,Allie Kubek,True,Brinae Alexander,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Shyanne Sellers.,20,35,2,570,1770,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Jalynn Bristow Turnover.,20,35,2,561,1761,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers missed Jumper.,20,35,2,545,1745,Maryland Terrapins,jumper,True,False,False,Shyanne Sellers,False,,19.0,18.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown Defensive Rebound.,20,35,2,545,1745,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Addy Brown.,22,35,2,534,1734,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Addy Brown,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner missed Jumper.,22,35,2,525,1725,Maryland Terrapins,jumper,True,False,False,Jakia Brown-Turner,False,,28.0,8.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner Offensive Rebound.,22,35,2,525,1725,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner missed Jumper.,22,35,2,509,1709,Maryland Terrapins,jumper,True,False,False,Jakia Brown-Turner,False,,12.0,13.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Defensive Rebound.,22,35,2,509,1709,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens missed Three Point Jumper.,22,35,2,489,1689,Iowa State Cyclones,three point jumper,True,False,True,Kelsey Joens,False,,1.0,5.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown Offensive Rebound.,22,35,2,489,1689,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown missed Layup.,22,35,2,483,1683,Iowa State Cyclones,layup,True,False,False,Addy Brown,False,,22.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner Defensive Rebound.,22,35,2,483,1683,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Brinae Alexander made Three Point Jumper. Assisted by Shyanne Sellers.,22,38,2,474,1674,Maryland Terrapins,three point jumper,True,True,True,Brinae Alexander,True,Shyanne Sellers,40.0,22.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens Turnover.,22,38,2,462,1662,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius missed Layup.,22,38,2,443,1643,Maryland Terrapins,layup,True,False,False,Faith Masonius,False,,28.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Arianna Jackson Defensive Rebound.,22,38,2,443,1643,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown missed Three Point Jumper.,22,38,2,430,1630,Iowa State Cyclones,three point jumper,True,False,True,Addy Brown,False,,7.0,20.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek Defensive Rebound.,22,38,2,430,1630,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel Turnover.,22,38,2,413,1613,Maryland Terrapins,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks missed Layup.,22,38,2,397,1597,Iowa State Cyclones,layup,True,False,False,Audi Crooks,False,,22.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Offensive Rebound.,22,38,2,397,1597,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Shyanne Sellers.,22,38,2,396,1596,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks missed Free Throw.,22,38,2,396,1596,Iowa State Cyclones,free throw,True,False,False,Audi Crooks,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Deadball Team Rebound.,22,38,2,396,1596,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Free Throw.,23,38,2,396,1596,Iowa State Cyclones,free throw,True,True,False,Audi Crooks,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel missed Three Point Jumper.,23,38,2,379,1579,Maryland Terrapins,three point jumper,True,False,True,Bri McDaniel,False,,25.0,25.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Hannah Belanger Defensive Rebound.,23,38,2,379,1579,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Nyamer Diew missed Three Point Jumper.,23,38,2,361,1561,Iowa State Cyclones,three point jumper,True,False,True,Nyamer Diew,False,,22.0,25.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Offensive Rebound.,23,38,2,361,1561,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup.,25,38,2,357,1557,Iowa State Cyclones,layup,True,True,False,Audi Crooks,False,,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel Turnover.,25,38,2,335,1535,Maryland Terrapins,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Nyamer Diew Steal.,25,38,2,335,1535,Iowa State Cyclones,steal,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Nyamer Diew made Layup.,27,38,2,328,1528,Iowa State Cyclones,layup,True,True,False,Nyamer Diew,False,,22.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Fisher missed Three Point Jumper.,27,38,2,312,1512,Maryland Terrapins,three point jumper,True,False,True,Emily Fisher,False,,42.0,21.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Defensive Rebound.,27,38,2,312,1512,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Bri McDaniel.,27,38,2,312,1512,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Nyamer Diew.,29,38,2,290,1490,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Nyamer Diew,22.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek made Three Point Jumper. Assisted by Bri McDaniel.,29,41,2,272,1472,Maryland Terrapins,three point jumper,True,True,True,Allie Kubek,True,Bri McDaniel,36.0,25.0
+401637551,Iowa State Cyclones,Maryland Terrapins, Official TV Timeout,29,41,2,267,1467,,tv timeout,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Hannah Belanger missed Layup.,29,41,2,251,1451,Iowa State Cyclones,layup,True,False,False,Hannah Belanger,False,,21.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner Block.,29,41,2,251,1451,Maryland Terrapins,block,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Offensive Rebound.,29,41,2,251,1451,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State  Turnover.,29,41,2,235,1435,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Nyamer Diew.,29,41,2,225,1425,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers made Free Throw.,29,42,2,225,1425,Maryland Terrapins,free throw,True,True,False,Shyanne Sellers,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers made Free Throw.,29,43,2,225,1425,Maryland Terrapins,free throw,True,True,False,Shyanne Sellers,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Nyamer Diew missed Three Point Jumper.,29,43,2,201,1401,Iowa State Cyclones,three point jumper,True,False,True,Nyamer Diew,False,,1.0,6.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Maryland Defensive Rebound.,29,43,2,201,1401,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek made Three Point Jumper. Assisted by Shyanne Sellers.,29,46,2,187,1387,Maryland Terrapins,three point jumper,True,True,True,Allie Kubek,True,Shyanne Sellers,10.0,20.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown Turnover.,29,46,2,166,1366,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Brinae Alexander.,29,46,2,156,1356,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Brinae Alexander Turnover.,29,46,2,156,1356,Maryland Terrapins,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Jalynn Bristow missed Three Point Jumper.,29,46,2,138,1338,Iowa State Cyclones,three point jumper,True,False,True,Jalynn Bristow,False,,2.0,6.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers Defensive Rebound.,29,46,2,138,1338,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel missed Three Point Jumper.,29,46,2,124,1324,Maryland Terrapins,three point jumper,True,False,True,Bri McDaniel,False,,2.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner Offensive Rebound.,29,46,2,124,1324,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner made Layup.,29,48,2,115,1315,Maryland Terrapins,layup,True,True,False,Jakia Brown-Turner,False,,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Emily Fisher.,29,48,2,104,1304,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Hannah Belanger missed Free Throw.,29,48,2,104,1304,Iowa State Cyclones,free throw,True,False,False,Hannah Belanger,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Deadball Team Rebound.,29,48,2,104,1304,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Hannah Belanger made Free Throw.,30,48,2,104,1304,Iowa State Cyclones,free throw,True,True,False,Hannah Belanger,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Addy Brown.,30,48,2,88,1288,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek made Free Throw.,30,49,2,88,1288,Maryland Terrapins,free throw,True,True,False,Allie Kubek,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek made Free Throw.,30,50,2,88,1288,Maryland Terrapins,free throw,True,True,False,Allie Kubek,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan missed Layup.,30,50,2,75,1275,Iowa State Cyclones,layup,True,False,False,Emily Ryan,False,,21.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Offensive Rebound.,30,50,2,75,1275,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup.,32,50,2,73,1273,Iowa State Cyclones,layup,True,True,False,Audi Crooks,False,,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Bri McDaniel.,32,50,2,73,1273,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Free Throw.,33,50,2,73,1273,Iowa State Cyclones,free throw,True,True,False,Audi Crooks,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Fisher made Jumper. Assisted by Allie Kubek.,33,52,2,55,1255,Maryland Terrapins,jumper,True,True,False,Emily Fisher,True,Allie Kubek,23.0,16.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Hannah Belanger made Three Point Jumper. Assisted by Emily Ryan.,36,52,2,42,1242,Iowa State Cyclones,three point jumper,True,True,True,Hannah Belanger,True,Emily Ryan,48.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Faith Masonius.,36,52,2,26,1226,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius Turnover.,36,52,2,26,1226,Maryland Terrapins,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Audi Crooks.,36,52,2,2,1202,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Turnover.,36,52,2,2,1202,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,End of 2nd Quarter,36,52,2,0,1200,,end,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Jump Ball won by Iowa State,36,52,3,600,1200,Iowa State Cyclones,jump ball,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Hannah Belanger made Three Point Jumper. Assisted by Emily Ryan.,39,52,3,587,1187,Iowa State Cyclones,three point jumper,True,True,True,Hannah Belanger,True,Emily Ryan,42.0,19.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel missed Jumper.,39,52,3,566,1166,Maryland Terrapins,jumper,True,False,False,Bri McDaniel,False,,25.0,15.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Arianna Jackson Defensive Rebound.,39,52,3,566,1166,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown Turnover.,39,52,3,557,1157,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius Steal.,39,52,3,557,1157,Maryland Terrapins,steal,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius made Layup. Assisted by Bri McDaniel.,39,54,3,548,1148,Maryland Terrapins,layup,True,True,False,Faith Masonius,True,Bri McDaniel,22.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan made Three Point Jumper. Assisted by Addy Brown.,42,54,3,522,1122,Iowa State Cyclones,three point jumper,True,True,True,Emily Ryan,True,Addy Brown,39.0,25.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Addy Brown.,42,54,3,517,1117,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner missed Free Throw.,42,54,3,517,1117,Maryland Terrapins,free throw,True,False,False,Jakia Brown-Turner,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Maryland Deadball Team Rebound.,42,54,3,517,1117,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner made Free Throw.,42,55,3,517,1117,Maryland Terrapins,free throw,True,True,False,Jakia Brown-Turner,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Addy Brown.,44,55,3,492,1092,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Addy Brown,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel missed Jumper.,44,55,3,483,1083,Maryland Terrapins,jumper,True,False,False,Bri McDaniel,False,,17.0,7.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown Defensive Rebound.,44,55,3,482,1082,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Bri McDaniel.,44,55,3,477,1077,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan made Layup.,46,55,3,474,1074,Iowa State Cyclones,layup,True,True,False,Emily Ryan,False,,27.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner missed Layup.,46,55,3,461,1061,Maryland Terrapins,layup,True,False,False,Jakia Brown-Turner,False,,22.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Hannah Belanger Block.,46,55,3,461,1061,Iowa State Cyclones,block,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown Defensive Rebound.,46,55,3,461,1061,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown missed Layup.,46,55,3,446,1046,Iowa State Cyclones,layup,True,False,False,Addy Brown,False,,21.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius Block.,46,55,3,446,1046,Maryland Terrapins,block,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers Defensive Rebound.,46,55,3,446,1046,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Hannah Belanger.,46,55,3,430,1030,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers made Layup.,46,57,3,427,1027,Maryland Terrapins,layup,True,True,False,Shyanne Sellers,False,,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Shyanne Sellers.,46,57,3,417,1017,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown missed Three Point Jumper.,46,57,3,407,1007,Iowa State Cyclones,three point jumper,True,False,True,Addy Brown,False,,8.0,17.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Deadball Team Rebound.,46,57,3,407,1007,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Faith Masonius.,46,57,3,405,1005,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Hannah Belanger missed Three Point Jumper.,46,57,3,398,998,Iowa State Cyclones,three point jumper,True,False,True,Hannah Belanger,False,,35.0,24.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek Defensive Rebound.,46,57,3,398,998,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek missed Three Point Jumper.,46,57,3,388,988,Maryland Terrapins,three point jumper,True,False,True,Allie Kubek,False,,17.0,23.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan Defensive Rebound.,46,57,3,388,988,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens made Three Point Jumper. Assisted by Emily Ryan.,49,57,3,376,976,Iowa State Cyclones,three point jumper,True,True,True,Kelsey Joens,True,Emily Ryan,7.0,20.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Maryland  Timeout,49,57,3,374,974,Maryland Terrapins,timeout,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins, Official TV Timeout,49,57,3,374,974,,tv timeout,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek made Jumper. Assisted by Shyanne Sellers.,49,59,3,354,954,Maryland Terrapins,jumper,True,True,False,Allie Kubek,True,Shyanne Sellers,25.0,16.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Kelsey Joens.,51,59,3,328,928,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Kelsey Joens,21.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius missed Three Point Jumper.,51,59,3,304,904,Maryland Terrapins,three point jumper,True,False,True,Faith Masonius,False,,6.0,15.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Nyamer Diew Defensive Rebound.,51,59,3,304,904,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Faith Masonius.,51,59,3,287,887,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins, Official TV Timeout,51,59,3,287,887,,tv timeout,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens made Free Throw.,52,59,3,287,887,Iowa State Cyclones,free throw,True,True,False,Kelsey Joens,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens made Free Throw.,53,59,3,287,887,Iowa State Cyclones,free throw,True,True,False,Kelsey Joens,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner missed Jumper.,53,59,3,268,868,Maryland Terrapins,jumper,True,False,False,Jakia Brown-Turner,False,,22.0,13.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens Defensive Rebound.,53,59,3,268,868,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Emily Ryan.,55,59,3,257,857,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Emily Ryan,28.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner missed Three Point Jumper.,55,59,3,235,835,Maryland Terrapins,three point jumper,True,False,True,Jakia Brown-Turner,False,,48.0,4.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Defensive Rebound.,55,59,3,235,835,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Jakia Brown-Turner.,55,59,3,225,825,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown missed Free Throw.,55,59,3,225,825,Iowa State Cyclones,free throw,True,False,False,Addy Brown,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Deadball Team Rebound.,55,59,3,225,825,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown made Free Throw.,56,59,3,225,825,Iowa State Cyclones,free throw,True,True,False,Addy Brown,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers missed Jumper.,56,59,3,207,807,Maryland Terrapins,jumper,True,False,False,Shyanne Sellers,False,,24.0,7.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Defensive Rebound.,56,59,3,207,807,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens made Three Point Jumper. Assisted by Emily Ryan.,59,59,3,199,799,Iowa State Cyclones,three point jumper,True,True,True,Kelsey Joens,True,Emily Ryan,8.0,18.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Addy Brown.,59,59,3,182,782,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel made Free Throw.,59,60,3,182,782,Maryland Terrapins,free throw,True,True,False,Bri McDaniel,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel made Free Throw.,59,61,3,182,782,Maryland Terrapins,free throw,True,True,False,Bri McDaniel,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Emily Ryan.,61,61,3,170,770,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Emily Ryan,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Allie Kubek.,61,61,3,170,770,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Free Throw.,62,61,3,170,770,Iowa State Cyclones,free throw,True,True,False,Audi Crooks,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers made Layup.,62,63,3,161,761,Maryland Terrapins,layup,True,True,False,Shyanne Sellers,False,,26.0,2.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Emily Ryan.,64,63,3,143,743,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Emily Ryan,23.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel Turnover.,64,63,3,132,732,Maryland Terrapins,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan Steal.,64,63,3,132,732,Iowa State Cyclones,steal,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan missed Layup.,64,63,3,126,726,Iowa State Cyclones,layup,True,False,False,Emily Ryan,False,,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius Defensive Rebound.,64,63,3,126,726,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel missed Three Point Jumper.,64,63,3,107,707,Maryland Terrapins,three point jumper,True,False,True,Bri McDaniel,False,,1.0,2.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Maryland Offensive Rebound.,64,63,3,106,706,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius missed Layup.,64,63,3,94,694,Maryland Terrapins,layup,True,False,False,Faith Masonius,False,,20.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Nyamer Diew Block.,64,63,3,94,694,Iowa State Cyclones,block,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Nyamer Diew Defensive Rebound.,64,63,3,94,694,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Hannah Belanger missed Three Point Jumper.,64,63,3,88,688,Iowa State Cyclones,three point jumper,True,False,True,Hannah Belanger,False,,48.0,2.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Deadball Team Rebound.,64,63,3,88,688,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Shyanne Sellers.,64,63,3,88,688,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens made Free Throw.,65,63,3,87,687,Iowa State Cyclones,free throw,True,True,False,Kelsey Joens,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens made Free Throw.,66,63,3,87,687,Iowa State Cyclones,free throw,True,True,False,Kelsey Joens,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek made Three Point Jumper. Assisted by Bri McDaniel.,66,66,3,73,673,Maryland Terrapins,three point jumper,True,True,True,Allie Kubek,True,Bri McDaniel,35.0,23.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Audi Crooks.,66,66,3,48,648,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Turnover.,66,66,3,48,648,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius missed Jumper.,66,66,3,27,627,Maryland Terrapins,jumper,True,False,False,Faith Masonius,False,,29.0,3.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Block.,66,66,3,27,627,Iowa State Cyclones,block,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Defensive Rebound.,66,66,3,26,626,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Nyamer Diew missed Three Point Jumper.,66,66,3,3,603,Iowa State Cyclones,three point jumper,True,False,True,Nyamer Diew,False,,49.0,8.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek Defensive Rebound.,66,66,3,3,603,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,End of 3rd Quarter,66,66,3,0,600,,end,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Jump Ball won by Iowa State,66,66,4,600,600,Iowa State Cyclones,jump ball,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Jakia Brown-Turner.,66,66,4,592,592,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan made Free Throw.,67,66,4,592,592,Iowa State Cyclones,free throw,True,True,False,Emily Ryan,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan made Free Throw.,68,66,4,592,592,Iowa State Cyclones,free throw,True,True,False,Emily Ryan,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel made Layup.,68,68,4,577,577,Maryland Terrapins,layup,True,True,False,Bri McDaniel,False,,28.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan Turnover.,68,68,4,549,549,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius Steal.,68,68,4,549,549,Maryland Terrapins,steal,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel missed Jumper.,68,68,4,540,540,Maryland Terrapins,jumper,True,False,False,Bri McDaniel,False,,24.0,6.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown Defensive Rebound.,68,68,4,540,540,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Hannah Belanger made Three Point Jumper. Assisted by Emily Ryan.,71,68,4,531,531,Iowa State Cyclones,three point jumper,True,True,True,Hannah Belanger,True,Emily Ryan,2.0,7.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner missed Three Point Jumper.,71,68,4,519,519,Maryland Terrapins,three point jumper,True,False,True,Jakia Brown-Turner,False,,48.0,-1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Brinae Alexander Offensive Rebound.,71,68,4,519,519,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel missed Jumper.,71,68,4,504,504,Maryland Terrapins,jumper,True,False,False,Bri McDaniel,False,,18.0,17.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Maryland Deadball Team Rebound.,71,68,4,504,504,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Hannah Belanger.,71,68,4,498,498,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius made Layup.,71,70,4,488,488,Maryland Terrapins,layup,True,True,False,Faith Masonius,False,,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens missed Three Point Jumper.,71,70,4,472,472,Iowa State Cyclones,three point jumper,True,False,True,Kelsey Joens,False,,2.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek Defensive Rebound.,71,70,4,472,472,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Brinae Alexander missed Three Point Jumper.,71,70,4,463,463,Maryland Terrapins,three point jumper,True,False,True,Brinae Alexander,False,,44.0,14.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens Defensive Rebound.,71,70,4,463,463,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan Turnover.,71,70,4,447,447,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel Steal.,71,70,4,447,447,Maryland Terrapins,steal,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel missed Layup.,71,70,4,443,443,Maryland Terrapins,layup,True,False,False,Bri McDaniel,False,,27.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown Defensive Rebound.,71,70,4,443,443,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown Turnover.,71,70,4,443,443,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius Steal.,71,70,4,443,443,Maryland Terrapins,steal,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius made Layup.,71,72,4,422,422,Maryland Terrapins,layup,True,True,False,Faith Masonius,False,,27.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Jakia Brown-Turner.,71,72,4,422,422,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Turnover.,71,72,4,422,422,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers missed Jumper.,71,72,4,403,403,Maryland Terrapins,jumper,True,False,False,Shyanne Sellers,False,,26.0,4.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Defensive Rebound.,71,72,4,401,401,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan missed Layup.,71,72,4,395,395,Iowa State Cyclones,layup,True,False,False,Emily Ryan,False,,23.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Offensive Rebound.,71,72,4,393,393,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Jumper. Assisted by Hannah Belanger.,73,72,4,389,389,Iowa State Cyclones,jumper,True,True,False,Audi Crooks,True,Hannah Belanger,27.0,4.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner missed Three Point Jumper.,73,72,4,372,372,Maryland Terrapins,three point jumper,True,False,True,Jakia Brown-Turner,False,,2.0,9.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Defensive Rebound.,73,72,4,372,372,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan made Three Point Jumper.,76,72,4,362,362,Iowa State Cyclones,three point jumper,True,True,True,Emily Ryan,False,,40.0,21.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius missed Layup.,76,72,4,347,347,Maryland Terrapins,layup,True,False,False,Faith Masonius,False,,24.0,4.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Defensive Rebound.,76,72,4,347,347,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Emily Ryan.,78,72,4,327,327,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Emily Ryan,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner made Layup. Assisted by Shyanne Sellers.,78,74,4,310,310,Maryland Terrapins,layup,True,True,False,Jakia Brown-Turner,True,Shyanne Sellers,28.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Addy Brown.,78,74,4,310,310,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Jakia Brown-Turner made Free Throw.,78,75,4,310,310,Maryland Terrapins,free throw,True,True,False,Jakia Brown-Turner,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan missed Layup.,78,75,4,302,302,Iowa State Cyclones,layup,True,False,False,Emily Ryan,False,,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Deadball Team Rebound.,78,75,4,302,302,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Jakia Brown-Turner.,78,75,4,302,302,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Nyamer Diew.,80,75,4,297,297,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Nyamer Diew,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek made Layup. Assisted by Shyanne Sellers.,80,77,4,291,291,Maryland Terrapins,layup,True,True,False,Allie Kubek,True,Shyanne Sellers,28.0,0.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Nyamer Diew made Three Point Jumper. Assisted by Emily Ryan.,83,77,4,267,267,Iowa State Cyclones,three point jumper,True,True,True,Nyamer Diew,True,Emily Ryan,45.0,17.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers made Jumper. Assisted by Faith Masonius.,83,79,4,253,253,Maryland Terrapins,jumper,True,True,False,Shyanne Sellers,True,Faith Masonius,7.0,2.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan Turnover.,83,79,4,230,230,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius Steal.,83,79,4,230,230,Maryland Terrapins,steal,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Faith Masonius missed Layup.,83,79,4,222,222,Maryland Terrapins,layup,True,False,False,Faith Masonius,False,,28.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks Block.,83,79,4,222,222,Iowa State Cyclones,block,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Kelsey Joens Defensive Rebound.,83,79,4,222,222,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan made Layup.,85,79,4,193,193,Iowa State Cyclones,layup,True,True,False,Emily Ryan,False,,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek made Three Point Jumper. Assisted by Jakia Brown-Turner.,85,82,4,184,184,Maryland Terrapins,three point jumper,True,True,True,Allie Kubek,True,Jakia Brown-Turner,27.0,24.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State  Timeout,85,82,4,171,171,Iowa State Cyclones,timeout,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State  Turnover.,85,82,4,167,167,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Bri McDaniel Turnover.,85,82,4,152,152,Maryland Terrapins,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Emily Ryan.,87,82,4,130,130,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Emily Ryan,28.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers Turnover.,87,82,4,111,111,Maryland Terrapins,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Emily Ryan.,87,82,4,92,92,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan Turnover.,87,82,4,92,92,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers missed Layup.,87,82,4,84,84,Maryland Terrapins,layup,True,False,False,Shyanne Sellers,False,,23.0,4.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek Offensive Rebound.,87,82,4,84,84,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Brinae Alexander missed Jumper.,87,82,4,81,81,Maryland Terrapins,jumper,True,False,False,Brinae Alexander,False,,34.0,2.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Defensive Rebound.,87,82,4,81,81,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Layup. Assisted by Kelsey Joens.,89,82,4,66,66,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Kelsey Joens,22.0,1.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Allie Kubek missed Jumper.,89,82,4,57,57,Maryland Terrapins,jumper,True,False,False,Allie Kubek,False,,8.0,2.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Addy Brown Defensive Rebound.,89,82,4,57,57,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Faith Masonius.,89,82,4,50,50,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Jakia Brown-Turner.,89,82,4,46,46,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan missed Free Throw.,89,82,4,46,46,Iowa State Cyclones,free throw,True,False,False,Emily Ryan,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Deadball Team Rebound.,89,82,4,46,46,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan made Free Throw.,90,82,4,46,46,Iowa State Cyclones,free throw,True,True,False,Emily Ryan,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Maryland  Timeout,90,82,4,46,46,Maryland Terrapins,timeout,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Arianna Jackson.,90,82,4,43,43,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers made Free Throw.,90,83,4,43,43,Maryland Terrapins,free throw,True,True,False,Shyanne Sellers,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers made Free Throw.,90,84,4,43,43,Maryland Terrapins,free throw,True,True,False,Shyanne Sellers,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State  Timeout,90,84,4,43,43,Iowa State Cyclones,timeout,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Brinae Alexander.,90,84,4,42,42,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks missed Free Throw.,90,84,4,42,42,Iowa State Cyclones,free throw,True,False,False,Audi Crooks,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Deadball Team Rebound.,90,84,4,42,42,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks made Free Throw.,91,84,4,42,42,Iowa State Cyclones,free throw,True,True,False,Audi Crooks,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Maryland  Timeout,91,84,4,42,42,Maryland Terrapins,timeout,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Shyanne Sellers made Layup.,91,86,4,36,36,Maryland Terrapins,layup,True,True,False,Shyanne Sellers,False,,26.0,4.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State  Timeout,91,86,4,36,36,Iowa State Cyclones,timeout,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Brinae Alexander.,91,86,4,36,36,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks missed Free Throw.,91,86,4,36,36,Iowa State Cyclones,free throw,True,False,False,Audi Crooks,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Iowa State Deadball Team Rebound.,91,86,4,36,36,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Audi Crooks missed Free Throw.,91,86,4,36,36,Iowa State Cyclones,free throw,True,False,False,Audi Crooks,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Fisher Defensive Rebound.,91,86,4,36,36,Maryland Terrapins,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Maryland  Timeout,91,86,4,35,35,Maryland Terrapins,timeout,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Brinae Alexander missed Three Point Jumper.,91,86,4,27,27,Maryland Terrapins,three point jumper,True,False,True,Brinae Alexander,False,,4.0,13.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan Defensive Rebound.,91,86,4,27,27,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Foul on Bri McDaniel.,91,86,4,27,27,Maryland Terrapins,foul,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan made Free Throw.,92,86,4,27,27,Iowa State Cyclones,free throw,True,True,False,Emily Ryan,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Emily Ryan made Free Throw.,93,86,4,27,27,Iowa State Cyclones,free throw,True,True,False,Emily Ryan,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,Brinae Alexander missed Three Point Jumper.,93,86,4,21,21,Maryland Terrapins,three point jumper,True,False,True,Brinae Alexander,False,,12.0,26.0
+401637551,Iowa State Cyclones,Maryland Terrapins,Arianna Jackson Defensive Rebound.,93,86,4,21,21,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637551,Iowa State Cyclones,Maryland Terrapins,End of Game,93,86,4,0,0,,end,False,False,False,,False,,,

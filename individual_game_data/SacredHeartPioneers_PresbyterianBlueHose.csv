@@ -1,0 +1,306 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Jump Ball won by Sacred Heart,0,0,1,600,2400,Sacred Heart Pioneers,jump ball,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sajada Bonner missed Three Point Jumper.,0,0,1,589,2389,Sacred Heart Pioneers,three point jumper,True,False,True,Sajada Bonner,False,,19.0,23.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Christina Kline Defensive Rebound.,0,0,1,589,2389,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady made Layup. Assisted by Mara Neira.,0,2,1,558,2358,Presbyterian Blue Hose,layup,True,True,False,Bryanna Brady,True,Mara Neira,27.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Turnover.,0,2,1,547,2347,Sacred Heart Pioneers,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira Steal.,0,2,1,547,2347,Presbyterian Blue Hose,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist made Layup.,0,4,1,541,2341,Presbyterian Blue Hose,layup,True,True,False,Tilda Sjokvist,False,,22.0,0.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker missed Three Point Jumper.,0,4,1,529,2329,Sacred Heart Pioneers,three point jumper,True,False,True,Olivia Tucker,False,,43.0,16.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley Offensive Rebound.,0,4,1,529,2329,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Jumper.,0,4,1,509,2309,Sacred Heart Pioneers,jumper,True,False,False,Ny'Ceara Pryor,False,,17.0,12.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth Defensive Rebound.,0,4,1,509,2309,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Olivia Tucker.,0,4,1,507,2307,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth Turnover.,0,4,1,494,2294,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Steal.,0,4,1,494,2294,Sacred Heart Pioneers,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley missed Jumper.,0,4,1,485,2285,Sacred Heart Pioneers,jumper,True,False,False,Nalyce Dudley,False,,25.0,5.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth Defensive Rebound.,0,4,1,485,2285,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth missed Three Point Jumper.,0,4,1,474,2274,Presbyterian Blue Hose,three point jumper,True,False,True,Paige Kindseth,False,,23.0,24.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson Defensive Rebound.,0,4,1,474,2274,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson missed Jumper.,0,4,1,458,2258,Sacred Heart Pioneers,jumper,True,False,False,Sierra Johnson,False,,31.0,8.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley Offensive Rebound.,0,4,1,458,2258,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sajada Bonner missed Three Point Jumper.,0,4,1,449,2249,Sacred Heart Pioneers,three point jumper,True,False,True,Sajada Bonner,False,,5.0,13.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sacred Heart Offensive Rebound.,0,4,1,449,2249,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson made Layup.,2,4,1,427,2227,Sacred Heart Pioneers,layup,True,True,False,Sierra Johnson,False,,22.0,0.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist missed Layup.,2,4,1,397,2197,Presbyterian Blue Hose,layup,True,False,False,Tilda Sjokvist,False,,23.0,0.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sacred Heart Defensive Rebound.,2,4,1,397,2197,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker missed Three Point Jumper.,2,4,1,383,2183,Sacred Heart Pioneers,three point jumper,True,False,True,Olivia Tucker,False,,27.0,24.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira Defensive Rebound.,2,4,1,383,2183,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira made Jumper.,2,6,1,371,2171,Presbyterian Blue Hose,jumper,True,True,False,Mara Neira,False,,20.0,4.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Jumper.,2,6,1,359,2159,Sacred Heart Pioneers,jumper,True,False,False,Ny'Ceara Pryor,False,,21.0,5.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley Offensive Rebound.,2,6,1,359,2159,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley missed Layup.,2,6,1,354,2154,Sacred Heart Pioneers,layup,True,False,False,Nalyce Dudley,False,,29.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Offensive Rebound.,2,6,1,354,2154,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Layup.,2,6,1,346,2146,Sacred Heart Pioneers,layup,True,False,False,Ny'Ceara Pryor,False,,25.0,2.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Offensive Rebound.,2,6,1,346,2146,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sajada Bonner made Three Point Jumper. Assisted by Ny'Ceara Pryor.,5,6,1,341,2141,Sacred Heart Pioneers,three point jumper,True,True,True,Sajada Bonner,True,Ny'Ceara Pryor,40.0,18.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira missed Three Point Jumper.,5,6,1,327,2127,Presbyterian Blue Hose,three point jumper,True,False,True,Mara Neira,False,,34.0,23.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson Defensive Rebound.,5,6,1,327,2127,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley made Jumper. Assisted by Sierra Johnson.,7,6,1,300,2100,Sacred Heart Pioneers,jumper,True,True,False,Nalyce Dudley,True,Sierra Johnson,19.0,19.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth Turnover.,7,6,1,282,2082,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Steal.,7,6,1,282,2082,Sacred Heart Pioneers,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Layup.,7,6,1,274,2074,Sacred Heart Pioneers,layup,True,False,False,Ny'Ceara Pryor,False,,22.0,2.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira Defensive Rebound.,7,6,1,274,2074,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady made Layup. Assisted by Mara Neira.,7,8,1,266,2066,Presbyterian Blue Hose,layup,True,True,False,Bryanna Brady,True,Mara Neira,22.0,0.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson missed Three Point Jumper.,7,8,1,236,2036,Sacred Heart Pioneers,three point jumper,True,False,True,Sierra Johnson,False,,48.0,3.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady Defensive Rebound.,7,8,1,236,2036,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Christina Kline made Jumper. Assisted by Tilda Sjokvist.,7,10,1,221,2021,Presbyterian Blue Hose,jumper,True,True,False,Christina Kline,True,Tilda Sjokvist,28.0,10.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson made Jumper.,9,10,1,188,1988,Sacred Heart Pioneers,jumper,True,True,False,Sierra Johnson,False,,32.0,0.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Paige Kindseth.,9,10,1,163,1963,Presbyterian Blue Hose,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth Turnover.,9,10,1,163,1963,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose, Official TV Timeout,9,10,1,163,1963,,tv timeout,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Jumper.,9,10,1,143,1943,Sacred Heart Pioneers,jumper,True,False,False,Ny'Ceara Pryor,False,,15.0,9.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nuria Cunill Defensive Rebound.,9,10,1,143,1943,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sonia Sato Turnover.,9,10,1,130,1930,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sacred Heart  Turnover.,9,10,1,99,1899,Sacred Heart Pioneers,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira missed Three Point Jumper.,9,10,1,80,1880,Presbyterian Blue Hose,three point jumper,True,False,True,Mara Neira,False,,11.0,20.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Defensive Rebound.,9,10,1,80,1880,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker missed Three Point Jumper.,9,10,1,70,1870,Sacred Heart Pioneers,three point jumper,True,False,True,Olivia Tucker,False,,17.0,23.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Laney Scoggins Defensive Rebound.,9,10,1,70,1870,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist made Layup.,9,12,1,57,1857,Presbyterian Blue Hose,layup,True,True,False,Tilda Sjokvist,False,,23.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Tilda Sjokvist.,9,12,1,47,1847,Presbyterian Blue Hose,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Paige Kindseth.,9,12,1,30,1830,Presbyterian Blue Hose,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Amelia Wood missed Three Point Jumper.,9,12,1,14,1814,Sacred Heart Pioneers,three point jumper,True,False,True,Amelia Wood,False,,26.0,26.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sonia Sato Defensive Rebound.,9,12,1,14,1814,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Amelia Wood.,9,12,1,3,1803,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira made Free Throw.,9,13,1,3,1803,Presbyterian Blue Hose,free throw,True,True,False,Mara Neira,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira made Free Throw.,9,14,1,3,1803,Presbyterian Blue Hose,free throw,True,True,False,Mara Neira,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,End of 1st Quarter,9,14,1,0,1800,,end,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Jump Ball won by Presbyterian,9,14,2,600,1800,Presbyterian Blue Hose,jump ball,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira made Jumper.,9,16,2,569,1769,Presbyterian Blue Hose,jumper,True,True,False,Mara Neira,False,,20.0,8.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Jumper.,9,16,2,537,1737,Sacred Heart Pioneers,jumper,True,False,False,Ny'Ceara Pryor,False,,23.0,9.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Amelia Wood Offensive Rebound.,9,16,2,537,1737,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson made Jumper.,11,16,2,527,1727,Sacred Heart Pioneers,jumper,True,True,False,Sierra Johnson,False,,34.0,-1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist missed Jumper.,11,16,2,508,1708,Presbyterian Blue Hose,jumper,True,False,False,Tilda Sjokvist,False,,25.0,6.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Amelia Wood Defensive Rebound.,11,16,2,508,1708,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson missed Three Point Jumper.,11,16,2,495,1695,Sacred Heart Pioneers,three point jumper,True,False,True,Sierra Johnson,False,,46.0,11.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady Defensive Rebound.,11,16,2,495,1695,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady missed Jumper.,11,16,2,474,1674,Presbyterian Blue Hose,jumper,True,False,False,Bryanna Brady,False,,20.0,4.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker Defensive Rebound.,11,16,2,474,1674,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Kelsey Wood missed Jumper.,11,16,2,457,1657,Sacred Heart Pioneers,jumper,True,False,False,Kelsey Wood,False,,28.0,5.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Christina Kline Defensive Rebound.,11,16,2,457,1657,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Kelsey Wood.,11,16,2,444,1644,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady made Free Throw.,11,17,2,444,1644,Presbyterian Blue Hose,free throw,True,True,False,Bryanna Brady,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady made Free Throw.,11,18,2,444,1644,Presbyterian Blue Hose,free throw,True,True,False,Bryanna Brady,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Jumper.,11,18,2,434,1634,Sacred Heart Pioneers,jumper,True,False,False,Ny'Ceara Pryor,False,,25.0,5.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Christina Kline Block.,11,18,2,434,1634,Presbyterian Blue Hose,block,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist Defensive Rebound.,11,18,2,434,1634,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist missed Layup.,11,18,2,427,1627,Presbyterian Blue Hose,layup,True,False,False,Tilda Sjokvist,False,,21.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Presbyterian Offensive Rebound.,11,18,2,427,1627,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Amelia Wood.,11,18,2,424,1624,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nuria Cunill missed Free Throw.,11,18,2,424,1624,Presbyterian Blue Hose,free throw,True,False,False,Nuria Cunill,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Presbyterian Deadball Team Rebound.,11,18,2,424,1624,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nuria Cunill made Free Throw.,11,19,2,424,1624,Presbyterian Blue Hose,free throw,True,True,False,Nuria Cunill,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Turnover.,11,19,2,397,1597,Sacred Heart Pioneers,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nuria Cunill missed Jumper.,11,19,2,384,1584,Presbyterian Blue Hose,jumper,True,False,False,Nuria Cunill,False,,25.0,13.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nuria Cunill Offensive Rebound.,11,19,2,384,1584,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira Turnover.,11,19,2,376,1576,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Steal.,11,19,2,376,1576,Sacred Heart Pioneers,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Three Point Jumper.,11,19,2,353,1553,Sacred Heart Pioneers,three point jumper,True,False,True,Ny'Ceara Pryor,False,,46.0,11.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Christina Kline Defensive Rebound.,11,19,2,353,1553,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira Turnover.,11,19,2,341,1541,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Steal.,11,19,2,341,1541,Sacred Heart Pioneers,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sajada Bonner missed Three Point Jumper.,11,19,2,325,1525,Sacred Heart Pioneers,three point jumper,True,False,True,Sajada Bonner,False,,48.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira Defensive Rebound.,11,19,2,325,1525,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Ny'Ceara Pryor.,11,19,2,316,1516,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira missed Three Point Jumper.,11,19,2,310,1510,Presbyterian Blue Hose,three point jumper,True,False,True,Mara Neira,False,,5.0,13.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Defensive Rebound.,11,19,2,310,1510,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker missed Jumper.,11,19,2,293,1493,Sacred Heart Pioneers,jumper,True,False,False,Olivia Tucker,False,,12.0,2.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sajada Bonner Offensive Rebound.,11,19,2,293,1493,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson Turnover.,11,19,2,286,1486,Sacred Heart Pioneers,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose, Official TV Timeout,11,19,2,286,1486,,tv timeout,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Christina Kline Turnover.,11,19,2,269,1469,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker Steal.,11,19,2,269,1469,Sacred Heart Pioneers,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Bryanna Brady.,11,19,2,269,1469,Presbyterian Blue Hose,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Jumper.,11,19,2,247,1447,Sacred Heart Pioneers,jumper,True,False,False,Ny'Ceara Pryor,False,,22.0,9.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Dennaye Hinds Defensive Rebound.,11,19,2,247,1447,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira made Layup. Assisted by Tilda Sjokvist.,11,21,2,224,1424,Presbyterian Blue Hose,layup,True,True,False,Mara Neira,True,Tilda Sjokvist,27.0,2.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Sierra Johnson.,11,21,2,224,1424,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira made Free Throw.,11,22,2,224,1424,Presbyterian Blue Hose,free throw,True,True,False,Mara Neira,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson Turnover.,11,22,2,212,1412,Sacred Heart Pioneers,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist Steal.,11,22,2,212,1412,Presbyterian Blue Hose,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira made Three Point Jumper.,11,25,2,188,1388,Presbyterian Blue Hose,three point jumper,True,True,True,Mara Neira,False,,2.0,8.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker missed Three Point Jumper.,11,25,2,165,1365,Sacred Heart Pioneers,three point jumper,True,False,True,Olivia Tucker,False,,36.0,23.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Dennaye Hinds Defensive Rebound.,11,25,2,165,1365,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira missed Three Point Jumper.,11,25,2,153,1353,Presbyterian Blue Hose,three point jumper,True,False,True,Mara Neira,False,,40.0,21.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley Defensive Rebound.,11,25,2,153,1353,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Mara Neira.,11,25,2,142,1342,Presbyterian Blue Hose,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Free Throw.,11,25,2,142,1342,Sacred Heart Pioneers,free throw,True,False,False,Ny'Ceara Pryor,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sacred Heart Deadball Team Rebound.,11,25,2,142,1342,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor made Free Throw.,12,25,2,142,1342,Sacred Heart Pioneers,free throw,True,True,False,Ny'Ceara Pryor,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Presbyterian  Turnover.,12,25,2,111,1311,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker made Three Point Jumper. Assisted by Ny'Ceara Pryor.,15,25,2,84,1284,Sacred Heart Pioneers,three point jumper,True,True,True,Olivia Tucker,True,Ny'Ceara Pryor,41.0,20.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Christina Kline made Jumper. Assisted by Tilda Sjokvist.,15,27,2,52,1252,Presbyterian Blue Hose,jumper,True,True,False,Christina Kline,True,Tilda Sjokvist,25.0,18.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley made Layup.,17,27,2,33,1233,Sacred Heart Pioneers,layup,True,True,False,Nalyce Dudley,False,,23.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sonia Sato made Layup. Assisted by Nuria Cunill.,17,29,2,2,1202,Presbyterian Blue Hose,layup,True,True,False,Sonia Sato,True,Nuria Cunill,23.0,0.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,End of 2nd Quarter,17,29,2,0,1200,,end,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Jump Ball won by Presbyterian,17,29,3,600,1200,Presbyterian Blue Hose,jump ball,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Presbyterian  Turnover.,17,29,3,568,1168,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Bryanna Brady.,17,29,3,558,1158,Presbyterian Blue Hose,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor made Free Throw.,18,29,3,558,1158,Sacred Heart Pioneers,free throw,True,True,False,Ny'Ceara Pryor,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor made Free Throw.,19,29,3,558,1158,Sacred Heart Pioneers,free throw,True,True,False,Ny'Ceara Pryor,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth Turnover.,19,29,3,539,1139,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley Steal.,19,29,3,539,1139,Sacred Heart Pioneers,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley missed Layup.,19,29,3,528,1128,Sacred Heart Pioneers,layup,True,False,False,Nalyce Dudley,False,,22.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley Offensive Rebound.,19,29,3,528,1128,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor made Layup.,21,29,3,522,1122,Sacred Heart Pioneers,layup,True,True,False,Ny'Ceara Pryor,False,,22.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Christina Kline missed Three Point Jumper.,21,29,3,505,1105,Presbyterian Blue Hose,three point jumper,True,False,True,Christina Kline,False,,48.0,7.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson Defensive Rebound.,21,29,3,505,1105,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Jumper.,21,29,3,486,1086,Sacred Heart Pioneers,jumper,True,False,False,Ny'Ceara Pryor,False,,20.0,18.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist Defensive Rebound.,21,29,3,486,1086,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist missed Three Point Jumper.,21,29,3,469,1069,Presbyterian Blue Hose,three point jumper,True,False,True,Tilda Sjokvist,False,,17.0,23.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Christina Kline Offensive Rebound.,21,29,3,469,1069,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth made Layup. Assisted by Tilda Sjokvist.,21,31,3,462,1062,Presbyterian Blue Hose,layup,True,True,False,Paige Kindseth,True,Tilda Sjokvist,27.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Three Point Jumper.,21,31,3,445,1045,Sacred Heart Pioneers,three point jumper,True,False,True,Ny'Ceara Pryor,False,,47.0,6.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira Defensive Rebound.,21,31,3,445,1045,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira Turnover.,21,31,3,434,1034,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Steal.,21,31,3,434,1034,Sacred Heart Pioneers,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sajada Bonner missed Three Point Jumper.,21,31,3,425,1025,Sacred Heart Pioneers,three point jumper,True,False,True,Sajada Bonner,False,,3.0,8.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley Offensive Rebound.,21,31,3,425,1025,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Amelia Wood missed Three Point Jumper.,21,31,3,413,1013,Sacred Heart Pioneers,three point jumper,True,False,True,Amelia Wood,False,,5.0,12.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist Defensive Rebound.,21,31,3,413,1013,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth made Jumper. Assisted by Tilda Sjokvist.,21,33,3,402,1002,Presbyterian Blue Hose,jumper,True,True,False,Paige Kindseth,True,Tilda Sjokvist,19.0,2.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sacred Heart  Timeout,21,33,3,397,997,Sacred Heart Pioneers,timeout,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose, Official TV Timeout,21,33,3,397,997,,tv timeout,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Amelia Wood Turnover.,21,33,3,382,982,Sacred Heart Pioneers,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist Steal.,21,33,3,382,982,Presbyterian Blue Hose,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth missed Three Point Jumper.,21,33,3,367,967,Presbyterian Blue Hose,three point jumper,True,False,True,Paige Kindseth,False,,21.0,24.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sacred Heart Defensive Rebound.,21,33,3,367,967,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson missed Three Point Jumper.,21,33,3,333,933,Sacred Heart Pioneers,three point jumper,True,False,True,Sierra Johnson,False,,38.0,20.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist Block.,21,33,3,333,933,Presbyterian Blue Hose,block,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sacred Heart Offensive Rebound.,21,33,3,333,933,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sacred Heart  Turnover.,21,33,3,333,933,Sacred Heart Pioneers,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nuria Cunill Turnover.,21,33,3,311,911,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Steal.,21,33,3,311,911,Sacred Heart Pioneers,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor made Jumper.,23,33,3,305,905,Sacred Heart Pioneers,jumper,True,True,False,Ny'Ceara Pryor,False,,19.0,7.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist missed Jumper.,23,33,3,279,879,Presbyterian Blue Hose,jumper,True,False,False,Tilda Sjokvist,False,,31.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson Defensive Rebound.,23,33,3,279,879,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker made Three Point Jumper. Assisted by Ny'Ceara Pryor.,26,33,3,265,865,Sacred Heart Pioneers,three point jumper,True,True,True,Olivia Tucker,True,Ny'Ceara Pryor,2.0,6.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist missed Three Point Jumper.,26,33,3,232,832,Presbyterian Blue Hose,three point jumper,True,False,True,Tilda Sjokvist,False,,36.0,22.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker Defensive Rebound.,26,33,3,232,832,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley missed Layup.,26,33,3,217,817,Sacred Heart Pioneers,layup,True,False,False,Nalyce Dudley,False,,22.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nuria Cunill Defensive Rebound.,26,33,3,217,817,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Sierra Johnson.,26,33,3,215,815,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose, Official TV Timeout,26,33,3,215,815,,tv timeout,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira Turnover.,26,33,3,188,788,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Christina Kline.,26,33,3,166,766,Presbyterian Blue Hose,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson made Jumper.,28,33,3,156,756,Sacred Heart Pioneers,jumper,True,True,False,Sierra Johnson,False,,40.0,4.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sonia Sato missed Layup.,28,33,3,129,729,Presbyterian Blue Hose,layup,True,False,False,Sonia Sato,False,,28.0,0.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley Defensive Rebound.,28,33,3,129,729,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson made Layup. Assisted by Nalyce Dudley.,30,33,3,118,718,Sacred Heart Pioneers,layup,True,True,False,Sierra Johnson,True,Nalyce Dudley,27.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Presbyterian  Timeout,30,33,3,113,713,Presbyterian Blue Hose,timeout,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist missed Three Point Jumper.,30,33,3,99,699,Presbyterian Blue Hose,three point jumper,True,False,True,Tilda Sjokvist,False,,34.0,23.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Amelia Wood Defensive Rebound.,30,33,3,99,699,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley missed Layup.,30,33,3,86,686,Sacred Heart Pioneers,layup,True,False,False,Nalyce Dudley,False,,22.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady Block.,30,33,3,86,686,Presbyterian Blue Hose,block,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira Defensive Rebound.,30,33,3,86,686,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Ny'Ceara Pryor.,30,33,3,83,683,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist missed Jumper.,30,33,3,61,661,Presbyterian Blue Hose,jumper,True,False,False,Tilda Sjokvist,False,,19.0,8.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Defensive Rebound.,30,33,3,61,661,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Layup.,30,33,3,51,651,Sacred Heart Pioneers,layup,True,False,False,Ny'Ceara Pryor,False,,27.0,2.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady Defensive Rebound.,30,33,3,51,651,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sonia Sato missed Layup.,30,33,3,43,643,Presbyterian Blue Hose,layup,True,False,False,Sonia Sato,False,,24.0,3.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Christina Kline Offensive Rebound.,30,33,3,43,643,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Sajada Bonner.,30,33,3,37,637,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady missed Layup.,30,33,3,35,635,Presbyterian Blue Hose,layup,True,False,False,Bryanna Brady,False,,25.0,3.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley Defensive Rebound.,30,33,3,35,635,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker missed Three Point Jumper.,30,33,3,11,611,Sacred Heart Pioneers,three point jumper,True,False,True,Olivia Tucker,False,,48.0,5.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady Defensive Rebound.,30,33,3,11,611,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Sajada Bonner.,30,33,3,0,600,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist made Free Throw.,30,34,3,0,600,Presbyterian Blue Hose,free throw,True,True,False,Tilda Sjokvist,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist made Free Throw.,30,35,3,0,600,Presbyterian Blue Hose,free throw,True,True,False,Tilda Sjokvist,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,End of 3rd Quarter,30,35,3,0,600,,end,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Jump Ball won by Sacred Heart,30,35,4,600,600,Sacred Heart Pioneers,jump ball,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Amelia Wood missed Jumper.,30,35,4,583,583,Sacred Heart Pioneers,jumper,True,False,False,Amelia Wood,False,,27.0,9.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley Offensive Rebound.,30,35,4,583,583,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley made Layup.,32,35,4,564,564,Sacred Heart Pioneers,layup,True,True,False,Nalyce Dudley,False,,27.0,0.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist Turnover.,32,35,4,534,534,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley missed Jumper.,32,35,4,521,521,Sacred Heart Pioneers,jumper,True,False,False,Nalyce Dudley,False,,10.0,8.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira Defensive Rebound.,32,35,4,521,521,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Amelia Wood.,32,35,4,498,498,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady made Free Throw.,32,36,4,498,498,Presbyterian Blue Hose,free throw,True,True,False,Bryanna Brady,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady made Free Throw.,32,37,4,498,498,Presbyterian Blue Hose,free throw,True,True,False,Bryanna Brady,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Amelia Wood missed Three Point Jumper.,32,37,4,474,474,Sacred Heart Pioneers,three point jumper,True,False,True,Amelia Wood,False,,34.0,25.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady Defensive Rebound.,32,37,4,474,474,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady made Jumper. Assisted by Tilda Sjokvist.,32,39,4,446,446,Presbyterian Blue Hose,jumper,True,True,False,Bryanna Brady,True,Tilda Sjokvist,29.0,6.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Mara Neira.,32,39,4,436,436,Presbyterian Blue Hose,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker made Jumper. Assisted by Sierra Johnson.,34,39,4,429,429,Sacred Heart Pioneers,jumper,True,True,False,Olivia Tucker,True,Sierra Johnson,11.0,0.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist missed Jumper.,34,39,4,408,408,Presbyterian Blue Hose,jumper,True,False,False,Tilda Sjokvist,False,,18.0,4.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker Defensive Rebound.,34,39,4,408,408,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Jumper.,34,39,4,383,383,Sacred Heart Pioneers,jumper,True,False,False,Ny'Ceara Pryor,False,,32.0,14.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Presbyterian Defensive Rebound.,34,39,4,383,383,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady made Layup. Assisted by Christina Kline.,34,41,4,365,365,Presbyterian Blue Hose,layup,True,True,False,Bryanna Brady,True,Christina Kline,23.0,0.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Laney Scoggins.,34,41,4,351,351,Presbyterian Blue Hose,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Bryanna Brady.,34,41,4,342,342,Presbyterian Blue Hose,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley missed Free Throw.,34,41,4,342,342,Sacred Heart Pioneers,free throw,True,False,False,Nalyce Dudley,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sacred Heart Deadball Team Rebound.,34,41,4,342,342,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley made Free Throw.,35,41,4,342,342,Sacred Heart Pioneers,free throw,True,True,False,Nalyce Dudley,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nuria Cunill Turnover.,35,41,4,333,333,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker Steal.,35,41,4,333,333,Sacred Heart Pioneers,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson Turnover.,35,41,4,330,330,Sacred Heart Pioneers,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Amelia Wood.,35,41,4,309,309,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nuria Cunill made Free Throw.,35,42,4,309,309,Presbyterian Blue Hose,free throw,True,True,False,Nuria Cunill,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nuria Cunill made Free Throw.,35,43,4,309,309,Presbyterian Blue Hose,free throw,True,True,False,Nuria Cunill,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley made Layup. Assisted by Ny'Ceara Pryor.,37,43,4,294,294,Sacred Heart Pioneers,layup,True,True,False,Nalyce Dudley,True,Ny'Ceara Pryor,23.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Sierra Johnson.,37,43,4,286,286,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose, Official TV Timeout,37,43,4,286,286,,tv timeout,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady missed Jumper.,37,43,4,264,264,Presbyterian Blue Hose,jumper,True,False,False,Bryanna Brady,False,,28.0,4.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley Block.,37,43,4,264,264,Sacred Heart Pioneers,block,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley Defensive Rebound.,37,43,4,264,264,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sajada Bonner missed Three Point Jumper.,37,43,4,251,251,Sacred Heart Pioneers,three point jumper,True,False,True,Sajada Bonner,False,,48.0,2.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker Offensive Rebound.,37,43,4,251,251,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Jumper.,37,43,4,236,236,Sacred Heart Pioneers,jumper,True,False,False,Ny'Ceara Pryor,False,,16.0,7.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth Defensive Rebound.,37,43,4,236,236,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist missed Jumper.,37,43,4,219,219,Presbyterian Blue Hose,jumper,True,False,False,Tilda Sjokvist,False,,26.0,5.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson Defensive Rebound.,37,43,4,219,219,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Jumper.,37,43,4,210,210,Sacred Heart Pioneers,jumper,True,False,False,Ny'Ceara Pryor,False,,23.0,10.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Offensive Rebound.,37,43,4,210,210,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor made Layup.,39,43,4,205,205,Sacred Heart Pioneers,layup,True,True,False,Ny'Ceara Pryor,False,,22.0,2.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady missed Layup.,39,43,4,171,171,Presbyterian Blue Hose,layup,True,False,False,Bryanna Brady,False,,24.0,4.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Laney Scoggins Offensive Rebound.,39,43,4,171,171,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Laney Scoggins Turnover.,39,43,4,166,166,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Steal.,39,43,4,166,166,Sacred Heart Pioneers,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Christina Kline.,39,43,4,162,162,Presbyterian Blue Hose,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Free Throw.,39,43,4,162,162,Sacred Heart Pioneers,free throw,True,False,False,Ny'Ceara Pryor,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sacred Heart Deadball Team Rebound.,39,43,4,162,162,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor made Free Throw.,40,43,4,162,162,Sacred Heart Pioneers,free throw,True,True,False,Ny'Ceara Pryor,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sacred Heart  Timeout,40,43,4,162,162,Sacred Heart Pioneers,timeout,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Olivia Tucker.,40,43,4,147,147,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Bryanna Brady.,40,43,4,134,134,Presbyterian Blue Hose,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Bryanna Brady Turnover.,40,43,4,134,134,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Olivia Tucker missed Jumper.,40,43,4,110,110,Sacred Heart Pioneers,jumper,True,False,False,Olivia Tucker,False,,20.0,12.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist Defensive Rebound.,40,43,4,110,110,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist made Jumper.,40,45,4,79,79,Presbyterian Blue Hose,jumper,True,True,False,Tilda Sjokvist,False,,8.0,4.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley missed Layup.,40,45,4,59,59,Sacred Heart Pioneers,layup,True,False,False,Nalyce Dudley,False,,22.0,1.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Presbyterian Defensive Rebound.,40,45,4,59,59,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Presbyterian  Timeout,40,45,4,59,59,Presbyterian Blue Hose,timeout,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Ny'Ceara Pryor.,40,45,4,41,41,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Laney Scoggins missed Free Throw.,40,45,4,41,41,Presbyterian Blue Hose,free throw,True,False,False,Laney Scoggins,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Presbyterian Deadball Team Rebound.,40,45,4,41,41,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Laney Scoggins missed Free Throw.,40,45,4,41,41,Presbyterian Blue Hose,free throw,True,False,False,Laney Scoggins,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Amelia Wood Defensive Rebound.,40,45,4,41,41,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sacred Heart  Timeout,40,45,4,41,41,Sacred Heart Pioneers,timeout,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor missed Jumper.,40,45,4,32,32,Sacred Heart Pioneers,jumper,True,False,False,Ny'Ceara Pryor,False,,20.0,4.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor Offensive Rebound.,40,45,4,32,32,Sacred Heart Pioneers,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Laney Scoggins.,40,45,4,28,28,Presbyterian Blue Hose,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor made Free Throw.,41,45,4,28,28,Sacred Heart Pioneers,free throw,True,True,False,Ny'Ceara Pryor,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Ny'Ceara Pryor made Free Throw.,42,45,4,28,28,Sacred Heart Pioneers,free throw,True,True,False,Ny'Ceara Pryor,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Presbyterian  Timeout,42,45,4,28,28,Presbyterian Blue Hose,timeout,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Nalyce Dudley.,42,45,4,26,26,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira made Free Throw.,42,46,4,26,26,Presbyterian Blue Hose,free throw,True,True,False,Mara Neira,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Mara Neira made Free Throw.,42,47,4,26,26,Presbyterian Blue Hose,free throw,True,True,False,Mara Neira,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sacred Heart  Timeout,42,47,4,26,26,Sacred Heart Pioneers,timeout,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Amelia Wood missed Three Point Jumper.,42,47,4,22,22,Sacred Heart Pioneers,three point jumper,True,False,True,Amelia Wood,False,,7.0,15.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Laney Scoggins Defensive Rebound.,42,47,4,22,22,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Presbyterian  Timeout,42,47,4,18,18,Presbyterian Blue Hose,timeout,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Tilda Sjokvist Turnover.,42,47,4,18,18,Presbyterian Blue Hose,turnover,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Nalyce Dudley Steal.,42,47,4,18,18,Sacred Heart Pioneers,steal,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Amelia Wood missed Layup.,42,47,4,6,6,Sacred Heart Pioneers,layup,True,False,False,Amelia Wood,False,,28.0,0.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth Defensive Rebound.,42,47,4,6,6,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Foul on Ny'Ceara Pryor.,42,47,4,5,5,Sacred Heart Pioneers,foul,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth made Free Throw.,42,48,4,5,5,Presbyterian Blue Hose,free throw,True,True,False,Paige Kindseth,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth made Free Throw.,42,49,4,5,5,Presbyterian Blue Hose,free throw,True,True,False,Paige Kindseth,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Sierra Johnson missed Three Point Jumper.,42,49,4,1,1,Sacred Heart Pioneers,three point jumper,True,False,True,Sierra Johnson,False,,28.0,27.0
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth Block.,42,49,4,1,1,Presbyterian Blue Hose,block,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,Paige Kindseth Defensive Rebound.,42,49,4,1,1,Presbyterian Blue Hose,rebound,False,False,False,,False,,,
+401637540,Sacred Heart Pioneers,Presbyterian Blue Hose,End of Game,42,49,4,0,0,,end,False,False,False,,False,,,

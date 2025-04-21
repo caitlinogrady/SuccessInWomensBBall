@@ -1,0 +1,352 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637603,USC Trojans,Baylor Bears,Jump Ball won by Baylor,0,0,1,600,2400,Baylor Bears,jump ball,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jada Walker made Jumper.,0,2,1,591,2391,Baylor Bears,jumper,True,True,False,Jada Walker,False,,26.0,16.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Jumper. Assisted by McKenzie Forbes.,2,2,1,572,2372,USC Trojans,jumper,True,True,False,JuJu Watkins,True,McKenzie Forbes,29.0,6.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs missed Jumper.,2,2,1,557,2357,Baylor Bears,jumper,True,False,False,Darianna Littlepage-Buggs,False,,28.0,16.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,2,2,1,557,2357,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Jumper.,2,2,1,547,2347,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,17.0,9.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs Defensive Rebound.,2,2,1,547,2347,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs missed Jumper.,2,2,1,514,2314,Baylor Bears,jumper,True,False,False,Darianna Littlepage-Buggs,False,,27.0,15.0
+401637603,USC Trojans,Baylor Bears,Jada Walker Offensive Rebound.,2,2,1,514,2314,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jada Walker missed Jumper.,2,2,1,504,2304,Baylor Bears,jumper,True,False,False,Jada Walker,False,,37.0,6.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,2,2,1,504,2304,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes missed Jumper.,2,2,1,488,2288,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,20.0,9.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs Defensive Rebound.,2,2,1,488,2288,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews made Three Point Jumper. Assisted by Darianna Littlepage-Buggs.,2,5,1,476,2276,Baylor Bears,three point jumper,True,True,True,Sarah Andrews,True,Darianna Littlepage-Buggs,48.0,3.0
+401637603,USC Trojans,Baylor Bears,Kayla Padilla Turnover.,2,5,1,457,2257,USC Trojans,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews Steal.,2,5,1,457,2257,Baylor Bears,steal,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jada Walker made Layup. Assisted by Sarah Andrews.,2,7,1,453,2253,Baylor Bears,layup,True,True,False,Jada Walker,True,Sarah Andrews,28.0,1.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Three Point Jumper.,2,7,1,431,2231,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,20.0,24.0
+401637603,USC Trojans,Baylor Bears,Sarah Andrews Defensive Rebound.,2,7,1,431,2231,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Bella Fontleroy missed Three Point Jumper.,2,7,1,411,2211,Baylor Bears,three point jumper,True,False,True,Bella Fontleroy,False,,48.0,7.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs Offensive Rebound.,2,7,1,411,2211,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs missed Two Point Tip Shot.,2,7,1,411,2211,Baylor Bears,two point tip shot,True,False,False,Darianna Littlepage-Buggs,False,,25.0,1.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Block.,2,7,1,411,2211,USC Trojans,block,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,2,7,1,411,2211,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall made Jumper.,4,7,1,386,2186,USC Trojans,jumper,True,True,False,Rayah Marshall,False,,33.0,6.0
+401637603,USC Trojans,Baylor Bears,Foul on Bella Fontleroy.,4,7,1,382,2182,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Jumper.,6,7,1,378,2178,USC Trojans,jumper,True,True,False,JuJu Watkins,False,,30.0,7.0
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell missed Jumper.,6,7,1,369,2169,Baylor Bears,jumper,True,False,False,Aijha Blackwell,False,,28.0,7.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,6,7,1,369,2169,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Jumper.,8,7,1,362,2162,USC Trojans,jumper,True,True,False,JuJu Watkins,False,,29.0,7.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs made Jumper.,8,9,1,342,2142,Baylor Bears,jumper,True,True,False,Darianna Littlepage-Buggs,False,,18.0,9.0
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes missed Jumper.,8,9,1,308,2108,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,40.0,-2.0
+401637603,USC Trojans,Baylor Bears,Sarah Andrews Block.,8,9,1,308,2108,Baylor Bears,block,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,USC Offensive Rebound.,8,9,1,308,2108,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall missed Jumper.,8,9,1,305,2105,USC Trojans,jumper,True,False,False,Rayah Marshall,False,,24.0,10.0
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell Defensive Rebound.,8,9,1,305,2105,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Aijha Blackwell.,8,9,1,295,2095,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell Turnover.,8,9,1,295,2095,Baylor Bears,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears, Official TV Timeout,8,9,1,295,2095,,tv timeout,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Jumper.,8,9,1,285,2085,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,20.0,3.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs Defensive Rebound.,8,9,1,285,2085,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs made Jumper. Assisted by Dre'Una Edwards.,8,11,1,261,2061,Baylor Bears,jumper,True,True,False,Darianna Littlepage-Buggs,True,Dre'Una Edwards,17.0,3.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Three Point Jumper.,8,11,1,240,2040,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,44.0,13.0
+401637603,USC Trojans,Baylor Bears,Baylor Defensive Rebound.,8,11,1,240,2040,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Bella Fontleroy missed Three Point Jumper.,8,11,1,226,2026,Baylor Bears,three point jumper,True,False,True,Bella Fontleroy,False,,43.0,16.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins Defensive Rebound.,8,11,1,226,2026,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall missed Jumper.,8,11,1,205,2005,USC Trojans,jumper,True,False,False,Rayah Marshall,False,,23.0,18.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs Defensive Rebound.,8,11,1,205,2005,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs missed Jumper.,8,11,1,192,1992,Baylor Bears,jumper,True,False,False,Darianna Littlepage-Buggs,False,,32.0,13.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,8,11,1,192,1992,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kayla Padilla missed Three Point Jumper.,8,11,1,185,1985,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,45.0,10.0
+401637603,USC Trojans,Baylor Bears,Bella Fontleroy Defensive Rebound.,8,11,1,185,1985,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Three Point Jumper.,8,11,1,170,1970,Baylor Bears,three point jumper,True,False,True,Sarah Andrews,False,,40.0,19.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,8,11,1,170,1970,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes missed Jumper.,8,11,1,161,1961,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,22.0,12.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Offensive Rebound.,8,11,1,161,1961,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kayla Padilla made Three Point Jumper. Assisted by Rayah Marshall.,11,11,1,147,1947,USC Trojans,three point jumper,True,True,True,Kayla Padilla,True,Rayah Marshall,2.0,3.0
+401637603,USC Trojans,Baylor Bears,Jana Van Gytenbeek missed Three Point Jumper.,11,11,1,141,1941,Baylor Bears,three point jumper,True,False,True,Jana Van Gytenbeek,False,,22.0,24.0
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Offensive Rebound.,11,11,1,141,1941,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Rayah Marshall.,11,11,1,138,1938,USC Trojans,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards missed Free Throw.,11,11,1,138,1938,Baylor Bears,free throw,True,False,False,Dre'Una Edwards,False,,,
+401637603,USC Trojans,Baylor Bears,Baylor Deadball Team Rebound.,11,11,1,138,1938,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards made Free Throw.,11,12,1,138,1938,Baylor Bears,free throw,True,True,False,Dre'Una Edwards,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Jumper.,13,12,1,113,1913,USC Trojans,jumper,True,True,False,JuJu Watkins,False,,20.0,10.0
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards made Layup. Assisted by Jana Van Gytenbeek.,13,14,1,99,1899,Baylor Bears,layup,True,True,False,Dre'Una Edwards,True,Jana Van Gytenbeek,23.0,2.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins Turnover.,13,14,1,91,1891,USC Trojans,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Steal.,13,14,1,91,1891,Baylor Bears,steal,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jana Van Gytenbeek missed Three Point Jumper.,13,14,1,77,1877,Baylor Bears,three point jumper,True,False,True,Jana Van Gytenbeek,False,,45.0,13.0
+401637603,USC Trojans,Baylor Bears,Kayla Padilla Defensive Rebound.,13,14,1,77,1877,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes made Three Point Jumper. Assisted by Kayla Padilla.,16,14,1,63,1863,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,True,Kayla Padilla,45.0,16.0
+401637603,USC Trojans,Baylor Bears,Jada Walker made Jumper.,16,16,1,51,1851,Baylor Bears,jumper,True,True,False,Jada Walker,False,,30.0,5.0
+401637603,USC Trojans,Baylor Bears,Foul on Yaya Felder.,16,16,1,38,1838,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes made Jumper.,18,16,1,28,1828,USC Trojans,jumper,True,True,False,McKenzie Forbes,False,,12.0,12.0
+401637603,USC Trojans,Baylor Bears,Foul on Kayla Williams.,18,16,1,4,1804,USC Trojans,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Three Point Jumper.,18,16,1,2,1802,Baylor Bears,three point jumper,True,False,True,Sarah Andrews,False,,3.0,7.0
+401637603,USC Trojans,Baylor Bears,Jada Walker Offensive Rebound.,18,16,1,2,1802,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,End of 1st Quarter,18,16,1,0,1800,,end,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jump Ball won by USC,18,16,2,600,1800,USC Trojans,jump ball,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Clarice Akunwafo made Layup. Assisted by McKenzie Forbes.,20,16,2,585,1785,USC Trojans,layup,True,True,False,Clarice Akunwafo,True,McKenzie Forbes,27.0,2.0
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards missed Layup.,20,16,2,567,1767,Baylor Bears,layup,True,False,False,Dre'Una Edwards,False,,21.0,2.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins Defensive Rebound.,20,16,2,567,1767,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Jumper.,20,16,2,554,1754,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,10.0,6.0
+401637603,USC Trojans,Baylor Bears,Sarah Andrews Defensive Rebound.,20,16,2,554,1754,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on McKenzie Forbes.,20,16,2,546,1746,USC Trojans,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Yaya Felder made Free Throw.,20,17,2,546,1746,Baylor Bears,free throw,True,True,False,Yaya Felder,False,,,
+401637603,USC Trojans,Baylor Bears,Yaya Felder made Free Throw.,20,18,2,546,1746,Baylor Bears,free throw,True,True,False,Yaya Felder,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Jumper.,22,18,2,523,1723,USC Trojans,jumper,True,True,False,JuJu Watkins,False,,16.0,15.0
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards missed Three Point Jumper.,22,18,2,491,1691,Baylor Bears,three point jumper,True,False,True,Dre'Una Edwards,False,,26.0,25.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins Defensive Rebound.,22,18,2,491,1691,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Jumper.,22,18,2,482,1682,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,30.0,7.0
+401637603,USC Trojans,Baylor Bears,Clarice Akunwafo Offensive Rebound.,22,18,2,482,1682,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Clarice Akunwafo missed Two Point Tip Shot.,22,18,2,482,1682,USC Trojans,two point tip shot,True,False,False,Clarice Akunwafo,False,,25.0,1.0
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Defensive Rebound.,22,18,2,482,1682,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Kaitlyn Davis.,22,18,2,472,1672,USC Trojans,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Yaya Felder made Free Throw.,22,19,2,472,1672,Baylor Bears,free throw,True,True,False,Yaya Felder,False,,,
+401637603,USC Trojans,Baylor Bears,Yaya Felder missed Free Throw.,22,19,2,472,1672,Baylor Bears,free throw,True,False,False,Yaya Felder,False,,,
+401637603,USC Trojans,Baylor Bears,Clarice Akunwafo Defensive Rebound.,22,19,2,472,1672,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Yaya Felder.,22,19,2,465,1665,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Bella Fontleroy.,22,19,2,456,1656,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Sarah Andrews.,22,19,2,444,1644,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes made Free Throw.,23,19,2,444,1644,USC Trojans,free throw,True,True,False,McKenzie Forbes,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes made Free Throw.,24,19,2,444,1644,USC Trojans,free throw,True,True,False,McKenzie Forbes,False,,,
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards made Three Point Jumper. Assisted by Jada Walker.,24,22,2,425,1625,Baylor Bears,three point jumper,True,True,True,Dre'Una Edwards,True,Jada Walker,10.0,19.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Turnover.,24,22,2,400,1600,USC Trojans,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Yaya Felder Turnover.,24,22,2,378,1578,Baylor Bears,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins Turnover.,24,22,2,355,1555,USC Trojans,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jada Walker missed Jumper.,24,22,2,343,1543,Baylor Bears,jumper,True,False,False,Jada Walker,False,,38.0,12.0
+401637603,USC Trojans,Baylor Bears,Kayla Padilla Block.,24,22,2,343,1543,USC Trojans,block,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,24,22,2,343,1543,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes missed Jumper.,24,22,2,326,1526,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,30.0,8.0
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes Offensive Rebound.,24,22,2,326,1526,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes made Two Point Tip Shot.,26,22,2,326,1526,USC Trojans,two point tip shot,True,True,False,McKenzie Forbes,False,,25.0,1.0
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Three Point Jumper.,26,22,2,311,1511,Baylor Bears,three point jumper,True,False,True,Sarah Andrews,False,,44.0,15.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs Offensive Rebound.,26,22,2,311,1511,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jada Walker missed Layup.,26,22,2,304,1504,Baylor Bears,layup,True,False,False,Jada Walker,False,,21.0,3.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins Block.,26,22,2,304,1504,USC Trojans,block,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins Defensive Rebound.,26,22,2,304,1504,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Dre'Una Edwards.,26,22,2,304,1504,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Free Throw.,27,22,2,304,1504,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Free Throw.,28,22,2,304,1504,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs missed Jumper.,28,22,2,283,1483,Baylor Bears,jumper,True,False,False,Darianna Littlepage-Buggs,False,,39.0,3.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,28,22,2,283,1483,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Jumper.,28,22,2,275,1475,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,25.0,21.0
+401637603,USC Trojans,Baylor Bears,Kaitlyn Davis Offensive Rebound.,28,22,2,275,1475,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall made Layup. Assisted by Kaitlyn Davis.,30,22,2,261,1461,USC Trojans,layup,True,True,False,Rayah Marshall,True,Kaitlyn Davis,25.0,2.0
+401637603,USC Trojans,Baylor Bears,Foul on Kaitlyn Davis.,30,22,2,261,1461,USC Trojans,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears, Official TV Timeout,30,22,2,261,1461,,tv timeout,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Free Throw.,30,22,2,261,1461,Baylor Bears,free throw,True,False,False,Sarah Andrews,False,,,
+401637603,USC Trojans,Baylor Bears,Baylor Deadball Team Rebound.,30,22,2,261,1461,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Free Throw.,30,22,2,261,1461,Baylor Bears,free throw,True,False,False,Sarah Andrews,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,30,22,2,261,1461,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall made Layup. Assisted by JuJu Watkins.,32,22,2,246,1446,USC Trojans,layup,True,True,False,Rayah Marshall,True,JuJu Watkins,23.0,1.0
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Three Point Jumper.,32,22,2,229,1429,Baylor Bears,three point jumper,True,False,True,Sarah Andrews,False,,48.0,3.0
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell Offensive Rebound.,32,22,2,229,1429,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Layup.,32,22,2,216,1416,Baylor Bears,layup,True,False,False,Sarah Andrews,False,,23.0,1.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,32,22,2,216,1416,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on McKenzie Forbes.,32,22,2,202,1402,USC Trojans,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes Turnover.,32,22,2,202,1402,USC Trojans,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews made Layup.,32,24,2,182,1382,Baylor Bears,layup,True,True,False,Sarah Andrews,False,,28.0,3.0
+401637603,USC Trojans,Baylor Bears,USC  Timeout,32,24,2,180,1380,USC Trojans,timeout,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Jumper.,32,24,2,167,1367,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,34.0,2.0
+401637603,USC Trojans,Baylor Bears,Jada Walker Defensive Rebound.,32,24,2,167,1367,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jump Ball won by Baylor,32,24,2,162,1362,Baylor Bears,jump ball,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews Turnover.,32,24,2,151,1351,Baylor Bears,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Jada Walker.,32,24,2,140,1340,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Free Throw.,33,24,2,140,1340,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Free Throw.,34,24,2,140,1340,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs missed Jumper.,34,24,2,122,1322,Baylor Bears,jumper,True,False,False,Darianna Littlepage-Buggs,False,,20.0,17.0
+401637603,USC Trojans,Baylor Bears,Clarice Akunwafo Defensive Rebound.,34,24,2,122,1322,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Jada Walker.,34,24,2,117,1317,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Free Throw.,35,24,2,117,1317,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Free Throw.,35,24,2,117,1317,USC Trojans,free throw,True,False,False,JuJu Watkins,False,,,
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Defensive Rebound.,35,24,2,117,1317,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell missed Jumper.,35,24,2,109,1309,Baylor Bears,jumper,True,False,False,Aijha Blackwell,False,,25.0,6.0
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Offensive Rebound.,35,24,2,109,1309,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell made Layup. Assisted by Dre'Una Edwards.,35,26,2,101,1301,Baylor Bears,layup,True,True,False,Aijha Blackwell,True,Dre'Una Edwards,24.0,1.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Jumper.,35,26,2,90,1290,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,18.0,8.0
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Defensive Rebound.,35,26,2,90,1290,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on JuJu Watkins.,35,26,2,90,1290,USC Trojans,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jana Van Gytenbeek made Free Throw.,35,27,2,90,1290,Baylor Bears,free throw,True,True,False,Jana Van Gytenbeek,False,,,
+401637603,USC Trojans,Baylor Bears,Jana Van Gytenbeek made Free Throw.,35,28,2,90,1290,Baylor Bears,free throw,True,True,False,Jana Van Gytenbeek,False,,,
+401637603,USC Trojans,Baylor Bears,Kayla Padilla missed Jumper.,35,28,2,81,1281,USC Trojans,jumper,True,False,False,Kayla Padilla,False,,17.0,11.0
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell Defensive Rebound.,35,28,2,81,1281,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Jumper.,35,28,2,68,1268,Baylor Bears,jumper,True,False,False,Sarah Andrews,False,,36.0,14.0
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Offensive Rebound.,35,28,2,68,1268,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell made Three Point Jumper. Assisted by Dre'Una Edwards.,35,31,2,60,1260,Baylor Bears,three point jumper,True,True,True,Aijha Blackwell,True,Dre'Una Edwards,4.0,11.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Jumper.,35,31,2,40,1240,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,20.0,10.0
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Block.,35,31,2,40,1240,Baylor Bears,block,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Defensive Rebound.,35,31,2,40,1240,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Turnover.,35,31,2,32,1232,Baylor Bears,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kayla Padilla Steal.,35,31,2,32,1232,USC Trojans,steal,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Taylor Bigby missed Three Point Jumper.,35,31,2,19,1219,USC Trojans,three point jumper,True,False,True,Taylor Bigby,False,,45.0,12.0
+401637603,USC Trojans,Baylor Bears,Kayla Padilla Offensive Rebound.,35,31,2,19,1219,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kayla Padilla made Two Point Tip Shot.,37,31,2,19,1219,USC Trojans,two point tip shot,True,True,False,Kayla Padilla,False,,25.0,1.0
+401637603,USC Trojans,Baylor Bears,Foul on Aijha Blackwell.,37,31,2,5,1205,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell Turnover.,37,31,2,5,1205,Baylor Bears,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Three Point Jumper.,37,31,2,2,1202,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,6.0,13.0
+401637603,USC Trojans,Baylor Bears,Baylor Deadball Team Rebound.,37,31,2,2,1202,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,End of 2nd Quarter,37,31,2,0,1200,,end,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jump Ball won by USC,37,31,3,600,1200,USC Trojans,jump ball,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Jumper.,37,31,3,588,1188,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,10.0,3.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs Defensive Rebound.,37,31,3,588,1188,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs missed Jumper.,37,31,3,573,1173,Baylor Bears,jumper,True,False,False,Darianna Littlepage-Buggs,False,,39.0,-2.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,37,31,3,573,1173,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes missed Jumper.,37,31,3,559,1159,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,22.0,9.0
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell Defensive Rebound.,37,31,3,559,1159,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs made Jumper. Assisted by Jada Walker.,37,33,3,546,1146,Baylor Bears,jumper,True,True,False,Darianna Littlepage-Buggs,True,Jada Walker,16.0,8.0
+401637603,USC Trojans,Baylor Bears,Kaitlyn Davis made Layup. Assisted by Kayla Padilla.,39,33,3,517,1117,USC Trojans,layup,True,True,False,Kaitlyn Davis,True,Kayla Padilla,27.0,1.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs made Jumper. Assisted by Jada Walker.,39,35,3,507,1107,Baylor Bears,jumper,True,True,False,Darianna Littlepage-Buggs,True,Jada Walker,31.0,16.0
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes missed Jumper.,39,35,3,489,1089,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,25.0,23.0
+401637603,USC Trojans,Baylor Bears,Baylor Defensive Rebound.,39,35,3,489,1089,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell made Layup. Assisted by Jada Walker.,39,37,3,475,1075,Baylor Bears,layup,True,True,False,Aijha Blackwell,True,Jada Walker,23.0,1.0
+401637603,USC Trojans,Baylor Bears,Kaitlyn Davis made Layup. Assisted by Kayla Padilla.,41,37,3,458,1058,USC Trojans,layup,True,True,False,Kaitlyn Davis,True,Kayla Padilla,23.0,3.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs made Layup. Assisted by Jada Walker.,41,39,3,446,1046,Baylor Bears,layup,True,True,False,Darianna Littlepage-Buggs,True,Jada Walker,27.0,2.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Three Point Jumper.,44,39,3,426,1026,USC Trojans,three point jumper,True,True,True,JuJu Watkins,False,,10.0,23.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs made Jumper.,44,41,3,414,1014,Baylor Bears,jumper,True,True,False,Darianna Littlepage-Buggs,False,,29.0,7.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Three Point Jumper.,47,41,3,393,993,USC Trojans,three point jumper,True,True,True,JuJu Watkins,False,,25.0,28.0
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell missed Layup.,47,41,3,371,971,Baylor Bears,layup,True,False,False,Aijha Blackwell,False,,27.0,2.0
+401637603,USC Trojans,Baylor Bears,Kaitlyn Davis Defensive Rebound.,47,41,3,371,971,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Three Point Jumper.,47,41,3,359,959,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,5.0,17.0
+401637603,USC Trojans,Baylor Bears,Bella Fontleroy Defensive Rebound.,47,41,3,359,959,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews made Three Point Jumper. Assisted by Jada Walker.,47,44,3,351,951,Baylor Bears,three point jumper,True,True,True,Sarah Andrews,True,Jada Walker,4.0,11.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall made Layup. Assisted by JuJu Watkins.,49,44,3,320,920,USC Trojans,layup,True,True,False,Rayah Marshall,True,JuJu Watkins,21.0,2.0
+401637603,USC Trojans,Baylor Bears,Jada Walker Turnover.,49,44,3,308,908,Baylor Bears,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall missed Layup.,49,44,3,295,895,USC Trojans,layup,True,False,False,Rayah Marshall,False,,22.0,2.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs Block.,49,44,3,295,895,Baylor Bears,block,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,USC Offensive Rebound.,49,44,3,293,893,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears, Official TV Timeout,49,44,3,292,892,,tv timeout,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes missed Jumper.,49,44,3,283,883,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,9.0,5.0
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Defensive Rebound.,49,44,3,283,883,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Bella Fontleroy made Three Point Jumper. Assisted by Sarah Andrews.,49,47,3,267,867,Baylor Bears,three point jumper,True,True,True,Bella Fontleroy,True,Sarah Andrews,40.0,19.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Three Point Jumper.,49,47,3,251,851,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,19.0,23.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs Defensive Rebound.,49,47,3,228,828,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Bella Fontleroy missed Three Point Jumper.,49,47,3,214,814,Baylor Bears,three point jumper,True,False,True,Bella Fontleroy,False,,45.0,11.0
+401637603,USC Trojans,Baylor Bears,Kayla Padilla Defensive Rebound.,49,47,3,214,814,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kaitlyn Davis missed Jumper.,49,47,3,205,805,USC Trojans,jumper,True,False,False,Kaitlyn Davis,False,,32.0,6.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs Defensive Rebound.,49,47,3,205,805,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Bella Fontleroy missed Layup.,49,47,3,204,804,Baylor Bears,layup,True,False,False,Bella Fontleroy,False,,22.0,2.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins Block.,49,47,3,204,804,USC Trojans,block,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Baylor Offensive Rebound.,49,47,3,204,804,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews Turnover.,49,47,3,204,804,Baylor Bears,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Jumper.,49,47,3,190,790,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,8.0,13.0
+401637603,USC Trojans,Baylor Bears,Kaitlyn Davis Offensive Rebound.,49,47,3,190,790,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kaitlyn Davis missed Two Point Tip Shot.,49,47,3,190,790,USC Trojans,two point tip shot,True,False,False,Kaitlyn Davis,False,,25.0,1.0
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Defensive Rebound.,49,47,3,190,790,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews made Three Point Jumper. Assisted by Dre'Una Edwards.,49,50,3,176,776,Baylor Bears,three point jumper,True,True,True,Sarah Andrews,True,Dre'Una Edwards,44.0,14.0
+401637603,USC Trojans,Baylor Bears,USC  Timeout,49,50,3,173,773,USC Trojans,timeout,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall made Layup. Assisted by JuJu Watkins.,51,50,3,167,767,USC Trojans,layup,True,True,False,Rayah Marshall,True,JuJu Watkins,27.0,1.0
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards missed Jumper.,51,50,3,147,747,Baylor Bears,jumper,True,False,False,Dre'Una Edwards,False,,24.0,7.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins Defensive Rebound.,51,50,3,147,747,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes made Jumper.,53,50,3,122,722,USC Trojans,jumper,True,True,False,McKenzie Forbes,False,,20.0,8.0
+401637603,USC Trojans,Baylor Bears,Foul on Sarah Andrews.,53,50,3,122,722,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes missed Free Throw.,53,50,3,122,722,USC Trojans,free throw,True,False,False,McKenzie Forbes,False,,,
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Defensive Rebound.,53,50,3,122,722,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs missed Layup.,53,50,3,102,702,Baylor Bears,layup,True,False,False,Darianna Littlepage-Buggs,False,,22.0,0.0
+401637603,USC Trojans,Baylor Bears,Kaitlyn Davis Defensive Rebound.,53,50,3,102,702,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes Turnover.,53,50,3,91,691,USC Trojans,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on McKenzie Forbes.,53,50,3,91,691,USC Trojans,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards made Three Point Jumper. Assisted by Sarah Andrews.,53,53,3,78,678,Baylor Bears,three point jumper,True,True,True,Dre'Una Edwards,True,Sarah Andrews,15.0,22.0
+401637603,USC Trojans,Baylor Bears,Foul on Dre'Una Edwards.,53,53,3,67,667,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall missed Jumper.,53,53,3,58,658,USC Trojans,jumper,True,False,False,Rayah Marshall,False,,23.0,7.0
+401637603,USC Trojans,Baylor Bears,Baylor Defensive Rebound.,53,53,3,58,658,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jada Walker made Jumper.,53,55,3,37,637,Baylor Bears,jumper,True,True,False,Jada Walker,False,,33.0,14.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Three Point Jumper.,53,55,3,19,619,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,8.0,19.0
+401637603,USC Trojans,Baylor Bears,Baylor Defensive Rebound.,53,55,3,19,619,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jada Walker made Layup.,53,57,3,7,607,Baylor Bears,layup,True,True,False,Jada Walker,False,,23.0,2.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Three Point Jumper.,53,57,3,1,601,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,4.0,45.0
+401637603,USC Trojans,Baylor Bears,Bella Fontleroy Block.,53,57,3,1,601,Baylor Bears,block,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Baylor Deadball Team Rebound.,53,57,3,0,600,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,End of 3rd Quarter,53,57,3,0,600,,end,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jump Ball won by Baylor,53,57,4,600,600,Baylor Bears,jump ball,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Bella Fontleroy missed Layup.,53,57,4,592,592,Baylor Bears,layup,True,False,False,Bella Fontleroy,False,,23.0,2.0
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes Block.,53,57,4,592,592,USC Trojans,block,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,53,57,4,592,592,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kayla Padilla made Jumper.,55,57,4,571,571,USC Trojans,jumper,True,True,False,Kayla Padilla,False,,30.0,5.0
+401637603,USC Trojans,Baylor Bears,Foul on Jada Walker.,55,57,4,571,571,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kayla Padilla made Free Throw.,56,57,4,571,571,USC Trojans,free throw,True,True,False,Kayla Padilla,False,,,
+401637603,USC Trojans,Baylor Bears,Bella Fontleroy missed Three Point Jumper.,56,57,4,554,554,Baylor Bears,three point jumper,True,False,True,Bella Fontleroy,False,,48.0,-1.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,56,57,4,554,554,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes made Three Point Jumper.,59,57,4,545,545,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,False,,38.0,22.0
+401637603,USC Trojans,Baylor Bears,Baylor  Timeout,59,57,4,538,538,Baylor Bears,timeout,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews Turnover.,59,57,4,524,524,Baylor Bears,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins Steal.,59,57,4,524,524,USC Trojans,steal,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jump Ball won by USC,59,57,4,500,500,USC Trojans,jump ball,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kayla Padilla missed Three Point Jumper.,59,57,4,494,494,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,46.0,18.0
+401637603,USC Trojans,Baylor Bears,Baylor Defensive Rebound.,59,57,4,494,494,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Three Point Jumper.,59,57,4,475,475,Baylor Bears,three point jumper,True,False,True,Sarah Andrews,False,,5.0,13.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,59,57,4,475,475,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kayla Padilla Turnover.,59,57,4,467,467,USC Trojans,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews Steal.,59,57,4,467,467,Baylor Bears,steal,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Layup.,59,57,4,462,462,Baylor Bears,layup,True,False,False,Sarah Andrews,False,,23.0,2.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins Block.,59,57,4,462,462,USC Trojans,block,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Baylor Offensive Rebound.,59,57,4,462,462,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards missed Jumper.,59,57,4,458,458,Baylor Bears,jumper,True,False,False,Dre'Una Edwards,False,,22.0,6.0
+401637603,USC Trojans,Baylor Bears,Kaitlyn Davis Defensive Rebound.,59,57,4,458,458,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall missed Jumper.,59,57,4,433,433,USC Trojans,jumper,True,False,False,Rayah Marshall,False,,26.0,9.0
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Defensive Rebound.,59,57,4,433,433,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jada Walker missed Layup.,59,57,4,411,411,Baylor Bears,layup,True,False,False,Jada Walker,False,,21.0,1.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs Offensive Rebound.,59,57,4,411,411,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Three Point Jumper.,59,57,4,405,405,Baylor Bears,three point jumper,True,False,True,Sarah Andrews,False,,23.0,26.0
+401637603,USC Trojans,Baylor Bears,Kayla Padilla Defensive Rebound.,59,57,4,405,405,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jump Ball won by Baylor,59,57,4,374,374,Baylor Bears,jump ball,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kayla Padilla Turnover.,59,57,4,374,374,USC Trojans,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs Steal.,59,57,4,374,374,Baylor Bears,steal,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Kayla Padilla.,59,57,4,365,365,USC Trojans,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jada Walker missed Free Throw.,59,57,4,365,365,Baylor Bears,free throw,True,False,False,Jada Walker,False,,,
+401637603,USC Trojans,Baylor Bears,Baylor Deadball Team Rebound.,59,57,4,365,365,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jada Walker made Free Throw.,59,58,4,365,365,Baylor Bears,free throw,True,True,False,Jada Walker,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Three Point Jumper.,59,58,4,345,345,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,23.0,26.0
+401637603,USC Trojans,Baylor Bears,Denae Fritz Defensive Rebound.,59,58,4,345,345,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Denae Fritz missed Three Point Jumper.,59,58,4,336,336,Baylor Bears,three point jumper,True,False,True,Denae Fritz,False,,2.0,0.0
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell Offensive Rebound.,59,58,4,336,336,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Aijha Blackwell made Two Point Tip Shot.,59,60,4,336,336,Baylor Bears,two point tip shot,True,True,False,Aijha Blackwell,False,,25.0,1.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Jumper.,59,60,4,301,301,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,22.0,11.0
+401637603,USC Trojans,Baylor Bears,Darianna Littlepage-Buggs Defensive Rebound.,59,60,4,301,301,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Jada Walker made Jumper.,59,62,4,283,283,Baylor Bears,jumper,True,True,False,Jada Walker,False,,9.0,8.0
+401637603,USC Trojans,Baylor Bears,Kaitlyn Davis made Jumper.,61,62,4,270,270,USC Trojans,jumper,True,True,False,Kaitlyn Davis,False,,28.0,8.0
+401637603,USC Trojans,Baylor Bears,Jada Walker made Jumper.,61,64,4,259,259,Baylor Bears,jumper,True,True,False,Jada Walker,False,,27.0,16.0
+401637603,USC Trojans,Baylor Bears,Foul on Denae Fritz.,61,64,4,245,245,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kaitlyn Davis missed Free Throw.,61,64,4,245,245,USC Trojans,free throw,True,False,False,Kaitlyn Davis,False,,,
+401637603,USC Trojans,Baylor Bears,USC Deadball Team Rebound.,61,64,4,245,245,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kaitlyn Davis made Free Throw.,62,64,4,245,245,USC Trojans,free throw,True,True,False,Kaitlyn Davis,False,,,
+401637603,USC Trojans,Baylor Bears,Jada Walker missed Jumper.,62,64,4,229,229,Baylor Bears,jumper,True,False,False,Jada Walker,False,,21.0,18.0
+401637603,USC Trojans,Baylor Bears,Kayla Williams Defensive Rebound.,62,64,4,229,229,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Clarice Akunwafo made Layup. Assisted by JuJu Watkins.,64,64,4,213,213,USC Trojans,layup,True,True,False,Clarice Akunwafo,True,JuJu Watkins,28.0,0.0
+401637603,USC Trojans,Baylor Bears,Jada Walker missed Layup.,64,64,4,199,199,Baylor Bears,layup,True,False,False,Jada Walker,False,,20.0,0.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins Defensive Rebound.,64,64,4,199,199,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Layup.,66,64,4,193,193,USC Trojans,layup,True,True,False,JuJu Watkins,False,,23.0,2.0
+401637603,USC Trojans,Baylor Bears,Foul on Sarah Andrews.,66,64,4,193,193,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Free Throw.,67,64,4,193,193,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Layup.,67,64,4,175,175,Baylor Bears,layup,True,False,False,Sarah Andrews,False,,21.0,1.0
+401637603,USC Trojans,Baylor Bears,JuJu Watkins Block.,67,64,4,175,175,USC Trojans,block,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes Defensive Rebound.,67,64,4,175,175,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins missed Three Point Jumper.,67,64,4,167,167,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,27.0,24.0
+401637603,USC Trojans,Baylor Bears,Baylor Defensive Rebound.,67,64,4,167,167,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Three Point Jumper.,67,64,4,132,132,Baylor Bears,three point jumper,True,False,True,Sarah Andrews,False,,46.0,11.0
+401637603,USC Trojans,Baylor Bears,Baylor Deadball Team Rebound.,67,64,4,132,132,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Baylor  Turnover.,67,64,4,132,132,Baylor Bears,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Darianna Littlepage-Buggs.,67,64,4,109,109,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Free Throw.,68,64,4,109,109,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Free Throw.,69,64,4,109,109,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews made Three Point Jumper. Assisted by Jada Walker.,69,67,4,98,98,Baylor Bears,three point jumper,True,True,True,Sarah Andrews,True,Jada Walker,47.0,13.0
+401637603,USC Trojans,Baylor Bears,McKenzie Forbes Turnover.,69,67,4,72,72,USC Trojans,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews Steal.,69,67,4,72,72,Baylor Bears,steal,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on McKenzie Forbes.,69,67,4,70,70,USC Trojans,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Kayla Williams.,69,67,4,64,64,USC Trojans,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Dre'Una Edwards.,69,67,4,54,54,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Turnover.,69,67,4,54,54,Baylor Bears,turnover,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,USC  Timeout,69,67,4,54,54,USC Trojans,timeout,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Kaitlyn Davis missed Layup.,69,67,4,31,31,USC Trojans,layup,True,False,False,Kaitlyn Davis,False,,27.0,0.0
+401637603,USC Trojans,Baylor Bears,USC Offensive Rebound.,69,67,4,31,31,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Bella Fontleroy.,69,67,4,26,26,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Free Throw.,70,67,4,26,26,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Free Throw.,71,67,4,26,26,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637603,USC Trojans,Baylor Bears,Baylor  Timeout,71,67,4,26,26,Baylor Bears,timeout,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews made Three Point Jumper. Assisted by Dre'Una Edwards.,71,70,4,22,22,Baylor Bears,three point jumper,True,True,True,Sarah Andrews,True,Dre'Una Edwards,48.0,9.0
+401637603,USC Trojans,Baylor Bears,USC  Timeout,71,70,4,22,22,USC Trojans,timeout,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Sarah Andrews.,71,70,4,19,19,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Free Throw.,72,70,4,19,19,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637603,USC Trojans,Baylor Bears,JuJu Watkins made Free Throw.,73,70,4,19,19,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637603,USC Trojans,Baylor Bears,Baylor  Timeout,73,70,4,19,19,Baylor Bears,timeout,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Sarah Andrews missed Three Point Jumper.,73,70,4,12,12,Baylor Bears,three point jumper,True,False,True,Sarah Andrews,False,,14.0,27.0
+401637603,USC Trojans,Baylor Bears,Rayah Marshall Defensive Rebound.,73,70,4,12,12,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Foul on Jana Van Gytenbeek.,73,70,4,8,8,Baylor Bears,foul,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall made Free Throw.,74,70,4,8,8,USC Trojans,free throw,True,True,False,Rayah Marshall,False,,,
+401637603,USC Trojans,Baylor Bears,Rayah Marshall missed Free Throw.,74,70,4,8,8,USC Trojans,free throw,True,False,False,Rayah Marshall,False,,,
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards Defensive Rebound.,74,70,4,8,8,Baylor Bears,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Baylor  Timeout,74,70,4,7,7,Baylor Bears,timeout,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,Dre'Una Edwards missed Three Point Jumper.,74,70,4,4,4,Baylor Bears,three point jumper,True,False,True,Dre'Una Edwards,False,,47.0,8.0
+401637603,USC Trojans,Baylor Bears,USC Defensive Rebound.,74,70,4,2,2,USC Trojans,rebound,False,False,False,,False,,,
+401637603,USC Trojans,Baylor Bears,End of Game,74,70,4,0,0,,end,False,False,False,,False,,,

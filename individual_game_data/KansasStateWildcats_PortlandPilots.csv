@@ -1,0 +1,346 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637544,Kansas State Wildcats,Portland Pilots,Jump Ball won by Kansas State,0,0,1,600,2400,Kansas State Wildcats,jump ball,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Layup. Assisted by Gabby Gregory.,2,0,1,595,2395,Kansas State Wildcats,layup,True,True,False,Ayoka Lee,True,Gabby Gregory,23.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham missed Layup.,2,0,1,580,2380,Portland Pilots,layup,True,False,False,Maisie Burnham,False,,25.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham Offensive Rebound.,2,0,1,580,2380,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Ayoka Lee.,2,0,1,575,2375,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham missed Free Throw.,2,0,1,575,2375,Portland Pilots,free throw,True,False,False,Maisie Burnham,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Portland Deadball Team Rebound.,2,0,1,575,2375,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham missed Free Throw.,2,0,1,575,2375,Portland Pilots,free throw,True,False,False,Maisie Burnham,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham Offensive Rebound.,2,0,1,575,2375,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham Turnover.,2,0,1,574,2374,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn made Three Point Jumper. Assisted by Serena Sundell.,5,0,1,565,2365,Kansas State Wildcats,three point jumper,True,True,True,Jaelyn Glenn,True,Serena Sundell,2.0,2.0
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer missed Three Point Jumper.,5,0,1,538,2338,Portland Pilots,three point jumper,True,False,True,Emme Shearer,False,,46.0,10.0
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn Defensive Rebound.,5,0,1,538,2338,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Layup. Assisted by Serena Sundell.,7,0,1,527,2327,Kansas State Wildcats,layup,True,True,False,Ayoka Lee,True,Serena Sundell,27.0,2.0
+401637544,Kansas State Wildcats,Portland Pilots, Official TV Timeout,7,0,1,523,2323,,tv timeout,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kennedy Dickie made Jumper.,7,2,1,512,2312,Portland Pilots,jumper,True,True,False,Kennedy Dickie,False,,21.0,7.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Emme Shearer.,7,2,1,498,2298,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Brylee Glenn made Free Throw.,8,2,1,498,2298,Kansas State Wildcats,free throw,True,True,False,Brylee Glenn,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Brylee Glenn made Free Throw.,9,2,1,498,2298,Kansas State Wildcats,free throw,True,True,False,Brylee Glenn,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane made Layup. Assisted by McKelle Meek.,9,4,1,484,2284,Portland Pilots,layup,True,True,False,Lucy Cochrane,True,McKelle Meek,23.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on McKelle Meek.,9,4,1,468,2268,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Kennedy Dickie.,9,4,1,461,2261,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell made Free Throw.,10,4,1,461,2261,Kansas State Wildcats,free throw,True,True,False,Serena Sundell,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell made Free Throw.,11,4,1,461,2261,Kansas State Wildcats,free throw,True,True,False,Serena Sundell,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,McKelle Meek missed Three Point Jumper.,11,4,1,438,2238,Portland Pilots,three point jumper,True,False,True,McKelle Meek,False,,34.0,23.0
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell Defensive Rebound.,11,4,1,438,2238,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn missed Jumper.,11,4,1,422,2222,Kansas State Wildcats,jumper,True,False,False,Jaelyn Glenn,False,,36.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn Offensive Rebound.,11,4,1,422,2222,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell made Three Point Jumper. Assisted by Jaelyn Glenn.,14,4,1,418,2218,Kansas State Wildcats,three point jumper,True,True,True,Serena Sundell,True,Jaelyn Glenn,25.0,24.0
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev missed Jumper.,14,4,1,398,2198,Portland Pilots,jumper,True,False,False,Dyani Ananiev,False,,30.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell Defensive Rebound.,14,4,1,398,2198,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell made Layup. Assisted by Jaelyn Glenn.,16,4,1,384,2184,Kansas State Wildcats,layup,True,True,False,Serena Sundell,True,Jaelyn Glenn,28.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane missed Jumper.,16,4,1,362,2162,Portland Pilots,jumper,True,False,False,Lucy Cochrane,False,,7.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee Defensive Rebound.,16,4,1,362,2162,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory missed Three Point Jumper.,16,4,1,348,2148,Kansas State Wildcats,three point jumper,True,False,True,Gabby Gregory,False,,9.0,18.0
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev Defensive Rebound.,16,4,1,348,2148,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Portland  Turnover.,16,4,1,314,2114,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Kianna Hamilton.,16,4,1,313,2113,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell made Layup.,18,4,1,309,2109,Kansas State Wildcats,layup,True,True,False,Serena Sundell,False,,25.0,3.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Rhyan Mogel.,18,4,1,309,2109,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell missed Free Throw.,18,4,1,309,2109,Kansas State Wildcats,free throw,True,False,False,Serena Sundell,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kennedy Dickie Defensive Rebound.,18,4,1,309,2109,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev missed Layup.,18,4,1,299,2099,Portland Pilots,layup,True,False,False,Dyani Ananiev,False,,23.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Eliza Maupin Defensive Rebound.,18,4,1,299,2099,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory missed Three Point Jumper.,18,4,1,285,2085,Kansas State Wildcats,three point jumper,True,False,True,Gabby Gregory,False,,33.0,25.0
+401637544,Kansas State Wildcats,Portland Pilots,Natalie Fraley Defensive Rebound.,18,4,1,285,2085,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots, Official TV Timeout,18,4,1,268,2068,,tv timeout,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Portland  Turnover.,18,4,1,250,2050,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory made Layup. Assisted by Brylee Glenn.,20,4,1,239,2039,Kansas State Wildcats,layup,True,True,False,Gabby Gregory,True,Brylee Glenn,23.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Kennedy Dickie.,20,4,1,229,2029,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kennedy Dickie Turnover.,20,4,1,229,2029,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell missed Layup.,20,4,1,212,2012,Kansas State Wildcats,layup,True,False,False,Serena Sundell,False,,27.0,2.0
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane Block.,20,4,1,212,2012,Portland Pilots,block,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham Defensive Rebound.,20,4,1,212,2012,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Natalie Fraley missed Layup.,20,4,1,204,2004,Portland Pilots,layup,True,False,False,Natalie Fraley,False,,27.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker Defensive Rebound.,20,4,1,204,2004,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory missed Three Point Jumper.,20,4,1,193,1993,Kansas State Wildcats,three point jumper,True,False,True,Gabby Gregory,False,,39.0,24.0
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham Defensive Rebound.,20,4,1,193,1993,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Eliza Maupin.,20,4,1,189,1989,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham missed Three Point Jumper.,20,4,1,175,1975,Portland Pilots,three point jumper,True,False,True,Maisie Burnham,False,,5.0,12.0
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer Offensive Rebound.,20,4,1,175,1975,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer made Jumper.,20,6,1,170,1970,Portland Pilots,jumper,True,True,False,Emme Shearer,False,,25.0,4.0
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee Turnover.,20,6,1,147,1947,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham Turnover.,20,6,1,125,1925,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn Steal.,20,6,1,125,1925,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn missed Three Point Jumper.,20,6,1,111,1911,Kansas State Wildcats,three point jumper,True,False,True,Jaelyn Glenn,False,,49.0,-1.0
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham Defensive Rebound.,20,6,1,111,1911,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane missed Jumper.,20,6,1,99,1899,Portland Pilots,jumper,True,False,False,Lucy Cochrane,False,,27.0,20.0
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker Defensive Rebound.,20,6,1,99,1899,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Lucy Cochrane.,20,6,1,88,1888,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Free Throw.,21,6,1,88,1888,Kansas State Wildcats,free throw,True,True,False,Ayoka Lee,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Free Throw.,22,6,1,88,1888,Kansas State Wildcats,free throw,True,True,False,Ayoka Lee,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer Turnover.,22,6,1,73,1873,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker Steal.,22,6,1,73,1873,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gisela Sanchez made Layup. Assisted by Taryn Sides.,24,6,1,56,1856,Kansas State Wildcats,layup,True,True,False,Gisela Sanchez,True,Taryn Sides,27.0,2.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Taryn Sides.,24,6,1,40,1840,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,McKelle Meek made Free Throw.,24,7,1,40,1840,Portland Pilots,free throw,True,True,False,McKelle Meek,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,McKelle Meek made Free Throw.,24,8,1,40,1840,Portland Pilots,free throw,True,True,False,McKelle Meek,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker Turnover.,24,8,1,39,1839,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer Steal.,24,8,1,39,1839,Portland Pilots,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Gisela Sanchez.,24,8,1,38,1838,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer made Layup. Assisted by Maisie Burnham.,24,10,1,37,1837,Portland Pilots,layup,True,True,False,Emme Shearer,True,Maisie Burnham,27.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Lainey Spear.,24,10,1,28,1828,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker made Free Throw.,25,10,1,28,1828,Kansas State Wildcats,free throw,True,True,False,Zyanna Walker,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker missed Free Throw.,25,10,1,28,1828,Kansas State Wildcats,free throw,True,False,False,Zyanna Walker,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Portland Defensive Rebound.,25,10,1,28,1828,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,End of 1st Quarter,25,10,1,0,1800,,end,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Jump Ball won by Portland,25,10,2,600,1800,Portland Pilots,jump ball,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton made Layup. Assisted by Lucy Cochrane.,25,12,2,593,1793,Portland Pilots,layup,True,True,False,Kianna Hamilton,True,Lucy Cochrane,23.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory made Layup.,27,12,2,573,1773,Kansas State Wildcats,layup,True,True,False,Gabby Gregory,False,,23.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane missed Three Point Jumper.,27,12,2,550,1750,Portland Pilots,three point jumper,True,False,True,Lucy Cochrane,False,,3.0,9.0
+401637544,Kansas State Wildcats,Portland Pilots,Gisela Sanchez Defensive Rebound.,27,12,2,550,1750,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell made Three Point Jumper. Assisted by Gisela Sanchez.,30,12,2,531,1731,Kansas State Wildcats,three point jumper,True,True,True,Serena Sundell,True,Gisela Sanchez,19.0,24.0
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton made Layup. Assisted by Lucy Cochrane.,30,14,2,512,1712,Portland Pilots,layup,True,True,False,Kianna Hamilton,True,Lucy Cochrane,24.0,2.0
+401637544,Kansas State Wildcats,Portland Pilots,Eliza Maupin missed Layup.,30,14,2,498,1698,Kansas State Wildcats,layup,True,False,False,Eliza Maupin,False,,27.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,McKelle Meek Defensive Rebound.,30,14,2,498,1698,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kennedy Dickie missed Jumper.,30,14,2,488,1688,Portland Pilots,jumper,True,False,False,Kennedy Dickie,False,,26.0,8.0
+401637544,Kansas State Wildcats,Portland Pilots,Eliza Maupin Defensive Rebound.,30,14,2,488,1688,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Eliza Maupin made Jumper. Assisted by Serena Sundell.,32,14,2,463,1663,Kansas State Wildcats,jumper,True,True,False,Eliza Maupin,True,Serena Sundell,24.0,8.0
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton missed Three Point Jumper.,32,14,2,434,1634,Portland Pilots,three point jumper,True,False,True,Kianna Hamilton,False,,29.0,25.0
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell Defensive Rebound.,32,14,2,434,1634,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gisela Sanchez missed Jumper.,32,14,2,421,1621,Kansas State Wildcats,jumper,True,False,False,Gisela Sanchez,False,,25.0,17.0
+401637544,Kansas State Wildcats,Portland Pilots,Portland Defensive Rebound.,32,14,2,421,1621,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Natalie Fraley missed Three Point Jumper.,32,14,2,407,1607,Portland Pilots,three point jumper,True,False,True,Natalie Fraley,False,,44.0,13.0
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn Defensive Rebound.,32,14,2,407,1607,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn Turnover.,32,14,2,398,1598,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer Steal.,32,14,2,398,1598,Portland Pilots,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer Turnover.,32,14,2,390,1590,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn Steal.,32,14,2,390,1590,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Kianna Hamilton.,32,14,2,375,1575,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee missed Jumper.,32,14,2,365,1565,Kansas State Wildcats,jumper,True,False,False,Ayoka Lee,False,,28.0,3.0
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee Offensive Rebound.,32,14,2,365,1565,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Maisie Burnham.,32,14,2,361,1561,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Free Throw.,33,14,2,361,1561,Kansas State Wildcats,free throw,True,True,False,Ayoka Lee,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Free Throw.,34,14,2,361,1561,Kansas State Wildcats,free throw,True,True,False,Ayoka Lee,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Natalie Fraley missed Three Point Jumper.,34,14,2,353,1553,Portland Pilots,three point jumper,True,False,True,Natalie Fraley,False,,2.0,2.0
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn Defensive Rebound.,34,14,2,353,1553,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn Turnover.,34,14,2,345,1545,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham Steal.,34,14,2,345,1545,Portland Pilots,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham made Layup.,34,16,2,340,1540,Portland Pilots,layup,True,True,False,Maisie Burnham,False,,23.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn Turnover.,34,16,2,333,1533,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev Steal.,34,16,2,333,1533,Portland Pilots,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Brylee Glenn.,34,16,2,313,1513,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,McKelle Meek made Jumper. Assisted by Maisie Burnham.,34,18,2,299,1499,Portland Pilots,jumper,True,True,False,McKelle Meek,True,Maisie Burnham,32.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Natalie Fraley.,34,18,2,289,1489,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots, Official TV Timeout,34,18,2,289,1489,,tv timeout,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell missed Free Throw.,34,18,2,289,1489,Kansas State Wildcats,free throw,True,False,False,Serena Sundell,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kansas State Deadball Team Rebound.,34,18,2,289,1489,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell missed Free Throw.,34,18,2,289,1489,Kansas State Wildcats,free throw,True,False,False,Serena Sundell,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Rhyan Mogel Defensive Rebound.,34,18,2,289,1489,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Zyanna Walker.,34,18,2,277,1477,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Rhyan Mogel missed Jumper.,34,18,2,266,1466,Portland Pilots,jumper,True,False,False,Rhyan Mogel,False,,24.0,9.0
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee Defensive Rebound.,34,18,2,266,1466,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory made Layup. Assisted by Zyanna Walker.,36,18,2,246,1446,Kansas State Wildcats,layup,True,True,False,Gabby Gregory,True,Zyanna Walker,23.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev made Layup. Assisted by McKelle Meek.,36,20,2,238,1438,Portland Pilots,layup,True,True,False,Dyani Ananiev,True,McKelle Meek,23.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Gabby Gregory.,36,20,2,238,1438,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev made Free Throw.,36,21,2,238,1438,Portland Pilots,free throw,True,True,False,Dyani Ananiev,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Brylee Glenn missed Layup.,36,21,2,224,1424,Kansas State Wildcats,layup,True,False,False,Brylee Glenn,False,,23.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane Defensive Rebound.,36,21,2,224,1424,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev missed Three Point Jumper.,36,21,2,215,1415,Portland Pilots,three point jumper,True,False,True,Dyani Ananiev,False,,44.0,13.0
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker Defensive Rebound.,36,21,2,215,1415,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee missed Layup.,36,21,2,201,1401,Kansas State Wildcats,layup,True,False,False,Ayoka Lee,False,,25.0,2.0
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane Defensive Rebound.,36,21,2,201,1401,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev missed Three Point Jumper.,36,21,2,170,1370,Portland Pilots,three point jumper,True,False,True,Dyani Ananiev,False,,45.0,14.0
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham Offensive Rebound.,36,21,2,170,1370,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Jaelyn Glenn.,36,21,2,165,1365,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Jaelyn Glenn.,36,21,2,164,1364,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham made Free Throw.,36,22,2,164,1364,Portland Pilots,free throw,True,True,False,Maisie Burnham,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham made Free Throw.,36,23,2,164,1364,Portland Pilots,free throw,True,True,False,Maisie Burnham,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker made Layup.,38,23,2,154,1354,Kansas State Wildcats,layup,True,True,False,Zyanna Walker,False,,27.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,McKelle Meek missed Layup.,38,23,2,127,1327,Portland Pilots,layup,True,False,False,McKelle Meek,False,,22.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee Defensive Rebound.,38,23,2,127,1327,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory Turnover.,38,23,2,119,1319,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,McKelle Meek Steal.,38,23,2,119,1319,Portland Pilots,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kennedy Dickie missed Jumper.,38,23,2,108,1308,Portland Pilots,jumper,True,False,False,Kennedy Dickie,False,,27.0,3.0
+401637544,Kansas State Wildcats,Portland Pilots,Gisela Sanchez Defensive Rebound.,38,23,2,108,1308,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gisela Sanchez missed Jumper.,38,23,2,94,1294,Kansas State Wildcats,jumper,True,False,False,Gisela Sanchez,False,,23.0,19.0
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell Offensive Rebound.,38,23,2,94,1294,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Emme Shearer.,38,23,2,88,1288,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Maisie Burnham.,38,23,2,79,1279,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory made Free Throw.,39,23,2,79,1279,Kansas State Wildcats,free throw,True,True,False,Gabby Gregory,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory made Free Throw.,40,23,2,79,1279,Kansas State Wildcats,free throw,True,True,False,Gabby Gregory,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kennedy Dickie missed Layup.,40,23,2,70,1270,Portland Pilots,layup,True,False,False,Kennedy Dickie,False,,22.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee Defensive Rebound.,40,23,2,70,1270,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee missed Layup.,40,23,2,55,1255,Kansas State Wildcats,layup,True,False,False,Ayoka Lee,False,,23.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane Block.,40,23,2,55,1255,Portland Pilots,block,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham Defensive Rebound.,40,23,2,54,1254,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham missed Layup.,40,23,2,44,1244,Portland Pilots,layup,True,False,False,Maisie Burnham,False,,22.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Portland Offensive Rebound.,40,23,2,44,1244,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev made Layup. Assisted by Lucy Cochrane.,40,25,2,34,1234,Portland Pilots,layup,True,True,False,Dyani Ananiev,True,Lucy Cochrane,22.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell Turnover.,40,25,2,24,1224,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev Steal.,40,25,2,24,1224,Portland Pilots,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton made Three Point Jumper. Assisted by Dyani Ananiev.,40,28,2,15,1215,Portland Pilots,three point jumper,True,True,True,Kianna Hamilton,True,Dyani Ananiev,34.0,23.0
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory missed Jumper.,40,28,2,2,1202,Kansas State Wildcats,jumper,True,False,False,Gabby Gregory,False,,22.0,12.0
+401637544,Kansas State Wildcats,Portland Pilots,Kansas State Deadball Team Rebound.,40,28,2,2,1202,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,End of 2nd Quarter,40,28,2,0,1200,,end,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Jump Ball won by Kansas State,40,28,3,600,1200,Kansas State Wildcats,jump ball,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Jumper. Assisted by Serena Sundell.,42,28,3,589,1189,Kansas State Wildcats,jumper,True,True,False,Ayoka Lee,True,Serena Sundell,27.0,2.0
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane missed Jumper.,42,28,3,563,1163,Portland Pilots,jumper,True,False,False,Lucy Cochrane,False,,22.0,18.0
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn Defensive Rebound.,42,28,3,563,1163,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Emme Shearer.,42,28,3,550,1150,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Layup. Assisted by Serena Sundell.,44,28,3,543,1143,Kansas State Wildcats,layup,True,True,False,Ayoka Lee,True,Serena Sundell,28.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Jaelyn Glenn.,44,28,3,522,1122,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham made Jumper. Assisted by McKelle Meek.,44,30,3,520,1120,Portland Pilots,jumper,True,True,False,Maisie Burnham,True,McKelle Meek,25.0,3.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Brylee Glenn.,44,30,3,520,1120,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham made Free Throw.,44,31,3,520,1120,Portland Pilots,free throw,True,True,False,Maisie Burnham,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on McKelle Meek.,44,31,3,512,1112,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell missed Jumper.,44,31,3,503,1103,Kansas State Wildcats,jumper,True,False,False,Serena Sundell,False,,22.0,3.0
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham Defensive Rebound.,44,31,3,503,1103,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Gabby Gregory.,44,31,3,491,1091,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer made Layup. Assisted by McKelle Meek.,44,33,3,490,1090,Portland Pilots,layup,True,True,False,Emme Shearer,True,McKelle Meek,27.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Lucy Cochrane.,44,33,3,474,1074,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee missed Free Throw.,44,33,3,474,1074,Kansas State Wildcats,free throw,True,False,False,Ayoka Lee,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kansas State Deadball Team Rebound.,44,33,3,474,1074,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Free Throw.,45,33,3,474,1074,Kansas State Wildcats,free throw,True,True,False,Ayoka Lee,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham made Layup. Assisted by Lucy Cochrane.,45,35,3,461,1061,Portland Pilots,layup,True,True,False,Maisie Burnham,True,Lucy Cochrane,23.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory Turnover.,45,35,3,454,1054,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,McKelle Meek Steal.,45,35,3,454,1054,Portland Pilots,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham made Layup.,45,37,3,446,1046,Portland Pilots,layup,True,True,False,Maisie Burnham,False,,22.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Emme Shearer.,45,37,3,427,1027,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Brylee Glenn made Free Throw.,46,37,3,427,1027,Kansas State Wildcats,free throw,True,True,False,Brylee Glenn,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Brylee Glenn missed Free Throw.,46,37,3,427,1027,Kansas State Wildcats,free throw,True,False,False,Brylee Glenn,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane Defensive Rebound.,46,37,3,427,1027,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Gabby Gregory.,46,37,3,417,1017,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton Turnover.,46,37,3,417,1017,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell Steal.,46,37,3,417,1017,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell missed Layup.,46,37,3,411,1011,Kansas State Wildcats,layup,True,False,False,Serena Sundell,False,,22.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev Block.,46,37,3,411,1011,Portland Pilots,block,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kansas State Offensive Rebound.,46,37,3,411,1011,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory made Three Point Jumper. Assisted by Ayoka Lee.,49,37,3,409,1009,Kansas State Wildcats,three point jumper,True,True,True,Gabby Gregory,True,Ayoka Lee,10.0,24.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Zyanna Walker.,49,37,3,387,987,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton made Free Throw.,49,38,3,387,987,Portland Pilots,free throw,True,True,False,Kianna Hamilton,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton made Free Throw.,49,39,3,387,987,Portland Pilots,free throw,True,True,False,Kianna Hamilton,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell Turnover.,49,39,3,379,979,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev Steal.,49,39,3,379,979,Portland Pilots,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane Turnover.,49,39,3,369,969,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Lucy Cochrane.,49,39,3,363,963,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Free Throw.,50,39,3,363,963,Kansas State Wildcats,free throw,True,True,False,Ayoka Lee,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Free Throw.,51,39,3,363,963,Kansas State Wildcats,free throw,True,True,False,Ayoka Lee,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev Turnover.,51,39,3,352,952,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell Turnover.,51,39,3,346,946,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham Turnover.,51,39,3,334,934,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Brylee Glenn Steal.,51,39,3,334,934,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory missed Jumper.,51,39,3,321,921,Kansas State Wildcats,jumper,True,False,False,Gabby Gregory,False,,26.0,6.0
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee Offensive Rebound.,51,39,3,321,921,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Jumper.,53,39,3,317,917,Kansas State Wildcats,jumper,True,True,False,Ayoka Lee,False,,25.0,3.0
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton made Layup.,53,41,3,302,902,Portland Pilots,layup,True,True,False,Kianna Hamilton,False,,27.0,2.0
+401637544,Kansas State Wildcats,Portland Pilots,Kansas State  Timeout,53,41,3,287,887,Kansas State Wildcats,timeout,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots, Official TV Timeout,53,41,3,287,887,,tv timeout,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Brylee Glenn missed Three Point Jumper.,53,41,3,276,876,Kansas State Wildcats,three point jumper,True,False,True,Brylee Glenn,False,,2.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Kennedy Dickie Defensive Rebound.,53,41,3,276,876,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Natalie Fraley missed Three Point Jumper.,53,41,3,260,860,Portland Pilots,three point jumper,True,False,True,Natalie Fraley,False,,17.0,23.0
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory Defensive Rebound.,53,41,3,260,860,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell missed Layup.,53,41,3,247,847,Kansas State Wildcats,layup,True,False,False,Serena Sundell,False,,22.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Natalie Fraley Block.,53,41,3,247,847,Portland Pilots,block,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Natalie Fraley Defensive Rebound.,53,41,3,247,847,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Natalie Fraley Turnover.,53,41,3,236,836,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Brylee Glenn Steal.,53,41,3,236,836,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Brylee Glenn.,53,41,3,231,831,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Brylee Glenn Turnover.,53,41,3,231,831,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots, Official TV Timeout,53,41,3,231,831,,tv timeout,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane missed Layup.,53,41,3,217,817,Portland Pilots,layup,True,False,False,Lucy Cochrane,False,,22.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee Defensive Rebound.,53,41,3,217,817,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee missed Jumper.,53,41,3,200,800,Kansas State Wildcats,jumper,True,False,False,Ayoka Lee,False,,23.0,2.0
+401637544,Kansas State Wildcats,Portland Pilots,Lainey Spear Defensive Rebound.,53,41,3,200,800,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton missed Jumper.,53,41,3,181,781,Portland Pilots,jumper,True,False,False,Kianna Hamilton,False,,24.0,4.0
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory Defensive Rebound.,53,41,3,181,781,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Maisie Burnham.,53,41,3,169,769,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell missed Free Throw.,53,41,3,169,769,Kansas State Wildcats,free throw,True,False,False,Serena Sundell,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kansas State Deadball Team Rebound.,53,41,3,169,769,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell made Free Throw.,54,41,3,169,769,Kansas State Wildcats,free throw,True,True,False,Serena Sundell,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane Turnover.,54,41,3,154,754,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker Steal.,54,41,3,154,754,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on McKelle Meek.,54,41,3,139,739,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory missed Free Throw.,54,41,3,139,739,Kansas State Wildcats,free throw,True,False,False,Gabby Gregory,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kansas State Deadball Team Rebound.,54,41,3,139,739,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory made Free Throw.,55,41,3,139,739,Kansas State Wildcats,free throw,True,True,False,Gabby Gregory,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev missed Layup.,55,41,3,122,722,Portland Pilots,layup,True,False,False,Dyani Ananiev,False,,25.0,3.0
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev Offensive Rebound.,55,41,3,122,722,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane missed Jumper.,55,41,3,117,717,Portland Pilots,jumper,True,False,False,Lucy Cochrane,False,,25.0,5.0
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker Defensive Rebound.,55,41,3,117,717,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Jumper. Assisted by Zyanna Walker.,57,41,3,106,706,Kansas State Wildcats,jumper,True,True,False,Ayoka Lee,True,Zyanna Walker,22.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev missed Jumper.,57,41,3,89,689,Portland Pilots,jumper,True,False,False,Dyani Ananiev,False,,24.0,21.0
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee Defensive Rebound.,57,41,3,89,689,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell missed Three Point Jumper.,57,41,3,82,682,Kansas State Wildcats,three point jumper,True,False,True,Serena Sundell,False,,44.0,15.0
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev Defensive Rebound.,57,41,3,82,682,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kennedy Dickie missed Three Point Jumper.,57,41,3,61,661,Portland Pilots,three point jumper,True,False,True,Kennedy Dickie,False,,27.0,25.0
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton Offensive Rebound.,57,41,3,61,661,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Zyanna Walker.,57,41,3,50,650,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Rhyan Mogel missed Free Throw.,57,41,3,50,650,Portland Pilots,free throw,True,False,False,Rhyan Mogel,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Portland Deadball Team Rebound.,57,41,3,50,650,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Rhyan Mogel made Free Throw.,57,42,3,50,650,Portland Pilots,free throw,True,True,False,Rhyan Mogel,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gisela Sanchez Turnover.,57,42,3,43,643,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev Steal.,57,42,3,43,643,Portland Pilots,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,McKelle Meek made Three Point Jumper. Assisted by Dyani Ananiev.,57,45,3,36,636,Portland Pilots,three point jumper,True,True,True,McKelle Meek,True,Dyani Ananiev,42.0,18.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Gisela Sanchez.,57,45,3,4,604,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gisela Sanchez Turnover.,57,45,3,4,604,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,End of 3rd Quarter,57,45,3,0,600,,end,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Jump Ball won by Portland,57,45,4,600,600,Portland Pilots,jump ball,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev made Jumper.,57,47,4,577,577,Portland Pilots,jumper,True,True,False,Dyani Ananiev,False,,27.0,7.0
+401637544,Kansas State Wildcats,Portland Pilots,Eliza Maupin made Layup. Assisted by Serena Sundell.,59,47,4,561,561,Kansas State Wildcats,layup,True,True,False,Eliza Maupin,True,Serena Sundell,22.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Dyani Ananiev Turnover.,59,47,4,535,535,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell Steal.,59,47,4,535,535,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Kennedy Dickie.,59,47,4,525,525,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory made Three Point Jumper. Assisted by Serena Sundell.,62,47,4,506,506,Kansas State Wildcats,three point jumper,True,True,True,Gabby Gregory,True,Serena Sundell,1.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham made Layup.,62,49,4,480,480,Portland Pilots,layup,True,True,False,Maisie Burnham,False,,23.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker made Jumper.,64,49,4,465,465,Kansas State Wildcats,jumper,True,True,False,Zyanna Walker,False,,17.0,13.0
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham made Layup.,64,51,4,441,441,Portland Pilots,layup,True,True,False,Maisie Burnham,False,,25.0,4.0
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn missed Three Point Jumper.,64,51,4,415,415,Kansas State Wildcats,three point jumper,True,False,True,Jaelyn Glenn,False,,19.0,23.0
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane Defensive Rebound.,64,51,4,415,415,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham made Layup. Assisted by Lucy Cochrane.,64,53,4,395,395,Portland Pilots,layup,True,True,False,Maisie Burnham,True,Lucy Cochrane,22.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Kansas State  Timeout,64,53,4,381,381,Kansas State Wildcats,timeout,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots, Official TV Timeout,64,53,4,381,381,,tv timeout,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Kianna Hamilton.,64,53,4,372,372,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory made Free Throw.,65,53,4,372,372,Kansas State Wildcats,free throw,True,True,False,Gabby Gregory,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory made Free Throw.,66,53,4,372,372,Kansas State Wildcats,free throw,True,True,False,Gabby Gregory,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Zyanna Walker.,66,53,4,353,353,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton missed Free Throw.,66,53,4,353,353,Portland Pilots,free throw,True,False,False,Kianna Hamilton,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Portland Deadball Team Rebound.,66,53,4,353,353,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton made Free Throw.,66,54,4,353,353,Portland Pilots,free throw,True,True,False,Kianna Hamilton,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee missed Jumper.,66,54,4,341,341,Kansas State Wildcats,jumper,True,False,False,Ayoka Lee,False,,22.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Portland Defensive Rebound.,66,54,4,341,341,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kennedy Dickie made Three Point Jumper. Assisted by Dyani Ananiev.,66,57,4,319,319,Portland Pilots,three point jumper,True,True,True,Kennedy Dickie,True,Dyani Ananiev,14.0,21.0
+401637544,Kansas State Wildcats,Portland Pilots,Brylee Glenn Turnover.,66,57,4,308,308,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer Steal.,66,57,4,308,308,Portland Pilots,steal,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer Turnover.,66,57,4,307,307,Portland Pilots,turnover,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Kianna Hamilton.,66,57,4,305,305,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee made Layup. Assisted by Serena Sundell.,68,57,4,295,295,Kansas State Wildcats,layup,True,True,False,Ayoka Lee,True,Serena Sundell,27.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Kennedy Dickie missed Three Point Jumper.,68,57,4,285,285,Portland Pilots,three point jumper,True,False,True,Kennedy Dickie,False,,2.0,2.0
+401637544,Kansas State Wildcats,Portland Pilots,Jaelyn Glenn Defensive Rebound.,68,57,4,285,285,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory made Jumper. Assisted by Serena Sundell.,70,57,4,262,262,Kansas State Wildcats,jumper,True,True,False,Gabby Gregory,True,Serena Sundell,36.0,13.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Jaelyn Glenn.,70,57,4,244,244,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Portland  Timeout,70,57,4,244,244,Portland Pilots,timeout,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham made Layup. Assisted by McKelle Meek.,70,59,4,243,243,Portland Pilots,layup,True,True,False,Maisie Burnham,True,McKelle Meek,22.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Ayoka Lee.,70,59,4,243,243,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham missed Free Throw.,70,59,4,243,243,Portland Pilots,free throw,True,False,False,Maisie Burnham,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee Defensive Rebound.,70,59,4,243,243,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Maisie Burnham.,70,59,4,229,229,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory missed Three Point Jumper.,70,59,4,215,215,Kansas State Wildcats,three point jumper,True,False,True,Gabby Gregory,False,,10.0,23.0
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton Defensive Rebound.,70,59,4,215,215,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Maisie Burnham made Layup. Assisted by Kianna Hamilton.,70,61,4,205,205,Portland Pilots,layup,True,True,False,Maisie Burnham,True,Kianna Hamilton,27.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Gabby Gregory made Three Point Jumper. Assisted by Ayoka Lee.,73,61,4,185,185,Kansas State Wildcats,three point jumper,True,True,True,Gabby Gregory,True,Ayoka Lee,2.0,0.0
+401637544,Kansas State Wildcats,Portland Pilots,Foul on Serena Sundell.,73,61,4,167,167,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Portland  Timeout,73,61,4,167,167,Portland Pilots,timeout,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane made Jumper. Assisted by Maisie Burnham.,73,63,4,163,163,Portland Pilots,jumper,True,True,False,Lucy Cochrane,True,Maisie Burnham,26.0,13.0
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker missed Three Point Jumper.,73,63,4,133,133,Kansas State Wildcats,three point jumper,True,False,True,Zyanna Walker,False,,36.0,22.0
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer Defensive Rebound.,73,63,4,133,133,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Lucy Cochrane missed Layup.,73,63,4,110,110,Portland Pilots,layup,True,False,False,Lucy Cochrane,False,,23.0,1.0
+401637544,Kansas State Wildcats,Portland Pilots,Ayoka Lee Block.,73,63,4,110,110,Kansas State Wildcats,block,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker Defensive Rebound.,73,63,4,110,110,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Zyanna Walker made Jumper. Assisted by Brylee Glenn.,75,63,4,79,79,Kansas State Wildcats,jumper,True,True,False,Zyanna Walker,True,Brylee Glenn,14.0,8.0
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton missed Jumper.,75,63,4,62,62,Portland Pilots,jumper,True,False,False,Kianna Hamilton,False,,24.0,4.0
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell Defensive Rebound.,75,63,4,62,62,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell made Three Point Jumper. Assisted by Brylee Glenn.,78,63,4,35,35,Kansas State Wildcats,three point jumper,True,True,True,Serena Sundell,True,Brylee Glenn,34.0,23.0
+401637544,Kansas State Wildcats,Portland Pilots,Portland  Timeout,78,63,4,32,32,Portland Pilots,timeout,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer made Jumper. Assisted by Kianna Hamilton.,78,65,4,25,25,Portland Pilots,jumper,True,True,False,Emme Shearer,True,Kianna Hamilton,24.0,6.0
+401637544,Kansas State Wildcats,Portland Pilots,Kansas State  Timeout,78,65,4,23,23,Kansas State Wildcats,timeout,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Foul on McKelle Meek.,78,65,4,19,19,Portland Pilots,foul,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell missed Free Throw.,78,65,4,19,19,Kansas State Wildcats,free throw,True,False,False,Serena Sundell,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kansas State Deadball Team Rebound.,78,65,4,19,19,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Serena Sundell missed Free Throw.,78,65,4,19,19,Kansas State Wildcats,free throw,True,False,False,Serena Sundell,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Kianna Hamilton Defensive Rebound.,78,65,4,19,19,Portland Pilots,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,Emme Shearer missed Three Point Jumper.,78,65,4,12,12,Portland Pilots,three point jumper,True,False,True,Emme Shearer,False,,45.0,13.0
+401637544,Kansas State Wildcats,Portland Pilots,Kansas State Defensive Rebound.,78,65,4,12,12,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637544,Kansas State Wildcats,Portland Pilots,End of Game,78,65,4,0,0,,end,False,False,False,,False,,,

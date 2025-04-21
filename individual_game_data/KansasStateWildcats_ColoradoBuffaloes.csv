@@ -1,0 +1,356 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jump Ball won by Colorado,0,0,1,600,2400,Colorado Buffaloes,jump ball,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod missed Three Point Jumper.,0,0,1,577,2377,Colorado Buffaloes,three point jumper,True,False,True,Jaylyn Sherrod,False,,16.0,22.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn Defensive Rebound.,0,0,1,577,2377,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee missed Layup.,0,0,1,553,2353,Kansas State Wildcats,layup,True,False,False,Ayoka Lee,False,,27.0,2.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Offensive Rebound.,0,0,1,553,2353,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee made Layup.,2,0,1,548,2348,Kansas State Wildcats,layup,True,True,False,Ayoka Lee,False,,24.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod Turnover.,2,0,1,546,2346,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn made Jumper.,4,0,1,534,2334,Kansas State Wildcats,jumper,True,True,False,Jaelyn Glenn,False,,25.0,8.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann missed Three Point Jumper.,4,0,1,517,2317,Colorado Buffaloes,three point jumper,True,False,True,Frida Formann,False,,43.0,16.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory Defensive Rebound.,4,0,1,517,2317,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory missed Layup.,4,0,1,504,2304,Kansas State Wildcats,layup,True,False,False,Gabby Gregory,False,,28.0,3.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Defensive Rebound.,4,0,1,504,2304,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh missed Layup.,4,0,1,489,2289,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,22.0,2.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory Defensive Rebound.,4,0,1,489,2289,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Turnover.,4,0,1,478,2278,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Steal.,4,0,1,478,2278,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod made Layup.,4,2,1,470,2270,Colorado Buffaloes,layup,True,True,False,Jaylyn Sherrod,False,,26.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory made Layup. Assisted by Serena Sundell.,6,2,1,451,2251,Kansas State Wildcats,layup,True,True,False,Gabby Gregory,True,Serena Sundell,26.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Charlotte Whittaker missed Layup.,6,2,1,431,2231,Colorado Buffaloes,layup,True,False,False,Charlotte Whittaker,False,,27.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Defensive Rebound.,6,2,1,431,2231,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Charlotte Whittaker.,6,2,1,416,2216,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gisela Sanchez Turnover.,6,2,1,409,2209,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Steal.,6,2,1,409,2209,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Gisela Sanchez.,6,2,1,408,2208,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller missed Jumper.,6,2,1,388,2188,Colorado Buffaloes,jumper,True,False,False,Quay Miller,False,,33.0,5.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Defensive Rebound.,6,2,1,388,2188,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gisela Sanchez missed Three Point Jumper.,6,2,1,378,2178,Kansas State Wildcats,three point jumper,True,False,True,Gisela Sanchez,False,,12.0,20.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann Defensive Rebound.,6,2,1,378,2178,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan missed Three Point Jumper.,6,2,1,360,2160,Colorado Buffaloes,three point jumper,True,False,True,Maddie Nolan,False,,5.0,13.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gisela Sanchez Defensive Rebound.,6,2,1,360,2160,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Charlotte Whittaker.,6,2,1,346,2146,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee missed Layup.,6,2,1,337,2137,Kansas State Wildcats,layup,True,False,False,Ayoka Lee,False,,22.0,2.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Defensive Rebound.,6,2,1,337,2137,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller made Layup.,6,4,1,324,2124,Colorado Buffaloes,layup,True,True,False,Quay Miller,False,,26.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn missed Three Point Jumper.,6,4,1,309,2109,Kansas State Wildcats,three point jumper,True,False,True,Jaelyn Glenn,False,,39.0,19.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Defensive Rebound.,6,4,1,309,2109,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Gisela Sanchez.,6,4,1,292,2092,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes, Official TV Timeout,6,4,1,292,2092,,tv timeout,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller made Free Throw.,6,5,1,292,2092,Colorado Buffaloes,free throw,True,True,False,Quay Miller,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller made Free Throw.,6,6,1,292,2092,Colorado Buffaloes,free throw,True,True,False,Quay Miller,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kansas State  Turnover.,6,6,1,261,2061,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jump Ball won by Kansas State,6,6,1,244,2044,Kansas State Wildcats,jump ball,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Turnover.,6,6,1,244,2044,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Zyanna Walker Steal.,6,6,1,244,2044,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory Turnover.,6,6,1,230,2030,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Steal.,6,6,1,230,2030,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod missed Layup.,6,6,1,223,2023,Colorado Buffaloes,layup,True,False,False,Jaylyn Sherrod,False,,20.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Block.,6,6,1,223,2023,Kansas State Wildcats,block,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Defensive Rebound.,6,6,1,223,2023,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn missed Layup.,6,6,1,212,2012,Kansas State Wildcats,layup,True,False,False,Jaelyn Glenn,False,,29.0,1.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Offensive Rebound.,6,6,1,212,2012,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee made Layup.,8,6,1,205,2005,Kansas State Wildcats,layup,True,True,False,Ayoka Lee,False,,23.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann made Jumper. Assisted by Jaylyn Sherrod.,8,8,1,201,2001,Colorado Buffaloes,jumper,True,True,False,Frida Formann,True,Jaylyn Sherrod,5.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Turnover.,8,8,1,179,1979,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Steal.,8,8,1,179,1979,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh missed Jumper.,8,8,1,158,1958,Colorado Buffaloes,jumper,True,False,False,Aaronette Vonleh,False,,15.0,15.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Defensive Rebound.,8,8,1,158,1958,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell missed Jumper.,8,8,1,136,1936,Kansas State Wildcats,jumper,True,False,False,Serena Sundell,False,,25.0,4.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Sara-Rose Smith Defensive Rebound.,8,8,1,136,1936,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan made Three Point Jumper. Assisted by Kindyll Wetta.,8,11,1,130,1930,Colorado Buffaloes,three point jumper,True,True,True,Maddie Nolan,True,Kindyll Wetta,42.0,17.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Aaronette Vonleh.,8,11,1,112,1912,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory made Free Throw.,9,11,1,112,1912,Kansas State Wildcats,free throw,True,True,False,Gabby Gregory,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory made Free Throw.,10,11,1,112,1912,Kansas State Wildcats,free throw,True,True,False,Gabby Gregory,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann missed Three Point Jumper.,10,11,1,104,1904,Colorado Buffaloes,three point jumper,True,False,True,Frida Formann,False,,45.0,12.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Defensive Rebound.,10,11,1,104,1904,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Turnover.,10,11,1,75,1875,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Steal.,10,11,1,75,1875,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan made Three Point Jumper. Assisted by Kindyll Wetta.,10,14,1,67,1867,Colorado Buffaloes,three point jumper,True,True,True,Maddie Nolan,True,Kindyll Wetta,42.0,16.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn made Layup.,12,14,1,49,1849,Kansas State Wildcats,layup,True,True,False,Jaelyn Glenn,False,,22.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh missed Layup.,12,14,1,28,1828,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,21.0,2.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Block.,12,14,1,28,1828,Kansas State Wildcats,block,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Colorado Offensive Rebound.,12,14,1,28,1828,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Turnover.,12,14,1,22,1822,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell made Jumper.,14,14,1,4,1804,Kansas State Wildcats,jumper,True,True,False,Serena Sundell,False,,37.0,4.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,End of 1st Quarter,14,14,1,0,1800,,end,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jump Ball won by Colorado,14,14,2,600,1800,Colorado Buffaloes,jump ball,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Serena Sundell.,14,14,2,589,1789,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod missed Free Throw.,14,14,2,589,1789,Colorado Buffaloes,free throw,True,False,False,Jaylyn Sherrod,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Colorado Deadball Team Rebound.,14,14,2,589,1789,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod made Free Throw.,14,15,2,589,1789,Colorado Buffaloes,free throw,True,True,False,Jaylyn Sherrod,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee missed Jumper.,14,15,2,565,1765,Kansas State Wildcats,jumper,True,False,False,Ayoka Lee,False,,31.0,3.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Defensive Rebound.,14,15,2,565,1765,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan missed Three Point Jumper.,14,15,2,559,1759,Colorado Buffaloes,three point jumper,True,False,True,Maddie Nolan,False,,19.0,24.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Offensive Rebound.,14,15,2,559,1759,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod missed Three Point Jumper.,14,15,2,551,1751,Colorado Buffaloes,three point jumper,True,False,True,Jaylyn Sherrod,False,,19.0,23.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Offensive Rebound.,14,15,2,551,1751,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kindyll Wetta Turnover.,14,15,2,533,1733,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory Steal.,14,15,2,533,1733,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn missed Three Point Jumper.,14,15,2,520,1720,Kansas State Wildcats,three point jumper,True,False,True,Jaelyn Glenn,False,,3.0,7.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Defensive Rebound.,14,15,2,520,1720,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kindyll Wetta missed Three Point Jumper.,14,15,2,510,1710,Colorado Buffaloes,three point jumper,True,False,True,Kindyll Wetta,False,,48.0,-1.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn Defensive Rebound.,14,15,2,510,1710,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Taryn Sides made Three Point Jumper. Assisted by Jaelyn Glenn.,17,15,2,488,1688,Kansas State Wildcats,three point jumper,True,True,True,Taryn Sides,True,Jaelyn Glenn,44.0,18.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh missed Jumper.,17,15,2,459,1659,Colorado Buffaloes,jumper,True,False,False,Aaronette Vonleh,False,,21.0,19.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kansas State Defensive Rebound.,17,15,2,459,1659,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory made Three Point Jumper. Assisted by Brylee Glenn.,20,15,2,437,1637,Kansas State Wildcats,three point jumper,True,True,True,Gabby Gregory,True,Brylee Glenn,47.0,11.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan Turnover.,20,15,2,418,1618,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory made Layup. Assisted by Jaelyn Glenn.,22,15,2,411,1611,Kansas State Wildcats,layup,True,True,False,Gabby Gregory,True,Jaelyn Glenn,30.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Colorado  Timeout,22,15,2,405,1605,Colorado Buffaloes,timeout,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes, Official TV Timeout,22,15,2,405,1605,,tv timeout,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann made Layup.,22,17,2,393,1593,Colorado Buffaloes,layup,True,True,False,Frida Formann,False,,25.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn missed Layup.,22,17,2,377,1577,Kansas State Wildcats,layup,True,False,False,Brylee Glenn,False,,29.0,2.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Offensive Rebound.,22,17,2,377,1577,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn made Layup. Assisted by Taryn Sides.,24,17,2,360,1560,Kansas State Wildcats,layup,True,True,False,Brylee Glenn,True,Taryn Sides,29.0,2.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Tameiya Sadler missed Jumper.,24,17,2,345,1545,Colorado Buffaloes,jumper,True,False,False,Tameiya Sadler,False,,30.0,14.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Defensive Rebound.,24,17,2,345,1545,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Taryn Sides missed Three Point Jumper.,24,17,2,334,1534,Kansas State Wildcats,three point jumper,True,False,True,Taryn Sides,False,,29.0,25.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Colorado Defensive Rebound.,24,17,2,334,1534,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller made Jumper. Assisted by Jaylyn Sherrod.,24,19,2,300,1500,Colorado Buffaloes,jumper,True,True,False,Quay Miller,True,Jaylyn Sherrod,41.0,-1.0
+401637580,Kansas State Wildcats,Colorado Buffaloes, Official TV Timeout,24,19,2,284,1484,,tv timeout,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Eliza Maupin made Jumper. Assisted by Serena Sundell.,26,19,2,283,1483,Kansas State Wildcats,jumper,True,True,False,Eliza Maupin,True,Serena Sundell,25.0,4.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh made Layup. Assisted by Quay Miller.,26,21,2,265,1465,Colorado Buffaloes,layup,True,True,False,Aaronette Vonleh,True,Quay Miller,27.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell made Three Point Jumper. Assisted by Zyanna Walker.,29,21,2,241,1441,Kansas State Wildcats,three point jumper,True,True,True,Serena Sundell,True,Zyanna Walker,2.0,-2.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kindyll Wetta made Three Point Jumper. Assisted by Tameiya Sadler.,29,24,2,218,1418,Colorado Buffaloes,three point jumper,True,True,True,Kindyll Wetta,True,Tameiya Sadler,1.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell made Three Point Jumper. Assisted by Zyanna Walker.,32,24,2,197,1397,Kansas State Wildcats,three point jumper,True,True,True,Serena Sundell,True,Zyanna Walker,47.0,10.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Quay Miller.,32,24,2,194,1394,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell made Free Throw.,33,24,2,194,1394,Kansas State Wildcats,free throw,True,True,False,Serena Sundell,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh made Layup. Assisted by Maddie Nolan.,33,26,2,178,1378,Colorado Buffaloes,layup,True,True,False,Aaronette Vonleh,True,Maddie Nolan,28.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Turnover.,33,26,2,162,1362,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod Steal.,33,26,2,162,1362,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Zyanna Walker.,33,26,2,155,1355,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod made Free Throw.,33,27,2,155,1355,Colorado Buffaloes,free throw,True,True,False,Jaylyn Sherrod,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod made Free Throw.,33,28,2,155,1355,Colorado Buffaloes,free throw,True,True,False,Jaylyn Sherrod,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Sara-Rose Smith.,33,28,2,133,1333,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Turnover.,33,28,2,132,1332,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Steal.,33,28,2,132,1332,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan made Three Point Jumper. Assisted by Jaylyn Sherrod.,33,31,2,127,1327,Colorado Buffaloes,three point jumper,True,True,True,Maddie Nolan,True,Jaylyn Sherrod,36.0,21.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kansas State  Timeout,33,31,2,123,1323,Kansas State Wildcats,timeout,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Ayoka Lee.,33,31,2,112,1312,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Turnover.,33,31,2,112,1312,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan missed Three Point Jumper.,33,31,2,99,1299,Colorado Buffaloes,three point jumper,True,False,True,Maddie Nolan,False,,15.0,24.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn Defensive Rebound.,33,31,2,99,1299,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Turnover.,33,31,2,81,1281,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Steal.,33,31,2,81,1281,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh made Layup. Assisted by Maddie Nolan.,33,33,2,72,1272,Colorado Buffaloes,layup,True,True,False,Aaronette Vonleh,True,Maddie Nolan,27.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn Turnover.,33,33,2,49,1249,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Steal.,33,33,2,49,1249,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jump Ball won by Colorado,33,33,2,24,1224,Colorado Buffaloes,jump ball,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann missed Layup.,33,33,2,18,1218,Colorado Buffaloes,layup,True,False,False,Frida Formann,False,,20.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory Defensive Rebound.,33,33,2,18,1218,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Jaylyn Sherrod.,33,33,2,2,1202,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell missed Free Throw.,35,33,2,1,1201,Kansas State Wildcats,free throw,True,False,False,Serena Sundell,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Charlotte Whittaker Defensive Rebound.,35,33,2,1,1201,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Brianna McLeod.,33,33,2,1,1201,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell made Layup.,35,33,2,1,1201,Kansas State Wildcats,layup,True,True,False,Serena Sundell,False,,23.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,End of 2nd Quarter,35,33,2,0,1200,,end,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jump Ball won by Kansas State,35,33,3,600,1200,Kansas State Wildcats,jump ball,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn missed Layup.,35,33,3,582,1182,Kansas State Wildcats,layup,True,False,False,Brylee Glenn,False,,27.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann Block.,35,33,3,582,1182,Colorado Buffaloes,block,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kansas State Offensive Rebound.,35,33,3,582,1182,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn made Layup. Assisted by Serena Sundell.,37,33,3,570,1170,Kansas State Wildcats,layup,True,True,False,Brylee Glenn,True,Serena Sundell,23.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod missed Layup.,37,33,3,556,1156,Colorado Buffaloes,layup,True,False,False,Jaylyn Sherrod,False,,29.0,1.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory Defensive Rebound.,37,33,3,556,1156,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Maddie Nolan.,37,33,3,554,1154,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn missed Layup.,37,33,3,539,1139,Kansas State Wildcats,layup,True,False,False,Brylee Glenn,False,,27.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Block.,37,33,3,539,1139,Colorado Buffaloes,block,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan Defensive Rebound.,37,33,3,539,1139,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Block.,37,33,3,515,1115,Kansas State Wildcats,block,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh missed Layup.,37,33,3,515,1115,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,22.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann Offensive Rebound.,37,33,3,515,1115,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Gabby Gregory.,37,33,3,514,1114,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann made Free Throw.,37,34,3,514,1114,Colorado Buffaloes,free throw,True,True,False,Frida Formann,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann made Free Throw.,37,35,3,514,1114,Colorado Buffaloes,free throw,True,True,False,Frida Formann,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Turnover.,37,35,3,504,1104,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Steal.,37,35,3,504,1104,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Serena Sundell.,37,35,3,499,1099,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod made Free Throw.,37,36,3,499,1099,Colorado Buffaloes,free throw,True,True,False,Jaylyn Sherrod,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod made Free Throw.,37,37,3,499,1099,Colorado Buffaloes,free throw,True,True,False,Jaylyn Sherrod,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee made Jumper. Assisted by Gisela Sanchez.,39,37,3,478,1078,Kansas State Wildcats,jumper,True,True,False,Ayoka Lee,True,Gisela Sanchez,25.0,4.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann Turnover.,39,37,3,459,1059,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn Steal.,39,37,3,459,1059,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn missed Layup.,39,37,3,454,1054,Kansas State Wildcats,layup,True,False,False,Jaelyn Glenn,False,,27.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Defensive Rebound.,39,37,3,454,1054,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Jaelyn Glenn.,39,37,3,453,1053,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod missed Three Point Jumper.,39,37,3,440,1040,Colorado Buffaloes,three point jumper,True,False,True,Jaylyn Sherrod,False,,44.0,14.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kansas State Deadball Team Rebound.,39,37,3,440,1040,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Quay Miller.,39,37,3,440,1040,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jump Ball won by Kansas State,39,37,3,431,1031,Kansas State Wildcats,jump ball,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell missed Three Point Jumper.,39,37,3,424,1024,Kansas State Wildcats,three point jumper,True,False,True,Serena Sundell,False,,48.0,-1.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod Defensive Rebound.,39,37,3,424,1024,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan missed Three Point Jumper.,39,37,3,418,1018,Colorado Buffaloes,three point jumper,True,False,True,Maddie Nolan,False,,45.0,12.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kindyll Wetta Offensive Rebound.,39,37,3,418,1018,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller missed Layup.,39,37,3,407,1007,Colorado Buffaloes,layup,True,False,False,Quay Miller,False,,23.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gisela Sanchez Block.,39,37,3,407,1007,Kansas State Wildcats,block,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Offensive Rebound.,39,37,3,407,1007,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod made Layup. Assisted by Quay Miller.,39,39,3,401,1001,Colorado Buffaloes,layup,True,True,False,Jaylyn Sherrod,True,Quay Miller,24.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Ayoka Lee.,39,39,3,401,1001,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod missed Free Throw.,39,39,3,401,1001,Colorado Buffaloes,free throw,True,False,False,Jaylyn Sherrod,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Offensive Rebound.,39,39,3,401,1001,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Turnover.,39,39,3,399,999,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Steal.,39,39,3,399,999,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn missed Three Point Jumper.,39,39,3,369,969,Kansas State Wildcats,three point jumper,True,False,True,Brylee Glenn,False,,21.0,24.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan Defensive Rebound.,39,39,3,369,969,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh missed Jumper.,39,39,3,359,959,Colorado Buffaloes,jumper,True,False,False,Aaronette Vonleh,False,,15.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Colorado Offensive Rebound.,39,39,3,359,959,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller missed Layup.,39,39,3,352,952,Colorado Buffaloes,layup,True,False,False,Quay Miller,False,,22.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Defensive Rebound.,39,39,3,352,952,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gisela Sanchez Turnover.,39,39,3,346,946,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Gisela Sanchez.,39,39,3,346,946,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh missed Layup.,39,39,3,328,928,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,22.0,1.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Defensive Rebound.,39,39,3,328,928,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Jaylyn Sherrod.,39,39,3,315,915,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes, Official TV Timeout,39,39,3,315,915,,tv timeout,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Serena Sundell.,39,39,3,315,915,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan made Free Throw.,39,40,3,315,915,Colorado Buffaloes,free throw,True,True,False,Maddie Nolan,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan made Free Throw.,39,41,3,315,915,Colorado Buffaloes,free throw,True,True,False,Maddie Nolan,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan missed Three Point Jumper.,39,41,3,299,899,Colorado Buffaloes,three point jumper,True,False,True,Maddie Nolan,False,,6.0,14.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gisela Sanchez Defensive Rebound.,39,41,3,299,899,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gisela Sanchez missed Jumper.,39,41,3,276,876,Kansas State Wildcats,jumper,True,False,False,Gisela Sanchez,False,,16.0,2.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Colorado Deadball Team Rebound.,39,41,3,276,876,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Ayoka Lee.,39,41,3,271,871,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes, Official TV Timeout,39,41,3,271,871,,tv timeout,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh made Free Throw.,39,42,3,271,871,Colorado Buffaloes,free throw,True,True,False,Aaronette Vonleh,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh missed Free Throw.,39,42,3,271,871,Colorado Buffaloes,free throw,True,False,False,Aaronette Vonleh,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Defensive Rebound.,39,42,3,271,871,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee missed Layup.,39,42,3,261,861,Kansas State Wildcats,layup,True,False,False,Ayoka Lee,False,,23.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Defensive Rebound.,39,42,3,261,861,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh missed Layup.,39,42,3,238,838,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,20.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Block.,39,42,3,238,838,Kansas State Wildcats,block,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Colorado Offensive Rebound.,39,42,3,238,838,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller missed Jumper.,39,42,3,231,831,Colorado Buffaloes,jumper,True,False,False,Quay Miller,False,,35.0,12.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Defensive Rebound.,39,42,3,231,831,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jump Ball won by Colorado,39,42,3,228,828,Colorado Buffaloes,jump ball,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Turnover.,39,42,3,228,828,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kindyll Wetta Steal.,39,42,3,228,828,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Tameiya Sadler made Jumper.,39,44,3,213,813,Colorado Buffaloes,jumper,True,True,False,Tameiya Sadler,False,,25.0,4.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee made Jumper. Assisted by Serena Sundell.,41,44,3,188,788,Kansas State Wildcats,jumper,True,True,False,Ayoka Lee,True,Serena Sundell,20.0,2.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Tameiya Sadler made Layup. Assisted by Maddie Nolan.,41,46,3,180,780,Colorado Buffaloes,layup,True,True,False,Tameiya Sadler,True,Maddie Nolan,26.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Kindyll Wetta.,41,46,3,172,772,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell missed Layup.,41,46,3,154,754,Kansas State Wildcats,layup,True,False,False,Serena Sundell,False,,25.0,4.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Defensive Rebound.,41,46,3,154,754,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Tameiya Sadler made Layup. Assisted by Kindyll Wetta.,41,48,3,146,746,Colorado Buffaloes,layup,True,True,False,Tameiya Sadler,True,Kindyll Wetta,24.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kansas State  Timeout,41,48,3,135,735,Kansas State Wildcats,timeout,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Zyanna Walker Turnover.,41,48,3,133,733,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Tameiya Sadler Steal.,41,48,3,133,733,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kindyll Wetta missed Layup.,41,48,3,130,730,Colorado Buffaloes,layup,True,False,False,Kindyll Wetta,False,,26.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Zyanna Walker Defensive Rebound.,41,48,3,130,730,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Tameiya Sadler.,41,48,3,130,730,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Zyanna Walker made Free Throw.,42,48,3,130,730,Kansas State Wildcats,free throw,True,True,False,Zyanna Walker,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Zyanna Walker missed Free Throw.,42,48,3,130,730,Kansas State Wildcats,free throw,True,False,False,Zyanna Walker,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kindyll Wetta Defensive Rebound.,42,48,3,130,730,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Tameiya Sadler missed Layup.,42,48,3,124,724,Colorado Buffaloes,layup,True,False,False,Tameiya Sadler,False,,29.0,1.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Block.,42,48,3,124,724,Kansas State Wildcats,block,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Zyanna Walker Defensive Rebound.,42,48,3,124,724,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory missed Three Point Jumper.,42,48,3,112,712,Kansas State Wildcats,three point jumper,True,False,True,Gabby Gregory,False,,14.0,23.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Colorado Defensive Rebound.,42,48,3,112,712,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Tameiya Sadler made Jumper.,42,50,3,103,703,Colorado Buffaloes,jumper,True,True,False,Tameiya Sadler,False,,20.0,15.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Zyanna Walker missed Three Point Jumper.,42,50,3,84,684,Kansas State Wildcats,three point jumper,True,False,True,Zyanna Walker,False,,40.0,19.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Defensive Rebound.,42,50,3,84,684,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh made Layup. Assisted by Tameiya Sadler.,42,52,3,75,675,Colorado Buffaloes,layup,True,True,False,Aaronette Vonleh,True,Tameiya Sadler,23.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Zyanna Walker missed Three Point Jumper.,42,52,3,46,646,Kansas State Wildcats,three point jumper,True,False,True,Zyanna Walker,False,,2.0,7.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kindyll Wetta Defensive Rebound.,42,52,3,46,646,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann missed Jumper.,42,52,3,21,621,Colorado Buffaloes,jumper,True,False,False,Frida Formann,False,,23.0,16.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Block.,42,52,3,21,621,Kansas State Wildcats,block,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Zyanna Walker Defensive Rebound.,42,52,3,21,621,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory missed Layup.,42,52,3,11,611,Kansas State Wildcats,layup,True,False,False,Gabby Gregory,False,,28.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Offensive Rebound.,42,52,3,11,611,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Turnover.,42,52,3,2,602,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Steal.,42,52,3,2,602,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,End of 3rd Quarter,42,52,3,0,600,,end,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jump Ball won by Kansas State,42,52,4,600,600,Kansas State Wildcats,jump ball,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Turnover.,42,52,4,585,585,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann Steal.,42,52,4,585,585,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann Turnover.,42,52,4,574,574,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Quay Miller.,42,52,4,561,561,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn missed Jumper.,42,52,4,553,553,Kansas State Wildcats,jumper,True,False,False,Jaelyn Glenn,False,,21.0,5.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann Defensive Rebound.,42,52,4,553,553,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh missed Layup.,42,52,4,534,534,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,22.0,1.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory Defensive Rebound.,42,52,4,534,534,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory Turnover.,42,52,4,527,527,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann Steal.,42,52,4,527,527,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod missed Jumper.,42,52,4,508,508,Colorado Buffaloes,jumper,True,False,False,Jaylyn Sherrod,False,,31.0,14.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn Defensive Rebound.,42,52,4,508,508,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee made Layup. Assisted by Serena Sundell.,44,52,4,495,495,Kansas State Wildcats,layup,True,True,False,Ayoka Lee,True,Serena Sundell,22.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann Turnover.,44,52,4,471,471,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn Steal.,44,52,4,471,471,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn made Layup.,46,52,4,466,466,Kansas State Wildcats,layup,True,True,False,Jaelyn Glenn,False,,28.0,-1.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Colorado  Timeout,46,52,4,464,464,Colorado Buffaloes,timeout,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes, Official TV Timeout,46,52,4,464,464,,tv timeout,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller missed Jumper.,46,52,4,443,443,Colorado Buffaloes,jumper,True,False,False,Quay Miller,False,,29.0,8.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Charlotte Whittaker Offensive Rebound.,46,52,4,443,443,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jump Ball won by Colorado,46,52,4,437,437,Colorado Buffaloes,jump ball,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh missed Layup.,46,52,4,433,433,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,25.0,1.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Ayoka Lee Block.,46,52,4,433,433,Kansas State Wildcats,block,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Defensive Rebound.,46,52,4,433,433,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn missed Three Point Jumper.,46,52,4,418,418,Kansas State Wildcats,three point jumper,True,False,True,Brylee Glenn,False,,5.0,13.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Tameiya Sadler Defensive Rebound.,46,52,4,418,418,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Gabby Gregory.,46,52,4,406,406,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaylyn Sherrod Turnover.,46,52,4,392,392,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory missed Layup.,46,52,4,373,373,Kansas State Wildcats,layup,True,False,False,Gabby Gregory,False,,21.0,1.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Defensive Rebound.,46,52,4,373,373,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kindyll Wetta Turnover.,46,52,4,351,351,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn Steal.,46,52,4,351,351,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kansas State  Turnover.,46,52,4,319,319,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Aaronette Vonleh.,46,52,4,310,310,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh Turnover.,46,52,4,310,310,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Brylee Glenn Turnover.,46,52,4,298,298,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan Steal.,46,52,4,298,298,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Tameiya Sadler missed Jumper.,46,52,4,274,274,Colorado Buffaloes,jumper,True,False,False,Tameiya Sadler,False,,25.0,17.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Colorado Offensive Rebound.,46,52,4,274,274,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Ayoka Lee.,46,52,4,263,263,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh missed Free Throw.,46,52,4,263,263,Colorado Buffaloes,free throw,True,False,False,Aaronette Vonleh,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Colorado Deadball Team Rebound.,46,52,4,263,263,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Aaronette Vonleh missed Free Throw.,46,52,4,263,263,Colorado Buffaloes,free throw,True,False,False,Aaronette Vonleh,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Offensive Rebound.,46,52,4,263,263,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Colorado  Timeout,46,52,4,259,259,Colorado Buffaloes,timeout,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan missed Three Point Jumper.,46,52,4,254,254,Colorado Buffaloes,three point jumper,True,False,True,Maddie Nolan,False,,8.0,21.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn Defensive Rebound.,46,52,4,254,254,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory missed Three Point Jumper.,46,52,4,239,239,Kansas State Wildcats,three point jumper,True,False,True,Gabby Gregory,False,,43.0,17.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Maddie Nolan Defensive Rebound.,46,52,4,239,239,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller made Jumper.,46,54,4,222,222,Colorado Buffaloes,jumper,True,True,False,Quay Miller,False,,25.0,4.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory made Three Point Jumper. Assisted by Serena Sundell.,49,54,4,199,199,Kansas State Wildcats,three point jumper,True,True,True,Gabby Gregory,True,Serena Sundell,13.0,21.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Tameiya Sadler Turnover.,49,54,4,174,174,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory missed Three Point Jumper.,49,54,4,165,165,Kansas State Wildcats,three point jumper,True,False,True,Gabby Gregory,False,,43.0,19.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Tameiya Sadler Defensive Rebound.,49,54,4,165,165,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Tameiya Sadler made Jumper.,49,56,4,137,137,Colorado Buffaloes,jumper,True,True,False,Tameiya Sadler,False,,33.0,11.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn missed Layup.,49,56,4,113,113,Kansas State Wildcats,layup,True,False,False,Jaelyn Glenn,False,,25.0,4.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kindyll Wetta Defensive Rebound.,49,56,4,113,113,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Colorado  Turnover.,49,56,4,113,113,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn missed Free Throw.,49,56,4,67,67,Kansas State Wildcats,free throw,True,False,False,Jaelyn Glenn,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Quay Miller.,49,56,4,67,67,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn made Free Throw.,50,56,4,67,67,Kansas State Wildcats,free throw,True,True,False,Jaelyn Glenn,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn missed Layup.,50,56,4,64,64,Kansas State Wildcats,layup,True,False,False,Jaelyn Glenn,False,,26.0,0.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn Offensive Rebound.,50,56,4,64,64,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Jaelyn Glenn.,50,56,4,61,61,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Zyanna Walker.,50,56,4,60,60,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Gabby Gregory.,50,56,4,55,55,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller made Free Throw.,50,57,4,55,55,Colorado Buffaloes,free throw,True,True,False,Quay Miller,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller made Free Throw.,50,58,4,55,55,Colorado Buffaloes,free throw,True,True,False,Quay Miller,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory Turnover.,50,58,4,50,50,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann Steal.,50,58,4,50,50,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Serena Sundell.,50,58,4,45,45,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann made Free Throw.,50,59,4,45,45,Colorado Buffaloes,free throw,True,True,False,Frida Formann,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann made Free Throw.,50,60,4,45,45,Colorado Buffaloes,free throw,True,True,False,Frida Formann,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell Turnover.,50,60,4,36,36,Kansas State Wildcats,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Jaelyn Glenn.,50,60,4,34,34,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann made Free Throw.,50,61,4,34,34,Colorado Buffaloes,free throw,True,True,False,Frida Formann,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Frida Formann missed Free Throw.,50,61,4,34,34,Colorado Buffaloes,free throw,True,False,False,Frida Formann,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Zyanna Walker Defensive Rebound.,50,61,4,34,34,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Gabby Gregory missed Three Point Jumper.,50,61,4,27,27,Kansas State Wildcats,three point jumper,True,False,True,Gabby Gregory,False,,47.0,6.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Defensive Rebound.,50,61,4,27,27,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jump Ball won by Kansas State,50,61,4,22,22,Kansas State Wildcats,jump ball,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Turnover.,50,61,4,22,22,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Zyanna Walker Steal.,50,61,4,22,22,Kansas State Wildcats,steal,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Jaylyn Sherrod.,50,61,4,18,18,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell missed Free Throw.,50,61,4,18,18,Kansas State Wildcats,free throw,True,False,False,Serena Sundell,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kansas State Deadball Team Rebound.,50,61,4,18,18,Kansas State Wildcats,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Serena Sundell missed Free Throw.,50,61,4,18,18,Kansas State Wildcats,free throw,True,False,False,Serena Sundell,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Defensive Rebound.,50,61,4,18,18,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Foul on Serena Sundell.,50,61,4,9,9,Kansas State Wildcats,foul,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kindyll Wetta made Free Throw.,50,62,4,9,9,Colorado Buffaloes,free throw,True,True,False,Kindyll Wetta,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Kindyll Wetta made Free Throw.,50,63,4,9,9,Colorado Buffaloes,free throw,True,True,False,Kindyll Wetta,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,Jaelyn Glenn missed Three Point Jumper.,50,63,4,5,5,Kansas State Wildcats,three point jumper,True,False,True,Jaelyn Glenn,False,,48.0,-1.0
+401637580,Kansas State Wildcats,Colorado Buffaloes,Quay Miller Defensive Rebound.,50,63,4,5,5,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637580,Kansas State Wildcats,Colorado Buffaloes,End of Game,50,63,4,0,0,,end,False,False,False,,False,,,

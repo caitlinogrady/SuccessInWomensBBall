@@ -1,0 +1,317 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jump Ball won by Tennessee,0,0,1,600,2400,Tennessee Lady Volunteers,jump ball,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett made Jumper. Assisted by Jasmine Powell.,2,0,1,587,2387,Tennessee Lady Volunteers,jumper,True,True,False,Sara Puckett,True,Jasmine Powell,24.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal made Jumper.,2,2,1,571,2371,Green Bay Phoenix,jumper,True,True,False,Natalie McNeal,False,,32.0,6.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Jumper.,4,2,1,558,2358,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,False,,4.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler Turnover.,4,2,1,532,2332,Green Bay Phoenix,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson missed Jumper.,4,2,1,520,2320,Tennessee Lady Volunteers,jumper,True,False,False,Rickea Jackson,False,,13.0,11.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal Defensive Rebound.,4,2,1,520,2320,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maddy Schreiber made Layup. Assisted by Bailey Butler.,4,4,1,506,2306,Green Bay Phoenix,layup,True,True,False,Maddy Schreiber,True,Bailey Butler,28.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key made Layup. Assisted by Rickea Jackson.,6,4,1,486,2286,Tennessee Lady Volunteers,layup,True,True,False,Tamari Key,True,Rickea Jackson,23.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Kondrakiewicz missed Three Point Jumper.,6,4,1,472,2272,Green Bay Phoenix,three point jumper,True,False,True,Jasmine Kondrakiewicz,False,,29.0,26.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maddy Schreiber Offensive Rebound.,6,4,1,472,2272,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Cassie Schiltz made Jumper. Assisted by Jasmine Kondrakiewicz.,6,6,1,454,2254,Green Bay Phoenix,jumper,True,True,False,Cassie Schiltz,True,Jasmine Kondrakiewicz,30.0,15.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Tamari Key.,6,6,1,434,2234,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key Turnover.,6,6,1,434,2234,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Kondrakiewicz made Three Point Jumper. Assisted by Natalie McNeal.,6,9,1,421,2221,Green Bay Phoenix,three point jumper,True,True,True,Jasmine Kondrakiewicz,True,Natalie McNeal,11.0,19.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jewel Spear missed Three Point Jumper.,6,9,1,408,2208,Tennessee Lady Volunteers,three point jumper,True,False,True,Jewel Spear,False,,5.0,14.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal Defensive Rebound.,6,9,1,408,2208,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler made Three Point Jumper. Assisted by Natalie McNeal.,6,12,1,399,2199,Green Bay Phoenix,three point jumper,True,True,True,Bailey Butler,True,Natalie McNeal,5.0,12.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Jumper.,8,12,1,384,2184,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,False,,22.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Natalie McNeal.,8,12,1,384,2184,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Free Throw.,9,12,1,384,2184,Tennessee Lady Volunteers,free throw,True,True,False,Rickea Jackson,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Cassie Schiltz missed Layup.,9,12,1,363,2163,Green Bay Phoenix,layup,True,False,False,Cassie Schiltz,False,,21.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett Defensive Rebound.,9,12,1,363,2163,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Layup. Assisted by Jasmine Powell.,11,12,1,354,2154,Tennessee Lady Volunteers,layup,True,True,False,Rickea Jackson,True,Jasmine Powell,27.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jillian Hollingshead.,11,12,1,341,2141,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Cassie Schiltz made Jumper.,11,14,1,326,2126,Green Bay Phoenix,jumper,True,True,False,Cassie Schiltz,False,,18.0,5.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jasmine Kondrakiewicz.,11,14,1,308,2108,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett made Three Point Jumper. Assisted by Karoline Striplin.,14,14,1,292,2092,Tennessee Lady Volunteers,three point jumper,True,True,True,Sara Puckett,True,Karoline Striplin,21.0,24.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Callie Genke made Three Point Jumper. Assisted by Bailey Butler.,14,17,1,277,2077,Green Bay Phoenix,three point jumper,True,True,True,Callie Genke,True,Bailey Butler,35.0,23.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson missed Jumper.,14,17,1,265,2065,Tennessee Lady Volunteers,jumper,True,False,False,Rickea Jackson,False,,22.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tennessee Offensive Rebound.,14,17,1,265,2065,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix, Official TV Timeout,14,17,1,260,2060,,tv timeout,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tess Darby made Three Point Jumper. Assisted by Jasmine Powell.,17,17,1,258,2058,Tennessee Lady Volunteers,three point jumper,True,True,True,Tess Darby,True,Jasmine Powell,22.0,24.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Karoline Striplin.,17,17,1,236,2036,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Callie Genke missed Layup.,17,17,1,230,2030,Green Bay Phoenix,layup,True,False,False,Callie Genke,False,,28.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett Block.,17,17,1,230,2030,Tennessee Lady Volunteers,block,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Green Bay Offensive Rebound.,17,17,1,230,2030,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler Turnover.,17,17,1,216,2016,Green Bay Phoenix,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Karoline Striplin missed Three Point Jumper.,17,17,1,202,2002,Tennessee Lady Volunteers,three point jumper,True,False,True,Karoline Striplin,False,,41.0,17.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Powell Offensive Rebound.,17,17,1,202,2002,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Karoline Striplin made Layup. Assisted by Rickea Jackson.,19,17,1,184,1984,Tennessee Lady Volunteers,layup,True,True,False,Karoline Striplin,True,Rickea Jackson,27.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler missed Jumper.,19,17,1,166,1966,Green Bay Phoenix,jumper,True,False,False,Bailey Butler,False,,23.0,15.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Karoline Striplin Defensive Rebound.,19,17,1,166,1966,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jenna Guyer.,19,17,1,154,1954,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Cassie Schiltz.,19,17,1,143,1943,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jump Ball won by Green Bay,19,17,1,140,1940,Green Bay Phoenix,jump ball,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Turnover.,19,17,1,140,1940,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler Steal.,19,17,1,140,1940,Green Bay Phoenix,steal,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler missed Three Point Jumper.,19,17,1,122,1922,Green Bay Phoenix,three point jumper,True,False,True,Bailey Butler,False,,44.0,20.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maddy Schreiber Offensive Rebound.,19,17,1,122,1922,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maddy Schreiber made Layup.,19,19,1,110,1910,Green Bay Phoenix,layup,True,True,False,Maddy Schreiber,False,,27.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Jumper. Assisted by Karoline Striplin.,21,19,1,100,1900,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,True,Karoline Striplin,24.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jenna Guyer missed Jumper.,21,19,1,89,1889,Green Bay Phoenix,jumper,True,False,False,Jenna Guyer,False,,23.0,5.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maddy Schreiber Offensive Rebound.,21,19,1,89,1889,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maddy Schreiber made Layup.,21,21,1,82,1882,Green Bay Phoenix,layup,True,True,False,Maddy Schreiber,False,,25.0,3.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jump Ball won by Tennessee,21,21,1,70,1870,Tennessee Lady Volunteers,jump ball,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett missed Jumper.,21,21,1,68,1868,Tennessee Lady Volunteers,jumper,True,False,False,Sara Puckett,False,,16.0,11.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Powell Offensive Rebound.,21,21,1,68,1868,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Powell missed Layup.,21,21,1,63,1863,Tennessee Lady Volunteers,layup,True,False,False,Jasmine Powell,False,,27.0,0.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tess Darby Offensive Rebound.,21,21,1,63,1863,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tess Darby made Layup.,23,21,1,58,1858,Tennessee Lady Volunteers,layup,True,True,False,Tess Darby,False,,23.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jenna Guyer.,23,21,1,31,1831,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jenna Guyer Turnover.,23,21,1,31,1831,Green Bay Phoenix,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Powell Turnover.,23,21,1,13,1813,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,End of 1st Quarter,23,21,1,0,1800,,end,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jump Ball won by Green Bay,23,21,2,600,1800,Green Bay Phoenix,jump ball,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal made Jumper.,23,23,2,583,1783,Green Bay Phoenix,jumper,True,True,False,Natalie McNeal,False,,25.0,16.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jewel Spear made Three Point Jumper.,26,23,2,565,1765,Tennessee Lady Volunteers,three point jumper,True,True,True,Jewel Spear,False,,26.0,24.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal missed Jumper.,26,23,2,549,1749,Green Bay Phoenix,jumper,True,False,False,Natalie McNeal,False,,33.0,3.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tennessee Defensive Rebound.,26,23,2,549,1749,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Turnover.,26,23,2,524,1724,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal Steal.,26,23,2,524,1724,Green Bay Phoenix,steal,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal Turnover.,26,23,2,518,1718,Green Bay Phoenix,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jewel Spear made Jumper.,28,23,2,508,1708,Tennessee Lady Volunteers,jumper,True,True,False,Jewel Spear,False,,7.0,9.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Kondrakiewicz missed Layup.,28,23,2,490,1690,Green Bay Phoenix,layup,True,False,False,Jasmine Kondrakiewicz,False,,27.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key Defensive Rebound.,28,23,2,490,1690,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Maddy Schreiber.,28,23,2,485,1685,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Powell missed Three Point Jumper.,28,23,2,473,1673,Tennessee Lady Volunteers,three point jumper,True,False,True,Jasmine Powell,False,,8.0,17.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal Defensive Rebound.,28,23,2,473,1673,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie Andersen made Three Point Jumper. Assisted by Bailey Butler.,28,26,2,464,1664,Green Bay Phoenix,three point jumper,True,True,True,Natalie Andersen,True,Bailey Butler,20.0,25.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key Turnover.,28,26,2,449,1649,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler Steal.,28,26,2,449,1649,Green Bay Phoenix,steal,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Kondrakiewicz missed Three Point Jumper.,28,26,2,432,1632,Green Bay Phoenix,three point jumper,True,False,True,Jasmine Kondrakiewicz,False,,20.0,23.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Powell Defensive Rebound.,28,26,2,432,1632,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Powell made Layup.,30,26,2,424,1624,Tennessee Lady Volunteers,layup,True,True,False,Jasmine Powell,False,,27.0,0.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal missed Jumper.,30,26,2,403,1603,Green Bay Phoenix,jumper,True,False,False,Natalie McNeal,False,,25.0,15.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tennessee Defensive Rebound.,30,26,2,403,1603,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jewel Spear made Three Point Jumper. Assisted by Tamari Key.,33,26,2,385,1585,Tennessee Lady Volunteers,three point jumper,True,True,True,Jewel Spear,True,Tamari Key,12.0,21.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Cassie Schiltz made Jumper.,33,28,2,354,1554,Green Bay Phoenix,jumper,True,True,False,Cassie Schiltz,False,,30.0,18.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jasmine Kondrakiewicz.,33,28,2,343,1543,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett made Free Throw.,34,28,2,343,1543,Tennessee Lady Volunteers,free throw,True,True,False,Sara Puckett,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett made Free Throw.,35,28,2,343,1543,Tennessee Lady Volunteers,free throw,True,True,False,Sara Puckett,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler Turnover.,35,28,2,319,1519,Green Bay Phoenix,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jewel Spear made Three Point Jumper.,38,28,2,309,1509,Tennessee Lady Volunteers,three point jumper,True,True,True,Jewel Spear,False,,31.0,23.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Green Bay  Timeout,38,28,2,304,1504,Green Bay Phoenix,timeout,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix, Official TV Timeout,38,28,2,304,1504,,tv timeout,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal missed Jumper.,38,28,2,283,1483,Green Bay Phoenix,jumper,True,False,False,Natalie McNeal,False,,32.0,9.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn Defensive Rebound.,38,28,2,283,1483,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett made Jumper.,40,28,2,261,1461,Tennessee Lady Volunteers,jumper,True,True,False,Sara Puckett,False,,20.0,14.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler missed Three Point Jumper.,40,28,2,244,1444,Green Bay Phoenix,three point jumper,True,False,True,Bailey Butler,False,,16.0,22.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tennessee Defensive Rebound.,40,28,2,244,1444,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix, Official TV Timeout,40,28,2,237,1437,,tv timeout,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett missed Three Point Jumper.,40,28,2,218,1418,Tennessee Lady Volunteers,three point jumper,True,False,True,Sara Puckett,False,,45.0,12.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Callie Genke Defensive Rebound.,40,28,2,218,1418,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler missed Layup.,40,28,2,199,1399,Green Bay Phoenix,layup,True,False,False,Bailey Butler,False,,27.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn Defensive Rebound.,40,28,2,199,1399,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Natalie McNeal.,40,28,2,195,1395,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Maddy Schreiber.,40,28,2,186,1386,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Jumper.,42,28,2,171,1371,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,False,,7.0,11.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Cassie Schiltz missed Three Point Jumper.,42,28,2,143,1343,Green Bay Phoenix,three point jumper,True,False,True,Cassie Schiltz,False,,41.0,23.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tennessee Defensive Rebound.,42,28,2,143,1343,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jewel Spear Turnover.,42,28,2,130,1330,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Callie Genke missed Three Point Jumper.,42,28,2,102,1302,Green Bay Phoenix,three point jumper,True,False,True,Callie Genke,False,,25.0,26.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Green Bay Offensive Rebound.,42,28,2,102,1302,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler missed Layup.,42,28,2,86,1286,Green Bay Phoenix,layup,True,False,False,Bailey Butler,False,,29.0,3.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett Defensive Rebound.,42,28,2,86,1286,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jasmine Powell.,42,28,2,77,1277,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Powell Turnover.,42,28,2,77,1277,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Cassie Schiltz missed Three Point Jumper.,42,28,2,69,1269,Green Bay Phoenix,three point jumper,True,False,True,Cassie Schiltz,False,,45.0,12.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Defensive Rebound.,42,28,2,69,1269,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Caelan Givens.,42,28,2,64,1264,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Free Throw.,43,28,2,64,1264,Tennessee Lady Volunteers,free throw,True,True,False,Rickea Jackson,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Free Throw.,44,28,2,64,1264,Tennessee Lady Volunteers,free throw,True,True,False,Rickea Jackson,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Cassie Schiltz missed Three Point Jumper.,44,28,2,51,1251,Green Bay Phoenix,three point jumper,True,False,True,Cassie Schiltz,False,,11.0,20.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tess Darby Defensive Rebound.,44,28,2,51,1251,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn missed Jumper.,44,28,2,38,1238,Tennessee Lady Volunteers,jumper,True,False,False,Kaiya Wynn,False,,21.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Cassie Schiltz Defensive Rebound.,44,28,2,38,1238,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maren Westin missed Jumper.,44,28,2,17,1217,Green Bay Phoenix,jumper,True,False,False,Maren Westin,False,,40.0,0.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Defensive Rebound.,44,28,2,17,1217,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Turnover.,44,28,2,2,1202,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler Steal.,44,28,2,2,1202,Green Bay Phoenix,steal,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Rickea Jackson.,44,28,2,1,1201,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,End of 2nd Quarter,44,28,2,0,1200,,end,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jump Ball won by Tennessee,44,28,3,600,1200,Tennessee Lady Volunteers,jump ball,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jasmine Kondrakiewicz.,44,28,3,588,1188,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key missed Free Throw.,44,28,3,588,1188,Tennessee Lady Volunteers,free throw,True,False,False,Tamari Key,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tennessee Deadball Team Rebound.,44,28,3,588,1188,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key made Free Throw.,45,28,3,588,1188,Tennessee Lady Volunteers,free throw,True,True,False,Tamari Key,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Tamari Key.,45,28,3,571,1171,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Kondrakiewicz made Free Throw.,45,29,3,571,1171,Green Bay Phoenix,free throw,True,True,False,Jasmine Kondrakiewicz,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Kondrakiewicz made Free Throw.,45,30,3,571,1171,Green Bay Phoenix,free throw,True,True,False,Jasmine Kondrakiewicz,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Jumper.,47,30,3,559,1159,Tennessee Lady Volunteers,jumper,True,True,False,Rickea Jackson,False,,25.0,15.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jasmine Powell.,47,30,3,538,1138,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler made Free Throw.,47,31,3,538,1138,Green Bay Phoenix,free throw,True,True,False,Bailey Butler,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler made Free Throw.,47,32,3,538,1138,Green Bay Phoenix,free throw,True,True,False,Bailey Butler,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key made Layup. Assisted by Jewel Spear.,49,32,3,528,1128,Tennessee Lady Volunteers,layup,True,True,False,Tamari Key,True,Jewel Spear,27.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jenna Guyer missed Three Point Jumper.,49,32,3,510,1110,Green Bay Phoenix,three point jumper,True,False,True,Jenna Guyer,False,,22.0,24.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Defensive Rebound.,49,32,3,510,1110,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key missed Jumper.,49,32,3,486,1086,Tennessee Lady Volunteers,jumper,True,False,False,Tamari Key,False,,26.0,3.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jenna Guyer Defensive Rebound.,49,32,3,486,1086,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maddy Schreiber made Three Point Jumper. Assisted by Cassie Schiltz.,49,35,3,470,1070,Green Bay Phoenix,three point jumper,True,True,True,Maddy Schreiber,True,Cassie Schiltz,10.0,21.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Layup. Assisted by Jewel Spear.,51,35,3,455,1055,Tennessee Lady Volunteers,layup,True,True,False,Rickea Jackson,True,Jewel Spear,23.0,0.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Maddy Schreiber.,51,35,3,455,1055,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Free Throw.,52,35,3,455,1055,Tennessee Lady Volunteers,free throw,True,True,False,Rickea Jackson,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal missed Jumper.,52,35,3,447,1047,Green Bay Phoenix,jumper,True,False,False,Natalie McNeal,False,,30.0,0.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Defensive Rebound.,52,35,3,447,1047,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jenna Guyer.,52,35,3,443,1043,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett made Three Point Jumper. Assisted by Tamari Key.,55,35,3,430,1030,Tennessee Lady Volunteers,three point jumper,True,True,True,Sara Puckett,True,Tamari Key,26.0,24.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jenna Guyer missed Jumper.,55,35,3,413,1013,Green Bay Phoenix,jumper,True,False,False,Jenna Guyer,False,,29.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key Block.,55,35,3,413,1013,Tennessee Lady Volunteers,block,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal Offensive Rebound.,55,35,3,413,1013,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal missed Jumper.,55,35,3,412,1012,Green Bay Phoenix,jumper,True,False,False,Natalie McNeal,False,,23.0,4.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key Defensive Rebound.,55,35,3,411,1011,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jewel Spear missed Jumper.,55,35,3,399,999,Tennessee Lady Volunteers,jumper,True,False,False,Jewel Spear,False,,33.0,15.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Cassie Schiltz Defensive Rebound.,55,35,3,399,999,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jenna Guyer made Jumper. Assisted by Callie Genke.,55,37,3,389,989,Green Bay Phoenix,jumper,True,True,False,Jenna Guyer,True,Callie Genke,24.0,3.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key made Layup.,57,37,3,371,971,Tennessee Lady Volunteers,layup,True,True,False,Tamari Key,False,,22.0,0.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jenna Guyer missed Three Point Jumper.,57,37,3,354,954,Green Bay Phoenix,three point jumper,True,False,True,Jenna Guyer,False,,11.0,20.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jewel Spear Defensive Rebound.,57,37,3,354,954,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett made Layup. Assisted by Jasmine Powell.,59,37,3,345,945,Tennessee Lady Volunteers,layup,True,True,False,Sara Puckett,True,Jasmine Powell,23.0,0.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler missed Three Point Jumper.,59,37,3,336,936,Green Bay Phoenix,three point jumper,True,False,True,Bailey Butler,False,,34.0,23.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett Defensive Rebound.,59,37,3,336,936,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson missed Layup.,59,37,3,326,926,Tennessee Lady Volunteers,layup,True,False,False,Rickea Jackson,False,,22.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Offensive Rebound.,59,37,3,326,926,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Layup.,61,37,3,322,922,Tennessee Lady Volunteers,layup,True,True,False,Rickea Jackson,False,,22.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Cassie Schiltz.,61,37,3,322,922,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Green Bay  Timeout,61,37,3,322,922,Green Bay Phoenix,timeout,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix, Official TV Timeout,61,37,3,322,922,,tv timeout,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Free Throw.,62,37,3,322,922,Tennessee Lady Volunteers,free throw,True,True,False,Rickea Jackson,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jenna Guyer made Jumper. Assisted by Callie Genke.,62,39,3,299,899,Green Bay Phoenix,jumper,True,True,False,Jenna Guyer,True,Callie Genke,30.0,3.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tess Darby made Three Point Jumper. Assisted by Jewel Spear.,65,39,3,283,883,Tennessee Lady Volunteers,three point jumper,True,True,True,Tess Darby,True,Jewel Spear,11.0,20.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Cassie Schiltz Turnover.,65,39,3,262,862,Green Bay Phoenix,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tess Darby Steal.,65,39,3,262,862,Tennessee Lady Volunteers,steal,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jewel Spear missed Three Point Jumper.,65,39,3,252,852,Tennessee Lady Volunteers,three point jumper,True,False,True,Jewel Spear,False,,42.0,17.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett Offensive Rebound.,65,39,3,252,852,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix, Official TV Timeout,65,39,3,245,845,,tv timeout,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett missed Jumper.,65,39,3,244,844,Tennessee Lady Volunteers,jumper,True,False,False,Sara Puckett,False,,40.0,0.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler Defensive Rebound.,65,39,3,244,844,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal made Layup.,65,41,3,226,826,Green Bay Phoenix,layup,True,True,False,Natalie McNeal,False,,27.0,0.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jillian Hollingshead Turnover.,65,41,3,212,812,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal Steal.,65,41,3,212,812,Green Bay Phoenix,steal,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Callie Genke missed Jumper.,65,41,3,181,781,Green Bay Phoenix,jumper,True,False,False,Callie Genke,False,,20.0,12.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal Offensive Rebound.,65,41,3,181,781,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Green Bay  Turnover.,65,41,3,179,779,Green Bay Phoenix,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jillian Hollingshead.,65,41,3,161,761,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jillian Hollingshead Turnover.,65,41,3,161,761,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Karoline Striplin.,65,41,3,145,745,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler missed Layup.,65,41,3,142,742,Green Bay Phoenix,layup,True,False,False,Bailey Butler,False,,23.0,0.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Karoline Striplin Defensive Rebound.,65,41,3,142,742,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn missed Layup.,65,41,3,135,735,Tennessee Lady Volunteers,layup,True,False,False,Kaiya Wynn,False,,27.0,3.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn Offensive Rebound.,65,41,3,135,735,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jump Ball won by Tennessee,65,41,3,130,730,Tennessee Lady Volunteers,jump ball,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Turnover.,65,41,3,121,721,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jenna Guyer made Three Point Jumper. Assisted by Bailey Butler.,65,44,3,108,708,Green Bay Phoenix,three point jumper,True,True,True,Jenna Guyer,True,Bailey Butler,19.0,24.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Karoline Striplin.,65,44,3,96,696,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Karoline Striplin Turnover.,65,44,3,96,696,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jenna Guyer missed Three Point Jumper.,65,44,3,83,683,Green Bay Phoenix,three point jumper,True,False,True,Jenna Guyer,False,,16.0,23.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Powell Defensive Rebound.,65,44,3,83,683,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Sara Puckett missed Three Point Jumper.,65,44,3,69,669,Tennessee Lady Volunteers,three point jumper,True,False,True,Sara Puckett,False,,4.0,11.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key Offensive Rebound.,65,44,3,69,669,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tess Darby made Three Point Jumper. Assisted by Tamari Key.,68,44,3,63,663,Tennessee Lady Volunteers,three point jumper,True,True,True,Tess Darby,True,Tamari Key,49.0,3.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler missed Jumper.,68,44,3,50,650,Green Bay Phoenix,jumper,True,False,False,Bailey Butler,False,,23.0,13.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Defensive Rebound.,68,44,3,50,650,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Tamari Key.,68,44,3,42,642,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key Turnover.,68,44,3,42,642,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tennessee  Timeout,68,44,3,42,642,Tennessee Lady Volunteers,timeout,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie Andersen missed Jumper.,68,44,3,27,627,Green Bay Phoenix,jumper,True,False,False,Natalie Andersen,False,,24.0,12.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tess Darby Defensive Rebound.,68,44,3,27,627,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Powell made Jumper.,70,44,3,5,605,Tennessee Lady Volunteers,jumper,True,True,False,Jasmine Powell,False,,35.0,13.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,End of 3rd Quarter,70,44,3,0,600,,end,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jump Ball won by Tennessee,70,44,4,600,600,Tennessee Lady Volunteers,jump ball,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Powell missed Three Point Jumper.,70,44,4,575,575,Tennessee Lady Volunteers,three point jumper,True,False,True,Jasmine Powell,False,,46.0,10.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tamari Key Offensive Rebound.,70,44,4,574,574,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson missed Three Point Jumper.,70,44,4,570,570,Tennessee Lady Volunteers,three point jumper,True,False,True,Rickea Jackson,False,,42.0,18.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal Defensive Rebound.,70,44,4,569,569,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Tamari Key.,70,44,4,559,559,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler missed Layup.,70,44,4,554,554,Green Bay Phoenix,layup,True,False,False,Bailey Butler,False,,23.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Defensive Rebound.,70,44,4,554,554,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Layup. Assisted by Jillian Hollingshead.,72,44,4,544,544,Tennessee Lady Volunteers,layup,True,True,False,Rickea Jackson,True,Jillian Hollingshead,27.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Natalie Andersen.,72,44,4,544,544,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Free Throw.,73,44,4,544,544,Tennessee Lady Volunteers,free throw,True,True,False,Rickea Jackson,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal missed Jumper.,73,44,4,531,531,Green Bay Phoenix,jumper,True,False,False,Natalie McNeal,False,,24.0,12.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Defensive Rebound.,73,44,4,531,531,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jenna Guyer.,73,44,4,522,522,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Powell missed Free Throw.,73,44,4,522,522,Tennessee Lady Volunteers,free throw,True,False,False,Jasmine Powell,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tennessee Deadball Team Rebound.,73,44,4,522,522,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Powell made Free Throw.,74,44,4,522,522,Tennessee Lady Volunteers,free throw,True,True,False,Jasmine Powell,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie Andersen missed Jumper.,74,44,4,513,513,Green Bay Phoenix,jumper,True,False,False,Natalie Andersen,False,,23.0,13.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jillian Hollingshead Defensive Rebound.,74,44,4,513,513,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Maddy Schreiber.,74,44,4,498,498,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jillian Hollingshead made Jumper. Assisted by Jasmine Powell.,76,44,4,496,496,Tennessee Lady Volunteers,jumper,True,True,False,Jillian Hollingshead,True,Jasmine Powell,23.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maddy Schreiber made Jumper.,76,46,4,480,480,Green Bay Phoenix,jumper,True,True,False,Maddy Schreiber,False,,32.0,13.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Turnover.,76,46,4,466,466,Tennessee Lady Volunteers,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Kondrakiewicz Steal.,76,46,4,466,466,Green Bay Phoenix,steal,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maren Westin made Layup.,76,48,4,458,458,Green Bay Phoenix,layup,True,True,False,Maren Westin,False,,29.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson made Layup. Assisted by Jasmine Powell.,78,48,4,442,442,Tennessee Lady Volunteers,layup,True,True,False,Rickea Jackson,True,Jasmine Powell,25.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal missed Jumper.,78,48,4,429,429,Green Bay Phoenix,jumper,True,False,False,Natalie McNeal,False,,23.0,11.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Rickea Jackson Defensive Rebound.,78,48,4,429,429,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jasmine Kondrakiewicz.,78,48,4,419,419,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jillian Hollingshead missed Free Throw.,78,48,4,419,419,Tennessee Lady Volunteers,free throw,True,False,False,Jillian Hollingshead,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tennessee Deadball Team Rebound.,78,48,4,419,419,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jillian Hollingshead made Free Throw.,79,48,4,419,419,Tennessee Lady Volunteers,free throw,True,True,False,Jillian Hollingshead,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie Andersen made Jumper.,79,50,4,409,409,Green Bay Phoenix,jumper,True,True,False,Natalie Andersen,False,,23.0,10.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jewel Spear made Layup.,81,50,4,395,395,Tennessee Lady Volunteers,layup,True,True,False,Jewel Spear,False,,22.0,0.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maren Westin Turnover.,81,50,4,386,386,Green Bay Phoenix,turnover,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Avery Strickland Steal.,81,50,4,386,386,Tennessee Lady Volunteers,steal,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Avery Strickland made Layup.,83,50,4,380,380,Tennessee Lady Volunteers,layup,True,True,False,Avery Strickland,False,,23.0,0.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Green Bay  Timeout,83,50,4,380,380,Green Bay Phoenix,timeout,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix, Official TV Timeout,83,50,4,380,380,,tv timeout,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Kondrakiewicz Offensive Rebound.,83,50,4,373,373,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal missed Jumper.,83,50,4,368,368,Green Bay Phoenix,jumper,True,False,False,Natalie McNeal,False,,37.0,-1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Karoline Striplin.,83,50,4,355,355,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie Andersen made Free Throw.,83,51,4,355,355,Green Bay Phoenix,free throw,True,True,False,Natalie Andersen,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie Andersen made Free Throw.,83,52,4,355,355,Green Bay Phoenix,free throw,True,True,False,Natalie Andersen,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Karoline Striplin missed Jumper.,83,52,4,344,344,Tennessee Lady Volunteers,jumper,True,False,False,Karoline Striplin,False,,13.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maddy Schreiber Defensive Rebound.,83,52,4,343,343,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Tess Darby.,83,52,4,332,332,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Avery Strickland.,83,52,4,332,332,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Kondrakiewicz made Layup.,83,54,4,330,330,Green Bay Phoenix,layup,True,True,False,Jasmine Kondrakiewicz,False,,23.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn missed Jumper.,83,54,4,310,310,Tennessee Lady Volunteers,jumper,True,False,False,Kaiya Wynn,False,,30.0,6.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Kondrakiewicz Block.,83,54,4,310,310,Green Bay Phoenix,block,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maren Westin Defensive Rebound.,83,54,4,310,310,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Kondrakiewicz missed Layup.,83,54,4,295,295,Green Bay Phoenix,layup,True,False,False,Jasmine Kondrakiewicz,False,,28.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Kondrakiewicz Offensive Rebound.,83,54,4,295,295,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jasmine Kondrakiewicz made Layup.,83,56,4,289,289,Green Bay Phoenix,layup,True,True,False,Jasmine Kondrakiewicz,False,,28.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Natalie McNeal.,83,56,4,280,280,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Avery Strickland made Free Throw.,84,56,4,280,280,Tennessee Lady Volunteers,free throw,True,True,False,Avery Strickland,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Avery Strickland missed Free Throw.,84,56,4,280,280,Tennessee Lady Volunteers,free throw,True,False,False,Avery Strickland,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie McNeal Defensive Rebound.,84,56,4,280,280,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie Andersen missed Layup.,84,56,4,270,270,Green Bay Phoenix,layup,True,False,False,Natalie Andersen,False,,23.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tess Darby Defensive Rebound.,84,56,4,270,270,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Karoline Striplin made Layup. Assisted by Avery Strickland.,86,56,4,252,252,Tennessee Lady Volunteers,layup,True,True,False,Karoline Striplin,True,Avery Strickland,23.0,1.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maddy Schreiber missed Jumper.,86,56,4,228,228,Green Bay Phoenix,jumper,True,False,False,Maddy Schreiber,False,,42.0,6.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Tennessee Defensive Rebound.,86,56,4,228,228,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jillian Hollingshead made Jumper. Assisted by Kaiya Wynn.,88,56,4,204,204,Tennessee Lady Volunteers,jumper,True,True,False,Jillian Hollingshead,True,Kaiya Wynn,25.0,3.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jasmine Kondrakiewicz.,88,56,4,204,204,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Jillian Hollingshead made Free Throw.,89,56,4,204,204,Tennessee Lady Volunteers,free throw,True,True,False,Jillian Hollingshead,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maren Westin missed Three Point Jumper.,89,56,4,195,195,Green Bay Phoenix,three point jumper,True,False,True,Maren Westin,False,,20.0,23.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler Offensive Rebound.,89,56,4,195,195,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Natalie Andersen missed Layup.,89,56,4,174,174,Green Bay Phoenix,layup,True,False,False,Natalie Andersen,False,,22.0,3.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn Defensive Rebound.,89,56,4,174,174,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn made Jumper.,91,56,4,166,166,Tennessee Lady Volunteers,jumper,True,True,False,Kaiya Wynn,False,,28.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maren Westin made Jumper.,91,58,4,154,154,Green Bay Phoenix,jumper,True,True,False,Maren Westin,False,,20.0,6.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn missed Three Point Jumper.,91,58,4,128,128,Tennessee Lady Volunteers,three point jumper,True,False,True,Kaiya Wynn,False,,2.0,6.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maren Westin Defensive Rebound.,91,58,4,128,128,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maren Westin made Layup.,91,60,4,119,119,Green Bay Phoenix,layup,True,True,False,Maren Westin,False,,27.0,0.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Avery Strickland missed Three Point Jumper.,91,60,4,101,101,Tennessee Lady Volunteers,three point jumper,True,False,True,Avery Strickland,False,,32.0,23.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Callie Genke Defensive Rebound.,91,60,4,101,101,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Karoline Striplin.,91,60,4,101,101,Tennessee Lady Volunteers,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Callie Genke made Free Throw.,91,61,4,101,101,Green Bay Phoenix,free throw,True,True,False,Callie Genke,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Callie Genke missed Free Throw.,91,61,4,101,101,Green Bay Phoenix,free throw,True,False,False,Callie Genke,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn Defensive Rebound.,91,61,4,101,101,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Edie Darby missed Three Point Jumper.,91,61,4,86,86,Tennessee Lady Volunteers,three point jumper,True,False,True,Edie Darby,False,,33.0,23.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Avery Strickland Offensive Rebound.,91,61,4,86,86,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Avery Strickland missed Layup.,91,61,4,79,79,Tennessee Lady Volunteers,layup,True,False,False,Avery Strickland,False,,28.0,3.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn Offensive Rebound.,91,61,4,79,79,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Foul on Jenna Guyer.,91,61,4,77,77,Green Bay Phoenix,foul,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn made Free Throw.,92,61,4,77,77,Tennessee Lady Volunteers,free throw,True,True,False,Kaiya Wynn,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn missed Free Throw.,92,61,4,77,77,Tennessee Lady Volunteers,free throw,True,False,False,Kaiya Wynn,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Callie Genke Defensive Rebound.,92,61,4,77,77,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maddy Schreiber missed Three Point Jumper.,92,61,4,57,57,Green Bay Phoenix,three point jumper,True,False,True,Maddy Schreiber,False,,32.0,24.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Kaiya Wynn Defensive Rebound.,92,61,4,57,57,Tennessee Lady Volunteers,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Edie Darby missed Three Point Jumper.,92,61,4,46,46,Tennessee Lady Volunteers,three point jumper,True,False,True,Edie Darby,False,,2.0,7.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Bailey Butler Defensive Rebound.,92,61,4,46,46,Green Bay Phoenix,rebound,False,False,False,,False,,,
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,Maddy Schreiber made Layup.,92,63,4,28,28,Green Bay Phoenix,layup,True,True,False,Maddy Schreiber,False,,27.0,2.0
+401637572,Tennessee Lady Volunteers,Green Bay Phoenix,End of Game,92,63,4,0,0,,end,False,False,False,,False,,,

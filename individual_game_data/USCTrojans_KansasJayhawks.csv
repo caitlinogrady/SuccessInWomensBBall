@@ -1,0 +1,372 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637586,USC Trojans,Kansas Jayhawks,Jump Ball won by USC,0,0,1,600,2400,USC Trojans,jump ball,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall missed Jumper.,0,0,1,575,2375,USC Trojans,jumper,True,False,False,Rayah Marshall,False,,35.0,3.0
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter Defensive Rebound.,0,0,1,575,2375,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter missed Layup.,0,0,1,556,2356,Kansas Jayhawks,layup,True,False,False,Holly Kersgieter,False,,28.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Offensive Rebound.,0,0,1,556,2356,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson missed Layup.,0,0,1,554,2354,Kansas Jayhawks,layup,True,False,False,Taiyanna Jackson,False,,22.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall Block.,0,0,1,554,2354,USC Trojans,block,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kansas Offensive Rebound.,0,0,1,554,2354,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on S'Mya Nichols.,0,0,1,551,2351,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols Turnover.,0,0,1,551,2351,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Three Point Jumper. Assisted by Kayla Padilla.,3,0,1,536,2336,USC Trojans,three point jumper,True,True,True,JuJu Watkins,True,Kayla Padilla,16.0,23.0
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter Turnover.,3,0,1,519,2319,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kaitlyn Davis Steal.,3,0,1,519,2319,USC Trojans,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes missed Jumper.,3,0,1,510,2310,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,32.0,1.0
+401637586,USC Trojans,Kansas Jayhawks,USC Offensive Rebound.,3,0,1,510,2310,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Layup. Assisted by Kaitlyn Davis.,5,0,1,501,2301,USC Trojans,layup,True,True,False,JuJu Watkins,True,Kaitlyn Davis,21.0,1.0
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols missed Jumper.,5,0,1,483,2283,Kansas Jayhawks,jumper,True,False,False,S'Mya Nichols,False,,25.0,4.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Offensive Rebound.,5,0,1,483,2283,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on JuJu Watkins.,5,0,1,480,2280,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson made Free Throw.,5,1,1,480,2280,Kansas Jayhawks,free throw,True,True,False,Taiyanna Jackson,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson made Free Throw.,5,2,1,480,2280,Kansas Jayhawks,free throw,True,True,False,Taiyanna Jackson,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Jumper.,5,2,1,466,2266,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,7.0,13.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Defensive Rebound.,5,2,1,466,2266,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Wyvette Mayberry missed Three Point Jumper.,5,2,1,452,2252,Kansas Jayhawks,three point jumper,True,False,True,Wyvette Mayberry,False,,39.0,22.0
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall Defensive Rebound.,5,2,1,452,2252,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes missed Layup.,5,2,1,442,2242,USC Trojans,layup,True,False,False,McKenzie Forbes,False,,21.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Defensive Rebound.,5,2,1,442,2242,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson made Jumper. Assisted by S'Mya Nichols.,5,4,1,423,2223,Kansas Jayhawks,jumper,True,True,False,Taiyanna Jackson,True,S'Mya Nichols,22.0,13.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Layup.,7,4,1,415,2215,USC Trojans,layup,True,True,False,JuJu Watkins,False,,23.0,3.0
+401637586,USC Trojans,Kansas Jayhawks,Foul on Kayla Padilla.,7,4,1,397,2197,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter missed Free Throw.,7,4,1,397,2197,Kansas Jayhawks,free throw,True,False,False,Holly Kersgieter,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kansas Deadball Team Rebound.,7,4,1,397,2197,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter made Free Throw.,7,5,1,397,2197,Kansas Jayhawks,free throw,True,True,False,Holly Kersgieter,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall made Layup. Assisted by JuJu Watkins.,9,5,1,379,2179,USC Trojans,layup,True,True,False,Rayah Marshall,True,JuJu Watkins,21.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Wyvette Mayberry Turnover.,9,5,1,358,2158,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Steal.,9,5,1,358,2158,USC Trojans,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes made Three Point Jumper.,12,5,1,341,2141,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,False,,44.0,12.0
+401637586,USC Trojans,Kansas Jayhawks,Wyvette Mayberry made Jumper. Assisted by Taiyanna Jackson.,12,7,1,320,2120,Kansas Jayhawks,jumper,True,True,False,Wyvette Mayberry,True,Taiyanna Jackson,24.0,9.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Layup.,12,7,1,299,2099,USC Trojans,layup,True,False,False,JuJu Watkins,False,,21.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Kansas Defensive Rebound.,12,7,1,299,2099,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks, Official TV Timeout,12,7,1,295,2095,,tv timeout,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin made Jumper. Assisted by Taiyanna Jackson.,12,9,1,279,2079,Kansas Jayhawks,jumper,True,True,False,Zakiyah Franklin,True,Taiyanna Jackson,16.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes missed Three Point Jumper.,12,9,1,253,2053,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,16.0,24.0
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter Defensive Rebound.,12,9,1,253,2053,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter Turnover.,12,9,1,245,2045,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Steal.,12,9,1,245,2045,USC Trojans,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Turnover.,12,9,1,232,2032,USC Trojans,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin Steal.,12,9,1,232,2032,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Wyvette Mayberry missed Jumper.,12,9,1,221,2021,Kansas Jayhawks,jumper,True,False,False,Wyvette Mayberry,False,,28.0,11.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Defensive Rebound.,12,9,1,221,2021,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes missed Three Point Jumper.,12,9,1,200,2000,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,28.0,27.0
+401637586,USC Trojans,Kansas Jayhawks,Wyvette Mayberry Defensive Rebound.,12,9,1,200,2000,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Wyvette Mayberry missed Three Point Jumper.,12,9,1,177,1977,Kansas Jayhawks,three point jumper,True,False,True,Wyvette Mayberry,False,,2.0,2.0
+401637586,USC Trojans,Kansas Jayhawks,Kayla Padilla Defensive Rebound.,12,9,1,177,1977,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes missed Jumper.,12,9,1,160,1960,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,23.0,11.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Defensive Rebound.,12,9,1,160,1960,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson missed Jumper.,12,9,1,134,1934,Kansas Jayhawks,jumper,True,False,False,Taiyanna Jackson,False,,28.0,4.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Block.,12,9,1,134,1934,USC Trojans,block,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Offensive Rebound.,12,9,1,134,1934,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson missed Jumper.,12,9,1,125,1925,Kansas Jayhawks,jumper,True,False,False,Taiyanna Jackson,False,,27.0,4.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Block.,12,9,1,125,1925,USC Trojans,block,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kaitlyn Davis Defensive Rebound.,12,9,1,125,1925,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes Turnover.,12,9,1,121,1921,USC Trojans,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Wyvette Mayberry Steal.,12,9,1,121,1921,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on JuJu Watkins.,12,9,1,121,1921,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin Turnover.,12,9,1,113,1913,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall Steal.,12,9,1,113,1913,USC Trojans,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall missed Layup.,12,9,1,108,1908,USC Trojans,layup,True,False,False,Rayah Marshall,False,,25.0,2.0
+401637586,USC Trojans,Kansas Jayhawks,USC Offensive Rebound.,12,9,1,108,1908,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall made Layup. Assisted by McKenzie Forbes.,14,9,1,106,1906,USC Trojans,layup,True,True,False,Rayah Marshall,True,McKenzie Forbes,22.0,2.0
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols missed Layup.,14,9,1,84,1884,Kansas Jayhawks,layup,True,False,False,S'Mya Nichols,False,,21.0,1.0
+401637586,USC Trojans,Kansas Jayhawks,Kansas Offensive Rebound.,14,9,1,84,1884,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kansas  Turnover.,14,9,1,71,1871,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kayla Padilla made Three Point Jumper. Assisted by McKenzie Forbes.,17,9,1,54,1854,USC Trojans,three point jumper,True,True,True,Kayla Padilla,True,McKenzie Forbes,41.0,19.0
+401637586,USC Trojans,Kansas Jayhawks,Danai Papadopoulou missed Layup.,17,9,1,37,1837,Kansas Jayhawks,layup,True,False,False,Danai Papadopoulou,False,,22.0,3.0
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall Block.,17,9,1,37,1837,USC Trojans,block,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kansas Offensive Rebound.,17,9,1,37,1837,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin missed Jumper.,17,9,1,31,1831,Kansas Jayhawks,jumper,True,False,False,Zakiyah Franklin,False,,33.0,16.0
+401637586,USC Trojans,Kansas Jayhawks,USC Deadball Team Rebound.,17,9,1,31,1831,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Danai Papadopoulou.,17,9,1,30,1830,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kayla Padilla missed Three Point Jumper.,17,9,1,8,1808,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,6.0,18.0
+401637586,USC Trojans,Kansas Jayhawks,Skyler Gill Defensive Rebound.,17,9,1,8,1808,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,End of 1st Quarter,17,9,1,0,1800,,end,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Jump Ball won by Kansas,17,9,2,600,1800,Kansas Jayhawks,jump ball,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Ryan Cobbins Turnover.,17,9,2,591,1791,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall Steal.,17,9,2,591,1791,USC Trojans,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Ryan Cobbins.,17,9,2,582,1782,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall missed Jumper.,17,9,2,577,1777,USC Trojans,jumper,True,False,False,Rayah Marshall,False,,7.0,6.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Offensive Rebound.,17,9,2,577,1777,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kayla Williams missed Three Point Jumper.,17,9,2,571,1771,USC Trojans,three point jumper,True,False,True,Kayla Williams,False,,22.0,24.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Defensive Rebound.,17,9,2,571,1771,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols Turnover.,17,9,2,550,1750,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall Steal.,17,9,2,550,1750,USC Trojans,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes made Three Point Jumper.,20,9,2,543,1743,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,False,,16.0,22.0
+401637586,USC Trojans,Kansas Jayhawks, Official TV Timeout,20,9,2,540,1740,,tv timeout,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kansas  Timeout,20,9,2,540,1740,Kansas Jayhawks,timeout,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Wyvette Mayberry.,20,9,2,540,1740,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Free Throw.,20,9,2,540,1740,USC Trojans,free throw,True,False,False,JuJu Watkins,False,,,
+401637586,USC Trojans,Kansas Jayhawks,USC Deadball Team Rebound.,20,9,2,540,1740,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Free Throw.,21,9,2,540,1740,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Three Point Jumper.,24,9,2,523,1723,USC Trojans,three point jumper,True,True,True,JuJu Watkins,False,,14.0,26.0
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Layup.,24,11,2,503,1703,Kansas Jayhawks,layup,True,True,False,S'Mya Nichols,False,,22.0,1.0
+401637586,USC Trojans,Kansas Jayhawks,Foul on Kaitlyn Davis.,24,11,2,503,1703,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Free Throw.,24,12,2,503,1703,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kayla Padilla made Three Point Jumper. Assisted by JuJu Watkins.,27,12,2,490,1690,USC Trojans,three point jumper,True,True,True,Kayla Padilla,True,JuJu Watkins,1.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols Turnover.,27,12,2,470,1670,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kayla Padilla missed Three Point Jumper.,27,12,2,458,1658,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,48.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall Offensive Rebound.,27,12,2,458,1658,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Three Point Jumper.,27,12,2,445,1645,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,42.0,23.0
+401637586,USC Trojans,Kansas Jayhawks,Kansas Deadball Team Rebound.,27,12,2,445,1645,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Layup. Assisted by Taiyanna Jackson.,27,14,2,432,1632,Kansas Jayhawks,layup,True,True,False,S'Mya Nichols,True,Taiyanna Jackson,22.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes Turnover.,27,14,2,418,1618,USC Trojans,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Taiyanna Jackson.,27,14,2,405,1605,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Turnover.,27,14,2,405,1605,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Turnover.,27,14,2,394,1594,USC Trojans,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson missed Jumper.,27,14,2,378,1578,Kansas Jayhawks,jumper,True,False,False,Taiyanna Jackson,False,,25.0,4.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Offensive Rebound.,27,14,2,378,1578,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Kayla Padilla.,27,14,2,373,1573,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson missed Free Throw.,27,14,2,373,1573,Kansas Jayhawks,free throw,True,False,False,Taiyanna Jackson,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kansas Deadball Team Rebound.,27,14,2,373,1573,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson missed Free Throw.,27,14,2,373,1573,Kansas Jayhawks,free throw,True,False,False,Taiyanna Jackson,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Defensive Rebound.,27,14,2,373,1573,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Three Point Jumper.,27,14,2,355,1555,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,29.0,24.0
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter Defensive Rebound.,27,14,2,355,1555,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols missed Three Point Jumper.,27,14,2,345,1545,Kansas Jayhawks,three point jumper,True,False,True,S'Mya Nichols,False,,42.0,20.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Defensive Rebound.,27,14,2,345,1545,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Turnover.,27,14,2,332,1532,USC Trojans,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter Steal.,27,14,2,332,1532,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter Turnover.,27,14,2,325,1525,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes missed Jumper.,27,14,2,299,1499,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,22.0,3.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Block.,27,14,2,299,1499,Kansas Jayhawks,block,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Defensive Rebound.,27,14,2,299,1499,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Three Point Jumper. Assisted by Zakiyah Franklin.,27,17,2,288,1488,Kansas Jayhawks,three point jumper,True,True,True,S'Mya Nichols,True,Zakiyah Franklin,2.0,2.0
+401637586,USC Trojans,Kansas Jayhawks,USC  Timeout,27,17,2,283,1483,USC Trojans,timeout,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks, Official TV Timeout,27,17,2,283,1483,,tv timeout,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes missed Three Point Jumper.,27,17,2,265,1465,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,2.0,-1.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Defensive Rebound.,27,17,2,265,1465,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Wyvette Mayberry missed Layup.,27,17,2,249,1449,Kansas Jayhawks,layup,True,False,False,Wyvette Mayberry,False,,21.0,1.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Block.,27,17,2,249,1449,USC Trojans,block,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin Offensive Rebound.,27,17,2,249,1449,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols missed Three Point Jumper.,27,17,2,226,1426,Kansas Jayhawks,three point jumper,True,False,True,S'Mya Nichols,False,,44.0,14.0
+401637586,USC Trojans,Kansas Jayhawks,Kayla Williams Defensive Rebound.,27,17,2,226,1426,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes made Three Point Jumper. Assisted by JuJu Watkins.,30,17,2,220,1420,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,True,JuJu Watkins,27.0,25.0
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin made Jumper.,30,19,2,205,1405,Kansas Jayhawks,jumper,True,True,False,Zakiyah Franklin,False,,30.0,2.0
+401637586,USC Trojans,Kansas Jayhawks,Kayla Williams missed Three Point Jumper.,30,19,2,188,1388,USC Trojans,three point jumper,True,False,True,Kayla Williams,False,,9.0,20.0
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter Defensive Rebound.,30,19,2,188,1388,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter Turnover.,30,19,2,178,1378,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Steal.,30,19,2,178,1378,USC Trojans,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes Turnover.,30,19,2,173,1373,USC Trojans,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson missed Jumper.,30,19,2,155,1355,Kansas Jayhawks,jumper,True,False,False,Taiyanna Jackson,False,,30.0,7.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Defensive Rebound.,30,19,2,155,1355,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Three Point Jumper.,30,19,2,140,1340,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,20.0,26.0
+401637586,USC Trojans,Kansas Jayhawks,Kaitlyn Davis Offensive Rebound.,30,19,2,140,1340,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kaitlyn Davis missed Jumper.,30,19,2,135,1335,USC Trojans,jumper,True,False,False,Kaitlyn Davis,False,,30.0,3.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Offensive Rebound.,30,19,2,135,1335,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes made Three Point Jumper. Assisted by Clarice Akunwafo.,33,19,2,124,1324,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,True,Clarice Akunwafo,9.0,23.0
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols missed Jumper.,33,19,2,109,1309,Kansas Jayhawks,jumper,True,False,False,S'Mya Nichols,False,,20.0,4.0
+401637586,USC Trojans,Kansas Jayhawks,Kaitlyn Davis Defensive Rebound.,33,19,2,109,1309,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes missed Jumper.,33,19,2,88,1288,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,25.0,10.0
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin Defensive Rebound.,33,19,2,88,1288,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson made Layup. Assisted by Holly Kersgieter.,33,21,2,79,1279,Kansas Jayhawks,layup,True,True,False,Taiyanna Jackson,True,Holly Kersgieter,22.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Foul on Zakiyah Franklin.,33,21,2,54,1254,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes Turnover.,33,21,2,52,1252,USC Trojans,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Steal.,33,21,2,52,1252,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Kayla Williams.,33,21,2,48,1248,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin missed Free Throw.,33,21,2,48,1248,Kansas Jayhawks,free throw,True,False,False,Zakiyah Franklin,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kansas Deadball Team Rebound.,33,21,2,48,1248,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin missed Free Throw.,33,21,2,48,1248,Kansas Jayhawks,free throw,True,False,False,Zakiyah Franklin,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall Defensive Rebound.,33,21,2,48,1248,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes missed Three Point Jumper.,33,21,2,32,1232,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,39.0,21.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Defensive Rebound.,33,21,2,32,1232,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Layup.,33,23,2,8,1208,Kansas Jayhawks,layup,True,True,False,S'Mya Nichols,False,,29.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Foul on Taylor Bigby.,33,23,2,8,1208,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Free Throw.,33,24,2,8,1208,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637586,USC Trojans,Kansas Jayhawks,End of 2nd Quarter,33,24,2,0,1200,,end,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Jump Ball won by USC,33,24,3,600,1200,USC Trojans,jump ball,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Jumper. Assisted by McKenzie Forbes.,35,24,3,589,1189,USC Trojans,jumper,True,True,False,JuJu Watkins,True,McKenzie Forbes,12.0,14.0
+401637586,USC Trojans,Kansas Jayhawks,Wyvette Mayberry made Three Point Jumper. Assisted by Zakiyah Franklin.,35,27,3,570,1170,Kansas Jayhawks,three point jumper,True,True,True,Wyvette Mayberry,True,Zakiyah Franklin,2.0,-1.0
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall made Jumper.,37,27,3,544,1144,USC Trojans,jumper,True,True,False,Rayah Marshall,False,,33.0,9.0
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter made Jumper. Assisted by Taiyanna Jackson.,37,29,3,529,1129,Kansas Jayhawks,jumper,True,True,False,Holly Kersgieter,True,Taiyanna Jackson,18.0,17.0
+401637586,USC Trojans,Kansas Jayhawks,Kaitlyn Davis missed Jumper.,37,29,3,509,1109,USC Trojans,jumper,True,False,False,Kaitlyn Davis,False,,26.0,12.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Defensive Rebound.,37,29,3,509,1109,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Kansas.,37,29,3,494,1094,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin Turnover.,37,29,3,494,1094,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Zakiyah Franklin.,37,29,3,494,1094,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall made Layup. Assisted by Kaitlyn Davis.,39,29,3,475,1075,USC Trojans,layup,True,True,False,Rayah Marshall,True,Kaitlyn Davis,28.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Foul on Taiyanna Jackson.,39,29,3,475,1075,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall made Free Throw.,40,29,3,475,1075,USC Trojans,free throw,True,True,False,Rayah Marshall,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Rayah Marshall.,40,29,3,461,1061,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin missed Jumper.,40,29,3,450,1050,Kansas Jayhawks,jumper,True,False,False,Zakiyah Franklin,False,,28.0,5.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Offensive Rebound.,40,29,3,450,1050,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson made Layup.,40,31,3,443,1043,Kansas Jayhawks,layup,True,True,False,Taiyanna Jackson,False,,24.0,2.0
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes made Three Point Jumper. Assisted by Rayah Marshall.,43,31,3,431,1031,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,True,Rayah Marshall,39.0,21.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson missed Jumper.,43,31,3,412,1012,Kansas Jayhawks,jumper,True,False,False,Taiyanna Jackson,False,,29.0,4.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Defensive Rebound.,43,31,3,412,1012,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes Turnover.,43,31,3,389,989,USC Trojans,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Steal.,43,31,3,389,989,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin made Layup. Assisted by Taiyanna Jackson.,43,33,3,381,981,Kansas Jayhawks,layup,True,True,False,Zakiyah Franklin,True,Taiyanna Jackson,28.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall Turnover.,43,33,3,362,962,USC Trojans,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols Steal.,43,33,3,362,962,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Layup.,43,35,3,354,954,Kansas Jayhawks,layup,True,True,False,S'Mya Nichols,False,,28.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,USC  Timeout,43,35,3,350,950,USC Trojans,timeout,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks, Official TV Timeout,43,35,3,350,950,,tv timeout,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kaitlyn Davis missed Layup.,43,35,3,343,943,USC Trojans,layup,True,False,False,Kaitlyn Davis,False,,29.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Block.,43,35,3,343,943,Kansas Jayhawks,block,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Defensive Rebound.,43,35,3,343,943,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter made Jumper. Assisted by Wyvette Mayberry.,43,37,3,323,923,Kansas Jayhawks,jumper,True,True,False,Holly Kersgieter,True,Wyvette Mayberry,24.0,15.0
+401637586,USC Trojans,Kansas Jayhawks,Foul on Taiyanna Jackson.,43,37,3,306,906,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Free Throw.,43,37,3,306,906,USC Trojans,free throw,True,False,False,JuJu Watkins,False,,,
+401637586,USC Trojans,Kansas Jayhawks,USC Deadball Team Rebound.,43,37,3,306,906,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Free Throw.,44,37,3,306,906,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kansas  Timeout,44,37,3,295,895,Kansas Jayhawks,timeout,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks, Official TV Timeout,44,37,3,295,895,,tv timeout,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin Turnover.,44,37,3,287,887,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall Steal.,44,37,3,287,887,USC Trojans,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes made Three Point Jumper.,47,37,3,277,877,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,False,,15.0,21.0
+401637586,USC Trojans,Kansas Jayhawks,Jump Ball won by Kansas,47,37,3,268,868,Kansas Jayhawks,jump ball,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter made Jumper.,47,39,3,262,862,Kansas Jayhawks,jumper,True,True,False,Holly Kersgieter,False,,29.0,7.0
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall missed Jumper.,47,39,3,242,842,USC Trojans,jumper,True,False,False,Rayah Marshall,False,,28.0,9.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Defensive Rebound.,47,39,3,242,842,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Kaitlyn Davis.,47,39,3,239,839,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Layup.,47,41,3,226,826,Kansas Jayhawks,layup,True,True,False,S'Mya Nichols,False,,28.0,1.0
+401637586,USC Trojans,Kansas Jayhawks,Foul on Kaitlyn Davis.,47,41,3,226,826,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Free Throw.,47,42,3,226,826,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall missed Jumper.,47,42,3,200,800,USC Trojans,jumper,True,False,False,Rayah Marshall,False,,27.0,6.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Defensive Rebound.,47,42,3,200,800,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Wyvette Mayberry missed Three Point Jumper.,47,42,3,188,788,Kansas Jayhawks,three point jumper,True,False,True,Wyvette Mayberry,False,,43.0,16.0
+401637586,USC Trojans,Kansas Jayhawks,Kayla Padilla Defensive Rebound.,47,42,3,188,788,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes missed Three Point Jumper.,47,42,3,179,779,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,10.0,20.0
+401637586,USC Trojans,Kansas Jayhawks,USC Offensive Rebound.,47,42,3,179,779,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kayla Padilla missed Three Point Jumper.,47,42,3,175,775,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,48.0,5.0
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes Offensive Rebound.,47,42,3,175,775,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes missed Jumper.,47,42,3,162,762,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,23.0,14.0
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter Defensive Rebound.,47,42,3,162,762,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Layup.,47,44,3,146,746,Kansas Jayhawks,layup,True,True,False,S'Mya Nichols,False,,22.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Layup.,47,44,3,130,730,USC Trojans,layup,True,False,False,JuJu Watkins,False,,29.0,1.0
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall Offensive Rebound.,47,44,3,130,730,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Rayah Marshall missed Layup.,47,44,3,125,725,USC Trojans,layup,True,False,False,Rayah Marshall,False,,25.0,4.0
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter Defensive Rebound.,47,44,3,125,725,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols missed Jumper.,47,44,3,100,700,Kansas Jayhawks,jumper,True,False,False,S'Mya Nichols,False,,28.0,8.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Offensive Rebound.,47,44,3,100,700,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on JuJu Watkins.,47,44,3,97,697,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols missed Layup.,47,44,3,83,683,Kansas Jayhawks,layup,True,False,False,S'Mya Nichols,False,,21.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Block.,47,44,3,83,683,USC Trojans,block,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kansas Offensive Rebound.,47,44,3,83,683,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Kayla Padilla.,47,44,3,82,682,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter made Free Throw.,47,45,3,82,682,Kansas Jayhawks,free throw,True,True,False,Holly Kersgieter,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter made Free Throw.,47,46,3,82,682,Kansas Jayhawks,free throw,True,True,False,Holly Kersgieter,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Jumper.,47,46,3,72,672,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,15.0,12.0
+401637586,USC Trojans,Kansas Jayhawks,USC Offensive Rebound.,47,46,3,72,672,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on S'Mya Nichols.,47,46,3,70,670,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Three Point Jumper. Assisted by Taylor Bigby.,50,46,3,65,665,USC Trojans,three point jumper,True,True,True,JuJu Watkins,True,Taylor Bigby,33.0,26.0
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols missed Jumper.,50,46,3,50,650,Kansas Jayhawks,jumper,True,False,False,S'Mya Nichols,False,,25.0,5.0
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes Defensive Rebound.,50,46,3,50,650,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Zakiyah Franklin.,50,46,3,40,640,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Free Throw.,51,46,3,40,640,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Free Throw.,52,46,3,40,640,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Ryan Cobbins Turnover.,52,46,3,35,635,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes Steal.,52,46,3,35,635,USC Trojans,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Jumper.,52,46,3,18,618,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,13.0,7.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Offensive Rebound.,52,46,3,18,618,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Danai Papadopoulou.,52,46,3,17,617,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo made Free Throw.,53,46,3,17,617,USC Trojans,free throw,True,True,False,Clarice Akunwafo,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo missed Free Throw.,53,46,3,17,617,USC Trojans,free throw,True,False,False,Clarice Akunwafo,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter Defensive Rebound.,53,46,3,17,617,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter missed Three Point Jumper.,53,46,3,2,602,Kansas Jayhawks,three point jumper,True,False,True,Holly Kersgieter,False,,8.0,23.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Defensive Rebound.,53,46,3,1,601,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,End of 3rd Quarter,53,46,3,0,600,,end,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Jump Ball won by USC,53,46,4,600,600,USC Trojans,jump ball,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kayla Padilla made Three Point Jumper. Assisted by JuJu Watkins.,56,46,4,592,592,USC Trojans,three point jumper,True,True,True,Kayla Padilla,True,JuJu Watkins,11.0,19.0
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter missed Three Point Jumper.,56,46,4,566,566,Kansas Jayhawks,three point jumper,True,False,True,Holly Kersgieter,False,,42.0,18.0
+401637586,USC Trojans,Kansas Jayhawks,Taylor Bigby Defensive Rebound.,56,46,4,566,566,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes missed Three Point Jumper.,56,46,4,551,551,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,41.0,25.0
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols Defensive Rebound.,56,46,4,551,551,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Holly Kersgieter missed Jumper.,56,46,4,534,534,Kansas Jayhawks,jumper,True,False,False,Holly Kersgieter,False,,15.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes Block.,56,46,4,534,534,USC Trojans,block,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Defensive Rebound.,56,46,4,534,534,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo missed Layup.,56,46,4,522,522,USC Trojans,layup,True,False,False,Clarice Akunwafo,False,,29.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Offensive Rebound.,56,46,4,522,522,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo missed Layup.,56,46,4,520,520,USC Trojans,layup,True,False,False,Clarice Akunwafo,False,,29.0,1.0
+401637586,USC Trojans,Kansas Jayhawks,Kansas Defensive Rebound.,56,46,4,520,520,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin missed Jumper.,56,46,4,503,503,Kansas Jayhawks,jumper,True,False,False,Zakiyah Franklin,False,,20.0,17.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Defensive Rebound.,56,46,4,503,503,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Jumper.,56,46,4,493,493,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,18.0,-1.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Offensive Rebound.,56,46,4,493,493,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo made Layup.,58,46,4,488,488,USC Trojans,layup,True,True,False,Clarice Akunwafo,False,,27.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Foul on Clarice Akunwafo.,58,46,4,464,464,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson made Layup. Assisted by Holly Kersgieter.,58,48,4,452,452,Kansas Jayhawks,layup,True,True,False,Taiyanna Jackson,True,Holly Kersgieter,28.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Jumper.,58,48,4,434,434,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,17.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Offensive Rebound.,58,48,4,434,434,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Holly Kersgieter.,58,48,4,429,429,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Turnover.,58,48,4,428,428,USC Trojans,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols Steal.,58,48,4,428,428,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Jump Ball won by Kansas,58,48,4,420,420,Kansas Jayhawks,jump ball,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Wyvette Mayberry missed Layup.,58,48,4,418,418,Kansas Jayhawks,layup,True,False,False,Wyvette Mayberry,False,,22.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes Block.,58,48,4,418,418,USC Trojans,block,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes Defensive Rebound.,58,48,4,418,418,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Ryan Cobbins.,58,48,4,415,415,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Jumper. Assisted by Kayla Padilla.,60,48,4,407,407,USC Trojans,jumper,True,True,False,JuJu Watkins,True,Kayla Padilla,25.0,9.0
+401637586,USC Trojans,Kansas Jayhawks,Ryan Cobbins missed Jumper.,60,48,4,386,386,Kansas Jayhawks,jumper,True,False,False,Ryan Cobbins,False,,28.0,4.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Block.,60,48,4,386,386,USC Trojans,block,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Defensive Rebound.,60,48,4,386,386,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kaitlyn Davis made Layup. Assisted by JuJu Watkins.,62,48,4,374,374,USC Trojans,layup,True,True,False,Kaitlyn Davis,True,JuJu Watkins,28.0,1.0
+401637586,USC Trojans,Kansas Jayhawks,Kansas  Timeout,62,48,4,372,372,Kansas Jayhawks,timeout,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks, Official TV Timeout,62,48,4,372,372,,tv timeout,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols missed Jumper.,62,48,4,355,355,Kansas Jayhawks,jumper,True,False,False,S'Mya Nichols,False,,17.0,5.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Block.,62,48,4,355,355,USC Trojans,block,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kayla Padilla Defensive Rebound.,62,48,4,355,355,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Wyvette Mayberry.,62,48,4,344,344,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Free Throw.,63,48,4,344,344,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Free Throw.,64,48,4,344,344,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin missed Jumper.,64,48,4,333,333,Kansas Jayhawks,jumper,True,False,False,Zakiyah Franklin,False,,34.0,3.0
+401637586,USC Trojans,Kansas Jayhawks,Kansas Offensive Rebound.,64,48,4,333,333,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Kayla Padilla.,64,48,4,330,330,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Jump Ball won by USC,64,48,4,328,328,USC Trojans,jump ball,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Ryan Cobbins Turnover.,64,48,4,328,328,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Steal.,64,48,4,328,328,USC Trojans,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Three Point Jumper.,64,48,4,311,311,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,6.0,16.0
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Defensive Rebound.,64,48,4,311,311,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Kaitlyn Davis.,64,48,4,290,290,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Free Throw.,64,49,4,290,290,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Free Throw.,64,50,4,290,290,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Holly Kersgieter.,64,50,4,274,274,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins missed Jumper.,64,50,4,267,267,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,21.0,12.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Offensive Rebound.,64,50,4,267,267,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo made Layup.,66,50,4,261,261,USC Trojans,layup,True,True,False,Clarice Akunwafo,False,,28.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols missed Jumper.,66,50,4,250,250,Kansas Jayhawks,jumper,True,False,False,S'Mya Nichols,False,,28.0,6.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Defensive Rebound.,66,50,4,250,250,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Turnover.,66,50,4,233,233,USC Trojans,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin Steal.,66,50,4,233,233,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin Turnover.,66,50,4,228,228,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Steal.,66,50,4,228,228,USC Trojans,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Taiyanna Jackson.,66,50,4,213,213,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes made Free Throw.,67,50,4,213,213,USC Trojans,free throw,True,True,False,McKenzie Forbes,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes made Free Throw.,68,50,4,213,213,USC Trojans,free throw,True,True,False,McKenzie Forbes,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson missed Layup.,68,50,4,198,198,Kansas Jayhawks,layup,True,False,False,Taiyanna Jackson,False,,28.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Defensive Rebound.,68,50,4,189,189,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes missed Three Point Jumper.,68,50,4,169,169,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,40.0,19.0
+401637586,USC Trojans,Kansas Jayhawks,Kayla Williams Offensive Rebound.,68,50,4,169,169,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on JuJu Watkins.,68,50,4,152,152,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Turnover.,68,50,4,152,152,USC Trojans,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on McKenzie Forbes.,68,50,4,143,143,USC Trojans,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Free Throw.,68,51,4,143,143,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols made Free Throw.,68,52,4,143,143,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Three Point Jumper. Assisted by Kayla Padilla.,71,52,4,132,132,USC Trojans,three point jumper,True,True,True,JuJu Watkins,True,Kayla Padilla,45.0,13.0
+401637586,USC Trojans,Kansas Jayhawks,Zakiyah Franklin missed Jumper.,71,52,4,114,114,Kansas Jayhawks,jumper,True,False,False,Zakiyah Franklin,False,,25.0,5.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins Defensive Rebound.,71,52,4,114,114,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Jump Ball won by Kansas,71,52,4,88,88,Kansas Jayhawks,jump ball,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,McKenzie Forbes Turnover.,71,52,4,88,88,USC Trojans,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Taiyanna Jackson Steal.,71,52,4,88,88,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols missed Jumper.,71,52,4,77,77,Kansas Jayhawks,jumper,True,False,False,S'Mya Nichols,False,,20.0,15.0
+401637586,USC Trojans,Kansas Jayhawks,Wyvette Mayberry Offensive Rebound.,71,52,4,77,77,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Wyvette Mayberry made Three Point Jumper.,71,55,4,73,73,Kansas Jayhawks,three point jumper,True,True,True,Wyvette Mayberry,False,,8.0,16.0
+401637586,USC Trojans,Kansas Jayhawks,JuJu Watkins made Jumper.,73,55,4,64,64,USC Trojans,jumper,True,True,False,JuJu Watkins,False,,17.0,5.0
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols missed Layup.,73,55,4,45,45,Kansas Jayhawks,layup,True,False,False,S'Mya Nichols,False,,28.0,0.0
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo Defensive Rebound.,73,55,4,45,45,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on S'Mya Nichols.,73,55,4,45,45,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo missed Free Throw.,73,55,4,45,45,USC Trojans,free throw,True,False,False,Clarice Akunwafo,False,,,
+401637586,USC Trojans,Kansas Jayhawks,USC Deadball Team Rebound.,73,55,4,45,45,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Clarice Akunwafo missed Free Throw.,73,55,4,45,45,USC Trojans,free throw,True,False,False,Clarice Akunwafo,False,,,
+401637586,USC Trojans,Kansas Jayhawks,USC Offensive Rebound.,73,55,4,45,45,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Foul on Taiyanna Jackson.,73,55,4,45,45,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kaitlyn Davis missed Free Throw.,73,55,4,45,45,USC Trojans,free throw,True,False,False,Kaitlyn Davis,False,,,
+401637586,USC Trojans,Kansas Jayhawks,USC Deadball Team Rebound.,73,55,4,45,45,USC Trojans,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,Kaitlyn Davis missed Free Throw.,73,55,4,45,45,USC Trojans,free throw,True,False,False,Kaitlyn Davis,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols Defensive Rebound.,73,55,4,45,45,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,S'Mya Nichols Turnover.,73,55,4,36,36,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,India Otto Steal.,73,55,4,36,36,USC Trojans,steal,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,India Otto missed Three Point Jumper.,73,55,4,14,14,USC Trojans,three point jumper,True,False,True,India Otto,False,,18.0,22.0
+401637586,USC Trojans,Kansas Jayhawks,Ryan Cobbins Defensive Rebound.,73,55,4,14,14,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637586,USC Trojans,Kansas Jayhawks,End of Game,73,55,4,0,0,,end,False,False,False,,False,,,

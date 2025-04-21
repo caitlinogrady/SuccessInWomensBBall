@@ -1,0 +1,390 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637605,UCLA Bruins,LSU Tigers,Jump Ball won by UCLA,0,0,1,600,2400,UCLA Bruins,jump ball,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic made Jumper.,2,0,1,593,2393,UCLA Bruins,jumper,True,True,False,Angela Dugalic,False,,28.0,8.0
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow missed Layup.,2,0,1,569,2369,LSU Tigers,layup,True,False,False,Aneesah Morrow,False,,26.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne Defensive Rebound.,2,0,1,569,2369,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones missed Three Point Jumper.,2,0,1,553,2353,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,2.0,7.0
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow Defensive Rebound.,2,0,1,553,2353,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese missed Jumper.,2,0,1,542,2342,LSU Tigers,jumper,True,False,False,Angel Reese,False,,10.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Defensive Rebound.,2,0,1,542,2342,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice Turnover.,2,0,1,522,2322,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson missed Layup.,2,0,1,513,2313,LSU Tigers,layup,True,False,False,Flau'jae Johnson,False,,23.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic Defensive Rebound.,2,0,1,513,2313,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts missed Layup.,2,0,1,503,2303,UCLA Bruins,layup,True,False,False,Lauren Betts,False,,24.0,3.0
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Defensive Rebound.,2,0,1,503,2303,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow Turnover.,2,0,1,495,2295,LSU Tigers,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Aneesah Morrow.,2,0,1,495,2295,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Hailey Van Lith.,2,0,1,489,2289,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Turnover.,2,0,1,483,2283,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith Steal.,2,0,1,483,2283,LSU Tigers,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Jump Ball won by LSU,2,0,1,483,2283,LSU Tigers,jump ball,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams made Jumper. Assisted by Hailey Van Lith.,2,2,1,470,2270,LSU Tigers,jumper,True,True,False,Mikaylah Williams,True,Hailey Van Lith,24.0,18.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts made Layup. Assisted by Londynn Jones.,4,2,1,451,2251,UCLA Bruins,layup,True,True,False,Lauren Betts,True,Londynn Jones,24.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Foul on Angel Reese.,4,2,1,451,2251,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts made Free Throw.,5,2,1,451,2251,UCLA Bruins,free throw,True,True,False,Lauren Betts,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese missed Jumper.,5,2,1,437,2237,LSU Tigers,jumper,True,False,False,Angel Reese,False,,15.0,6.0
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne Defensive Rebound.,5,2,1,437,2237,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez missed Three Point Jumper.,5,2,1,416,2216,UCLA Bruins,three point jumper,True,False,True,Gabriela Jaquez,False,,2.0,0.0
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams Defensive Rebound.,5,2,1,416,2216,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith missed Jumper.,5,2,1,401,2201,LSU Tigers,jumper,True,False,False,Hailey Van Lith,False,,12.0,13.0
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Offensive Rebound.,5,2,1,401,2201,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Three Point Jumper.,5,5,1,396,2196,LSU Tigers,three point jumper,True,True,True,Flau'jae Johnson,False,,3.0,10.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts made Jumper.,7,5,1,375,2175,UCLA Bruins,jumper,True,True,False,Lauren Betts,False,,26.0,5.0
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Turnover.,7,5,1,365,2165,LSU Tigers,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne Steal.,7,5,1,365,2165,UCLA Bruins,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne Turnover.,7,5,1,352,2152,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Three Point Jumper.,7,8,1,342,2142,LSU Tigers,three point jumper,True,True,True,Flau'jae Johnson,False,,46.0,9.0
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones missed Three Point Jumper.,7,8,1,326,2126,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,46.0,10.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Offensive Rebound.,7,8,1,326,2126,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts missed Jumper.,7,8,1,319,2119,UCLA Bruins,jumper,True,False,False,Lauren Betts,False,,31.0,3.0
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Defensive Rebound.,7,8,1,319,2119,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow missed Jumper.,7,8,1,306,2106,LSU Tigers,jumper,True,False,False,Aneesah Morrow,False,,9.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez Defensive Rebound.,7,8,1,306,2106,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Flau'jae Johnson.,7,8,1,293,2093,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers, Official TV Timeout,7,8,1,293,2093,,tv timeout,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones missed Three Point Jumper.,7,8,1,292,2092,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,1.0,3.0
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Defensive Rebound.,7,8,1,292,2092,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Charisma Osborne.,7,8,1,285,2085,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Free Throw.,7,9,1,285,2085,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Free Throw.,7,10,1,285,2085,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez missed Layup.,7,10,1,261,2061,UCLA Bruins,layup,True,False,False,Gabriela Jaquez,False,,22.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow Defensive Rebound.,7,10,1,261,2061,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Last-Tear Poa Turnover.,7,10,1,253,2053,LSU Tigers,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones Steal.,7,10,1,253,2053,UCLA Bruins,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones made Layup.,9,10,1,249,2049,UCLA Bruins,layup,True,True,False,Londynn Jones,False,,27.0,3.0
+401637605,UCLA Bruins,LSU Tigers,Angel Reese made Layup.,9,12,1,233,2033,LSU Tigers,layup,True,True,False,Angel Reese,False,,25.0,3.0
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones missed Three Point Jumper.,9,12,1,218,2018,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,28.0,27.0
+401637605,UCLA Bruins,LSU Tigers,LSU Defensive Rebound.,9,12,1,218,2018,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow made Layup.,9,14,1,196,1996,LSU Tigers,layup,True,True,False,Aneesah Morrow,False,,28.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez made Layup. Assisted by Angela Dugalic.,11,14,1,181,1981,UCLA Bruins,layup,True,True,False,Gabriela Jaquez,True,Angela Dugalic,26.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Last-Tear Poa missed Layup.,11,14,1,170,1970,LSU Tigers,layup,True,False,False,Last-Tear Poa,False,,23.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic Defensive Rebound.,11,14,1,170,1970,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne missed Three Point Jumper.,11,14,1,159,1959,UCLA Bruins,three point jumper,True,False,True,Charisma Osborne,False,,47.0,8.0
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Defensive Rebound.,11,14,1,159,1959,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Last-Tear Poa missed Jumper.,11,14,1,151,1951,LSU Tigers,jumper,True,False,False,Last-Tear Poa,False,,4.0,9.0
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice Defensive Rebound.,11,14,1,151,1951,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice missed Jumper.,11,14,1,142,1942,UCLA Bruins,jumper,True,False,False,Kiki Rice,False,,23.0,6.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Offensive Rebound.,11,14,1,142,1942,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic missed Three Point Jumper.,11,14,1,137,1937,UCLA Bruins,three point jumper,True,False,True,Angela Dugalic,False,,2.0,5.0
+401637605,UCLA Bruins,LSU Tigers,Last-Tear Poa Defensive Rebound.,11,14,1,137,1937,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Charisma Osborne.,11,14,1,133,1933,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith missed Jumper.,11,14,1,125,1925,LSU Tigers,jumper,True,False,False,Hailey Van Lith,False,,19.0,16.0
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice Defensive Rebound.,11,14,1,125,1925,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez made Layup. Assisted by Kiki Rice.,13,14,1,112,1912,UCLA Bruins,layup,True,True,False,Gabriela Jaquez,True,Kiki Rice,27.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Turnover.,13,14,1,102,1902,LSU Tigers,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez Steal.,13,14,1,102,1902,UCLA Bruins,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez missed Layup.,13,14,1,96,1896,UCLA Bruins,layup,True,False,False,Gabriela Jaquez,False,,26.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice Offensive Rebound.,13,14,1,96,1896,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice made Layup.,15,14,1,92,1892,UCLA Bruins,layup,True,True,False,Kiki Rice,False,,27.0,0.0
+401637605,UCLA Bruins,LSU Tigers,Foul on Kiki Rice.,15,14,1,71,1871,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith missed Free Throw.,15,14,1,71,1871,LSU Tigers,free throw,True,False,False,Hailey Van Lith,False,,,
+401637605,UCLA Bruins,LSU Tigers,LSU Deadball Team Rebound.,15,14,1,71,1871,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith made Free Throw.,15,15,1,71,1871,LSU Tigers,free throw,True,True,False,Hailey Van Lith,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lina Sontag missed Three Point Jumper.,15,15,1,61,1861,UCLA Bruins,three point jumper,True,False,True,Lina Sontag,False,,48.0,-2.0
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez Offensive Rebound.,15,15,1,61,1861,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice missed Jumper.,15,15,1,50,1850,UCLA Bruins,jumper,True,False,False,Kiki Rice,False,,15.0,17.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Offensive Rebound.,15,15,1,50,1850,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Kiki Rice.,15,15,1,41,1841,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice Turnover.,15,15,1,41,1841,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese missed Layup.,15,15,1,30,1830,LSU Tigers,layup,True,False,False,Angel Reese,False,,23.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Defensive Rebound.,15,15,1,30,1830,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones missed Jumper.,15,15,1,12,1812,UCLA Bruins,jumper,True,False,False,Londynn Jones,False,,21.0,21.0
+401637605,UCLA Bruins,LSU Tigers,LSU Defensive Rebound.,15,15,1,12,1812,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams missed Three Point Jumper.,15,15,1,2,1802,LSU Tigers,three point jumper,True,False,True,Mikaylah Williams,False,,20.0,27.0
+401637605,UCLA Bruins,LSU Tigers,UCLA Deadball Team Rebound.,15,15,1,2,1802,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,End of 1st Quarter,15,15,1,0,1800,,end,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Jump Ball won by UCLA,15,15,2,600,1800,UCLA Bruins,jump ball,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Camryn Brown Turnover.,15,15,2,575,1775,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Steal.,15,15,2,575,1775,LSU Tigers,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese made Layup.,15,17,2,572,1772,LSU Tigers,layup,True,True,False,Angel Reese,False,,24.0,4.0
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez made Three Point Jumper. Assisted by Lauren Betts.,18,17,2,550,1750,UCLA Bruins,three point jumper,True,True,True,Gabriela Jaquez,True,Lauren Betts,4.0,12.0
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow missed Layup.,18,17,2,525,1725,LSU Tigers,layup,True,False,False,Aneesah Morrow,False,,22.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Defensive Rebound.,18,17,2,525,1725,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Lina Sontag.,18,17,2,512,1712,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lina Sontag Turnover.,18,17,2,512,1712,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers, Official TV Timeout,18,17,2,512,1712,,tv timeout,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson missed Jumper.,18,17,2,500,1700,LSU Tigers,jumper,True,False,False,Flau'jae Johnson,False,,33.0,14.0
+401637605,UCLA Bruins,LSU Tigers,Aalyah Del Rosario Offensive Rebound.,18,17,2,500,1700,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Angela Dugalic.,18,17,2,494,1694,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aalyah Del Rosario made Free Throw.,18,18,2,494,1694,LSU Tigers,free throw,True,True,False,Aalyah Del Rosario,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aalyah Del Rosario made Free Throw.,18,19,2,494,1694,LSU Tigers,free throw,True,True,False,Aalyah Del Rosario,False,,,
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne Turnover.,18,19,2,491,1691,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith Steal.,18,19,2,491,1691,LSU Tigers,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese made Layup.,18,21,2,480,1680,LSU Tigers,layup,True,True,False,Angel Reese,False,,23.0,3.0
+401637605,UCLA Bruins,LSU Tigers,Foul on Aalyah Del Rosario.,18,21,2,461,1661,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts missed Free Throw.,18,21,2,461,1661,UCLA Bruins,free throw,True,False,False,Lauren Betts,False,,,
+401637605,UCLA Bruins,LSU Tigers,UCLA Deadball Team Rebound.,18,21,2,461,1661,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts missed Free Throw.,18,21,2,461,1661,UCLA Bruins,free throw,True,False,False,Lauren Betts,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez Offensive Rebound.,18,21,2,461,1661,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice missed Jumper.,18,21,2,447,1647,UCLA Bruins,jumper,True,False,False,Kiki Rice,False,,39.0,15.0
+401637605,UCLA Bruins,LSU Tigers,Aalyah Del Rosario Defensive Rebound.,18,21,2,447,1647,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams missed Layup.,18,21,2,438,1638,LSU Tigers,layup,True,False,False,Mikaylah Williams,False,,26.0,3.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Defensive Rebound.,18,21,2,438,1638,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez missed Three Point Jumper.,18,21,2,427,1627,UCLA Bruins,three point jumper,True,False,True,Gabriela Jaquez,False,,48.0,3.0
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Defensive Rebound.,18,21,2,427,1627,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Layup.,18,23,2,415,1615,LSU Tigers,layup,True,True,False,Flau'jae Johnson,False,,22.0,2.0
+401637605,UCLA Bruins,LSU Tigers,UCLA  Timeout,18,23,2,411,1611,UCLA Bruins,timeout,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice Turnover.,18,23,2,393,1593,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams made Jumper.,18,25,2,383,1583,LSU Tigers,jumper,True,True,False,Mikaylah Williams,False,,16.0,10.0
+401637605,UCLA Bruins,LSU Tigers,Foul on Mikaylah Williams.,18,25,2,351,1551,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez made Free Throw.,19,25,2,351,1551,UCLA Bruins,free throw,True,True,False,Gabriela Jaquez,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez made Free Throw.,20,25,2,351,1551,UCLA Bruins,free throw,True,True,False,Gabriela Jaquez,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams Turnover.,20,25,2,334,1534,LSU Tigers,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic missed Three Point Jumper.,20,25,2,321,1521,UCLA Bruins,three point jumper,True,False,True,Angela Dugalic,False,,23.0,25.0
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne Offensive Rebound.,20,25,2,321,1521,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones missed Three Point Jumper.,20,25,2,304,1504,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,48.0,8.0
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Defensive Rebound.,20,25,2,304,1504,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Londynn Jones.,20,25,2,296,1496,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Free Throw.,20,26,2,296,1496,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson missed Free Throw.,20,26,2,296,1496,LSU Tigers,free throw,True,False,False,Flau'jae Johnson,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Defensive Rebound.,20,26,2,296,1496,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Aalyah Del Rosario.,20,26,2,295,1495,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne Turnover.,20,26,2,275,1475,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Steal.,20,26,2,275,1475,LSU Tigers,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith missed Three Point Jumper.,20,26,2,275,1475,LSU Tigers,three point jumper,True,False,True,Hailey Van Lith,False,,44.0,16.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Defensive Rebound.,20,26,2,275,1475,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne missed Three Point Jumper.,20,26,2,275,1475,UCLA Bruins,three point jumper,True,False,True,Charisma Osborne,False,,3.0,7.0
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams Defensive Rebound.,20,26,2,275,1475,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Turnover.,20,26,2,242,1442,LSU Tigers,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice Steal.,20,26,2,242,1442,UCLA Bruins,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice made Layup.,22,26,2,236,1436,UCLA Bruins,layup,True,True,False,Kiki Rice,False,,27.0,0.0
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith missed Jumper.,22,26,2,222,1422,LSU Tigers,jumper,True,False,False,Hailey Van Lith,False,,35.0,18.0
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic Defensive Rebound.,22,26,2,221,1421,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice made Jumper.,24,26,2,211,1411,UCLA Bruins,jumper,True,True,False,Kiki Rice,False,,25.0,7.0
+401637605,UCLA Bruins,LSU Tigers,LSU  Timeout,24,26,2,211,1411,LSU Tigers,timeout,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow made Jumper.,24,28,2,202,1402,LSU Tigers,jumper,True,True,False,Aneesah Morrow,False,,25.0,9.0
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic missed Three Point Jumper.,24,28,2,185,1385,UCLA Bruins,three point jumper,True,False,True,Angela Dugalic,False,,43.0,17.0
+401637605,UCLA Bruins,LSU Tigers,LSU Defensive Rebound.,24,28,2,185,1385,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow made Layup. Assisted by Angel Reese.,24,30,2,172,1372,LSU Tigers,layup,True,True,False,Aneesah Morrow,True,Angel Reese,26.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice missed Layup.,24,30,2,143,1343,UCLA Bruins,layup,True,False,False,Kiki Rice,False,,24.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Block.,24,30,2,143,1343,LSU Tigers,block,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Defensive Rebound.,24,30,2,143,1343,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Lauren Betts.,24,30,2,131,1331,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Jumper. Assisted by Last-Tear Poa.,24,32,2,130,1330,LSU Tigers,jumper,True,True,False,Flau'jae Johnson,True,Last-Tear Poa,15.0,15.0
+401637605,UCLA Bruins,LSU Tigers,Foul on Lina Sontag.,24,32,2,111,1311,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lina Sontag Turnover.,24,32,2,111,1311,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Aneesah Morrow.,24,32,2,105,1305,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow Turnover.,24,32,2,105,1305,LSU Tigers,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice missed Three Point Jumper.,24,32,2,88,1288,UCLA Bruins,three point jumper,True,False,True,Kiki Rice,False,,17.0,24.0
+401637605,UCLA Bruins,LSU Tigers,Camryn Brown Offensive Rebound.,24,32,2,88,1288,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Camryn Brown missed Layup.,24,32,2,83,1283,UCLA Bruins,layup,True,False,False,Camryn Brown,False,,25.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Defensive Rebound.,24,32,2,83,1283,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams made Jumper.,24,34,2,65,1265,LSU Tigers,jumper,True,True,False,Mikaylah Williams,False,,33.0,10.0
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez missed Three Point Jumper.,24,34,2,48,1248,UCLA Bruins,three point jumper,True,False,True,Gabriela Jaquez,False,,26.0,25.0
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Defensive Rebound.,24,34,2,48,1248,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese missed Layup.,24,34,2,33,1233,LSU Tigers,layup,True,False,False,Angel Reese,False,,26.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Defensive Rebound.,24,34,2,33,1233,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones made Three Point Jumper. Assisted by Kiki Rice.,27,34,2,7,1207,UCLA Bruins,three point jumper,True,True,True,Londynn Jones,True,Kiki Rice,48.0,7.0
+401637605,UCLA Bruins,LSU Tigers,End of 2nd Quarter,27,34,2,0,1200,,end,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Jump Ball won by LSU,27,34,3,600,1200,LSU Tigers,jump ball,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams missed Jumper.,27,34,3,592,1192,LSU Tigers,jumper,True,False,False,Mikaylah Williams,False,,19.0,19.0
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Offensive Rebound.,27,34,3,592,1192,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith missed Jumper.,27,34,3,577,1177,LSU Tigers,jumper,True,False,False,Hailey Van Lith,False,,32.0,13.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Defensive Rebound.,27,34,3,577,1177,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones Turnover.,27,34,3,565,1165,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Steal.,27,34,3,565,1165,LSU Tigers,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson missed Jumper.,27,34,3,546,1146,LSU Tigers,jumper,True,False,False,Flau'jae Johnson,False,,43.0,-1.0
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic Defensive Rebound.,27,34,3,546,1146,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne Turnover.,27,34,3,541,1141,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Steal.,27,34,3,541,1141,LSU Tigers,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith made Jumper. Assisted by Flau'jae Johnson.,27,36,3,531,1131,LSU Tigers,jumper,True,True,False,Hailey Van Lith,True,Flau'jae Johnson,27.0,9.0
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic made Layup. Assisted by Lauren Betts.,29,36,3,511,1111,UCLA Bruins,layup,True,True,False,Angela Dugalic,True,Lauren Betts,27.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith Turnover.,29,36,3,502,1102,LSU Tigers,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic Steal.,29,36,3,502,1102,UCLA Bruins,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice made Jumper.,31,36,3,497,1097,UCLA Bruins,jumper,True,True,False,Kiki Rice,False,,27.0,4.0
+401637605,UCLA Bruins,LSU Tigers,Angel Reese missed Layup.,31,36,3,468,1068,LSU Tigers,layup,True,False,False,Angel Reese,False,,23.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Block.,31,36,3,468,1068,UCLA Bruins,block,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Offensive Rebound.,31,36,3,468,1068,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Lauren Betts.,31,36,3,464,1064,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese made Free Throw.,31,37,3,464,1064,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese made Free Throw.,31,38,3,464,1064,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice missed Three Point Jumper.,31,38,3,454,1054,UCLA Bruins,three point jumper,True,False,True,Kiki Rice,False,,26.0,26.0
+401637605,UCLA Bruins,LSU Tigers,Last-Tear Poa Defensive Rebound.,31,38,3,454,1054,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams missed Jumper.,31,38,3,444,1044,LSU Tigers,jumper,True,False,False,Mikaylah Williams,False,,33.0,13.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Defensive Rebound.,31,38,3,444,1044,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez Turnover.,31,38,3,432,1032,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams Steal.,31,38,3,432,1032,LSU Tigers,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson missed Jumper.,31,38,3,426,1026,LSU Tigers,jumper,True,False,False,Flau'jae Johnson,False,,14.0,7.0
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic Defensive Rebound.,31,38,3,426,1026,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones missed Three Point Jumper.,31,38,3,418,1018,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,28.0,27.0
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic Offensive Rebound.,31,38,3,418,1018,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic missed Layup.,31,38,3,413,1013,UCLA Bruins,layup,True,False,False,Angela Dugalic,False,,26.0,4.0
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez Offensive Rebound.,31,38,3,413,1013,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Angel Reese.,31,38,3,406,1006,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones missed Three Point Jumper.,31,38,3,401,1001,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,2.0,6.0
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones Offensive Rebound.,31,38,3,401,1001,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Angel Reese.,31,38,3,396,996,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts made Free Throw.,32,38,3,396,996,UCLA Bruins,free throw,True,True,False,Lauren Betts,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts missed Free Throw.,32,38,3,396,996,UCLA Bruins,free throw,True,False,False,Lauren Betts,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Defensive Rebound.,32,38,3,396,996,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Kiki Rice.,32,38,3,373,973,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Free Throw.,32,39,3,373,973,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Free Throw.,32,40,3,373,973,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones made Three Point Jumper. Assisted by Charisma Osborne.,35,40,3,363,963,UCLA Bruins,three point jumper,True,True,True,Londynn Jones,True,Charisma Osborne,48.0,4.0
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow made Jumper. Assisted by Mikaylah Williams.,35,42,3,343,943,LSU Tigers,jumper,True,True,False,Aneesah Morrow,True,Mikaylah Williams,17.0,4.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts made Jumper. Assisted by Kiki Rice.,37,42,3,330,930,UCLA Bruins,jumper,True,True,False,Lauren Betts,True,Kiki Rice,21.0,11.0
+401637605,UCLA Bruins,LSU Tigers,Foul on Charisma Osborne.,37,42,3,323,923,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow made Jumper. Assisted by Mikaylah Williams.,37,44,3,310,910,LSU Tigers,jumper,True,True,False,Aneesah Morrow,True,Mikaylah Williams,15.0,4.0
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones missed Three Point Jumper.,37,44,3,296,896,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,3.0,9.0
+401637605,UCLA Bruins,LSU Tigers,UCLA Offensive Rebound.,37,44,3,296,896,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers, Official TV Timeout,37,44,3,293,893,,tv timeout,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones missed Jumper.,37,44,3,287,887,UCLA Bruins,jumper,True,False,False,Londynn Jones,False,,11.0,6.0
+401637605,UCLA Bruins,LSU Tigers,Aalyah Del Rosario Block.,37,44,3,287,887,LSU Tigers,block,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Offensive Rebound.,37,44,3,287,887,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts missed Jumper.,37,44,3,283,883,UCLA Bruins,jumper,True,False,False,Lauren Betts,False,,21.0,4.0
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Block.,37,44,3,283,883,LSU Tigers,block,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Defensive Rebound.,37,44,3,283,883,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Turnover.,37,44,3,275,875,LSU Tigers,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Flau'jae Johnson.,37,44,3,275,875,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez Turnover.,37,44,3,258,858,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Aalyah Del Rosario.,37,44,3,243,843,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aalyah Del Rosario Turnover.,37,44,3,243,843,LSU Tigers,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Camryn Brown made Layup. Assisted by Lauren Betts.,39,44,3,233,833,UCLA Bruins,layup,True,True,False,Camryn Brown,True,Lauren Betts,24.0,3.0
+401637605,UCLA Bruins,LSU Tigers,Foul on Aneesah Morrow.,39,44,3,214,814,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow Turnover.,39,44,3,214,814,LSU Tigers,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones made Three Point Jumper. Assisted by Charisma Osborne.,42,44,3,200,800,UCLA Bruins,three point jumper,True,True,True,Londynn Jones,True,Charisma Osborne,28.0,28.0
+401637605,UCLA Bruins,LSU Tigers,Foul on Londynn Jones.,42,44,3,180,780,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams missed Layup.,42,44,3,171,771,LSU Tigers,layup,True,False,False,Mikaylah Williams,False,,27.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Camryn Brown Defensive Rebound.,42,44,3,171,771,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones made Three Point Jumper. Assisted by Charisma Osborne.,45,44,3,162,762,UCLA Bruins,three point jumper,True,True,True,Londynn Jones,True,Charisma Osborne,2.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Layup.,45,46,3,131,731,LSU Tigers,layup,True,True,False,Flau'jae Johnson,False,,27.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne made Three Point Jumper. Assisted by Gabriela Jaquez.,48,46,3,119,719,UCLA Bruins,three point jumper,True,True,True,Charisma Osborne,True,Gabriela Jaquez,20.0,25.0
+401637605,UCLA Bruins,LSU Tigers,Angel Reese missed Jumper.,48,46,3,96,696,LSU Tigers,jumper,True,False,False,Angel Reese,False,,17.0,7.0
+401637605,UCLA Bruins,LSU Tigers,Camryn Brown Defensive Rebound.,48,46,3,96,696,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones missed Three Point Jumper.,48,46,3,82,682,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,2.0,0.0
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Defensive Rebound.,48,46,3,82,682,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Camryn Brown.,48,46,3,67,667,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow missed Free Throw.,48,46,3,67,667,LSU Tigers,free throw,True,False,False,Aneesah Morrow,False,,,
+401637605,UCLA Bruins,LSU Tigers,LSU Deadball Team Rebound.,48,46,3,67,667,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow missed Free Throw.,48,46,3,67,667,LSU Tigers,free throw,True,False,False,Aneesah Morrow,False,,,
+401637605,UCLA Bruins,LSU Tigers,Camryn Brown Defensive Rebound.,48,46,3,67,667,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne missed Three Point Jumper.,48,46,3,53,653,UCLA Bruins,three point jumper,True,False,True,Charisma Osborne,False,,14.0,23.0
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Defensive Rebound.,48,46,3,53,653,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams missed Layup.,48,46,3,30,630,LSU Tigers,layup,True,False,False,Mikaylah Williams,False,,28.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Block.,48,46,3,30,630,UCLA Bruins,block,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,UCLA Defensive Rebound.,48,46,3,30,630,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne Turnover.,48,46,3,15,615,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Steal.,48,46,3,15,615,LSU Tigers,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Lauren Betts.,48,46,3,15,615,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese made Free Throw.,48,47,3,15,615,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese made Free Throw.,48,48,3,15,615,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic missed Three Point Jumper.,48,48,3,3,603,UCLA Bruins,three point jumper,True,False,True,Angela Dugalic,False,,15.0,23.0
+401637605,UCLA Bruins,LSU Tigers,LSU Deadball Team Rebound.,48,48,3,3,603,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,End of 3rd Quarter,48,48,3,0,600,,end,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Jump Ball won by UCLA,48,48,4,600,600,UCLA Bruins,jump ball,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice made Layup.,50,48,4,589,589,UCLA Bruins,layup,True,True,False,Kiki Rice,False,,23.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Foul on Hailey Van Lith.,50,48,4,589,589,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice made Free Throw.,51,48,4,589,589,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese made Layup. Assisted by Hailey Van Lith.,51,50,4,576,576,LSU Tigers,layup,True,True,False,Angel Reese,True,Hailey Van Lith,27.0,0.0
+401637605,UCLA Bruins,LSU Tigers,Foul on Angela Dugalic.,51,50,4,576,576,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese missed Free Throw.,51,50,4,576,576,LSU Tigers,free throw,True,False,False,Angel Reese,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Defensive Rebound.,51,50,4,576,576,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts made Jumper. Assisted by Angela Dugalic.,53,50,4,565,565,UCLA Bruins,jumper,True,True,False,Lauren Betts,True,Angela Dugalic,28.0,5.0
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow made Jumper. Assisted by Hailey Van Lith.,53,52,4,547,547,LSU Tigers,jumper,True,True,False,Aneesah Morrow,True,Hailey Van Lith,32.0,11.0
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic Turnover.,53,52,4,535,535,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow Steal.,53,52,4,535,535,LSU Tigers,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow Turnover.,53,52,4,529,529,LSU Tigers,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne Steal.,53,52,4,529,529,UCLA Bruins,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Flau'jae Johnson.,53,52,4,505,505,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Angel Reese.,53,52,4,496,496,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice made Free Throw.,54,52,4,496,496,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice made Free Throw.,55,52,4,496,496,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Christeen Iwuala.,55,52,4,492,492,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow made Free Throw.,55,53,4,492,492,LSU Tigers,free throw,True,True,False,Aneesah Morrow,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow made Free Throw.,55,54,4,492,492,LSU Tigers,free throw,True,True,False,Aneesah Morrow,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice Turnover.,55,54,4,480,480,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams Steal.,55,54,4,480,480,LSU Tigers,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith missed Layup.,55,54,4,475,475,LSU Tigers,layup,True,False,False,Hailey Van Lith,False,,22.0,0.0
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams Offensive Rebound.,55,54,4,475,475,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams made Layup.,55,56,4,470,470,LSU Tigers,layup,True,True,False,Mikaylah Williams,False,,27.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne made Three Point Jumper. Assisted by Kiki Rice.,58,56,4,445,445,UCLA Bruins,three point jumper,True,True,True,Charisma Osborne,True,Kiki Rice,2.0,-1.0
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith missed Three Point Jumper.,58,56,4,426,426,LSU Tigers,three point jumper,True,False,True,Hailey Van Lith,False,,2.0,8.0
+401637605,UCLA Bruins,LSU Tigers,Camryn Brown Defensive Rebound.,58,56,4,426,426,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne Turnover.,58,56,4,416,416,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith Steal.,58,56,4,416,416,LSU Tigers,steal,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams made Layup.,58,58,4,406,406,LSU Tigers,layup,True,True,False,Mikaylah Williams,False,,27.0,-1.0
+401637605,UCLA Bruins,LSU Tigers,LSU  Timeout,58,58,4,401,401,LSU Tigers,timeout,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts missed Jumper.,58,58,4,380,380,UCLA Bruins,jumper,True,False,False,Lauren Betts,False,,16.0,7.0
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Defensive Rebound.,58,58,4,380,380,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams made Jumper.,58,60,4,358,358,LSU Tigers,jumper,True,True,False,Mikaylah Williams,False,,18.0,17.0
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez made Layup. Assisted by Kiki Rice.,60,60,4,347,347,UCLA Bruins,layup,True,True,False,Gabriela Jaquez,True,Kiki Rice,23.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow missed Jumper.,60,60,4,328,328,LSU Tigers,jumper,True,False,False,Aneesah Morrow,False,,21.0,6.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Defensive Rebound.,60,60,4,328,328,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts missed Jumper.,60,60,4,298,298,UCLA Bruins,jumper,True,False,False,Lauren Betts,False,,28.0,7.0
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez Offensive Rebound.,60,60,4,298,298,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Last-Tear Poa.,60,60,4,297,297,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers, Official TV Timeout,60,60,4,297,297,,tv timeout,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez made Free Throw.,61,60,4,297,297,UCLA Bruins,free throw,True,True,False,Gabriela Jaquez,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez missed Free Throw.,61,60,4,297,297,UCLA Bruins,free throw,True,False,False,Gabriela Jaquez,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow Defensive Rebound.,61,60,4,297,297,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Mikaylah Williams missed Jumper.,61,60,4,282,282,LSU Tigers,jumper,True,False,False,Mikaylah Williams,False,,16.0,14.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Block.,61,60,4,282,282,UCLA Bruins,block,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Defensive Rebound.,61,60,4,282,282,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Aalyah Del Rosario.,61,60,4,257,257,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts made Free Throw.,62,60,4,257,257,UCLA Bruins,free throw,True,True,False,Lauren Betts,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts made Free Throw.,63,60,4,257,257,UCLA Bruins,free throw,True,True,False,Lauren Betts,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Lauren Betts.,63,60,4,241,241,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Layup. Assisted by Hailey Van Lith.,63,62,4,240,240,LSU Tigers,layup,True,True,False,Flau'jae Johnson,True,Hailey Van Lith,22.0,0.0
+401637605,UCLA Bruins,LSU Tigers,UCLA  Timeout,63,62,4,230,230,UCLA Bruins,timeout,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Charisma Osborne made Jumper.,65,62,4,213,213,UCLA Bruins,jumper,True,True,False,Charisma Osborne,False,,20.0,13.0
+401637605,UCLA Bruins,LSU Tigers,Angel Reese made Layup. Assisted by Aneesah Morrow.,65,64,4,194,194,LSU Tigers,layup,True,True,False,Angel Reese,True,Aneesah Morrow,23.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez made Jumper. Assisted by Charisma Osborne.,67,64,4,171,171,UCLA Bruins,jumper,True,True,False,Gabriela Jaquez,True,Charisma Osborne,26.0,9.0
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow made Layup. Assisted by Hailey Van Lith.,67,66,4,150,150,LSU Tigers,layup,True,True,False,Aneesah Morrow,True,Hailey Van Lith,28.0,0.0
+401637605,UCLA Bruins,LSU Tigers,LSU  Timeout,67,66,4,146,146,LSU Tigers,timeout,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic missed Jumper.,67,66,4,125,125,UCLA Bruins,jumper,True,False,False,Angela Dugalic,False,,17.0,4.0
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Defensive Rebound.,67,66,4,125,125,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Angela Dugalic.,67,66,4,106,106,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese made Free Throw.,67,67,4,106,106,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese made Free Throw.,67,68,4,106,106,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice missed Layup.,67,68,4,93,93,UCLA Bruins,layup,True,False,False,Kiki Rice,False,,28.0,3.0
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Block.,67,68,4,93,93,LSU Tigers,block,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Defensive Rebound.,67,68,4,93,93,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Kiki Rice.,67,68,4,93,93,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Free Throw.,67,69,4,93,93,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Free Throw.,67,70,4,93,93,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice missed Layup.,67,70,4,82,82,UCLA Bruins,layup,True,False,False,Kiki Rice,False,,24.0,3.0
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Defensive Rebound.,67,70,4,82,82,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Turnover.,67,70,4,77,77,LSU Tigers,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Gabriela Jaquez missed Layup.,67,70,4,74,74,UCLA Bruins,layup,True,False,False,Gabriela Jaquez,False,,22.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Offensive Rebound.,67,70,4,74,74,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Aneesah Morrow.,67,70,4,71,71,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts made Free Throw.,68,70,4,71,71,UCLA Bruins,free throw,True,True,False,Lauren Betts,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts missed Free Throw.,68,70,4,71,71,UCLA Bruins,free throw,True,False,False,Lauren Betts,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese Defensive Rebound.,68,70,4,71,71,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angel Reese missed Layup.,68,70,4,53,53,LSU Tigers,layup,True,False,False,Angel Reese,False,,27.0,3.0
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts Block.,68,70,4,53,53,UCLA Bruins,block,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Offensive Rebound.,68,70,4,53,53,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Layup.,68,72,4,46,46,LSU Tigers,layup,True,True,False,Flau'jae Johnson,False,,23.0,1.0
+401637605,UCLA Bruins,LSU Tigers,Foul on Kiki Rice.,68,72,4,39,39,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Kiki Rice Turnover.,68,72,4,39,39,UCLA Bruins,turnover,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,LSU  Timeout,68,72,4,39,39,LSU Tigers,timeout,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Londynn Jones.,68,72,4,36,36,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith made Free Throw.,68,73,4,36,36,LSU Tigers,free throw,True,True,False,Hailey Van Lith,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith made Free Throw.,68,74,4,36,36,LSU Tigers,free throw,True,True,False,Hailey Van Lith,False,,,
+401637605,UCLA Bruins,LSU Tigers,UCLA  Timeout,68,74,4,36,36,UCLA Bruins,timeout,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Angel Reese.,68,74,4,31,31,LSU Tigers,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts made Free Throw.,69,74,4,31,31,UCLA Bruins,free throw,True,True,False,Lauren Betts,False,,,
+401637605,UCLA Bruins,LSU Tigers,Lauren Betts missed Free Throw.,69,74,4,31,31,UCLA Bruins,free throw,True,False,False,Lauren Betts,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Defensive Rebound.,69,74,4,31,31,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Gabriela Jaquez.,69,74,4,27,27,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson made Free Throw.,69,75,4,27,27,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson missed Free Throw.,69,75,4,27,27,LSU Tigers,free throw,True,False,False,Flau'jae Johnson,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic Defensive Rebound.,69,75,4,27,27,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Londynn Jones missed Three Point Jumper.,69,75,4,19,19,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,48.0,2.0
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic Offensive Rebound.,69,75,4,19,19,UCLA Bruins,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic missed Jumper.,69,75,4,14,14,UCLA Bruins,jumper,True,False,False,Angela Dugalic,False,,19.0,0.0
+401637605,UCLA Bruins,LSU Tigers,Flau'jae Johnson Block.,69,75,4,14,14,LSU Tigers,block,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow Defensive Rebound.,69,75,4,14,14,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Londynn Jones.,69,75,4,12,12,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow missed Free Throw.,69,75,4,12,12,LSU Tigers,free throw,True,False,False,Aneesah Morrow,False,,,
+401637605,UCLA Bruins,LSU Tigers,LSU Deadball Team Rebound.,69,75,4,12,12,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Aneesah Morrow made Free Throw.,69,76,4,12,12,LSU Tigers,free throw,True,True,False,Aneesah Morrow,False,,,
+401637605,UCLA Bruins,LSU Tigers,UCLA  Timeout,69,76,4,12,12,UCLA Bruins,timeout,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic missed Three Point Jumper.,69,76,4,12,12,UCLA Bruins,three point jumper,True,False,True,Angela Dugalic,False,,2.0,0.0
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith Defensive Rebound.,69,76,4,12,12,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Foul on Lina Sontag.,69,76,4,6,6,UCLA Bruins,foul,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith made Free Throw.,69,77,4,6,6,LSU Tigers,free throw,True,True,False,Hailey Van Lith,False,,,
+401637605,UCLA Bruins,LSU Tigers,Hailey Van Lith made Free Throw.,69,78,4,6,6,LSU Tigers,free throw,True,True,False,Hailey Van Lith,False,,,
+401637605,UCLA Bruins,LSU Tigers,Angela Dugalic missed Three Point Jumper.,69,78,4,1,1,UCLA Bruins,three point jumper,True,False,True,Angela Dugalic,False,,24.0,30.0
+401637605,UCLA Bruins,LSU Tigers,LSU Deadball Team Rebound.,69,78,4,1,1,LSU Tigers,rebound,False,False,False,,False,,,
+401637605,UCLA Bruins,LSU Tigers,End of Game,69,78,4,0,0,,end,False,False,False,,False,,,

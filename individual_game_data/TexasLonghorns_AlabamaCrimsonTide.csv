@@ -1,0 +1,340 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637575,Texas Longhorns,Alabama Crimson Tide,Jump Ball won by Texas,0,0,1,600,2400,Texas Longhorns,jump ball,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker made Layup.,2,0,1,583,2383,Texas Longhorns,layup,True,True,False,Madison Booker,False,,22.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye missed Three Point Jumper.,2,0,1,568,2368,Alabama Crimson Tide,three point jumper,True,False,True,Aaliyah Nye,False,,46.0,14.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales Defensive Rebound.,2,0,1,568,2368,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker made Jumper.,4,0,1,557,2357,Texas Longhorns,jumper,True,True,False,Madison Booker,False,,23.0,18.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody missed Jumper.,4,0,1,535,2335,Alabama Crimson Tide,jumper,True,False,False,Essence Cody,False,,25.0,4.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker Defensive Rebound.,4,0,1,535,2335,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle Turnover.,4,0,1,518,2318,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye missed Jumper.,4,0,1,498,2298,Alabama Crimson Tide,jumper,True,False,False,Aaliyah Nye,False,,26.0,13.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones Defensive Rebound.,4,0,1,498,2298,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker missed Jumper.,4,0,1,475,2275,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,41.0,14.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Offensive Rebound.,4,0,1,475,2275,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore missed Jumper.,4,0,1,469,2269,Texas Longhorns,jumper,True,False,False,Aaliyah Moore,False,,22.0,2.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker Defensive Rebound.,4,0,1,469,2269,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker made Layup.,4,2,1,465,2265,Alabama Crimson Tide,layup,True,True,False,Sarah Ashlee Barker,False,,28.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Essence Cody.,4,2,1,448,2248,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore missed Free Throw.,4,2,1,448,2248,Texas Longhorns,free throw,True,False,False,Aaliyah Moore,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Texas Deadball Team Rebound.,4,2,1,448,2248,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore made Free Throw.,5,2,1,448,2248,Texas Longhorns,free throw,True,True,False,Aaliyah Moore,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,JeAnna Cunningham Turnover.,5,2,1,439,2239,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones missed Jumper.,5,2,1,419,2219,Texas Longhorns,jumper,True,False,False,Taylor Jones,False,,20.0,2.0
+401637575,Texas Longhorns,Alabama Crimson Tide,JeAnna Cunningham Block.,5,2,1,419,2219,Alabama Crimson Tide,block,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Texas Offensive Rebound.,5,2,1,419,2219,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales missed Three Point Jumper.,5,2,1,408,2208,Texas Longhorns,three point jumper,True,False,True,Shaylee Gonzales,False,,24.0,24.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama Defensive Rebound.,5,2,1,408,2208,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker Turnover.,5,2,1,395,2195,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle Steal.,5,2,1,395,2195,Texas Longhorns,steal,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Karly Weathers.,5,2,1,382,2182,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore made Free Throw.,6,2,1,382,2182,Texas Longhorns,free throw,True,True,False,Aaliyah Moore,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore missed Free Throw.,6,2,1,382,2182,Texas Longhorns,free throw,True,False,False,Aaliyah Moore,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker Defensive Rebound.,6,2,1,382,2182,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Karly Weathers made Three Point Jumper. Assisted by Aaliyah Nye.,6,5,1,372,2172,Alabama Crimson Tide,three point jumper,True,True,True,Karly Weathers,True,Aaliyah Nye,48.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker Turnover.,6,5,1,358,2158,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker Steal.,6,5,1,358,2158,Alabama Crimson Tide,steal,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye Turnover.,6,5,1,349,2149,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones Steal.,6,5,1,349,2149,Texas Longhorns,steal,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker made Layup. Assisted by Taylor Jones.,8,5,1,345,2145,Texas Longhorns,layup,True,True,False,Madison Booker,True,Taylor Jones,26.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,JeAnna Cunningham missed Jumper.,8,5,1,329,2129,Alabama Crimson Tide,jumper,True,False,False,JeAnna Cunningham,False,,21.0,12.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Defensive Rebound.,8,5,1,329,2129,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle missed Layup.,8,5,1,317,2117,Texas Longhorns,layup,True,False,False,Shay Holle,False,,23.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen Defensive Rebound.,8,5,1,317,2117,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen made Layup.,8,7,1,309,2109,Alabama Crimson Tide,layup,True,True,False,Loyal McQueen,False,,28.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide, Official TV Timeout,8,7,1,283,2083,,tv timeout,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones made Layup. Assisted by Shay Holle.,10,7,1,278,2078,Texas Longhorns,layup,True,True,False,Taylor Jones,True,Shay Holle,22.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye missed Three Point Jumper.,10,7,1,265,2065,Alabama Crimson Tide,three point jumper,True,False,True,Aaliyah Nye,False,,48.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Defensive Rebound.,10,7,1,265,2065,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle missed Jumper.,10,7,1,245,2045,Texas Longhorns,jumper,True,False,False,Shay Holle,False,,12.0,3.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Offensive Rebound.,10,7,1,245,2045,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore made Layup.,12,7,1,240,2040,Texas Longhorns,layup,True,True,False,Aaliyah Moore,False,,21.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Sarah Ashlee Barker.,12,7,1,229,2029,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker Turnover.,12,7,1,229,2029,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore made Layup. Assisted by Madison Booker.,14,7,1,206,2006,Texas Longhorns,layup,True,True,False,Aaliyah Moore,True,Madison Booker,22.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on JeAnna Cunningham.,14,7,1,191,1991,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,JeAnna Cunningham Turnover.,14,7,1,191,1991,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales missed Jumper.,14,7,1,170,1970,Texas Longhorns,jumper,True,False,False,Shaylee Gonzales,False,,21.0,18.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Offensive Rebound.,14,7,1,170,1970,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on JeAnna Cunningham.,14,7,1,163,1963,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle missed Free Throw.,14,7,1,163,1963,Texas Longhorns,free throw,True,False,False,Shay Holle,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Texas Deadball Team Rebound.,14,7,1,163,1963,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle made Free Throw.,15,7,1,163,1963,Texas Longhorns,free throw,True,True,False,Shay Holle,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody made Layup. Assisted by Karly Weathers.,15,9,1,150,1950,Alabama Crimson Tide,layup,True,True,False,Essence Cody,True,Karly Weathers,24.0,3.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker made Jumper.,17,9,1,130,1930,Texas Longhorns,jumper,True,True,False,Madison Booker,False,,22.0,8.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody Turnover.,17,9,1,108,1908,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker Steal.,17,9,1,108,1908,Texas Longhorns,steal,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston missed Layup.,17,9,1,102,1902,Texas Longhorns,layup,True,False,False,DeYona Gaston,False,,22.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Texas Offensive Rebound.,17,9,1,102,1902,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker Turnover.,17,9,1,99,1899,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye Steal.,17,9,1,99,1899,Alabama Crimson Tide,steal,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker made Layup. Assisted by Aaliyah Nye.,17,11,1,94,1894,Alabama Crimson Tide,layup,True,True,False,Sarah Ashlee Barker,True,Aaliyah Nye,23.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales missed Three Point Jumper.,17,11,1,70,1870,Texas Longhorns,three point jumper,True,False,True,Shaylee Gonzales,False,,6.0,16.0
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston Offensive Rebound.,17,11,1,70,1870,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston Turnover.,17,11,1,66,1866,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye made Three Point Jumper. Assisted by Sarah Ashlee Barker.,17,14,1,54,1854,Alabama Crimson Tide,three point jumper,True,True,True,Aaliyah Nye,True,Sarah Ashlee Barker,49.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston Turnover.,17,14,1,36,1836,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker missed Jumper.,17,14,1,26,1826,Alabama Crimson Tide,jumper,True,False,False,Sarah Ashlee Barker,False,,20.0,3.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales Defensive Rebound.,17,14,1,26,1826,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Turnover.,17,14,1,2,1802,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,End of 1st Quarter,17,14,1,0,1800,,end,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Jump Ball won by Alabama,17,14,2,600,1800,Alabama Crimson Tide,jump ball,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye Turnover.,17,14,2,584,1784,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Essence Cody.,17,14,2,573,1773,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore made Free Throw.,18,14,2,573,1773,Texas Longhorns,free throw,True,True,False,Aaliyah Moore,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore made Free Throw.,19,14,2,573,1773,Texas Longhorns,free throw,True,True,False,Aaliyah Moore,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker missed Three Point Jumper.,19,14,2,554,1754,Alabama Crimson Tide,three point jumper,True,False,True,Sarah Ashlee Barker,False,,48.0,2.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Khadija Faye Defensive Rebound.,19,14,2,554,1754,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle missed Layup.,19,14,2,535,1735,Texas Longhorns,layup,True,False,False,Shay Holle,False,,23.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Khadija Faye Offensive Rebound.,19,14,2,535,1735,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Aaliyah Nye.,19,14,2,533,1733,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Khadija Faye made Free Throw.,20,14,2,533,1733,Texas Longhorns,free throw,True,True,False,Khadija Faye,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Khadija Faye made Free Throw.,21,14,2,533,1733,Texas Longhorns,free throw,True,True,False,Khadija Faye,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Khadija Faye.,21,14,2,509,1709,Texas Longhorns,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen made Free Throw.,21,15,2,509,1709,Alabama Crimson Tide,free throw,True,True,False,Loyal McQueen,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen made Free Throw.,21,16,2,509,1709,Alabama Crimson Tide,free throw,True,True,False,Loyal McQueen,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Khadija Faye missed Layup.,21,16,2,489,1689,Texas Longhorns,layup,True,False,False,Khadija Faye,False,,21.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama Defensive Rebound.,21,16,2,489,1689,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen missed Layup.,21,16,2,479,1679,Alabama Crimson Tide,layup,True,False,False,Loyal McQueen,False,,30.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Khadija Faye Block.,21,16,2,479,1679,Texas Longhorns,block,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama Offensive Rebound.,21,16,2,479,1679,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Aaliyah Moore.,21,16,2,474,1674,Texas Longhorns,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker Turnover.,21,16,2,463,1663,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle Steal.,21,16,2,463,1663,Texas Longhorns,steal,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Khadija Faye Turnover.,21,16,2,454,1654,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye made Jumper.,21,18,2,437,1637,Alabama Crimson Tide,jumper,True,True,False,Aaliyah Nye,False,,32.0,7.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Amina Muhammad.,21,18,2,413,1613,Texas Longhorns,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Amina Muhammad Turnover.,21,18,2,413,1613,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Karly Weathers missed Layup.,21,18,2,401,1601,Alabama Crimson Tide,layup,True,False,False,Karly Weathers,False,,29.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones Block.,21,18,2,401,1601,Texas Longhorns,block,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama Offensive Rebound.,21,18,2,401,1601,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye made Jumper.,21,20,2,390,1590,Alabama Crimson Tide,jumper,True,True,False,Aaliyah Nye,False,,29.0,2.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones missed Jumper.,21,20,2,376,1576,Texas Longhorns,jumper,True,False,False,Taylor Jones,False,,29.0,4.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Amina Muhammad Offensive Rebound.,21,20,2,376,1576,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Amina Muhammad made Layup.,23,20,2,368,1568,Texas Longhorns,layup,True,True,False,Amina Muhammad,False,,22.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye missed Three Point Jumper.,23,20,2,356,1556,Alabama Crimson Tide,three point jumper,True,False,True,Aaliyah Nye,False,,14.0,22.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle Block.,23,20,2,356,1556,Texas Longhorns,block,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye Offensive Rebound.,23,20,2,356,1556,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Karly Weathers made Layup. Assisted by Aaliyah Nye.,23,22,2,349,1549,Alabama Crimson Tide,layup,True,True,False,Karly Weathers,True,Aaliyah Nye,22.0,2.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore missed Layup.,23,22,2,332,1532,Texas Longhorns,layup,True,False,False,Aaliyah Moore,False,,22.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones Offensive Rebound.,23,22,2,332,1532,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones made Jumper.,25,22,2,328,1528,Texas Longhorns,jumper,True,True,False,Taylor Jones,False,,25.0,4.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye missed Three Point Jumper.,25,22,2,318,1518,Alabama Crimson Tide,three point jumper,True,False,True,Aaliyah Nye,False,,48.0,3.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones Defensive Rebound.,25,22,2,318,1518,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker made Jumper.,27,22,2,306,1506,Texas Longhorns,jumper,True,True,False,Madison Booker,False,,26.0,16.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Meg Newman missed Layup.,27,22,2,297,1497,Alabama Crimson Tide,layup,True,False,False,Meg Newman,False,,28.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones Block.,27,22,2,297,1497,Texas Longhorns,block,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama Offensive Rebound.,27,22,2,297,1497,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide, Official TV Timeout,27,22,2,297,1497,,tv timeout,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Del'Janae Williams missed Layup.,27,22,2,290,1490,Alabama Crimson Tide,layup,True,False,False,Del'Janae Williams,False,,22.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales Block.,27,22,2,290,1490,Texas Longhorns,block,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Del'Janae Williams Offensive Rebound.,27,22,2,290,1490,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Del'Janae Williams.,27,22,2,277,1477,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Del'Janae Williams Turnover.,27,22,2,277,1477,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Turnover.,27,22,2,256,1456,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker missed Three Point Jumper.,27,22,2,244,1444,Alabama Crimson Tide,three point jumper,True,False,True,Sarah Ashlee Barker,False,,48.0,2.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker Defensive Rebound.,27,22,2,244,1444,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones missed Layup.,27,22,2,225,1425,Texas Longhorns,layup,True,False,False,Taylor Jones,False,,21.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama Defensive Rebound.,27,22,2,225,1425,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Madison Booker.,27,22,2,200,1400,Texas Longhorns,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker missed Layup.,27,22,2,190,1390,Alabama Crimson Tide,layup,True,False,False,Sarah Ashlee Barker,False,,21.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Defensive Rebound.,27,22,2,190,1390,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker made Jumper.,29,22,2,166,1366,Texas Longhorns,jumper,True,True,False,Madison Booker,False,,17.0,6.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Karly Weathers Turnover.,29,22,2,149,1349,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker Steal.,29,22,2,149,1349,Texas Longhorns,steal,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones missed Layup.,29,22,2,133,1333,Texas Longhorns,layup,True,False,False,Taylor Jones,False,,22.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker Defensive Rebound.,29,22,2,133,1333,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker made Jumper.,29,24,2,106,1306,Alabama Crimson Tide,jumper,True,True,False,Sarah Ashlee Barker,False,,39.0,8.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker missed Jumper.,29,24,2,95,1295,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,35.0,7.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Karly Weathers Defensive Rebound.,29,24,2,95,1295,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen Turnover.,29,24,2,90,1290,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales Steal.,29,24,2,90,1290,Texas Longhorns,steal,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Sarah Ashlee Barker.,29,24,2,67,1267,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Del'Janae Williams.,29,24,2,48,1248,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston made Free Throw.,30,24,2,48,1248,Texas Longhorns,free throw,True,True,False,DeYona Gaston,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston made Free Throw.,31,24,2,48,1248,Texas Longhorns,free throw,True,True,False,DeYona Gaston,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen missed Layup.,31,24,2,41,1241,Alabama Crimson Tide,layup,True,False,False,Loyal McQueen,False,,29.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston Block.,31,24,2,41,1241,Texas Longhorns,block,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama Offensive Rebound.,31,24,2,41,1241,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye missed Jumper.,31,24,2,32,1232,Alabama Crimson Tide,jumper,True,False,False,Aaliyah Nye,False,,22.0,2.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama Offensive Rebound.,31,24,2,32,1232,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye missed Jumper.,31,24,2,22,1222,Alabama Crimson Tide,jumper,True,False,False,Aaliyah Nye,False,,13.0,5.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Amina Muhammad Defensive Rebound.,31,24,2,22,1222,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,End of 2nd Quarter,31,24,2,0,1200,,end,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Jump Ball won by Texas,31,24,3,600,1200,Texas Longhorns,jump ball,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore made Layup. Assisted by Shaylee Gonzales.,33,24,3,587,1187,Texas Longhorns,layup,True,True,False,Aaliyah Moore,True,Shaylee Gonzales,24.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker missed Jumper.,33,24,3,570,1170,Alabama Crimson Tide,jumper,True,False,False,Sarah Ashlee Barker,False,,25.0,8.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones Defensive Rebound.,33,24,3,570,1170,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker missed Jumper.,33,24,3,555,1155,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,36.0,9.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker Offensive Rebound.,33,24,3,555,1155,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker made Jumper.,35,24,3,536,1136,Texas Longhorns,jumper,True,True,False,Madison Booker,False,,28.0,12.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Karly Weathers Turnover.,35,24,3,521,1121,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales Steal.,35,24,3,521,1121,Texas Longhorns,steal,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales made Layup.,37,24,3,515,1115,Texas Longhorns,layup,True,True,False,Shaylee Gonzales,False,,25.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama  Timeout,37,24,3,515,1115,Alabama Crimson Tide,timeout,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide, Official TV Timeout,37,24,3,515,1115,,tv timeout,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye missed Three Point Jumper.,37,24,3,499,1099,Alabama Crimson Tide,three point jumper,True,False,True,Aaliyah Nye,False,,4.0,15.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones Defensive Rebound.,37,24,3,499,1099,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Turnover.,37,24,3,488,1088,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody Steal.,37,24,3,488,1088,Alabama Crimson Tide,steal,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker missed Jumper.,37,24,3,482,1082,Alabama Crimson Tide,jumper,True,False,False,Sarah Ashlee Barker,False,,25.0,11.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales Defensive Rebound.,37,24,3,482,1082,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Texas  Timeout,37,24,3,473,1073,Texas Longhorns,timeout,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide, Official TV Timeout,37,24,3,473,1073,,tv timeout,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones missed Layup.,37,24,3,463,1063,Texas Longhorns,layup,True,False,False,Taylor Jones,False,,23.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle Offensive Rebound.,37,24,3,463,1063,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker made Jumper.,39,24,3,450,1050,Texas Longhorns,jumper,True,True,False,Madison Booker,False,,26.0,16.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen made Three Point Jumper. Assisted by Karly Weathers.,39,27,3,418,1018,Alabama Crimson Tide,three point jumper,True,True,True,Loyal McQueen,True,Karly Weathers,10.0,18.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle made Layup. Assisted by Taylor Jones.,41,27,3,398,998,Texas Longhorns,layup,True,True,False,Shay Holle,True,Taylor Jones,28.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye missed Layup.,41,27,3,376,976,Alabama Crimson Tide,layup,True,False,False,Aaliyah Nye,False,,28.0,3.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker Offensive Rebound.,41,27,3,376,976,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker missed Layup.,41,27,3,373,973,Alabama Crimson Tide,layup,True,False,False,Sarah Ashlee Barker,False,,28.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones Block.,41,27,3,373,973,Texas Longhorns,block,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama Offensive Rebound.,41,27,3,373,973,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker made Layup.,41,29,3,365,965,Alabama Crimson Tide,layup,True,True,False,Sarah Ashlee Barker,False,,21.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Amina Muhammad.,41,29,3,365,965,Texas Longhorns,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker made Free Throw.,41,30,3,365,965,Alabama Crimson Tide,free throw,True,True,False,Sarah Ashlee Barker,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker Turnover.,41,30,3,348,948,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Jump Ball won by Alabama,41,30,3,338,938,Alabama Crimson Tide,jump ball,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen Turnover.,41,30,3,328,928,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales Steal.,41,30,3,328,928,Texas Longhorns,steal,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales missed Layup.,41,30,3,323,923,Texas Longhorns,layup,True,False,False,Shaylee Gonzales,False,,23.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker Block.,41,30,3,323,923,Alabama Crimson Tide,block,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Texas Offensive Rebound.,41,30,3,323,923,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle missed Jumper.,41,30,3,320,920,Texas Longhorns,jumper,True,False,False,Shay Holle,False,,28.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen Defensive Rebound.,41,30,3,320,920,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker missed Three Point Jumper.,41,30,3,311,911,Alabama Crimson Tide,three point jumper,True,False,True,Sarah Ashlee Barker,False,,48.0,8.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales Defensive Rebound.,41,30,3,311,911,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker missed Jumper.,41,30,3,295,895,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,14.0,11.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Karly Weathers Defensive Rebound.,41,30,3,295,895,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody missed Layup.,41,30,3,281,881,Alabama Crimson Tide,layup,True,False,False,Essence Cody,False,,22.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones Block.,41,30,3,281,881,Texas Longhorns,block,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones Defensive Rebound.,41,30,3,281,881,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle missed Layup.,41,30,3,258,858,Texas Longhorns,layup,True,False,False,Shay Holle,False,,21.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones Offensive Rebound.,41,30,3,258,858,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Karly Weathers.,41,30,3,256,856,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones missed Free Throw.,41,30,3,256,856,Texas Longhorns,free throw,True,False,False,Taylor Jones,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Texas Deadball Team Rebound.,41,30,3,256,856,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones made Free Throw.,42,30,3,256,856,Texas Longhorns,free throw,True,True,False,Taylor Jones,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Shaylee Gonzales.,42,30,3,247,847,Texas Longhorns,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody made Free Throw.,42,31,3,247,847,Alabama Crimson Tide,free throw,True,True,False,Essence Cody,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody made Free Throw.,42,32,3,247,847,Alabama Crimson Tide,free throw,True,True,False,Essence Cody,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore made Three Point Jumper. Assisted by Madison Booker.,45,32,3,217,817,Texas Longhorns,three point jumper,True,True,True,Aaliyah Moore,True,Madison Booker,3.0,10.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker made Layup.,45,34,3,204,804,Alabama Crimson Tide,layup,True,True,False,Sarah Ashlee Barker,False,,27.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones missed Layup.,45,34,3,178,778,Texas Longhorns,layup,True,False,False,Taylor Jones,False,,21.0,2.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody Defensive Rebound.,45,34,3,178,778,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Del'Janae Williams missed Layup.,45,34,3,163,763,Alabama Crimson Tide,layup,True,False,False,Del'Janae Williams,False,,24.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Taylor Jones Defensive Rebound.,45,34,3,163,763,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Jump Ball won by Texas,45,34,3,162,762,Texas Longhorns,jump ball,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore missed Jumper.,45,34,3,139,739,Texas Longhorns,jumper,True,False,False,Aaliyah Moore,False,,22.0,7.0
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston Offensive Rebound.,45,34,3,139,739,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston missed Layup.,45,34,3,133,733,Texas Longhorns,layup,True,False,False,DeYona Gaston,False,,27.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker Defensive Rebound.,45,34,3,133,733,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Shaylee Gonzales.,45,34,3,130,730,Texas Longhorns,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker missed Free Throw.,45,34,3,130,730,Alabama Crimson Tide,free throw,True,False,False,Sarah Ashlee Barker,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama Deadball Team Rebound.,45,34,3,130,730,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker made Free Throw.,45,35,3,130,730,Alabama Crimson Tide,free throw,True,True,False,Sarah Ashlee Barker,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Sarah Ashlee Barker.,45,35,3,111,711,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker missed Free Throw.,45,35,3,111,711,Texas Longhorns,free throw,True,False,False,Madison Booker,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Texas Deadball Team Rebound.,45,35,3,111,711,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker made Free Throw.,46,35,3,111,711,Texas Longhorns,free throw,True,True,False,Madison Booker,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody missed Jumper.,46,35,3,100,700,Alabama Crimson Tide,jumper,True,False,False,Essence Cody,False,,24.0,2.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle Defensive Rebound.,46,35,3,100,700,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston missed Layup.,46,35,3,89,689,Texas Longhorns,layup,True,False,False,DeYona Gaston,False,,22.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston Offensive Rebound.,46,35,3,89,689,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston made Layup.,48,35,3,86,686,Texas Longhorns,layup,True,True,False,DeYona Gaston,False,,22.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye made Three Point Jumper. Assisted by Loyal McQueen.,48,38,3,65,665,Alabama Crimson Tide,three point jumper,True,True,True,Aaliyah Nye,True,Loyal McQueen,3.0,8.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker missed Jumper.,48,38,3,45,645,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,16.0,12.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye Defensive Rebound.,48,38,3,45,645,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Karly Weathers missed Layup.,48,38,3,18,618,Alabama Crimson Tide,layup,True,False,False,Karly Weathers,False,,27.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston Defensive Rebound.,48,38,3,18,618,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker missed Three Point Jumper.,48,38,3,5,605,Texas Longhorns,three point jumper,True,False,True,Madison Booker,False,,48.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker Defensive Rebound.,48,38,3,5,605,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,End of 3rd Quarter,48,38,3,0,600,,end,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Jump Ball won by Alabama,48,38,4,600,600,Alabama Crimson Tide,jump ball,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye made Jumper.,48,40,4,587,587,Alabama Crimson Tide,jumper,True,True,False,Aaliyah Nye,False,,15.0,3.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker Turnover.,48,40,4,573,573,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Del'Janae Williams Steal.,48,40,4,573,573,Alabama Crimson Tide,steal,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Del'Janae Williams missed Layup.,48,40,4,566,566,Alabama Crimson Tide,layup,True,False,False,Del'Janae Williams,False,,26.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Block.,48,40,4,566,566,Texas Longhorns,block,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker Defensive Rebound.,48,40,4,566,566,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Aaliyah Nye.,48,40,4,564,564,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Essence Cody.,48,40,4,551,551,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore made Free Throw.,49,40,4,551,551,Texas Longhorns,free throw,True,True,False,Aaliyah Moore,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore made Free Throw.,50,40,4,551,551,Texas Longhorns,free throw,True,True,False,Aaliyah Moore,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye missed Three Point Jumper.,50,40,4,529,529,Alabama Crimson Tide,three point jumper,True,False,True,Aaliyah Nye,False,,34.0,24.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Defensive Rebound.,50,40,4,529,529,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston missed Layup.,50,40,4,511,511,Texas Longhorns,layup,True,False,False,DeYona Gaston,False,,23.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody Defensive Rebound.,50,40,4,511,511,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen Turnover.,50,40,4,507,507,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore missed Jumper.,50,40,4,487,487,Texas Longhorns,jumper,True,False,False,Aaliyah Moore,False,,15.0,13.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye Defensive Rebound.,50,40,4,487,487,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye missed Jumper.,50,40,4,475,475,Alabama Crimson Tide,jumper,True,False,False,Aaliyah Nye,False,,11.0,5.0
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston Defensive Rebound.,50,40,4,475,475,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Essence Cody.,50,40,4,458,458,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide, Official TV Timeout,50,40,4,458,458,,tv timeout,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama  Timeout,50,40,4,458,458,Alabama Crimson Tide,timeout,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore missed Jumper.,50,40,4,456,456,Texas Longhorns,jumper,True,False,False,Aaliyah Moore,False,,12.0,4.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker Offensive Rebound.,50,40,4,456,456,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston made Jumper. Assisted by Shaylee Gonzales.,52,40,4,437,437,Texas Longhorns,jumper,True,True,False,DeYona Gaston,True,Shaylee Gonzales,23.0,3.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Aaliyah Nye.,52,40,4,437,437,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston made Free Throw.,53,40,4,437,437,Texas Longhorns,free throw,True,True,False,DeYona Gaston,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody missed Jumper.,53,40,4,417,417,Alabama Crimson Tide,jumper,True,False,False,Essence Cody,False,,26.0,3.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Block.,53,40,4,417,417,Texas Longhorns,block,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston Defensive Rebound.,53,40,4,417,417,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shay Holle missed Three Point Jumper.,53,40,4,395,395,Texas Longhorns,three point jumper,True,False,True,Shay Holle,False,,48.0,3.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Offensive Rebound.,53,40,4,395,395,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore made Layup.,55,40,4,390,390,Texas Longhorns,layup,True,True,False,Aaliyah Moore,False,,23.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen missed Layup.,55,40,4,384,384,Alabama Crimson Tide,layup,True,False,False,Loyal McQueen,False,,27.0,2.0
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston Block.,55,40,4,384,384,Texas Longhorns,block,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama Offensive Rebound.,55,40,4,384,384,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker made Layup.,55,42,4,380,380,Alabama Crimson Tide,layup,True,True,False,Sarah Ashlee Barker,False,,24.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston missed Jumper.,55,42,4,361,361,Texas Longhorns,jumper,True,False,False,DeYona Gaston,False,,27.0,10.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody Defensive Rebound.,55,42,4,361,361,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker made Three Point Jumper. Assisted by Karly Weathers.,55,45,4,334,334,Alabama Crimson Tide,three point jumper,True,True,True,Sarah Ashlee Barker,True,Karly Weathers,2.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston made Layup. Assisted by Aaliyah Moore.,57,45,4,310,310,Texas Longhorns,layup,True,True,False,DeYona Gaston,True,Aaliyah Moore,24.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Karly Weathers missed Three Point Jumper.,57,45,4,291,291,Alabama Crimson Tide,three point jumper,True,False,True,Karly Weathers,False,,45.0,13.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker Defensive Rebound.,57,45,4,291,291,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker made Jumper.,59,45,4,280,280,Texas Longhorns,jumper,True,True,False,Madison Booker,False,,21.0,3.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama  Timeout,59,45,4,279,279,Alabama Crimson Tide,timeout,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye made Jumper.,59,47,4,265,265,Alabama Crimson Tide,jumper,True,True,False,Aaliyah Nye,False,,39.0,6.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore made Layup.,61,47,4,252,252,Texas Longhorns,layup,True,True,False,Aaliyah Moore,False,,24.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker missed Three Point Jumper.,61,47,4,245,245,Alabama Crimson Tide,three point jumper,True,False,True,Sarah Ashlee Barker,False,,38.0,21.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Karly Weathers Offensive Rebound.,61,47,4,245,245,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody made Layup.,61,49,4,228,228,Alabama Crimson Tide,layup,True,True,False,Essence Cody,False,,28.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Shaylee Gonzales.,61,49,4,216,216,Texas Longhorns,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales Turnover.,61,49,4,216,216,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen made Layup. Assisted by Aaliyah Nye.,61,51,4,200,200,Alabama Crimson Tide,layup,True,True,False,Loyal McQueen,True,Aaliyah Nye,27.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Amina Muhammad missed Layup.,61,51,4,173,173,Texas Longhorns,layup,True,False,False,Amina Muhammad,False,,22.0,2.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody Defensive Rebound.,61,51,4,173,173,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Alabama  Timeout,61,51,4,156,156,Alabama Crimson Tide,timeout,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen Turnover.,61,51,4,154,154,Alabama Crimson Tide,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Steal.,61,51,4,154,154,Texas Longhorns,steal,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore missed Layup.,61,51,4,149,149,Texas Longhorns,layup,True,False,False,Aaliyah Moore,False,,27.0,2.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye Defensive Rebound.,61,51,4,149,149,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker missed Layup.,61,51,4,137,137,Alabama Crimson Tide,layup,True,False,False,Sarah Ashlee Barker,False,,28.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody Offensive Rebound.,61,51,4,137,137,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody missed Layup.,61,51,4,134,134,Alabama Crimson Tide,layup,True,False,False,Essence Cody,False,,22.0,1.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Karly Weathers Offensive Rebound.,61,51,4,134,134,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Madison Booker.,61,51,4,131,131,Texas Longhorns,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker missed Jumper.,61,51,4,129,129,Alabama Crimson Tide,jumper,True,False,False,Sarah Ashlee Barker,False,,36.0,7.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Defensive Rebound.,61,51,4,129,129,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker missed Jumper.,61,51,4,105,105,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,13.0,8.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore Offensive Rebound.,61,51,4,105,105,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Moore made Jumper.,63,51,4,99,99,Texas Longhorns,jumper,True,True,False,Aaliyah Moore,False,,25.0,3.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Shaylee Gonzales.,63,51,4,96,96,Texas Longhorns,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen made Free Throw.,63,52,4,96,96,Alabama Crimson Tide,free throw,True,True,False,Loyal McQueen,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen missed Free Throw.,63,52,4,96,96,Alabama Crimson Tide,free throw,True,False,False,Loyal McQueen,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,DeYona Gaston Defensive Rebound.,63,52,4,96,96,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Aaliyah Nye.,63,52,4,87,87,Alabama Crimson Tide,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker made Free Throw.,64,52,4,87,87,Texas Longhorns,free throw,True,True,False,Madison Booker,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Madison Booker made Free Throw.,65,52,4,87,87,Texas Longhorns,free throw,True,True,False,Madison Booker,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Aaliyah Nye missed Three Point Jumper.,65,52,4,75,75,Alabama Crimson Tide,three point jumper,True,False,True,Aaliyah Nye,False,,43.0,20.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Karly Weathers Offensive Rebound.,65,52,4,75,75,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Foul on Aaliyah Moore.,65,52,4,74,74,Texas Longhorns,foul,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Sarah Ashlee Barker missed Layup.,65,52,4,67,67,Alabama Crimson Tide,layup,True,False,False,Sarah Ashlee Barker,False,,23.0,2.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Shaylee Gonzales Defensive Rebound.,65,52,4,67,67,Texas Longhorns,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Texas  Turnover.,65,52,4,36,36,Texas Longhorns,turnover,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Karly Weathers missed Three Point Jumper.,65,52,4,25,25,Alabama Crimson Tide,three point jumper,True,False,True,Karly Weathers,False,,19.0,25.0
+401637575,Texas Longhorns,Alabama Crimson Tide,Essence Cody Offensive Rebound.,65,52,4,25,25,Alabama Crimson Tide,rebound,False,False,False,,False,,,
+401637575,Texas Longhorns,Alabama Crimson Tide,Loyal McQueen made Layup.,65,54,4,18,18,Alabama Crimson Tide,layup,True,True,False,Loyal McQueen,False,,22.0,0.0
+401637575,Texas Longhorns,Alabama Crimson Tide,End of Game,65,54,4,0,0,,end,False,False,False,,False,,,

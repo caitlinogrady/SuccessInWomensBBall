@@ -1,0 +1,375 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637576,Stanford Cardinal,Iowa State Cyclones,Jump Ball won by Stanford,0,0,1,600,2400,Stanford Cardinal,jump ball,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jump Ball won by Stanford,0,0,1,599,2399,Stanford Cardinal,jump ball,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Jumper. Assisted by Elena Bosgana.,2,0,1,584,2384,Stanford Cardinal,jumper,True,True,False,Kiki Iriafen,True,Elena Bosgana,41.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Jumper.,2,0,1,568,2368,Iowa State Cyclones,jumper,True,False,False,Audi Crooks,False,,20.0,7.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Defensive Rebound.,2,0,1,568,2368,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Jumper.,2,0,1,557,2357,Stanford Cardinal,jumper,True,False,False,Kiki Iriafen,False,,25.0,15.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Stanford Offensive Rebound.,2,0,1,557,2357,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Talana Lepolo missed Three Point Jumper.,2,0,1,549,2349,Stanford Cardinal,three point jumper,True,False,True,Talana Lepolo,False,,48.0,10.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks Defensive Rebound.,2,0,1,549,2349,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Turnover.,2,0,1,528,2328,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump missed Three Point Jumper.,2,0,1,518,2318,Stanford Cardinal,three point jumper,True,False,True,Hannah Jump,False,,48.0,10.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown Defensive Rebound.,2,0,1,518,2318,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown Turnover.,2,0,1,495,2295,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Jumper. Assisted by Talana Lepolo.,4,0,1,486,2286,Stanford Cardinal,jumper,True,True,False,Kiki Iriafen,True,Talana Lepolo,37.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks Turnover.,4,0,1,467,2267,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Steal.,4,0,1,467,2267,Stanford Cardinal,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Turnover.,4,0,1,460,2260,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Belanger made Three Point Jumper.,4,3,1,449,2249,Iowa State Cyclones,three point jumper,True,True,True,Hannah Belanger,False,,21.0,24.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Audi Crooks.,4,3,1,422,2222,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Free Throw.,5,3,1,422,2222,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Free Throw.,6,3,1,422,2222,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Three Point Jumper. Assisted by Isnelle Natabou.,6,6,1,415,2215,Iowa State Cyclones,three point jumper,True,True,True,Emily Ryan,True,Isnelle Natabou,11.0,21.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Elena Bosgana missed Three Point Jumper.,6,6,1,386,2186,Stanford Cardinal,three point jumper,True,False,True,Elena Bosgana,False,,38.0,22.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Offensive Rebound.,6,6,1,386,2186,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Two Point Tip Shot.,8,6,1,386,2186,Stanford Cardinal,two point tip shot,True,True,False,Kiki Iriafen,False,,25.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown Turnover.,8,6,1,361,2161,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Nyamer Diew.,8,6,1,361,2161,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink made Layup. Assisted by Kiki Iriafen.,10,6,1,348,2148,Stanford Cardinal,layup,True,True,False,Cameron Brink,True,Kiki Iriafen,28.0,0.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Belanger made Jumper.,10,8,1,335,2135,Iowa State Cyclones,jumper,True,True,False,Hannah Belanger,False,,36.0,19.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump missed Three Point Jumper.,10,8,1,324,2124,Stanford Cardinal,three point jumper,True,False,True,Hannah Jump,False,,6.0,14.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Block.,10,8,1,324,2124,Iowa State Cyclones,block,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Nyamer Diew Defensive Rebound.,10,8,1,324,2124,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Nyamer Diew missed Three Point Jumper.,10,8,1,324,2124,Iowa State Cyclones,three point jumper,True,False,True,Nyamer Diew,False,,8.0,18.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Stanford Defensive Rebound.,10,8,1,324,2124,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Cameron Brink.,10,8,1,299,2099,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Turnover.,10,8,1,299,2099,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Nyamer Diew missed Three Point Jumper.,10,8,1,295,2095,Iowa State Cyclones,three point jumper,True,False,True,Nyamer Diew,False,,44.0,15.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Defensive Rebound.,10,8,1,295,2095,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Talana Lepolo.,10,8,1,274,2074,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Talana Lepolo Turnover.,10,8,1,274,2074,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones, Official TV Timeout,10,8,1,272,2072,,tv timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Jumper.,10,8,1,261,2061,Iowa State Cyclones,jumper,True,False,False,Audi Crooks,False,,23.0,5.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Defensive Rebound.,10,8,1,261,2061,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Layup.,10,8,1,235,2035,Stanford Cardinal,layup,True,False,False,Kiki Iriafen,False,,28.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks Defensive Rebound.,10,8,1,235,2035,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Belanger missed Jumper.,10,8,1,228,2028,Iowa State Cyclones,jumper,True,False,False,Hannah Belanger,False,,15.0,10.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Elena Bosgana Defensive Rebound.,10,8,1,228,2028,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Jumper. Assisted by Talana Lepolo.,12,8,1,215,2015,Stanford Cardinal,jumper,True,True,False,Kiki Iriafen,True,Talana Lepolo,10.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Brooke Demetre.,12,8,1,199,1999,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Jumper.,12,8,1,183,1983,Iowa State Cyclones,jumper,True,False,False,Audi Crooks,False,,20.0,4.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown Offensive Rebound.,12,8,1,183,1983,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Brooke Demetre.,12,8,1,178,1978,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Turnover.,12,8,1,168,1968,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Elena Bosgana Steal.,12,8,1,168,1968,Stanford Cardinal,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Jalynn Bristow.,12,8,1,162,1962,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Elena Bosgana made Free Throw.,13,8,1,162,1962,Stanford Cardinal,free throw,True,True,False,Elena Bosgana,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Elena Bosgana missed Free Throw.,13,8,1,162,1962,Stanford Cardinal,free throw,True,False,False,Elena Bosgana,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks Defensive Rebound.,13,8,1,162,1962,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Kiki Iriafen.,13,8,1,147,1947,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Free Throw.,13,8,1,147,1947,Iowa State Cyclones,free throw,True,False,False,Audi Crooks,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State Deadball Team Rebound.,13,8,1,147,1947,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks made Free Throw.,13,9,1,147,1947,Iowa State Cyclones,free throw,True,True,False,Audi Crooks,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink missed Jumper.,13,9,1,135,1935,Stanford Cardinal,jumper,True,False,False,Cameron Brink,False,,8.0,-2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Defensive Rebound.,13,9,1,135,1935,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks made Layup.,13,11,1,124,1924,Iowa State Cyclones,layup,True,True,False,Audi Crooks,False,,26.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink missed Jumper.,13,11,1,106,1906,Stanford Cardinal,jumper,True,False,False,Cameron Brink,False,,19.0,15.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow Defensive Rebound.,13,11,1,106,1906,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown made Three Point Jumper. Assisted by Emily Ryan.,13,14,1,97,1897,Iowa State Cyclones,three point jumper,True,True,True,Addy Brown,True,Emily Ryan,14.0,23.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink missed Jumper.,13,14,1,80,1880,Stanford Cardinal,jumper,True,False,False,Cameron Brink,False,,20.0,6.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown Defensive Rebound.,13,14,1,80,1880,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Three Point Jumper.,13,17,1,71,1871,Iowa State Cyclones,three point jumper,True,True,True,Emily Ryan,False,,14.0,22.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Elena Bosgana Turnover.,13,17,1,56,1856,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown made Three Point Jumper.,13,20,1,51,1851,Iowa State Cyclones,three point jumper,True,True,True,Addy Brown,False,,13.0,23.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Stanford  Timeout,13,20,1,47,1847,Stanford Cardinal,timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Nunu Agara made Layup.,15,20,1,34,1834,Stanford Cardinal,layup,True,True,False,Nunu Agara,False,,21.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Jalynn Bristow.,15,20,1,34,1834,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Nunu Agara made Free Throw.,16,20,1,34,1834,Stanford Cardinal,free throw,True,True,False,Nunu Agara,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Three Point Jumper. Assisted by Addy Brown.,16,23,1,6,1806,Iowa State Cyclones,three point jumper,True,True,True,Emily Ryan,True,Addy Brown,38.0,21.0
+401637576,Stanford Cardinal,Iowa State Cyclones,End of 1st Quarter,16,23,1,0,1800,,end,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jump Ball won by Iowa State,16,23,2,600,1800,Iowa State Cyclones,jump ball,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Layup.,16,23,2,588,1788,Iowa State Cyclones,layup,True,False,False,Audi Crooks,False,,22.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Defensive Rebound.,16,23,2,588,1788,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump Turnover.,16,23,2,566,1766,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Belanger Steal.,16,23,2,566,1766,Iowa State Cyclones,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown Turnover.,16,23,2,556,1756,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Addy Brown.,16,23,2,543,1743,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Layup.,16,23,2,536,1736,Stanford Cardinal,layup,True,False,False,Kiki Iriafen,False,,27.0,4.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Offensive Rebound.,16,23,2,536,1736,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Layup. Assisted by Talana Lepolo.,18,23,2,530,1730,Stanford Cardinal,layup,True,True,False,Kiki Iriafen,True,Talana Lepolo,27.0,3.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Jumper.,18,23,2,510,1710,Iowa State Cyclones,jumper,True,False,False,Audi Crooks,False,,22.0,4.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Block.,18,23,2,510,1710,Stanford Cardinal,block,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Stanford Defensive Rebound.,18,23,2,510,1710,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Addy Brown.,18,23,2,491,1691,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Jumper.,18,23,2,487,1687,Stanford Cardinal,jumper,True,False,False,Kiki Iriafen,False,,36.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Offensive Rebound.,18,23,2,487,1687,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink missed Two Point Tip Shot.,18,23,2,487,1687,Stanford Cardinal,two point tip shot,True,False,False,Cameron Brink,False,,25.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Nyamer Diew Defensive Rebound.,18,23,2,487,1687,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jump Ball won by Stanford,18,23,2,456,1656,Stanford Cardinal,jump ball,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Block.,18,23,2,456,1656,Stanford Cardinal,block,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Layup.,18,23,2,456,1656,Iowa State Cyclones,layup,True,False,False,Audi Crooks,False,,23.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks Offensive Rebound.,18,23,2,456,1656,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks Turnover.,18,23,2,455,1655,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Steal.,18,23,2,455,1655,Stanford Cardinal,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Jumper.,18,23,2,446,1646,Stanford Cardinal,jumper,True,False,False,Kiki Iriafen,False,,11.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State Defensive Rebound.,18,23,2,446,1646,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Layup.,18,23,2,415,1615,Iowa State Cyclones,layup,True,False,False,Audi Crooks,False,,28.0,0.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Defensive Rebound.,18,23,2,415,1615,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Layup.,20,23,2,400,1600,Stanford Cardinal,layup,True,True,False,Kiki Iriafen,False,,21.0,0.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan missed Jumper.,20,23,2,375,1575,Iowa State Cyclones,jumper,True,False,False,Emily Ryan,False,,20.0,3.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State Offensive Rebound.,20,23,2,373,1573,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Belanger missed Jumper.,20,23,2,372,1572,Iowa State Cyclones,jumper,True,False,False,Hannah Belanger,False,,38.0,13.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump Block.,20,23,2,372,1572,Stanford Cardinal,block,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Defensive Rebound.,20,23,2,372,1572,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump missed Three Point Jumper.,20,23,2,361,1561,Stanford Cardinal,three point jumper,True,False,True,Hannah Jump,False,,5.0,16.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Courtney Ogden Offensive Rebound.,20,23,2,361,1561,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Nyamer Diew.,20,23,2,356,1556,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Layup.,20,23,2,354,1554,Stanford Cardinal,layup,True,False,False,Kiki Iriafen,False,,22.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State Defensive Rebound.,20,23,2,354,1554,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan missed Three Point Jumper.,20,23,2,344,1544,Iowa State Cyclones,three point jumper,True,False,True,Emily Ryan,False,,38.0,21.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Stanford Defensive Rebound.,20,23,2,344,1544,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump made Three Point Jumper. Assisted by Kiki Iriafen.,23,23,2,324,1524,Stanford Cardinal,three point jumper,True,True,True,Hannah Jump,True,Kiki Iriafen,35.0,24.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Belanger made Jumper.,23,25,2,305,1505,Iowa State Cyclones,jumper,True,True,False,Hannah Belanger,False,,25.0,18.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Isnelle Natabou.,23,25,2,296,1496,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones, Official TV Timeout,23,25,2,294,1494,,tv timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Layup.,23,25,2,283,1483,Stanford Cardinal,layup,True,False,False,Kiki Iriafen,False,,22.0,-1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow Block.,23,25,2,283,1483,Iowa State Cyclones,block,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow Defensive Rebound.,23,25,2,283,1483,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Cameron Brink.,23,25,2,281,1481,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Layup.,23,25,2,273,1473,Iowa State Cyclones,layup,True,False,False,Audi Crooks,False,,21.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Courtney Ogden Defensive Rebound.,23,25,2,273,1473,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jzaniya Harriel missed Three Point Jumper.,23,25,2,263,1463,Stanford Cardinal,three point jumper,True,False,True,Jzaniya Harriel,False,,10.0,18.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Defensive Rebound.,23,25,2,263,1463,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown Turnover.,23,25,2,242,1442,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jzaniya Harriel Steal.,23,25,2,242,1442,Stanford Cardinal,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jzaniya Harriel made Three Point Jumper. Assisted by Kiki Iriafen.,26,25,2,232,1432,Stanford Cardinal,three point jumper,True,True,True,Jzaniya Harriel,True,Kiki Iriafen,6.0,17.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Jzaniya Harriel.,26,25,2,216,1416,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan missed Jumper.,26,25,2,194,1394,Iowa State Cyclones,jumper,True,False,False,Emily Ryan,False,,29.0,6.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks Offensive Rebound.,26,25,2,194,1394,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks made Two Point Tip Shot.,26,27,2,194,1394,Iowa State Cyclones,two point tip shot,True,True,False,Audi Crooks,False,,25.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Jzaniya Harriel missed Three Point Jumper.,26,27,2,179,1379,Stanford Cardinal,three point jumper,True,False,True,Jzaniya Harriel,False,,48.0,11.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Defensive Rebound.,26,27,2,179,1379,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jump Ball won by Iowa State,26,27,2,175,1375,Iowa State Cyclones,jump ball,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown missed Jumper.,26,27,2,161,1361,Iowa State Cyclones,jumper,True,False,False,Addy Brown,False,,14.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Defensive Rebound.,26,27,2,161,1361,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Courtney Ogden missed Three Point Jumper.,26,27,2,150,1350,Stanford Cardinal,three point jumper,True,False,True,Courtney Ogden,False,,21.0,24.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kelsey Joens Defensive Rebound.,26,27,2,150,1350,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kelsey Joens Turnover.,26,27,2,123,1323,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Nunu Agara Steal.,26,27,2,123,1323,Stanford Cardinal,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Jumper. Assisted by Courtney Ogden.,28,27,2,111,1311,Stanford Cardinal,jumper,True,True,False,Kiki Iriafen,True,Courtney Ogden,25.0,16.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Layup.,28,29,2,89,1289,Iowa State Cyclones,layup,True,True,False,Emily Ryan,False,,21.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Layup.,28,29,2,75,1275,Stanford Cardinal,layup,True,False,False,Kiki Iriafen,False,,22.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Offensive Rebound.,28,29,2,75,1275,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump made Three Point Jumper. Assisted by Jzaniya Harriel.,31,29,2,70,1270,Stanford Cardinal,three point jumper,True,True,True,Hannah Jump,True,Jzaniya Harriel,46.0,16.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Layup.,31,31,2,52,1252,Iowa State Cyclones,layup,True,True,False,Emily Ryan,False,,27.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Jumper.,31,31,2,34,1234,Stanford Cardinal,jumper,True,False,False,Kiki Iriafen,False,,31.0,14.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State Defensive Rebound.,31,31,2,34,1234,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Three Point Jumper.,31,31,2,5,1205,Iowa State Cyclones,three point jumper,True,False,True,Audi Crooks,False,,35.0,22.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Offensive Rebound.,31,31,2,5,1205,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Jzaniya Harriel.,31,31,2,1,1201,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Free Throw.,31,32,2,1,1201,Iowa State Cyclones,free throw,True,True,False,Emily Ryan,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Free Throw.,31,33,2,1,1201,Iowa State Cyclones,free throw,True,True,False,Emily Ryan,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,End of 2nd Quarter,31,33,2,0,1200,,end,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jump Ball won by Stanford,31,33,3,600,1200,Stanford Cardinal,jump ball,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump missed Three Point Jumper.,31,33,3,589,1189,Stanford Cardinal,three point jumper,True,False,True,Hannah Jump,False,,1.0,4.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State Defensive Rebound.,31,33,3,589,1189,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Kiki Iriafen.,31,33,3,572,1172,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks made Free Throw.,31,34,3,572,1172,Iowa State Cyclones,free throw,True,True,False,Audi Crooks,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Free Throw.,31,34,3,572,1172,Iowa State Cyclones,free throw,True,False,False,Audi Crooks,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Defensive Rebound.,31,34,3,572,1172,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Layup.,33,34,3,549,1149,Stanford Cardinal,layup,True,True,False,Kiki Iriafen,False,,28.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Arianna Jackson made Three Point Jumper. Assisted by Hannah Belanger.,33,37,3,529,1129,Iowa State Cyclones,three point jumper,True,True,True,Arianna Jackson,True,Hannah Belanger,8.0,18.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Audi Crooks.,33,37,3,519,1119,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Talana Lepolo made Three Point Jumper. Assisted by Hannah Jump.,36,37,3,509,1109,Stanford Cardinal,three point jumper,True,True,True,Talana Lepolo,True,Hannah Jump,44.0,14.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Layup.,36,39,3,492,1092,Iowa State Cyclones,layup,True,True,False,Emily Ryan,False,,21.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Layup. Assisted by Elena Bosgana.,38,39,3,483,1083,Stanford Cardinal,layup,True,True,False,Kiki Iriafen,True,Elena Bosgana,29.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Jumper.,38,39,3,470,1070,Iowa State Cyclones,jumper,True,False,False,Audi Crooks,False,,24.0,6.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Block.,38,39,3,470,1070,Stanford Cardinal,block,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Defensive Rebound.,38,39,3,470,1070,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Talana Lepolo missed Layup.,38,39,3,462,1062,Stanford Cardinal,layup,True,False,False,Talana Lepolo,False,,29.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown Defensive Rebound.,38,39,3,462,1062,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown missed Three Point Jumper.,38,39,3,450,1050,Iowa State Cyclones,three point jumper,True,False,True,Addy Brown,False,,9.0,17.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Defensive Rebound.,38,39,3,450,1050,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Elena Bosgana.,38,39,3,439,1039,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Elena Bosgana Turnover.,38,39,3,439,1039,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Isnelle Natabou missed Layup.,38,39,3,431,1031,Iowa State Cyclones,layup,True,False,False,Isnelle Natabou,False,,27.0,3.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Block.,38,39,3,431,1031,Stanford Cardinal,block,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow Offensive Rebound.,38,39,3,431,1031,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan missed Layup.,38,39,3,419,1019,Iowa State Cyclones,layup,True,False,False,Emily Ryan,False,,21.0,0.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Defensive Rebound.,38,39,3,419,1019,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink made Layup. Assisted by Talana Lepolo.,40,39,3,409,1009,Stanford Cardinal,layup,True,True,False,Cameron Brink,True,Talana Lepolo,22.0,3.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan missed Three Point Jumper.,40,39,3,385,985,Iowa State Cyclones,three point jumper,True,False,True,Emily Ryan,False,,49.0,0.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Offensive Rebound.,40,39,3,385,985,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Talana Lepolo.,40,39,3,370,970,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown made Layup. Assisted by Emily Ryan.,40,41,3,369,969,Iowa State Cyclones,layup,True,True,False,Addy Brown,True,Emily Ryan,22.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Courtney Ogden missed Three Point Jumper.,40,41,3,358,958,Stanford Cardinal,three point jumper,True,False,True,Courtney Ogden,False,,9.0,19.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Courtney Ogden Offensive Rebound.,40,41,3,358,958,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Three Point Jumper.,40,41,3,342,942,Stanford Cardinal,three point jumper,True,False,True,Kiki Iriafen,False,,2.0,7.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Defensive Rebound.,40,41,3,342,942,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow made Layup.,40,43,3,330,930,Iowa State Cyclones,layup,True,True,False,Jalynn Bristow,False,,28.0,0.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Courtney Ogden.,40,43,3,330,930,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow made Free Throw.,40,44,3,330,930,Iowa State Cyclones,free throw,True,True,False,Jalynn Bristow,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink made Jumper.,42,44,3,312,912,Stanford Cardinal,jumper,True,True,False,Cameron Brink,False,,24.0,12.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Layup.,42,44,3,294,894,Iowa State Cyclones,layup,True,False,False,Audi Crooks,False,,23.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow Offensive Rebound.,42,44,3,294,894,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Cameron Brink.,42,44,3,294,894,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones, Official TV Timeout,42,44,3,294,894,,tv timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow missed Free Throw.,42,44,3,294,894,Iowa State Cyclones,free throw,True,False,False,Jalynn Bristow,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State Deadball Team Rebound.,42,44,3,294,894,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow missed Free Throw.,42,44,3,294,894,Iowa State Cyclones,free throw,True,False,False,Jalynn Bristow,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Brooke Demetre Defensive Rebound.,42,44,3,289,889,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump missed Jumper.,42,44,3,281,881,Stanford Cardinal,jumper,True,False,False,Hannah Jump,False,,13.0,12.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State Defensive Rebound.,42,44,3,281,881,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Jumper.,42,46,3,271,871,Iowa State Cyclones,jumper,True,True,False,Emily Ryan,False,,24.0,16.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Jumper.,42,46,3,259,859,Stanford Cardinal,jumper,True,False,False,Kiki Iriafen,False,,37.0,0.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown Defensive Rebound.,42,46,3,259,859,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown missed Layup.,42,46,3,241,841,Iowa State Cyclones,layup,True,False,False,Addy Brown,False,,22.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Defensive Rebound.,42,46,3,241,841,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump made Layup. Assisted by Talana Lepolo.,44,46,3,233,833,Stanford Cardinal,layup,True,True,False,Hannah Jump,True,Talana Lepolo,28.0,3.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Layup.,44,48,3,218,818,Iowa State Cyclones,layup,True,True,False,Emily Ryan,False,,22.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Jumper. Assisted by Talana Lepolo.,46,48,3,194,794,Stanford Cardinal,jumper,True,True,False,Kiki Iriafen,True,Talana Lepolo,24.0,19.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Layup.,46,48,3,170,770,Iowa State Cyclones,layup,True,False,False,Audi Crooks,False,,22.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Block.,46,48,3,170,770,Stanford Cardinal,block,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Defensive Rebound.,46,48,3,170,770,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Layup.,46,48,3,160,760,Stanford Cardinal,layup,True,False,False,Kiki Iriafen,False,,28.0,0.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks Defensive Rebound.,46,48,3,160,760,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Turnover.,46,48,3,151,751,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Nunu Agara made Layup.,48,48,3,137,737,Stanford Cardinal,layup,True,True,False,Nunu Agara,False,,29.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Emily Ryan.,48,48,3,122,722,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Turnover.,48,48,3,122,722,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Brooke Demetre Turnover.,48,48,3,114,714,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Steal.,48,48,3,114,714,Iowa State Cyclones,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Kiki Iriafen.,48,48,3,106,706,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Nyamer Diew missed Free Throw.,48,48,3,106,706,Iowa State Cyclones,free throw,True,False,False,Nyamer Diew,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State Deadball Team Rebound.,48,48,3,106,706,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Nyamer Diew missed Free Throw.,48,48,3,106,706,Iowa State Cyclones,free throw,True,False,False,Nyamer Diew,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow Offensive Rebound.,48,48,3,106,706,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Cameron Brink.,48,48,3,92,692,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks made Free Throw.,48,49,3,92,692,Iowa State Cyclones,free throw,True,True,False,Audi Crooks,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks made Free Throw.,48,50,3,92,692,Iowa State Cyclones,free throw,True,True,False,Audi Crooks,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Layup.,50,50,3,80,680,Stanford Cardinal,layup,True,True,False,Kiki Iriafen,False,,28.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Arianna Jackson Turnover.,50,50,3,44,644,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Brooke Demetre Steal.,50,50,3,44,644,Stanford Cardinal,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Turnover.,50,50,3,15,615,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow Steal.,50,50,3,15,615,Iowa State Cyclones,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow Turnover.,50,50,3,10,610,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Nunu Agara missed Three Point Jumper.,50,50,3,1,601,Stanford Cardinal,three point jumper,True,False,True,Nunu Agara,False,,48.0,6.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks Defensive Rebound.,50,50,3,1,601,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,End of 3rd Quarter,50,50,3,0,600,,end,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jump Ball won by Iowa State,50,50,4,600,600,Iowa State Cyclones,jump ball,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Jumper.,50,50,4,587,587,Iowa State Cyclones,jumper,True,False,False,Audi Crooks,False,,25.0,7.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Defensive Rebound.,50,50,4,587,587,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Audi Crooks.,50,50,4,564,564,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Jumper.,52,50,4,561,561,Stanford Cardinal,jumper,True,True,False,Kiki Iriafen,False,,24.0,12.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Turnover.,52,50,4,539,539,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump made Three Point Jumper. Assisted by Kiki Iriafen.,55,50,4,522,522,Stanford Cardinal,three point jumper,True,True,True,Hannah Jump,True,Kiki Iriafen,7.0,19.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State  Timeout,55,50,4,511,511,Iowa State Cyclones,timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones, Official TV Timeout,55,50,4,511,511,,tv timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks made Layup. Assisted by Addy Brown.,55,52,4,507,507,Iowa State Cyclones,layup,True,True,False,Audi Crooks,True,Addy Brown,24.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Turnover.,55,52,4,492,492,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown Steal.,55,52,4,492,492,Iowa State Cyclones,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown made Jumper.,55,54,4,486,486,Iowa State Cyclones,jumper,True,True,False,Addy Brown,False,,18.0,17.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink made Jumper.,57,54,4,465,465,Stanford Cardinal,jumper,True,True,False,Cameron Brink,False,,26.0,5.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan missed Jumper.,57,54,4,450,450,Iowa State Cyclones,jumper,True,False,False,Emily Ryan,False,,20.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Defensive Rebound.,57,54,4,450,450,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink missed Jumper.,57,54,4,434,434,Stanford Cardinal,jumper,True,False,False,Cameron Brink,False,,16.0,5.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Defensive Rebound.,57,54,4,434,434,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Three Point Jumper.,57,57,4,426,426,Iowa State Cyclones,three point jumper,True,True,True,Emily Ryan,False,,43.0,16.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Talana Lepolo missed Three Point Jumper.,57,57,4,404,404,Stanford Cardinal,three point jumper,True,False,True,Talana Lepolo,False,,11.0,21.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks Defensive Rebound.,57,57,4,404,404,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Turnover.,57,57,4,387,387,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Nunu Agara Steal.,57,57,4,387,387,Stanford Cardinal,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Talana Lepolo missed Jumper.,57,57,4,375,375,Stanford Cardinal,jumper,True,False,False,Talana Lepolo,False,,24.0,7.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Brooke Demetre Offensive Rebound.,57,57,4,375,375,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Stanford  Timeout,57,57,4,364,364,Stanford Cardinal,timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones, Official TV Timeout,57,57,4,364,364,,tv timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Elena Bosgana missed Three Point Jumper.,57,57,4,355,355,Stanford Cardinal,three point jumper,True,False,True,Elena Bosgana,False,,1.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Defensive Rebound.,57,57,4,355,355,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Jumper.,57,59,4,337,337,Iowa State Cyclones,jumper,True,True,False,Emily Ryan,False,,25.0,15.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump made Jumper.,59,59,4,318,318,Stanford Cardinal,jumper,True,True,False,Hannah Jump,False,,14.0,16.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Elena Bosgana.,59,59,4,302,302,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Free Throw.,59,60,4,302,302,Iowa State Cyclones,free throw,True,True,False,Emily Ryan,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Free Throw.,59,61,4,302,302,Iowa State Cyclones,free throw,True,True,False,Emily Ryan,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Talana Lepolo missed Three Point Jumper.,59,61,4,289,289,Stanford Cardinal,three point jumper,True,False,True,Talana Lepolo,False,,6.0,17.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Block.,59,61,4,289,289,Iowa State Cyclones,block,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State Defensive Rebound.,59,61,4,289,289,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Layup.,59,61,4,267,267,Iowa State Cyclones,layup,True,False,False,Audi Crooks,False,,21.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Block.,59,61,4,267,267,Stanford Cardinal,block,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Defensive Rebound.,59,61,4,267,267,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Audi Crooks.,59,61,4,267,267,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump missed Three Point Jumper.,59,61,4,255,255,Stanford Cardinal,three point jumper,True,False,True,Hannah Jump,False,,48.0,6.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Offensive Rebound.,59,61,4,255,255,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Isnelle Natabou.,59,61,4,248,248,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Free Throw.,60,61,4,248,248,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Free Throw.,61,61,4,248,248,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Three Point Jumper.,61,64,4,227,227,Iowa State Cyclones,three point jumper,True,True,True,Emily Ryan,False,,39.0,21.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Turnover.,61,64,4,207,207,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan missed Three Point Jumper.,61,64,4,180,180,Iowa State Cyclones,three point jumper,True,False,True,Emily Ryan,False,,38.0,22.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Isnelle Natabou Offensive Rebound.,61,64,4,180,180,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Talana Lepolo.,61,64,4,175,175,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Turnover.,61,64,4,160,160,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Layup.,63,64,4,151,151,Stanford Cardinal,layup,True,True,False,Kiki Iriafen,False,,28.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Cameron Brink.,63,64,4,131,131,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Layup.,63,64,4,110,110,Iowa State Cyclones,layup,True,False,False,Audi Crooks,False,,22.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Cameron Brink Block.,63,64,4,110,110,Stanford Cardinal,block,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow Offensive Rebound.,63,64,4,110,110,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Layup.,63,64,4,110,110,Iowa State Cyclones,layup,True,False,False,Audi Crooks,False,,25.0,80.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Block.,63,64,4,110,110,Stanford Cardinal,block,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Defensive Rebound.,63,64,4,110,110,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Brooke Demetre made Three Point Jumper.,66,64,4,92,92,Stanford Cardinal,three point jumper,True,True,True,Brooke Demetre,False,,3.0,14.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State  Timeout,66,64,4,78,78,Iowa State Cyclones,timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown made Layup.,66,66,4,73,73,Iowa State Cyclones,layup,True,True,False,Addy Brown,False,,22.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Brooke Demetre missed Three Point Jumper.,66,66,4,53,53,Stanford Cardinal,three point jumper,True,False,True,Brooke Demetre,False,,6.0,16.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow Defensive Rebound.,66,66,4,53,53,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown missed Three Point Jumper.,66,66,4,39,39,Iowa State Cyclones,three point jumper,True,False,True,Addy Brown,False,,24.0,25.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown Offensive Rebound.,66,66,4,39,39,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Layup.,66,66,4,20,20,Iowa State Cyclones,layup,True,False,False,Audi Crooks,False,,22.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Defensive Rebound.,66,66,4,20,20,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Stanford  Timeout,66,66,4,12,12,Stanford Cardinal,timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Emily Ryan.,66,66,4,6,6,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Jumper.,66,66,4,1,1,Stanford Cardinal,jumper,True,False,False,Kiki Iriafen,False,,35.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Stanford Offensive Rebound.,66,66,4,1,1,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,End of 4th Quarter,66,66,4,0,0,,end,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jump Ball won by Stanford,66,66,5,300,300,Stanford Cardinal,jump ball,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jump Ball won by Stanford,66,66,5,299,299,Stanford Cardinal,jump ball,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen missed Jumper.,66,66,5,284,284,Stanford Cardinal,jumper,True,False,False,Kiki Iriafen,False,,13.0,10.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Defensive Rebound.,66,66,5,284,284,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Audi Crooks missed Layup.,66,66,5,275,275,Iowa State Cyclones,layup,True,False,False,Audi Crooks,False,,21.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen Defensive Rebound.,66,66,5,275,275,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Jump made Jumper.,68,66,5,254,254,Stanford Cardinal,jumper,True,True,False,Hannah Jump,False,,30.0,16.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Three Point Jumper.,68,69,5,234,234,Iowa State Cyclones,three point jumper,True,True,True,Emily Ryan,False,,10.0,19.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Layup.,70,69,5,221,221,Stanford Cardinal,layup,True,True,False,Kiki Iriafen,False,,22.0,3.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Audi Crooks.,70,69,5,221,221,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Free Throw.,71,69,5,221,221,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Isnelle Natabou missed Jumper.,71,69,5,198,198,Iowa State Cyclones,jumper,True,False,False,Isnelle Natabou,False,,26.0,6.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Nunu Agara Block.,71,69,5,198,198,Stanford Cardinal,block,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State Offensive Rebound.,71,69,5,198,198,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Talana Lepolo.,71,69,5,197,197,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown made Three Point Jumper.,71,72,5,193,193,Iowa State Cyclones,three point jumper,True,True,True,Addy Brown,False,,21.0,24.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Talana Lepolo made Three Point Jumper. Assisted by Hannah Jump.,74,72,5,181,181,Stanford Cardinal,three point jumper,True,True,True,Talana Lepolo,True,Hannah Jump,1.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Turnover.,74,72,5,169,169,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Nunu Agara Steal.,74,72,5,169,169,Stanford Cardinal,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Brooke Demetre Turnover.,74,72,5,158,158,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Hannah Belanger Steal.,74,72,5,158,158,Iowa State Cyclones,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan missed Jumper.,74,72,5,136,136,Iowa State Cyclones,jumper,True,False,False,Emily Ryan,False,,20.0,19.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow Offensive Rebound.,74,72,5,136,136,Iowa State Cyclones,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow made Two Point Tip Shot.,74,74,5,136,136,Iowa State Cyclones,two point tip shot,True,True,False,Jalynn Bristow,False,,25.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Jumper.,76,74,5,120,120,Stanford Cardinal,jumper,True,True,False,Kiki Iriafen,False,,11.0,1.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Jalynn Bristow made Layup. Assisted by Emily Ryan.,76,76,5,104,104,Iowa State Cyclones,layup,True,True,False,Jalynn Bristow,True,Emily Ryan,27.0,0.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Layup.,78,76,5,81,81,Stanford Cardinal,layup,True,True,False,Kiki Iriafen,False,,28.0,2.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Nunu Agara.,78,76,5,64,64,Stanford Cardinal,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Free Throw.,78,77,5,64,64,Iowa State Cyclones,free throw,True,True,False,Emily Ryan,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan made Free Throw.,78,78,5,64,64,Iowa State Cyclones,free throw,True,True,False,Emily Ryan,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Isnelle Natabou.,78,78,5,54,54,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Free Throw.,79,78,5,54,54,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Free Throw.,80,78,5,54,54,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown made Three Point Jumper. Assisted by Emily Ryan.,80,81,5,33,33,Iowa State Cyclones,three point jumper,True,True,True,Addy Brown,True,Emily Ryan,21.0,25.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Brooke Demetre made Three Point Jumper. Assisted by Talana Lepolo.,83,81,5,19,19,Stanford Cardinal,three point jumper,True,True,True,Brooke Demetre,True,Talana Lepolo,25.0,25.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State  Timeout,83,81,5,18,18,Iowa State Cyclones,timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Addy Brown missed Layup.,83,81,5,13,13,Iowa State Cyclones,layup,True,False,False,Addy Brown,False,,25.0,4.0
+401637576,Stanford Cardinal,Iowa State Cyclones,Brooke Demetre Defensive Rebound.,83,81,5,13,13,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Addy Brown.,83,81,5,11,11,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Brooke Demetre made Free Throw.,84,81,5,11,11,Stanford Cardinal,free throw,True,True,False,Brooke Demetre,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Brooke Demetre made Free Throw.,85,81,5,11,11,Stanford Cardinal,free throw,True,True,False,Brooke Demetre,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State  Timeout,85,81,5,11,11,Iowa State Cyclones,timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Turnover.,85,81,5,6,6,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Stanford  Timeout,85,81,5,6,6,Stanford Cardinal,timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Foul on Addy Brown.,85,81,5,5,5,Iowa State Cyclones,foul,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Free Throw.,86,81,5,5,5,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Kiki Iriafen made Free Throw.,87,81,5,5,5,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Iowa State  Timeout,87,81,5,5,5,Iowa State Cyclones,timeout,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Emily Ryan Turnover.,87,81,5,0,0,Iowa State Cyclones,turnover,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,Brooke Demetre Steal.,87,81,5,0,0,Stanford Cardinal,steal,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,End of 1st Overtime,87,81,5,0,0,,end,False,False,False,,False,,,
+401637576,Stanford Cardinal,Iowa State Cyclones,End of Game,87,81,5,0,0,,end,False,False,False,,False,,,

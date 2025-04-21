@@ -1,0 +1,355 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637578,Virginia Tech Hokies,Baylor Bears,Jump Ball won by Baylor,0,0,1,600,2400,Baylor Bears,jump ball,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews made Layup.,0,2,1,580,2380,Baylor Bears,layup,True,True,False,Sarah Andrews,False,,28.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore Turnover.,0,2,1,570,2370,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell Steal.,0,2,1,570,2370,Baylor Bears,steal,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell missed Layup.,0,2,1,565,2365,Baylor Bears,layup,True,False,False,Aijha Blackwell,False,,22.0,1.0
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack Defensive Rebound.,0,2,1,565,2365,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh made Layup.,2,2,1,543,2343,Virginia Tech Hokies,layup,True,True,False,Matilda Ekh,False,,27.0,4.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy missed Three Point Jumper.,2,2,1,535,2335,Baylor Bears,three point jumper,True,False,True,Bella Fontleroy,False,,4.0,13.0
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack Defensive Rebound.,2,2,1,535,2335,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Olivia Summiel missed Three Point Jumper.,2,2,1,517,2317,Virginia Tech Hokies,three point jumper,True,False,True,Olivia Summiel,False,,26.0,25.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Block.,2,2,1,517,2317,Baylor Bears,block,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews Defensive Rebound.,2,2,1,517,2317,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews Turnover.,2,2,1,508,2308,Baylor Bears,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore Turnover.,2,2,1,498,2298,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy missed Three Point Jumper.,2,2,1,485,2285,Baylor Bears,three point jumper,True,False,True,Bella Fontleroy,False,,13.0,22.0
+401637578,Virginia Tech Hokies,Baylor Bears,Virginia Tech Defensive Rebound.,2,2,1,485,2285,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore Turnover.,2,2,1,461,2261,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Steal.,2,2,1,461,2261,Baylor Bears,steal,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Layup.,2,4,1,453,2253,Baylor Bears,layup,True,True,False,Jada Walker,False,,28.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Darianna Littlepage-Buggs.,2,4,1,438,2238,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh made Free Throw.,3,4,1,438,2238,Virginia Tech Hokies,free throw,True,True,False,Matilda Ekh,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh missed Free Throw.,3,4,1,438,2238,Virginia Tech Hokies,free throw,True,False,False,Matilda Ekh,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Olivia Summiel Offensive Rebound.,3,4,1,438,2238,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Jada Walker.,3,4,1,432,2232,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Three Point Jumper.,3,4,1,422,2222,Virginia Tech Hokies,three point jumper,True,False,True,Georgia Amoore,False,,36.0,23.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Defensive Rebound.,3,4,1,422,2222,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews made Three Point Jumper.,3,7,1,413,2213,Baylor Bears,three point jumper,True,True,True,Sarah Andrews,False,,33.0,23.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Aijha Blackwell.,3,7,1,390,2190,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Jada Walker.,3,7,1,390,2190,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack made Jumper. Assisted by Cayla King.,5,7,1,376,2176,Virginia Tech Hokies,jumper,True,True,False,Clara Strack,True,Cayla King,21.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Baylor.,5,7,1,376,2176,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack made Free Throw.,6,7,1,376,2176,Virginia Tech Hokies,free throw,True,True,False,Clara Strack,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs made Layup.,6,9,1,368,2168,Baylor Bears,layup,True,True,False,Darianna Littlepage-Buggs,False,,28.0,1.0
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Three Point Jumper.,6,9,1,351,2151,Virginia Tech Hokies,three point jumper,True,False,True,Georgia Amoore,False,,20.0,25.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Defensive Rebound.,6,9,1,351,2151,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs made Jumper.,6,11,1,340,2140,Baylor Bears,jumper,True,True,False,Darianna Littlepage-Buggs,False,,17.0,9.0
+401637578,Virginia Tech Hokies,Baylor Bears,Olivia Summiel made Jumper. Assisted by Matilda Ekh.,8,11,1,321,2121,Virginia Tech Hokies,jumper,True,True,False,Olivia Summiel,True,Matilda Ekh,29.0,18.0
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs missed Layup.,8,11,1,308,2108,Baylor Bears,layup,True,False,False,Darianna Littlepage-Buggs,False,,23.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh Defensive Rebound.,8,11,1,308,2108,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jump Ball won by Virginia Tech,8,11,1,308,2108,Virginia Tech Hokies,jump ball,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack made Jumper. Assisted by Olivia Summiel.,10,11,1,286,2086,Virginia Tech Hokies,jumper,True,True,False,Clara Strack,True,Olivia Summiel,22.0,4.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Dre'Una Edwards.,10,11,1,286,2086,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears, Official TV Timeout,10,11,1,286,2086,,tv timeout,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack made Free Throw.,11,11,1,286,2086,Virginia Tech Hokies,free throw,True,True,False,Clara Strack,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards missed Layup.,11,11,1,272,2072,Baylor Bears,layup,True,False,False,Dre'Una Edwards,False,,25.0,4.0
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack Block.,11,11,1,272,2072,Virginia Tech Hokies,block,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor Offensive Rebound.,11,11,1,272,2072,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Olivia Summiel.,11,11,1,270,2070,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs made Layup. Assisted by Sarah Andrews.,11,13,1,268,2068,Baylor Bears,layup,True,True,False,Darianna Littlepage-Buggs,True,Sarah Andrews,28.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Rose Micheaux missed Jumper.,11,13,1,244,2044,Virginia Tech Hokies,jumper,True,False,False,Rose Micheaux,False,,28.0,4.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Block.,11,13,1,244,2044,Baylor Bears,block,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards Defensive Rebound.,11,13,1,244,2044,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews missed Jumper.,11,13,1,222,2022,Baylor Bears,jumper,True,False,False,Sarah Andrews,False,,23.0,19.0
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards Offensive Rebound.,11,13,1,222,2022,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Rose Micheaux.,11,13,1,218,2018,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards missed Free Throw.,11,13,1,218,2018,Baylor Bears,free throw,True,False,False,Dre'Una Edwards,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor Deadball Team Rebound.,11,13,1,218,2018,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards missed Free Throw.,11,13,1,218,2018,Baylor Bears,free throw,True,False,False,Dre'Una Edwards,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carleigh Wenzel Defensive Rebound.,11,13,1,218,2018,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack made Layup. Assisted by Cayla King.,13,13,1,203,2003,Virginia Tech Hokies,layup,True,True,False,Clara Strack,True,Cayla King,25.0,4.0
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs missed Layup.,13,13,1,185,1985,Baylor Bears,layup,True,False,False,Darianna Littlepage-Buggs,False,,22.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Rose Micheaux Defensive Rebound.,13,13,1,185,1985,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Three Point Jumper.,13,13,1,171,1971,Virginia Tech Hokies,three point jumper,True,False,True,Georgia Amoore,False,,41.0,18.0
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews Defensive Rebound.,13,13,1,171,1971,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jana Van Gytenbeek missed Three Point Jumper.,13,13,1,160,1960,Baylor Bears,three point jumper,True,False,True,Jana Van Gytenbeek,False,,11.0,20.0
+401637578,Virginia Tech Hokies,Baylor Bears,Rose Micheaux Defensive Rebound.,13,13,1,160,1960,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carleigh Wenzel missed Jumper.,13,13,1,151,1951,Virginia Tech Hokies,jumper,True,False,False,Carleigh Wenzel,False,,24.0,15.0
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack Offensive Rebound.,13,13,1,151,1951,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack missed Jumper.,13,13,1,139,1939,Virginia Tech Hokies,jumper,True,False,False,Clara Strack,False,,24.0,5.0
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs Defensive Rebound.,13,13,1,139,1939,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards made Three Point Jumper. Assisted by Sarah Andrews.,13,16,1,131,1931,Baylor Bears,three point jumper,True,True,True,Dre'Una Edwards,True,Sarah Andrews,33.0,23.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Rose Micheaux.,13,16,1,118,1918,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Rose Micheaux Turnover.,13,16,1,118,1918,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Cayla King.,13,16,1,108,1908,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jana Van Gytenbeek made Layup.,13,18,1,102,1902,Baylor Bears,layup,True,True,False,Jana Van Gytenbeek,False,,23.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh missed Three Point Jumper.,13,18,1,85,1885,Virginia Tech Hokies,three point jumper,True,False,True,Matilda Ekh,False,,25.0,25.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Defensive Rebound.,13,18,1,85,1885,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Matilda Ekh.,13,18,1,79,1879,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews made Free Throw.,13,19,1,79,1879,Baylor Bears,free throw,True,True,False,Sarah Andrews,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews made Free Throw.,13,20,1,79,1879,Baylor Bears,free throw,True,True,False,Sarah Andrews,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore made Jumper.,15,20,1,66,1866,Virginia Tech Hokies,jumper,True,True,False,Georgia Amoore,False,,31.0,4.0
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews missed Jumper.,15,20,1,55,1855,Baylor Bears,jumper,True,False,False,Sarah Andrews,False,,29.0,11.0
+401637578,Virginia Tech Hokies,Baylor Bears,Carys Baker Defensive Rebound.,15,20,1,55,1855,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carleigh Wenzel missed Three Point Jumper.,15,20,1,34,1834,Virginia Tech Hokies,three point jumper,True,False,True,Carleigh Wenzel,False,,40.0,20.0
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards Defensive Rebound.,15,20,1,34,1834,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Olivia Summiel.,15,20,1,12,1812,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell missed Free Throw.,15,20,1,12,1812,Baylor Bears,free throw,True,False,False,Aijha Blackwell,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor Deadball Team Rebound.,15,20,1,12,1812,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell made Free Throw.,15,21,1,12,1812,Baylor Bears,free throw,True,True,False,Aijha Blackwell,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore made Jumper.,17,21,1,5,1805,Virginia Tech Hokies,jumper,True,True,False,Georgia Amoore,False,,21.0,4.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Jana Van Gytenbeek.,17,21,1,5,1805,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore made Free Throw.,18,21,1,5,1805,Virginia Tech Hokies,free throw,True,True,False,Georgia Amoore,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jana Van Gytenbeek missed Jumper.,18,21,1,1,1801,Baylor Bears,jumper,True,False,False,Jana Van Gytenbeek,False,,22.0,16.0
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor Deadball Team Rebound.,18,21,1,1,1801,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,End of 1st Quarter,18,21,1,0,1800,,end,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jump Ball won by Baylor,18,21,2,600,1800,Baylor Bears,jump ball,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell Turnover.,18,21,2,579,1779,Baylor Bears,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore made Three Point Jumper.,21,21,2,566,1766,Virginia Tech Hokies,three point jumper,True,True,True,Georgia Amoore,False,,34.0,22.0
+401637578,Virginia Tech Hokies,Baylor Bears,Jana Van Gytenbeek missed Three Point Jumper.,21,21,2,556,1756,Baylor Bears,three point jumper,True,False,True,Jana Van Gytenbeek,False,,39.0,19.0
+401637578,Virginia Tech Hokies,Baylor Bears,Yaya Felder Offensive Rebound.,21,21,2,556,1756,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Yaya Felder missed Layup.,21,21,2,552,1752,Baylor Bears,layup,True,False,False,Yaya Felder,False,,24.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Carys Baker Block.,21,21,2,552,1752,Virginia Tech Hokies,block,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Cayla King Defensive Rebound.,21,21,2,552,1752,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh missed Three Point Jumper.,21,21,2,544,1744,Virginia Tech Hokies,three point jumper,True,False,True,Matilda Ekh,False,,7.0,16.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Block.,21,21,2,544,1744,Baylor Bears,block,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell Defensive Rebound.,21,21,2,544,1744,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell missed Three Point Jumper.,21,21,2,536,1736,Baylor Bears,three point jumper,True,False,True,Aijha Blackwell,False,,38.0,21.0
+401637578,Virginia Tech Hokies,Baylor Bears,Carys Baker Defensive Rebound.,21,21,2,536,1736,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Cayla King Turnover.,21,21,2,521,1721,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs Steal.,21,21,2,521,1721,Baylor Bears,steal,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Darianna Littlepage-Buggs.,21,21,2,513,1713,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs Turnover.,21,21,2,513,1713,Baylor Bears,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Three Point Jumper.,21,21,2,500,1700,Virginia Tech Hokies,three point jumper,True,False,True,Georgia Amoore,False,,42.0,17.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Defensive Rebound.,21,21,2,500,1700,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Clara Strack.,21,21,2,496,1696,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Yaya Felder missed Three Point Jumper.,21,21,2,486,1686,Baylor Bears,three point jumper,True,False,True,Yaya Felder,False,,40.0,20.0
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh Defensive Rebound.,21,21,2,486,1686,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh missed Three Point Jumper.,21,21,2,472,1672,Virginia Tech Hokies,three point jumper,True,False,True,Matilda Ekh,False,,42.0,23.0
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews Defensive Rebound.,21,21,2,472,1672,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs Turnover.,21,21,2,462,1662,Baylor Bears,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carys Baker missed Three Point Jumper.,21,21,2,442,1642,Virginia Tech Hokies,three point jumper,True,False,True,Carys Baker,False,,17.0,22.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Defensive Rebound.,21,21,2,442,1642,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Clara Strack.,21,21,2,432,1632,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews missed Free Throw.,21,21,2,432,1632,Baylor Bears,free throw,True,False,False,Sarah Andrews,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor Deadball Team Rebound.,21,21,2,432,1632,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews missed Free Throw.,21,21,2,432,1632,Baylor Bears,free throw,True,False,False,Sarah Andrews,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carys Baker Defensive Rebound.,21,21,2,432,1632,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh missed Three Point Jumper.,21,21,2,412,1612,Virginia Tech Hokies,three point jumper,True,False,True,Matilda Ekh,False,,48.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Olivia Summiel Offensive Rebound.,21,21,2,412,1612,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Olivia Summiel missed Three Point Jumper.,21,21,2,400,1600,Virginia Tech Hokies,three point jumper,True,False,True,Olivia Summiel,False,,29.0,24.0
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor Defensive Rebound.,21,21,2,400,1600,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews made Three Point Jumper. Assisted by Jada Walker.,21,24,2,373,1573,Baylor Bears,three point jumper,True,True,True,Sarah Andrews,True,Jada Walker,48.0,0.0
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Layup.,21,24,2,347,1547,Virginia Tech Hokies,layup,True,False,False,Georgia Amoore,False,,22.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards Defensive Rebound.,21,24,2,347,1547,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker missed Layup.,21,24,2,340,1540,Baylor Bears,layup,True,False,False,Jada Walker,False,,28.0,1.0
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards Offensive Rebound.,21,24,2,340,1540,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards missed Layup.,21,24,2,333,1533,Baylor Bears,layup,True,False,False,Dre'Una Edwards,False,,25.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Cayla King Defensive Rebound.,21,24,2,333,1533,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Cayla King made Three Point Jumper. Assisted by Georgia Amoore.,24,24,2,315,1515,Virginia Tech Hokies,three point jumper,True,True,True,Cayla King,True,Georgia Amoore,45.0,13.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy missed Three Point Jumper.,24,24,2,298,1498,Baylor Bears,three point jumper,True,False,True,Bella Fontleroy,False,,46.0,8.0
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor Deadball Team Rebound.,24,24,2,298,1498,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Cayla King.,24,24,2,294,1494,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears, Official TV Timeout,24,24,2,294,1494,,tv timeout,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy made Layup. Assisted by Jada Walker.,24,26,2,292,1492,Baylor Bears,layup,True,True,False,Bella Fontleroy,True,Jada Walker,23.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Carys Baker Turnover.,24,26,2,274,1474,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards made Layup.,24,28,2,264,1464,Baylor Bears,layup,True,True,False,Dre'Una Edwards,False,,22.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Denae Fritz.,24,28,2,251,1451,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carleigh Wenzel missed Jumper.,24,28,2,229,1429,Virginia Tech Hokies,jumper,True,False,False,Carleigh Wenzel,False,,15.0,7.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Block.,24,28,2,229,1429,Baylor Bears,block,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Virginia Tech Deadball Team Rebound.,24,28,2,229,1429,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Virginia Tech  Turnover.,24,28,2,229,1429,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards missed Jumper.,24,28,2,205,1405,Baylor Bears,jumper,True,False,False,Dre'Una Edwards,False,,22.0,15.0
+401637578,Virginia Tech Hokies,Baylor Bears,Olivia Summiel Defensive Rebound.,24,28,2,205,1405,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore made Layup.,26,28,2,191,1391,Virginia Tech Hokies,layup,True,True,False,Georgia Amoore,False,,28.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards made Layup.,26,30,2,175,1375,Baylor Bears,layup,True,True,False,Dre'Una Edwards,False,,21.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Three Point Jumper.,26,30,2,151,1351,Virginia Tech Hokies,three point jumper,True,False,True,Georgia Amoore,False,,10.0,19.0
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards Defensive Rebound.,26,30,2,151,1351,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews missed Three Point Jumper.,26,30,2,139,1339,Baylor Bears,three point jumper,True,False,True,Sarah Andrews,False,,16.0,26.0
+401637578,Virginia Tech Hokies,Baylor Bears,Olivia Summiel Defensive Rebound.,26,30,2,139,1339,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carys Baker missed Three Point Jumper.,26,30,2,123,1323,Virginia Tech Hokies,three point jumper,True,False,True,Carys Baker,False,,19.0,24.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Defensive Rebound.,26,30,2,123,1323,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Carleigh Wenzel.,26,30,2,115,1315,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews missed Free Throw.,26,30,2,115,1315,Baylor Bears,free throw,True,False,False,Sarah Andrews,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor Deadball Team Rebound.,26,30,2,115,1315,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews made Free Throw.,26,31,2,115,1315,Baylor Bears,free throw,True,True,False,Sarah Andrews,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Jumper.,26,31,2,104,1304,Virginia Tech Hokies,jumper,True,False,False,Georgia Amoore,False,,17.0,17.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Defensive Rebound.,26,31,2,104,1304,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews made Three Point Jumper. Assisted by Jana Van Gytenbeek.,26,34,2,93,1293,Baylor Bears,three point jumper,True,True,True,Sarah Andrews,True,Jana Van Gytenbeek,48.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Bella Fontleroy.,26,34,2,78,1278,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Olivia Summiel Turnover.,26,34,2,66,1266,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews Turnover.,26,34,2,53,1253,Baylor Bears,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carys Baker Steal.,26,34,2,53,1253,Virginia Tech Hokies,steal,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carleigh Wenzel made Layup.,28,34,2,43,1243,Virginia Tech Hokies,layup,True,True,False,Carleigh Wenzel,False,,26.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Jump Ball won by Virginia Tech,28,34,2,34,1234,Virginia Tech Hokies,jump ball,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jana Van Gytenbeek Turnover.,28,34,2,34,1234,Baylor Bears,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carys Baker Steal.,28,34,2,34,1234,Virginia Tech Hokies,steal,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Jumper.,28,34,2,15,1215,Virginia Tech Hokies,jumper,True,False,False,Georgia Amoore,False,,26.0,17.0
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell Defensive Rebound.,28,34,2,15,1215,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jana Van Gytenbeek Turnover.,28,34,2,5,1205,Baylor Bears,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,End of 2nd Quarter,28,34,2,0,1200,,end,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jump Ball won by Baylor,28,34,3,600,1200,Baylor Bears,jump ball,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell missed Jumper.,28,34,3,590,1190,Baylor Bears,jumper,True,False,False,Aijha Blackwell,False,,25.0,7.0
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh Defensive Rebound.,28,34,3,590,1190,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh made Three Point Jumper. Assisted by Georgia Amoore.,31,34,3,582,1182,Virginia Tech Hokies,three point jumper,True,True,True,Matilda Ekh,True,Georgia Amoore,48.0,1.0
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Layup.,31,36,3,569,1169,Baylor Bears,layup,True,True,False,Jada Walker,False,,27.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Olivia Summiel missed Jumper.,31,36,3,543,1143,Virginia Tech Hokies,jumper,True,False,False,Olivia Summiel,False,,6.0,6.0
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh Offensive Rebound.,31,36,3,543,1143,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Darianna Littlepage-Buggs.,31,36,3,538,1138,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Jada Walker.,31,36,3,530,1130,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack made Jumper.,33,36,3,515,1115,Virginia Tech Hokies,jumper,True,True,False,Clara Strack,False,,27.0,5.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Bella Fontleroy.,33,36,3,515,1115,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack made Free Throw.,34,36,3,515,1115,Virginia Tech Hokies,free throw,True,True,False,Clara Strack,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy missed Three Point Jumper.,34,36,3,507,1107,Baylor Bears,three point jumper,True,False,True,Bella Fontleroy,False,,34.0,23.0
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh Defensive Rebound.,34,36,3,507,1107,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Olivia Summiel missed Jumper.,34,36,3,482,1082,Virginia Tech Hokies,jumper,True,False,False,Olivia Summiel,False,,23.0,16.0
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell Defensive Rebound.,34,36,3,482,1082,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Clara Strack.,34,36,3,468,1068,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears, Official TV Timeout,34,36,3,468,1068,,tv timeout,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Yaya Felder made Free Throw.,34,37,3,468,1068,Baylor Bears,free throw,True,True,False,Yaya Felder,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Yaya Felder made Free Throw.,34,38,3,468,1068,Baylor Bears,free throw,True,True,False,Yaya Felder,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore made Jumper.,36,38,3,437,1037,Virginia Tech Hokies,jumper,True,True,False,Georgia Amoore,False,,32.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker missed Jumper.,36,38,3,428,1028,Baylor Bears,jumper,True,False,False,Jada Walker,False,,9.0,13.0
+401637578,Virginia Tech Hokies,Baylor Bears,Cayla King Defensive Rebound.,36,38,3,428,1028,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Aijha Blackwell.,36,38,3,406,1006,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack made Free Throw.,37,38,3,406,1006,Virginia Tech Hokies,free throw,True,True,False,Clara Strack,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack made Free Throw.,38,38,3,406,1006,Virginia Tech Hokies,free throw,True,True,False,Clara Strack,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy made Layup.,38,40,3,389,989,Baylor Bears,layup,True,True,False,Bella Fontleroy,False,,29.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Olivia Summiel.,38,40,3,389,989,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy made Free Throw.,38,41,3,389,989,Baylor Bears,free throw,True,True,False,Bella Fontleroy,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Jumper.,38,41,3,376,976,Virginia Tech Hokies,jumper,True,False,False,Georgia Amoore,False,,30.0,6.0
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore Offensive Rebound.,38,41,3,376,976,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jump Ball won by Virginia Tech,38,41,3,367,967,Virginia Tech Hokies,jump ball,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears, Official TV Timeout,38,41,3,367,967,,tv timeout,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh made Three Point Jumper. Assisted by Georgia Amoore.,41,41,3,358,958,Virginia Tech Hokies,three point jumper,True,True,True,Matilda Ekh,True,Georgia Amoore,2.0,1.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Matilda Ekh.,41,41,3,347,947,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Georgia Amoore.,41,41,3,332,932,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker missed Free Throw.,41,41,3,332,932,Baylor Bears,free throw,True,False,False,Jada Walker,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor Deadball Team Rebound.,41,41,3,332,932,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Free Throw.,41,42,3,332,932,Baylor Bears,free throw,True,True,False,Jada Walker,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Cayla King missed Three Point Jumper.,41,42,3,318,918,Virginia Tech Hokies,three point jumper,True,False,True,Cayla King,False,,24.0,24.0
+401637578,Virginia Tech Hokies,Baylor Bears,Yaya Felder Defensive Rebound.,41,42,3,318,918,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Georgia Amoore.,41,42,3,311,911,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Free Throw.,41,43,3,311,911,Baylor Bears,free throw,True,True,False,Jada Walker,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Free Throw.,41,44,3,311,911,Baylor Bears,free throw,True,True,False,Jada Walker,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh made Three Point Jumper. Assisted by Georgia Amoore.,44,44,3,296,896,Virginia Tech Hokies,three point jumper,True,True,True,Matilda Ekh,True,Georgia Amoore,46.0,13.0
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards missed Three Point Jumper.,44,44,3,284,884,Baylor Bears,three point jumper,True,False,True,Dre'Una Edwards,False,,31.0,25.0
+401637578,Virginia Tech Hokies,Baylor Bears,Rose Micheaux Defensive Rebound.,44,44,3,284,884,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Three Point Jumper.,44,44,3,270,870,Virginia Tech Hokies,three point jumper,True,False,True,Georgia Amoore,False,,34.0,24.0
+401637578,Virginia Tech Hokies,Baylor Bears,Yaya Felder Defensive Rebound.,44,44,3,270,870,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Layup.,44,46,3,260,860,Baylor Bears,layup,True,True,False,Jada Walker,False,,23.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Three Point Jumper.,44,46,3,247,847,Virginia Tech Hokies,three point jumper,True,False,True,Georgia Amoore,False,,14.0,23.0
+401637578,Virginia Tech Hokies,Baylor Bears,Yaya Felder Defensive Rebound.,44,46,3,247,847,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews made Layup.,44,48,3,230,830,Baylor Bears,layup,True,True,False,Sarah Andrews,False,,21.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh made Jumper.,46,48,3,205,805,Virginia Tech Hokies,jumper,True,True,False,Matilda Ekh,False,,11.0,5.0
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews missed Layup.,46,48,3,190,790,Baylor Bears,layup,True,False,False,Sarah Andrews,False,,27.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Rose Micheaux Defensive Rebound.,46,48,3,190,790,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Virginia Tech  Timeout,46,48,3,182,782,Virginia Tech Hokies,timeout,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carleigh Wenzel missed Jumper.,46,48,3,160,760,Virginia Tech Hokies,jumper,True,False,False,Carleigh Wenzel,False,,16.0,8.0
+401637578,Virginia Tech Hokies,Baylor Bears,Rose Micheaux Offensive Rebound.,46,48,3,160,760,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Rose Micheaux missed Jumper.,46,48,3,157,757,Virginia Tech Hokies,jumper,True,False,False,Rose Micheaux,False,,34.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards Block.,46,48,3,157,757,Baylor Bears,block,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Virginia Tech Deadball Team Rebound.,46,48,3,157,757,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Virginia Tech  Turnover.,46,48,3,157,757,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Rose Micheaux.,46,48,3,145,745,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards missed Free Throw.,46,48,3,145,745,Baylor Bears,free throw,True,False,False,Dre'Una Edwards,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor Deadball Team Rebound.,46,48,3,145,745,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards missed Free Throw.,46,48,3,145,745,Baylor Bears,free throw,True,False,False,Dre'Una Edwards,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh Defensive Rebound.,46,48,3,145,745,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Rose Micheaux made Layup. Assisted by Georgia Amoore.,48,48,3,126,726,Virginia Tech Hokies,layup,True,True,False,Rose Micheaux,True,Georgia Amoore,28.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker missed Layup.,48,48,3,107,707,Baylor Bears,layup,True,False,False,Jada Walker,False,,28.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Rose Micheaux Defensive Rebound.,48,48,3,107,707,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Jana Van Gytenbeek.,48,48,3,92,692,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carleigh Wenzel missed Free Throw.,48,48,3,92,692,Virginia Tech Hokies,free throw,True,False,False,Carleigh Wenzel,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Virginia Tech Deadball Team Rebound.,48,48,3,92,692,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carleigh Wenzel made Free Throw.,49,48,3,92,692,Virginia Tech Hokies,free throw,True,True,False,Carleigh Wenzel,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker missed Jumper.,49,48,3,80,680,Baylor Bears,jumper,True,False,False,Jada Walker,False,,19.0,16.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Offensive Rebound.,49,48,3,80,680,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy made Layup.,49,50,3,76,676,Baylor Bears,layup,True,True,False,Bella Fontleroy,False,,27.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Carleigh Wenzel Turnover.,49,50,3,61,661,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews Turnover.,49,50,3,49,649,Baylor Bears,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Layup.,49,50,3,31,631,Virginia Tech Hokies,layup,True,False,False,Georgia Amoore,False,,27.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Rose Micheaux.,49,50,3,30,630,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor Deadball Team Rebound.,49,50,3,30,630,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Free Throw.,49,51,3,30,630,Baylor Bears,free throw,True,True,False,Jada Walker,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Free Throw.,49,52,3,30,630,Baylor Bears,free throw,True,True,False,Jada Walker,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Carleigh Wenzel made Three Point Jumper. Assisted by Matilda Ekh.,52,52,3,10,610,Virginia Tech Hokies,three point jumper,True,True,True,Carleigh Wenzel,True,Matilda Ekh,48.0,-1.0
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Three Point Jumper.,52,55,3,0,600,Baylor Bears,three point jumper,True,True,True,Jada Walker,False,,29.0,37.0
+401637578,Virginia Tech Hokies,Baylor Bears,End of 3rd Quarter,52,55,3,0,600,,end,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jump Ball won by Virginia Tech,52,55,4,600,600,Virginia Tech Hokies,jump ball,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Dre'Una Edwards.,52,55,4,583,583,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh missed Jumper.,52,55,4,566,566,Virginia Tech Hokies,jumper,True,False,False,Matilda Ekh,False,,23.0,10.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Defensive Rebound.,52,55,4,566,566,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Jumper.,52,57,4,559,559,Baylor Bears,jumper,True,True,False,Jada Walker,False,,28.0,6.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Carleigh Wenzel.,52,57,4,559,559,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Free Throw.,52,58,4,559,559,Baylor Bears,free throw,True,True,False,Jada Walker,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh made Three Point Jumper. Assisted by Carleigh Wenzel.,55,58,4,544,544,Virginia Tech Hokies,three point jumper,True,True,True,Matilda Ekh,True,Carleigh Wenzel,48.0,-2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy made Layup. Assisted by Sarah Andrews.,55,60,4,529,529,Baylor Bears,layup,True,True,False,Bella Fontleroy,True,Sarah Andrews,28.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh Turnover.,55,60,4,513,513,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews missed Jumper.,55,60,4,505,505,Baylor Bears,jumper,True,False,False,Sarah Andrews,False,,28.0,10.0
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack Defensive Rebound.,55,60,4,505,505,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack Turnover.,55,60,4,505,505,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards Steal.,55,60,4,505,505,Baylor Bears,steal,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy missed Three Point Jumper.,55,60,4,491,491,Baylor Bears,three point jumper,True,False,True,Bella Fontleroy,False,,41.0,19.0
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack Defensive Rebound.,55,60,4,491,491,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Cayla King made Layup.,57,60,4,480,480,Virginia Tech Hokies,layup,True,True,False,Cayla King,False,,28.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews missed Three Point Jumper.,57,60,4,455,455,Baylor Bears,three point jumper,True,False,True,Sarah Andrews,False,,2.0,8.0
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack Defensive Rebound.,57,60,4,455,455,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack made Layup. Assisted by Georgia Amoore.,59,60,4,434,434,Virginia Tech Hokies,layup,True,True,False,Clara Strack,True,Georgia Amoore,28.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Dre'Una Edwards Turnover.,59,60,4,425,425,Baylor Bears,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Cayla King missed Three Point Jumper.,59,60,4,414,414,Virginia Tech Hokies,three point jumper,True,False,True,Cayla King,False,,26.0,24.0
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell Defensive Rebound.,59,60,4,414,414,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker missed Layup.,59,60,4,403,403,Baylor Bears,layup,True,False,False,Jada Walker,False,,22.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs Offensive Rebound.,59,60,4,403,403,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs made Layup.,59,62,4,393,393,Baylor Bears,layup,True,True,False,Darianna Littlepage-Buggs,False,,25.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack missed Layup.,59,62,4,380,380,Virginia Tech Hokies,layup,True,False,False,Clara Strack,False,,27.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell Defensive Rebound.,59,62,4,380,380,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews missed Jumper.,59,62,4,362,362,Baylor Bears,jumper,True,False,False,Sarah Andrews,False,,24.0,6.0
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh Block.,59,62,4,362,362,Virginia Tech Hokies,block,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Olivia Summiel Defensive Rebound.,59,62,4,362,362,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Aijha Blackwell.,59,62,4,351,351,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack made Free Throw.,60,62,4,351,351,Virginia Tech Hokies,free throw,True,True,False,Clara Strack,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack missed Free Throw.,60,62,4,351,351,Virginia Tech Hokies,free throw,True,False,False,Clara Strack,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell Defensive Rebound.,60,62,4,351,351,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Jumper.,60,64,4,344,344,Baylor Bears,jumper,True,True,False,Jada Walker,False,,13.0,13.0
+401637578,Virginia Tech Hokies,Baylor Bears,Matilda Ekh made Layup.,62,64,4,324,324,Virginia Tech Hokies,layup,True,True,False,Matilda Ekh,False,,27.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews missed Three Point Jumper.,62,64,4,299,299,Baylor Bears,three point jumper,True,False,True,Sarah Andrews,False,,46.0,14.0
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs Offensive Rebound.,62,64,4,299,299,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jump Ball won by Baylor,62,64,4,288,288,Baylor Bears,jump ball,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears, Official TV Timeout,62,64,4,288,288,,tv timeout,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs made Layup. Assisted by Jada Walker.,62,66,4,285,285,Baylor Bears,layup,True,True,False,Darianna Littlepage-Buggs,True,Jada Walker,22.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Jumper.,62,66,4,255,255,Virginia Tech Hokies,jumper,True,False,False,Georgia Amoore,False,,15.0,4.0
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell Defensive Rebound.,62,66,4,255,255,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Aijha Blackwell.,62,66,4,226,226,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell Turnover.,62,66,4,226,226,Baylor Bears,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Cayla King made Layup.,64,66,4,205,205,Virginia Tech Hokies,layup,True,True,False,Cayla King,False,,23.0,3.0
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Jumper.,64,68,4,185,185,Baylor Bears,jumper,True,True,False,Jada Walker,False,,35.0,9.0
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore Turnover.,64,68,4,173,173,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Sarah Andrews Steal.,64,68,4,173,173,Baylor Bears,steal,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Cayla King.,64,68,4,173,173,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker missed Jumper.,64,68,4,166,166,Baylor Bears,jumper,True,False,False,Jada Walker,False,,21.0,16.0
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack Defensive Rebound.,64,68,4,166,166,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Three Point Jumper.,64,68,4,142,142,Virginia Tech Hokies,three point jumper,True,False,True,Georgia Amoore,False,,30.0,24.0
+401637578,Virginia Tech Hokies,Baylor Bears,Darianna Littlepage-Buggs Defensive Rebound.,64,68,4,142,142,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell missed Layup.,64,68,4,133,133,Baylor Bears,layup,True,False,False,Aijha Blackwell,False,,27.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack Defensive Rebound.,64,68,4,133,133,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Virginia Tech  Timeout,64,68,4,125,125,Virginia Tech Hokies,timeout,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore made Three Point Jumper. Assisted by Clara Strack.,67,68,4,113,113,Virginia Tech Hokies,three point jumper,True,True,True,Georgia Amoore,True,Clara Strack,30.0,24.0
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell missed Layup.,67,68,4,96,96,Baylor Bears,layup,True,False,False,Aijha Blackwell,False,,23.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Aijha Blackwell Offensive Rebound.,67,68,4,96,96,Baylor Bears,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor  Timeout,67,68,4,93,93,Baylor Bears,timeout,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Jumper.,67,70,4,86,86,Baylor Bears,jumper,True,True,False,Jada Walker,False,,39.0,5.0
+401637578,Virginia Tech Hokies,Baylor Bears,Olivia Summiel Turnover.,67,70,4,66,66,Virginia Tech Hokies,turnover,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Bella Fontleroy Steal.,67,70,4,66,66,Baylor Bears,steal,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor  Timeout,67,70,4,59,59,Baylor Bears,timeout,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker missed Layup.,67,70,4,40,40,Baylor Bears,layup,True,False,False,Jada Walker,False,,26.0,4.0
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack Block.,67,70,4,40,40,Virginia Tech Hokies,block,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack Defensive Rebound.,67,70,4,40,40,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Virginia Tech  Timeout,67,70,4,38,38,Virginia Tech Hokies,timeout,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore missed Jumper.,67,70,4,22,22,Virginia Tech Hokies,jumper,True,False,False,Georgia Amoore,False,,19.0,8.0
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack Offensive Rebound.,67,70,4,22,22,Virginia Tech Hokies,rebound,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Clara Strack made Jumper.,69,70,4,20,20,Virginia Tech Hokies,jumper,True,True,False,Clara Strack,False,,25.0,5.0
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor  Timeout,69,70,4,20,20,Baylor Bears,timeout,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Layup.,69,72,4,19,19,Baylor Bears,layup,True,True,False,Jada Walker,False,,26.0,2.0
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Cayla King.,69,72,4,19,19,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Free Throw.,69,73,4,19,19,Baylor Bears,free throw,True,True,False,Jada Walker,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Virginia Tech  Timeout,69,73,4,19,19,Virginia Tech Hokies,timeout,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Georgia Amoore made Three Point Jumper. Assisted by Clara Strack.,72,73,4,15,15,Virginia Tech Hokies,three point jumper,True,True,True,Georgia Amoore,True,Clara Strack,36.0,22.0
+401637578,Virginia Tech Hokies,Baylor Bears,Baylor  Timeout,72,73,4,15,15,Baylor Bears,timeout,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Georgia Amoore.,72,73,4,12,12,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Cayla King.,72,73,4,6,6,Virginia Tech Hokies,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Free Throw.,72,74,4,6,6,Baylor Bears,free throw,True,True,False,Jada Walker,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Jada Walker made Free Throw.,72,75,4,6,6,Baylor Bears,free throw,True,True,False,Jada Walker,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,Foul on Jada Walker.,72,75,4,1,1,Baylor Bears,foul,False,False,False,,False,,,
+401637578,Virginia Tech Hokies,Baylor Bears,End of Game,72,75,4,0,0,,end,False,False,False,,False,,,

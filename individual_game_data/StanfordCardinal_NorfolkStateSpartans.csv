@@ -1,0 +1,338 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637550,Stanford Cardinal,Norfolk State Spartans,Jump Ball won by Stanford,0,0,1,600,2400,Stanford Cardinal,jump ball,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana made Three Point Jumper. Assisted by Hannah Jump.,3,0,1,586,2386,Stanford Cardinal,three point jumper,True,True,True,Elena Bosgana,True,Hannah Jump,2.0,-1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Layup.,3,0,1,561,2361,Norfolk State Spartans,layup,True,False,False,Kierra Wheeler,False,,21.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Defensive Rebound.,3,0,1,561,2361,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Turnover.,3,0,1,550,2350,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'naijah Williams Steal.,3,0,1,550,2350,Norfolk State Spartans,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'naijah Williams missed Layup.,3,0,1,543,2343,Norfolk State Spartans,layup,True,False,False,Da'naijah Williams,False,,22.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Hannah Jump Defensive Rebound.,3,0,1,543,2343,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink missed Layup.,3,0,1,535,2335,Stanford Cardinal,layup,True,False,False,Cameron Brink,False,,28.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler Block.,3,0,1,535,2335,Norfolk State Spartans,block,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Norfolk State Defensive Rebound.,3,0,1,535,2335,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Elena Bosgana.,3,0,1,535,2335,Stanford Cardinal,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Three Point Jumper.,3,0,1,525,2325,Norfolk State Spartans,three point jumper,True,False,True,Diamond Johnson,False,,43.0,18.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Defensive Rebound.,3,0,1,525,2325,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink made Layup. Assisted by Elena Bosgana.,5,0,1,499,2299,Stanford Cardinal,layup,True,True,False,Cameron Brink,True,Elena Bosgana,22.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler made Layup.,5,2,1,473,2273,Norfolk State Spartans,layup,True,True,False,Kierra Wheeler,False,,28.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen made Layup. Assisted by Hannah Jump.,7,2,1,457,2257,Stanford Cardinal,layup,True,True,False,Kiki Iriafen,True,Hannah Jump,22.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler Turnover.,7,2,1,436,2236,Norfolk State Spartans,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Da'Brya Clark.,7,2,1,430,2230,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana missed Three Point Jumper.,7,2,1,415,2215,Stanford Cardinal,three point jumper,True,False,True,Elena Bosgana,False,,47.0,12.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Offensive Rebound.,7,2,1,415,2215,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink missed Jumper.,7,2,1,410,2210,Stanford Cardinal,jumper,True,False,False,Cameron Brink,False,,22.0,7.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields Defensive Rebound.,7,2,1,410,2210,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Jumper.,7,2,1,401,2201,Norfolk State Spartans,jumper,True,False,False,Kierra Wheeler,False,,25.0,3.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Defensive Rebound.,7,2,1,401,2201,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink missed Jumper.,7,2,1,389,2189,Stanford Cardinal,jumper,True,False,False,Cameron Brink,False,,27.0,5.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Offensive Rebound.,7,2,1,389,2189,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Diamond Johnson.,7,2,1,387,2187,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Turnover.,7,2,1,382,2182,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson Steal.,7,2,1,382,2182,Norfolk State Spartans,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson made Jumper.,7,4,1,375,2175,Norfolk State Spartans,jumper,True,True,False,Diamond Johnson,False,,36.0,8.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Kierra Wheeler.,7,4,1,364,2164,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen made Free Throw.,8,4,1,364,2164,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen missed Free Throw.,8,4,1,364,2164,Stanford Cardinal,free throw,True,False,False,Kiki Iriafen,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'Brya Clark Defensive Rebound.,8,4,1,364,2164,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Three Point Jumper.,8,4,1,345,2145,Norfolk State Spartans,three point jumper,True,False,True,Diamond Johnson,False,,9.0,22.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Stanford Defensive Rebound.,8,4,1,345,2145,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Da'Brya Clark.,8,4,1,323,2123,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink made Jumper. Assisted by Hannah Jump.,10,4,1,320,2120,Stanford Cardinal,jumper,True,True,False,Cameron Brink,True,Hannah Jump,27.0,3.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson made Layup.,10,6,1,302,2102,Norfolk State Spartans,layup,True,True,False,Diamond Johnson,False,,23.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana Turnover.,10,6,1,283,2083,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Skye Robinson Steal.,10,6,1,283,2083,Norfolk State Spartans,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Layup.,10,6,1,276,2076,Norfolk State Spartans,layup,True,False,False,Kierra Wheeler,False,,22.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Defensive Rebound.,10,6,1,276,2076,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Turnover.,10,6,1,262,2062,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans, Official TV Timeout,10,6,1,262,2062,,tv timeout,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Jumper.,10,6,1,250,2050,Norfolk State Spartans,jumper,True,False,False,Kierra Wheeler,False,,30.0,15.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Hannah Jump Defensive Rebound.,10,6,1,250,2050,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen missed Jumper.,10,6,1,233,2033,Stanford Cardinal,jumper,True,False,False,Kiki Iriafen,False,,25.0,16.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson Defensive Rebound.,10,6,1,233,2033,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson made Jumper.,10,8,1,215,2015,Norfolk State Spartans,jumper,True,True,False,Anjanae Richardson,False,,32.0,8.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Hannah Jump made Three Point Jumper. Assisted by Brooke Demetre.,13,8,1,195,1995,Stanford Cardinal,three point jumper,True,True,True,Hannah Jump,True,Brooke Demetre,2.0,7.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields made Layup. Assisted by Anjanae Richardson.,13,10,1,172,1972,Norfolk State Spartans,layup,True,True,False,Niya Fields,True,Anjanae Richardson,28.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen made Layup.,15,10,1,163,1963,Stanford Cardinal,layup,True,True,False,Kiki Iriafen,False,,28.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Jumper.,15,10,1,144,1944,Norfolk State Spartans,jumper,True,False,False,Diamond Johnson,False,,33.0,4.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Defensive Rebound.,15,10,1,144,1944,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen missed Layup.,15,10,1,132,1932,Stanford Cardinal,layup,True,False,False,Kiki Iriafen,False,,25.0,3.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Skye Robinson Defensive Rebound.,15,10,1,132,1932,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Jump Ball won by Norfolk State,15,10,1,132,1932,Norfolk State Spartans,jump ball,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Jumper.,15,10,1,117,1917,Norfolk State Spartans,jumper,True,False,False,Kierra Wheeler,False,,21.0,12.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Defensive Rebound.,15,10,1,117,1917,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre missed Jumper.,15,10,1,97,1897,Stanford Cardinal,jumper,True,False,False,Brooke Demetre,False,,28.0,11.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Norfolk State Defensive Rebound.,15,10,1,97,1897,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Talana Lepolo.,15,10,1,80,1880,Stanford Cardinal,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson made Layup.,15,12,1,64,1864,Norfolk State Spartans,layup,True,True,False,Diamond Johnson,False,,21.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Turnover.,15,12,1,49,1849,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields Steal.,15,12,1,49,1849,Norfolk State Spartans,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields Turnover.,15,12,1,30,1830,Norfolk State Spartans,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Hannah Jump Steal.,15,12,1,30,1830,Stanford Cardinal,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Hannah Jump Turnover.,15,12,1,1,1801,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Skye Robinson Steal.,15,12,1,1,1801,Norfolk State Spartans,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,End of 1st Quarter,15,12,1,0,1800,,end,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Jump Ball won by Norfolk State,15,12,2,600,1800,Norfolk State Spartans,jump ball,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'naijah Williams missed Jumper.,15,12,2,583,1783,Norfolk State Spartans,jumper,True,False,False,Da'naijah Williams,False,,29.0,15.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Defensive Rebound.,15,12,2,583,1783,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink made Layup. Assisted by Kiki Iriafen.,17,12,2,556,1756,Stanford Cardinal,layup,True,True,False,Cameron Brink,True,Kiki Iriafen,22.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Layup.,17,12,2,537,1737,Norfolk State Spartans,layup,True,False,False,Diamond Johnson,False,,21.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Defensive Rebound.,17,12,2,537,1737,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Paris Mullins.,17,12,2,526,1726,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Hannah Jump made Three Point Jumper. Assisted by Kiki Iriafen.,20,12,2,518,1718,Stanford Cardinal,three point jumper,True,True,True,Hannah Jump,True,Kiki Iriafen,44.0,21.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Jumper.,20,12,2,489,1689,Norfolk State Spartans,jumper,True,False,False,Kierra Wheeler,False,,33.0,18.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Defensive Rebound.,20,12,2,489,1689,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen made Jumper.,22,12,2,473,1673,Stanford Cardinal,jumper,True,True,False,Kiki Iriafen,False,,18.0,2.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Layup.,22,12,2,453,1653,Norfolk State Spartans,layup,True,False,False,Kierra Wheeler,False,,28.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Block.,22,12,2,453,1653,Stanford Cardinal,block,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Defensive Rebound.,22,12,2,453,1653,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen made Layup. Assisted by Courtney Ogden.,24,12,2,444,1644,Stanford Cardinal,layup,True,True,False,Kiki Iriafen,True,Courtney Ogden,22.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Norfolk State  Timeout,24,12,2,443,1643,Norfolk State Spartans,timeout,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans, Official TV Timeout,24,12,2,443,1643,,tv timeout,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Three Point Jumper.,24,12,2,430,1630,Norfolk State Spartans,three point jumper,True,False,True,Diamond Johnson,False,,15.0,22.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Defensive Rebound.,24,12,2,430,1630,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Hannah Jump missed Jumper.,24,12,2,409,1609,Stanford Cardinal,jumper,True,False,False,Hannah Jump,False,,33.0,2.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson Defensive Rebound.,24,12,2,409,1609,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Layup.,24,12,2,385,1585,Norfolk State Spartans,layup,True,False,False,Kierra Wheeler,False,,22.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Block.,24,12,2,385,1585,Stanford Cardinal,block,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'naijah Williams Offensive Rebound.,24,12,2,385,1585,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'naijah Williams Turnover.,24,12,2,374,1574,Norfolk State Spartans,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Courtney Ogden Steal.,24,12,2,374,1574,Stanford Cardinal,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Hannah Jump missed Three Point Jumper.,24,12,2,365,1565,Stanford Cardinal,three point jumper,True,False,True,Hannah Jump,False,,7.0,17.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Offensive Rebound.,24,12,2,365,1565,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink made Layup.,26,12,2,358,1558,Stanford Cardinal,layup,True,True,False,Cameron Brink,False,,23.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Cameron Brink.,26,12,2,349,1549,Stanford Cardinal,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Free Throw.,26,12,2,349,1549,Norfolk State Spartans,free throw,True,False,False,Diamond Johnson,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Norfolk State Deadball Team Rebound.,26,12,2,349,1549,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson made Free Throw.,26,13,2,349,1549,Norfolk State Spartans,free throw,True,True,False,Diamond Johnson,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Hannah Jump missed Three Point Jumper.,26,13,2,343,1543,Stanford Cardinal,three point jumper,True,False,True,Hannah Jump,False,,16.0,24.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler Defensive Rebound.,26,13,2,343,1543,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Layup.,26,13,2,323,1523,Norfolk State Spartans,layup,True,False,False,Kierra Wheeler,False,,24.0,3.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Block.,26,13,2,323,1523,Stanford Cardinal,block,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler Offensive Rebound.,26,13,2,321,1521,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Layup.,26,13,2,319,1519,Norfolk State Spartans,layup,True,False,False,Kierra Wheeler,False,,23.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Block.,26,13,2,317,1517,Stanford Cardinal,block,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Defensive Rebound.,26,13,2,314,1514,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Talana Lepolo missed Three Point Jumper.,26,13,2,306,1506,Stanford Cardinal,three point jumper,True,False,True,Talana Lepolo,False,,40.0,19.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Offensive Rebound.,26,13,2,306,1506,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Nunu Agara missed Three Point Jumper.,26,13,2,299,1499,Stanford Cardinal,three point jumper,True,False,True,Nunu Agara,False,,2.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Norfolk State Defensive Rebound.,26,13,2,299,1499,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Kiki Iriafen.,26,13,2,298,1498,Stanford Cardinal,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans, Official TV Timeout,26,13,2,298,1498,,tv timeout,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Cameron Brink.,26,13,2,281,1481,Stanford Cardinal,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson missed Free Throw.,26,13,2,281,1481,Norfolk State Spartans,free throw,True,False,False,Anjanae Richardson,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Norfolk State Deadball Team Rebound.,26,13,2,281,1481,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson missed Free Throw.,26,13,2,281,1481,Norfolk State Spartans,free throw,True,False,False,Anjanae Richardson,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Defensive Rebound.,26,13,2,281,1481,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Diamond Johnson.,26,13,2,262,1462,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen made Free Throw.,27,13,2,262,1462,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen made Free Throw.,28,13,2,262,1462,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields Turnover.,28,13,2,254,1454,Norfolk State Spartans,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen missed Jumper.,28,13,2,236,1436,Stanford Cardinal,jumper,True,False,False,Kiki Iriafen,False,,26.0,16.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson Defensive Rebound.,28,13,2,236,1436,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Layup.,28,13,2,224,1424,Norfolk State Spartans,layup,True,False,False,Kierra Wheeler,False,,28.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields Offensive Rebound.,28,13,2,224,1424,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Elena Bosgana.,28,13,2,218,1418,Stanford Cardinal,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Jumper.,28,13,2,207,1407,Norfolk State Spartans,jumper,True,False,False,Diamond Johnson,False,,12.0,12.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Hannah Jump Defensive Rebound.,28,13,2,207,1407,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen missed Jumper.,28,13,2,178,1378,Stanford Cardinal,jumper,True,False,False,Kiki Iriafen,False,,36.0,5.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson Defensive Rebound.,28,13,2,178,1378,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler made Layup. Assisted by Diamond Johnson.,28,15,2,170,1370,Norfolk State Spartans,layup,True,True,False,Kierra Wheeler,True,Diamond Johnson,21.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre Turnover.,28,15,2,141,1341,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Layup.,28,15,2,126,1326,Norfolk State Spartans,layup,True,False,False,Diamond Johnson,False,,22.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre Defensive Rebound.,28,15,2,126,1326,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre Turnover.,28,15,2,123,1323,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson missed Layup.,28,15,2,112,1312,Norfolk State Spartans,layup,True,False,False,Anjanae Richardson,False,,20.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre Block.,28,15,2,112,1312,Stanford Cardinal,block,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson Offensive Rebound.,28,15,2,112,1312,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson made Layup.,28,17,2,98,1298,Norfolk State Spartans,layup,True,True,False,Anjanae Richardson,False,,24.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Jzaniya Harriel missed Three Point Jumper.,28,17,2,88,1288,Stanford Cardinal,three point jumper,True,False,True,Jzaniya Harriel,False,,8.0,16.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson Defensive Rebound.,28,17,2,88,1288,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson Turnover.,28,17,2,88,1288,Norfolk State Spartans,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen made Layup. Assisted by Brooke Demetre.,30,17,2,79,1279,Stanford Cardinal,layup,True,True,False,Kiki Iriafen,True,Brooke Demetre,28.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Jumper.,30,17,2,53,1253,Norfolk State Spartans,jumper,True,False,False,Kierra Wheeler,False,,17.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre Defensive Rebound.,30,17,2,53,1253,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Talana Lepolo missed Three Point Jumper.,30,17,2,43,1243,Stanford Cardinal,three point jumper,True,False,True,Talana Lepolo,False,,37.0,21.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson Defensive Rebound.,30,17,2,43,1243,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson made Layup.,30,19,2,20,1220,Norfolk State Spartans,layup,True,True,False,Diamond Johnson,False,,21.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen made Layup.,32,19,2,3,1203,Stanford Cardinal,layup,True,True,False,Kiki Iriafen,False,,21.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,End of 2nd Quarter,32,19,2,0,1200,,end,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Jump Ball won by Stanford,32,19,3,600,1200,Stanford Cardinal,jump ball,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Da'naijah Williams.,32,19,3,591,1191,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen made Free Throw.,33,19,3,591,1191,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen made Free Throw.,34,19,3,591,1191,Stanford Cardinal,free throw,True,True,False,Kiki Iriafen,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields made Layup.,34,21,3,580,1180,Norfolk State Spartans,layup,True,True,False,Niya Fields,False,,22.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen missed Layup.,34,21,3,571,1171,Stanford Cardinal,layup,True,False,False,Kiki Iriafen,False,,22.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Stanford Offensive Rebound.,34,21,3,571,1171,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink made Jumper.,36,21,3,565,1165,Stanford Cardinal,jumper,True,True,False,Cameron Brink,False,,17.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Layup.,36,21,3,544,1144,Norfolk State Spartans,layup,True,False,False,Diamond Johnson,False,,29.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Defensive Rebound.,36,21,3,544,1144,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Hannah Jump made Three Point Jumper. Assisted by Talana Lepolo.,39,21,3,537,1137,Stanford Cardinal,three point jumper,True,True,True,Hannah Jump,True,Talana Lepolo,43.0,16.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Niya Fields.,39,21,3,537,1137,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Hannah Jump made Free Throw.,40,21,3,537,1137,Stanford Cardinal,free throw,True,True,False,Hannah Jump,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler made Layup.,40,23,3,512,1112,Norfolk State Spartans,layup,True,True,False,Kierra Wheeler,False,,28.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink made Jumper.,42,23,3,490,1090,Stanford Cardinal,jumper,True,True,False,Cameron Brink,False,,18.0,8.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler made Jumper. Assisted by Diamond Johnson.,42,25,3,470,1070,Norfolk State Spartans,jumper,True,True,False,Kierra Wheeler,True,Diamond Johnson,13.0,17.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen missed Jumper.,42,25,3,456,1056,Stanford Cardinal,jumper,True,False,False,Kiki Iriafen,False,,21.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler Block.,42,25,3,456,1056,Norfolk State Spartans,block,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson Defensive Rebound.,42,25,3,456,1056,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Talana Lepolo.,42,25,3,437,1037,Stanford Cardinal,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson made Free Throw.,42,26,3,437,1037,Norfolk State Spartans,free throw,True,True,False,Diamond Johnson,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson made Free Throw.,42,27,3,437,1037,Norfolk State Spartans,free throw,True,True,False,Diamond Johnson,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Chloe Clardy Turnover.,42,27,3,428,1028,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Three Point Jumper.,42,27,3,423,1023,Norfolk State Spartans,three point jumper,True,False,True,Diamond Johnson,False,,44.0,14.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler Offensive Rebound.,42,27,3,423,1023,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Cameron Brink.,42,27,3,421,1021,Stanford Cardinal,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'Brya Clark missed Layup.,42,27,3,416,1016,Norfolk State Spartans,layup,True,False,False,Da'Brya Clark,False,,21.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Defensive Rebound.,42,27,3,416,1016,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre Turnover.,42,27,3,399,999,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson Steal.,42,27,3,399,999,Norfolk State Spartans,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler made Jumper.,42,29,3,390,990,Norfolk State Spartans,jumper,True,True,False,Kierra Wheeler,False,,29.0,5.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Da'Brya Clark.,42,29,3,369,969,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana made Three Point Jumper. Assisted by Hannah Jump.,45,29,3,367,967,Stanford Cardinal,three point jumper,True,True,True,Elena Bosgana,True,Hannah Jump,48.0,2.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Skye Robinson made Jumper. Assisted by Niya Fields.,45,31,3,347,947,Norfolk State Spartans,jumper,True,True,False,Skye Robinson,True,Niya Fields,39.0,11.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre made Jumper. Assisted by Talana Lepolo.,47,31,3,326,926,Stanford Cardinal,jumper,True,True,False,Brooke Demetre,True,Talana Lepolo,29.0,8.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson made Jumper.,47,33,3,302,902,Norfolk State Spartans,jumper,True,True,False,Diamond Johnson,False,,20.0,2.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Hannah Jump made Three Point Jumper. Assisted by Talana Lepolo.,50,33,3,293,893,Stanford Cardinal,three point jumper,True,True,True,Hannah Jump,True,Talana Lepolo,48.0,2.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Jumper.,50,33,3,260,860,Norfolk State Spartans,jumper,True,False,False,Kierra Wheeler,False,,25.0,4.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler Offensive Rebound.,50,33,3,260,860,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Layup.,50,33,3,255,855,Norfolk State Spartans,layup,True,False,False,Kierra Wheeler,False,,22.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre Defensive Rebound.,50,33,3,255,855,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Skye Robinson.,50,33,3,254,854,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans, Official TV Timeout,50,33,3,254,854,,tv timeout,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Talana Lepolo missed Three Point Jumper.,50,33,3,237,837,Stanford Cardinal,three point jumper,True,False,True,Talana Lepolo,False,,14.0,23.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson Defensive Rebound.,50,33,3,237,837,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Jumper.,50,33,3,214,814,Norfolk State Spartans,jumper,True,False,False,Diamond Johnson,False,,30.0,9.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Talana Lepolo Defensive Rebound.,50,33,3,214,814,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Turnover.,50,33,3,198,798,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson Steal.,50,33,3,198,798,Norfolk State Spartans,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler missed Jumper.,50,33,3,180,780,Norfolk State Spartans,jumper,True,False,False,Kierra Wheeler,False,,28.0,5.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Block.,50,33,3,180,780,Stanford Cardinal,block,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana Defensive Rebound.,50,33,3,180,780,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre missed Jumper.,50,33,3,160,760,Stanford Cardinal,jumper,True,False,False,Brooke Demetre,False,,37.0,6.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields Defensive Rebound.,50,33,3,160,760,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields Turnover.,50,33,3,154,754,Norfolk State Spartans,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre made Jumper. Assisted by Elena Bosgana.,52,33,3,142,742,Stanford Cardinal,jumper,True,True,False,Brooke Demetre,True,Elena Bosgana,27.0,13.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson made Jumper.,52,35,3,108,708,Norfolk State Spartans,jumper,True,True,False,Diamond Johnson,False,,42.0,-4.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana missed Layup.,52,35,3,100,700,Stanford Cardinal,layup,True,False,False,Elena Bosgana,False,,29.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler Block.,52,35,3,100,700,Norfolk State Spartans,block,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Stanford Offensive Rebound.,52,35,3,100,700,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Paris Mullins.,52,35,3,91,691,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink made Free Throw.,53,35,3,91,691,Stanford Cardinal,free throw,True,True,False,Cameron Brink,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink missed Free Throw.,53,35,3,91,691,Stanford Cardinal,free throw,True,False,False,Cameron Brink,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Paris Mullins Defensive Rebound.,53,35,3,91,691,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson Turnover.,53,35,3,81,681,Norfolk State Spartans,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Steal.,53,35,3,81,681,Stanford Cardinal,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana made Layup. Assisted by Cameron Brink.,55,35,3,75,675,Stanford Cardinal,layup,True,True,False,Elena Bosgana,True,Cameron Brink,28.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler made Jumper. Assisted by Anjanae Richardson.,55,37,3,48,648,Norfolk State Spartans,jumper,True,True,False,Kierra Wheeler,True,Anjanae Richardson,31.0,20.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana made Three Point Jumper. Assisted by Talana Lepolo.,58,37,3,30,630,Stanford Cardinal,three point jumper,True,True,True,Elena Bosgana,True,Talana Lepolo,3.0,15.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Paris Mullins missed Jumper.,58,37,3,4,604,Norfolk State Spartans,jumper,True,False,False,Paris Mullins,False,,44.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana Defensive Rebound.,58,37,3,4,604,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,End of 3rd Quarter,58,37,3,0,600,,end,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Jump Ball won by Norfolk State,58,37,4,600,600,Norfolk State Spartans,jump ball,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Jumper.,58,37,4,589,589,Norfolk State Spartans,jumper,True,False,False,Diamond Johnson,False,,24.0,17.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre Defensive Rebound.,58,37,4,589,589,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Kierra Wheeler.,58,37,4,580,580,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink missed Layup.,58,37,4,572,572,Stanford Cardinal,layup,True,False,False,Cameron Brink,False,,29.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler Defensive Rebound.,58,37,4,572,572,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields missed Jumper.,58,37,4,565,565,Norfolk State Spartans,jumper,True,False,False,Niya Fields,False,,30.0,8.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'naijah Williams Offensive Rebound.,58,37,4,565,565,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Brooke Demetre.,58,37,4,562,562,Stanford Cardinal,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'naijah Williams missed Free Throw.,58,37,4,562,562,Norfolk State Spartans,free throw,True,False,False,Da'naijah Williams,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Norfolk State Deadball Team Rebound.,58,37,4,562,562,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'naijah Williams made Free Throw.,58,38,4,562,562,Norfolk State Spartans,free throw,True,True,False,Da'naijah Williams,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink missed Layup.,58,38,4,537,537,Stanford Cardinal,layup,True,False,False,Cameron Brink,False,,28.0,2.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler Block.,58,38,4,537,537,Norfolk State Spartans,block,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Offensive Rebound.,58,38,4,537,537,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink made Layup.,60,38,4,529,529,Stanford Cardinal,layup,True,True,False,Cameron Brink,False,,24.0,2.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson made Jumper.,60,40,4,519,519,Norfolk State Spartans,jumper,True,True,False,Diamond Johnson,False,,26.0,15.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana missed Three Point Jumper.,60,40,4,503,503,Stanford Cardinal,three point jumper,True,False,True,Elena Bosgana,False,,11.0,23.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'naijah Williams Defensive Rebound.,60,40,4,503,503,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields Turnover.,60,40,4,496,496,Norfolk State Spartans,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana made Three Point Jumper. Assisted by Cameron Brink.,63,40,4,479,479,Stanford Cardinal,three point jumper,True,True,True,Elena Bosgana,True,Cameron Brink,48.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Layup.,63,40,4,458,458,Norfolk State Spartans,layup,True,False,False,Diamond Johnson,False,,22.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Block.,63,40,4,458,458,Stanford Cardinal,block,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Norfolk State Offensive Rebound.,63,40,4,458,458,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Skye Robinson missed Jumper.,63,40,4,450,450,Norfolk State Spartans,jumper,True,False,False,Skye Robinson,False,,6.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson Offensive Rebound.,63,40,4,450,450,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Talana Lepolo.,63,40,4,446,446,Stanford Cardinal,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson made Free Throw.,63,41,4,446,446,Norfolk State Spartans,free throw,True,True,False,Diamond Johnson,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson made Free Throw.,63,42,4,446,446,Norfolk State Spartans,free throw,True,True,False,Diamond Johnson,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Courtney Ogden missed Three Point Jumper.,63,42,4,432,432,Stanford Cardinal,three point jumper,True,False,True,Courtney Ogden,False,,2.0,2.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Offensive Rebound.,63,42,4,432,432,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Da'naijah Williams.,63,42,4,427,427,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Kierra Wheeler.,63,42,4,420,420,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink missed Layup.,63,42,4,413,413,Stanford Cardinal,layup,True,False,False,Cameron Brink,False,,21.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'naijah Williams Defensive Rebound.,63,42,4,413,413,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Brooke Demetre.,63,42,4,411,411,Stanford Cardinal,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Three Point Jumper.,63,42,4,397,397,Norfolk State Spartans,three point jumper,True,False,True,Diamond Johnson,False,,43.0,19.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Defensive Rebound.,63,42,4,397,397,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Skye Robinson.,63,42,4,395,395,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Kierra Wheeler.,63,42,4,386,386,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink missed Free Throw.,63,42,4,386,386,Stanford Cardinal,free throw,True,False,False,Cameron Brink,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Stanford Deadball Team Rebound.,63,42,4,386,386,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink missed Free Throw.,63,42,4,386,386,Stanford Cardinal,free throw,True,False,False,Cameron Brink,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Courtney Ogden Offensive Rebound.,63,42,4,385,385,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Courtney Ogden Turnover.,63,42,4,380,380,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson Steal.,63,42,4,380,380,Norfolk State Spartans,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Block.,63,42,4,375,375,Stanford Cardinal,block,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'naijah Williams missed Layup.,63,42,4,375,375,Norfolk State Spartans,layup,True,False,False,Da'naijah Williams,False,,28.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Norfolk State Offensive Rebound.,63,42,4,373,373,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Chloe Clardy.,63,42,4,370,370,Stanford Cardinal,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Three Point Jumper.,63,42,4,363,363,Norfolk State Spartans,three point jumper,True,False,True,Diamond Johnson,False,,34.0,25.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink Defensive Rebound.,63,42,4,363,363,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Chloe Clardy Turnover.,63,42,4,344,344,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields Steal.,63,42,4,344,344,Norfolk State Spartans,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Layup.,63,42,4,337,337,Norfolk State Spartans,layup,True,False,False,Diamond Johnson,False,,25.0,3.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Chloe Clardy Defensive Rebound.,63,42,4,337,337,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Cameron Brink made Layup. Assisted by Chloe Clardy.,65,42,4,330,330,Stanford Cardinal,layup,True,True,False,Cameron Brink,True,Chloe Clardy,28.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson Turnover.,65,42,4,315,315,Norfolk State Spartans,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Courtney Ogden Steal.,65,42,4,315,315,Stanford Cardinal,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Courtney Ogden made Layup.,67,42,4,310,310,Stanford Cardinal,layup,True,True,False,Courtney Ogden,False,,28.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Niya Fields.,67,42,4,310,310,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Courtney Ogden missed Free Throw.,67,42,4,310,310,Stanford Cardinal,free throw,True,False,False,Courtney Ogden,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler Defensive Rebound.,67,42,4,310,310,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields missed Jumper.,67,42,4,297,297,Norfolk State Spartans,jumper,True,False,False,Niya Fields,False,,16.0,15.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana Defensive Rebound.,67,42,4,297,297,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre made Jumper. Assisted by Cameron Brink.,69,42,4,283,283,Stanford Cardinal,jumper,True,True,False,Brooke Demetre,True,Cameron Brink,30.0,15.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Norfolk State  Timeout,69,42,4,271,271,Norfolk State Spartans,timeout,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans, Official TV Timeout,69,42,4,271,271,,tv timeout,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson missed Three Point Jumper.,69,42,4,269,269,Norfolk State Spartans,three point jumper,True,False,True,Anjanae Richardson,False,,30.0,23.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'naijah Williams Offensive Rebound.,69,42,4,269,269,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields missed Layup.,69,42,4,256,256,Norfolk State Spartans,layup,True,False,False,Niya Fields,False,,28.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Jzaniya Harriel Defensive Rebound.,69,42,4,256,256,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana made Layup. Assisted by Brooke Demetre.,71,42,4,243,243,Stanford Cardinal,layup,True,True,False,Elena Bosgana,True,Brooke Demetre,28.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'Brya Clark missed Three Point Jumper.,71,42,4,229,229,Norfolk State Spartans,three point jumper,True,False,True,Da'Brya Clark,False,,30.0,24.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Brooke Demetre Defensive Rebound.,71,42,4,229,229,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Courtney Ogden Turnover.,71,42,4,213,213,Stanford Cardinal,turnover,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Niya Fields Steal.,71,42,4,213,213,Norfolk State Spartans,steal,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson made Three Point Jumper. Assisted by Niya Fields.,71,45,4,205,205,Norfolk State Spartans,three point jumper,True,True,True,Anjanae Richardson,True,Niya Fields,46.0,14.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Courtney Ogden made Three Point Jumper. Assisted by Kiki Iriafen.,74,45,4,182,182,Stanford Cardinal,three point jumper,True,True,True,Courtney Ogden,True,Kiki Iriafen,37.0,21.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson missed Three Point Jumper.,74,45,4,147,147,Norfolk State Spartans,three point jumper,True,False,True,Anjanae Richardson,False,,45.0,13.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kiki Iriafen Defensive Rebound.,74,45,4,147,147,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana missed Layup.,74,45,4,137,137,Stanford Cardinal,layup,True,False,False,Elena Bosgana,False,,29.0,0.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Paris Mullins Block.,74,45,4,137,137,Norfolk State Spartans,block,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'Brya Clark Defensive Rebound.,74,45,4,137,137,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Da'naijah Williams missed Jumper.,74,45,4,123,123,Norfolk State Spartans,jumper,True,False,False,Da'naijah Williams,False,,42.0,3.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Courtney Ogden Defensive Rebound.,74,45,4,123,123,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Jzaniya Harriel missed Three Point Jumper.,74,45,4,115,115,Stanford Cardinal,three point jumper,True,False,True,Jzaniya Harriel,False,,41.0,18.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana Offensive Rebound.,74,45,4,114,114,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Anjanae Richardson.,74,45,4,114,114,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana made Free Throw.,75,45,4,114,114,Stanford Cardinal,free throw,True,True,False,Elena Bosgana,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Elena Bosgana made Free Throw.,76,45,4,114,114,Stanford Cardinal,free throw,True,True,False,Elena Bosgana,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Three Point Jumper.,76,45,4,98,98,Norfolk State Spartans,three point jumper,True,False,True,Diamond Johnson,False,,17.0,23.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Jzaniya Harriel Defensive Rebound.,76,45,4,98,98,Stanford Cardinal,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Jump Ball won by Stanford,76,45,4,91,91,Stanford Cardinal,jump ball,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Chloe Clardy made Jumper.,78,45,4,73,73,Stanford Cardinal,jumper,True,True,False,Chloe Clardy,False,,27.0,16.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Paris Mullins missed Layup.,78,45,4,51,51,Norfolk State Spartans,layup,True,False,False,Paris Mullins,False,,22.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler Offensive Rebound.,78,45,4,51,51,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler made Layup.,78,47,4,50,50,Norfolk State Spartans,layup,True,True,False,Kierra Wheeler,False,,28.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Stavi Papadaki.,78,47,4,50,50,Stanford Cardinal,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler made Free Throw.,78,48,4,50,50,Norfolk State Spartans,free throw,True,True,False,Kierra Wheeler,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Foul on Da'Brya Clark.,78,48,4,45,45,Norfolk State Spartans,foul,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Chloe Clardy made Free Throw.,79,48,4,45,45,Stanford Cardinal,free throw,True,True,False,Chloe Clardy,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Chloe Clardy missed Free Throw.,79,48,4,45,45,Stanford Cardinal,free throw,True,False,False,Chloe Clardy,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Anjanae Richardson Defensive Rebound.,79,48,4,45,45,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Diamond Johnson missed Three Point Jumper.,79,48,4,34,34,Norfolk State Spartans,three point jumper,True,False,True,Diamond Johnson,False,,42.0,18.0
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler Offensive Rebound.,79,48,4,34,34,Norfolk State Spartans,rebound,False,False,False,,False,,,
+401637550,Stanford Cardinal,Norfolk State Spartans,Kierra Wheeler made Layup.,79,50,4,28,28,Norfolk State Spartans,layup,True,True,False,Kierra Wheeler,False,,22.0,1.0
+401637550,Stanford Cardinal,Norfolk State Spartans,End of Game,79,50,4,0,0,,end,False,False,False,,False,,,

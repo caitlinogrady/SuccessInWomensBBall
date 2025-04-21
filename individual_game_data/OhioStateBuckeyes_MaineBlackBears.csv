@@ -1,0 +1,288 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637558,Ohio State Buckeyes,Maine Black Bears,Jump Ball won by Ohio State,0,0,1,600,2400,Ohio State Buckeyes,jump ball,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon made Layup.,2,0,1,585,2385,Ohio State Buckeyes,layup,True,True,False,Cotie McMahon,False,,23.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Turnover.,2,0,1,557,2357,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Steal.,2,0,1,557,2357,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon missed Three Point Jumper.,2,0,1,535,2335,Ohio State Buckeyes,three point jumper,True,False,True,Jacy Sheldon,False,,44.0,14.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry Offensive Rebound.,2,0,1,535,2335,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Rebeka Mikulasikova made Layup. Assisted by Taylor Thierry.,4,0,1,530,2330,Ohio State Buckeyes,layup,True,True,False,Rebeka Mikulasikova,True,Taylor Thierry,27.0,2.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood made Three Point Jumper. Assisted by Sarah Talon.,4,3,1,497,2297,Maine Black Bears,three point jumper,True,True,True,Olivia Rockwood,True,Sarah Talon,21.0,24.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon missed Jumper.,4,3,1,474,2274,Ohio State Buckeyes,jumper,True,False,False,Cotie McMahon,False,,28.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Caroline Bornemann Defensive Rebound.,4,3,1,474,2274,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood made Three Point Jumper. Assisted by Anne Simon.,4,6,1,465,2265,Maine Black Bears,three point jumper,True,True,True,Olivia Rockwood,True,Anne Simon,47.0,10.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Sarah Talon.,4,6,1,442,2242,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor made Free Throw.,5,6,1,442,2242,Ohio State Buckeyes,free throw,True,True,False,Celeste Taylor,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor made Free Throw.,6,6,1,442,2242,Ohio State Buckeyes,free throw,True,True,False,Celeste Taylor,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor made Free Throw.,7,6,1,442,2242,Ohio State Buckeyes,free throw,True,True,False,Celeste Taylor,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon Turnover.,7,6,1,422,2222,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon Steal.,7,6,1,422,2222,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry made Layup. Assisted by Cotie McMahon.,9,6,1,400,2200,Ohio State Buckeyes,layup,True,True,False,Taylor Thierry,True,Cotie McMahon,21.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Sarah Talon Turnover.,9,6,1,384,2184,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon made Layup. Assisted by Celeste Taylor.,11,6,1,373,2173,Ohio State Buckeyes,layup,True,True,False,Cotie McMahon,True,Celeste Taylor,27.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon made Layup. Assisted by Adrianna Smith.,11,8,1,354,2154,Maine Black Bears,layup,True,True,False,Anne Simon,True,Adrianna Smith,27.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry Turnover.,11,8,1,337,2137,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Steal.,11,8,1,337,2137,Maine Black Bears,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Turnover.,11,8,1,321,2121,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon Turnover.,11,8,1,306,2106,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood Steal.,11,8,1,306,2106,Maine Black Bears,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood made Three Point Jumper. Assisted by Adrianna Smith.,11,11,1,282,2082,Maine Black Bears,three point jumper,True,True,True,Olivia Rockwood,True,Adrianna Smith,7.0,19.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon missed Three Point Jumper.,11,11,1,259,2059,Ohio State Buckeyes,three point jumper,True,False,True,Cotie McMahon,False,,31.0,24.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Defensive Rebound.,11,11,1,259,2059,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith made Three Point Jumper. Assisted by Anne Simon.,11,14,1,236,2036,Maine Black Bears,three point jumper,True,True,True,Adrianna Smith,True,Anne Simon,48.0,7.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon missed Three Point Jumper.,11,14,1,211,2011,Ohio State Buckeyes,three point jumper,True,False,True,Jacy Sheldon,False,,37.0,20.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry Offensive Rebound.,11,14,1,211,2011,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry made Layup.,13,14,1,204,2004,Ohio State Buckeyes,layup,True,True,False,Taylor Thierry,False,,22.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Celeste Taylor.,13,14,1,200,2000,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears, Official TV Timeout,13,14,1,200,2000,,tv timeout,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon missed Layup.,13,14,1,180,1980,Maine Black Bears,layup,True,False,False,Anne Simon,False,,28.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Block.,13,14,1,180,1980,Ohio State Buckeyes,block,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Maine Offensive Rebound.,13,14,1,180,1980,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon missed Three Point Jumper.,13,14,1,173,1973,Maine Black Bears,three point jumper,True,False,True,Anne Simon,False,,4.0,15.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Maine Deadball Team Rebound.,13,14,1,173,1973,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Maine  Turnover.,13,14,1,169,1969,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor made Three Point Jumper. Assisted by Rikki Harris.,16,14,1,153,1953,Ohio State Buckeyes,three point jumper,True,True,True,Celeste Taylor,True,Rikki Harris,49.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Anna Kahelin Turnover.,16,14,1,136,1936,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Rikki Harris Steal.,16,14,1,136,1936,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Olivia Rockwood.,16,14,1,126,1926,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taiyier Parks missed Jumper.,16,14,1,118,1918,Ohio State Buckeyes,jumper,True,False,False,Taiyier Parks,False,,29.0,3.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Defensive Rebound.,16,14,1,118,1918,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith missed Three Point Jumper.,16,14,1,97,1897,Maine Black Bears,three point jumper,True,False,True,Adrianna Smith,False,,22.0,24.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Defensive Rebound.,16,14,1,97,1897,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Anne Simon.,16,14,1,92,1892,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon made Jumper.,18,14,1,79,1879,Ohio State Buckeyes,jumper,True,True,False,Jacy Sheldon,False,,30.0,5.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Sera Hodgson Turnover.,18,14,1,57,1857,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon made Jumper.,20,14,1,39,1839,Ohio State Buckeyes,jumper,True,True,False,Cotie McMahon,False,,22.0,4.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith made Jumper.,20,16,1,11,1811,Maine Black Bears,jumper,True,True,False,Adrianna Smith,False,,34.0,-1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon made Jumper.,22,16,1,1,1801,Ohio State Buckeyes,jumper,True,True,False,Jacy Sheldon,False,,25.0,13.0
+401637558,Ohio State Buckeyes,Maine Black Bears,End of 1st Quarter,22,16,1,0,1800,,end,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jump Ball won by Ohio State,22,16,2,600,1800,Ohio State Buckeyes,jump ball,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon missed Layup.,22,16,2,590,1790,Ohio State Buckeyes,layup,True,False,False,Cotie McMahon,False,,26.0,2.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Maine Defensive Rebound.,22,16,2,590,1790,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Turnover.,22,16,2,559,1759,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Steal.,22,16,2,559,1759,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Anne Simon.,22,16,2,552,1752,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor made Free Throw.,23,16,2,552,1752,Ohio State Buckeyes,free throw,True,True,False,Celeste Taylor,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor missed Free Throw.,23,16,2,552,1752,Ohio State Buckeyes,free throw,True,False,False,Celeste Taylor,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon Defensive Rebound.,23,16,2,552,1752,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Turnover.,23,16,2,546,1746,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon missed Jumper.,23,16,2,533,1733,Ohio State Buckeyes,jumper,True,False,False,Jacy Sheldon,False,,11.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Caroline Bornemann Defensive Rebound.,23,16,2,533,1733,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood missed Three Point Jumper.,23,16,2,503,1703,Maine Black Bears,three point jumper,True,False,True,Olivia Rockwood,False,,3.0,20.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Taiyier Parks Defensive Rebound.,23,16,2,503,1703,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Rikki Harris made Three Point Jumper. Assisted by Cotie McMahon.,26,16,2,495,1695,Ohio State Buckeyes,three point jumper,True,True,True,Rikki Harris,True,Cotie McMahon,43.0,16.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Maine  Timeout,26,16,2,489,1689,Maine Black Bears,timeout,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears, Official TV Timeout,26,16,2,489,1689,,tv timeout,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Adrianna Smith.,26,16,2,462,1662,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Turnover.,26,16,2,462,1662,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon missed Jumper.,26,16,2,451,1651,Ohio State Buckeyes,jumper,True,False,False,Cotie McMahon,False,,24.0,11.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood Defensive Rebound.,26,16,2,451,1651,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Taiyier Parks.,26,16,2,435,1635,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Madison Greene.,26,16,2,422,1622,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon made Layup. Assisted by Adrianna Smith.,26,18,2,414,1614,Maine Black Bears,layup,True,True,False,Anne Simon,True,Adrianna Smith,30.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Caroline Bornemann.,26,18,2,394,1594,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon made Three Point Jumper. Assisted by Rebeka Mikulasikova.,29,18,2,386,1586,Ohio State Buckeyes,three point jumper,True,True,True,Jacy Sheldon,True,Rebeka Mikulasikova,13.0,21.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon missed Layup.,29,18,2,359,1559,Maine Black Bears,layup,True,False,False,Anne Simon,False,,27.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon Defensive Rebound.,29,18,2,359,1559,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Madison Greene missed Three Point Jumper.,29,18,2,350,1550,Ohio State Buckeyes,three point jumper,True,False,True,Madison Greene,False,,9.0,17.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Rebeka Mikulasikova Offensive Rebound.,29,18,2,350,1550,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Olivia Rockwood.,29,18,2,347,1547,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Rebeka Mikulasikova made Free Throw.,30,18,2,347,1547,Ohio State Buckeyes,free throw,True,True,False,Rebeka Mikulasikova,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Rebeka Mikulasikova made Free Throw.,31,18,2,347,1547,Ohio State Buckeyes,free throw,True,True,False,Rebeka Mikulasikova,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Maine  Turnover.,31,18,2,335,1535,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Caroline Bornemann.,31,18,2,315,1515,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry missed Free Throw.,31,18,2,315,1515,Ohio State Buckeyes,free throw,True,False,False,Taylor Thierry,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Ohio State Deadball Team Rebound.,31,18,2,315,1515,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry made Free Throw.,32,18,2,315,1515,Ohio State Buckeyes,free throw,True,True,False,Taylor Thierry,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood missed Three Point Jumper.,32,18,2,301,1501,Maine Black Bears,three point jumper,True,False,True,Olivia Rockwood,False,,19.0,24.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry Block.,32,18,2,301,1501,Ohio State Buckeyes,block,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Rebeka Mikulasikova Defensive Rebound.,32,18,2,301,1501,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry made Layup. Assisted by Rebeka Mikulasikova.,34,18,2,295,1495,Ohio State Buckeyes,layup,True,True,False,Taylor Thierry,True,Rebeka Mikulasikova,24.0,2.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon Turnover.,34,18,2,283,1483,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Steal.,34,18,2,283,1483,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry missed Layup.,34,18,2,276,1476,Ohio State Buckeyes,layup,True,False,False,Taylor Thierry,False,,23.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry Offensive Rebound.,34,18,2,276,1476,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Paula Gallego.,34,18,2,273,1473,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears, Official TV Timeout,34,18,2,273,1473,,tv timeout,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry made Free Throw.,35,18,2,273,1473,Ohio State Buckeyes,free throw,True,True,False,Taylor Thierry,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry missed Free Throw.,35,18,2,273,1473,Ohio State Buckeyes,free throw,True,False,False,Taylor Thierry,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Paula Gallego Defensive Rebound.,35,18,2,273,1473,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Sera Hodgson Turnover.,35,18,2,264,1464,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Steal.,35,18,2,264,1464,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor missed Three Point Jumper.,35,18,2,252,1452,Ohio State Buckeyes,three point jumper,True,False,True,Celeste Taylor,False,,42.0,17.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon Defensive Rebound.,35,18,2,252,1452,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon missed Layup.,35,18,2,220,1420,Maine Black Bears,layup,True,False,False,Anne Simon,False,,27.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Ohio State Defensive Rebound.,35,18,2,220,1420,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Turnover.,35,18,2,207,1407,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon missed Layup.,35,18,2,182,1382,Maine Black Bears,layup,True,False,False,Anne Simon,False,,29.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Madison Greene Defensive Rebound.,35,18,2,182,1382,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon made Layup.,37,18,2,173,1373,Ohio State Buckeyes,layup,True,True,False,Jacy Sheldon,False,,22.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Olivia Rockwood.,37,18,2,173,1373,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon made Free Throw.,38,18,2,173,1373,Ohio State Buckeyes,free throw,True,True,False,Jacy Sheldon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith made Jumper.,38,20,2,148,1348,Maine Black Bears,jumper,True,True,False,Adrianna Smith,False,,25.0,5.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon missed Three Point Jumper.,38,20,2,125,1325,Ohio State Buckeyes,three point jumper,True,False,True,Jacy Sheldon,False,,3.0,8.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry Offensive Rebound.,38,20,2,125,1325,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Adrianna Smith.,38,20,2,119,1319,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry made Free Throw.,39,20,2,119,1319,Ohio State Buckeyes,free throw,True,True,False,Taylor Thierry,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry made Free Throw.,40,20,2,119,1319,Ohio State Buckeyes,free throw,True,True,False,Taylor Thierry,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon made Layup.,40,22,2,96,1296,Maine Black Bears,layup,True,True,False,Anne Simon,False,,28.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Rikki Harris missed Three Point Jumper.,40,22,2,70,1270,Ohio State Buckeyes,three point jumper,True,False,True,Rikki Harris,False,,2.0,4.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Jaycie Christopher Defensive Rebound.,40,22,2,70,1270,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jaycie Christopher missed Three Point Jumper.,40,22,2,46,1246,Maine Black Bears,three point jumper,True,False,True,Jaycie Christopher,False,,1.0,3.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Jaycie Christopher Offensive Rebound.,40,22,2,46,1246,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon made Jumper.,40,24,2,33,1233,Maine Black Bears,jumper,True,True,False,Anne Simon,False,,10.0,3.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Madison Greene made Three Point Jumper. Assisted by Celeste Taylor.,43,24,2,2,1202,Ohio State Buckeyes,three point jumper,True,True,True,Madison Greene,True,Celeste Taylor,29.0,25.0
+401637558,Ohio State Buckeyes,Maine Black Bears,End of 2nd Quarter,43,24,2,0,1200,,end,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jump Ball won by Maine,43,24,3,600,1200,Maine Black Bears,jump ball,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood Turnover.,43,24,3,593,1193,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Steal.,43,24,3,593,1193,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor made Layup.,45,24,3,588,1188,Ohio State Buckeyes,layup,True,True,False,Celeste Taylor,False,,23.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon missed Jumper.,45,24,3,565,1165,Maine Black Bears,jumper,True,False,False,Anne Simon,False,,38.0,2.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon Defensive Rebound.,45,24,3,565,1165,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon made Three Point Jumper.,48,24,3,534,1134,Ohio State Buckeyes,three point jumper,True,True,True,Jacy Sheldon,False,,9.0,21.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Sarah Talon made Layup.,48,26,3,514,1114,Maine Black Bears,layup,True,True,False,Sarah Talon,False,,23.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Rebeka Mikulasikova missed Three Point Jumper.,48,26,3,506,1106,Ohio State Buckeyes,three point jumper,True,False,True,Rebeka Mikulasikova,False,,1.0,3.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Maine Defensive Rebound.,48,26,3,506,1106,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon missed Layup.,48,26,3,486,1086,Maine Black Bears,layup,True,False,False,Anne Simon,False,,27.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Rebeka Mikulasikova Defensive Rebound.,48,26,3,486,1086,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon missed Three Point Jumper.,48,26,3,473,1073,Ohio State Buckeyes,three point jumper,True,False,True,Jacy Sheldon,False,,48.0,-1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood Defensive Rebound.,48,26,3,473,1073,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon missed Three Point Jumper.,48,26,3,451,1051,Maine Black Bears,three point jumper,True,False,True,Anne Simon,False,,5.0,11.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Sarah Talon Offensive Rebound.,48,26,3,451,1051,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Taylor Thierry.,48,26,3,424,1024,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Sarah Talon missed Free Throw.,48,26,3,424,1024,Maine Black Bears,free throw,True,False,False,Sarah Talon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Maine Deadball Team Rebound.,48,26,3,424,1024,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Sarah Talon missed Free Throw.,48,26,3,424,1024,Maine Black Bears,free throw,True,False,False,Sarah Talon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon Defensive Rebound.,48,26,3,424,1024,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Rebeka Mikulasikova missed Layup.,48,26,3,407,1007,Ohio State Buckeyes,layup,True,False,False,Rebeka Mikulasikova,False,,27.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Defensive Rebound.,48,26,3,407,1007,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Rebeka Mikulasikova.,48,26,3,405,1005,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood made Three Point Jumper. Assisted by Anne Simon.,48,29,3,394,994,Maine Black Bears,three point jumper,True,True,True,Olivia Rockwood,True,Anne Simon,4.0,11.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry missed Jumper.,48,29,3,394,994,Ohio State Buckeyes,jumper,True,False,False,Taylor Thierry,False,,16.0,5.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry made Layup.,50,29,3,385,985,Ohio State Buckeyes,layup,True,True,False,Taylor Thierry,False,,23.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Taylor Thierry Offensive Rebound.,50,29,3,374,974,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith made Jumper.,50,31,3,347,947,Maine Black Bears,jumper,True,True,False,Adrianna Smith,False,,29.0,4.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon Turnover.,50,31,3,330,930,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon Steal.,50,31,3,330,930,Maine Black Bears,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon made Layup.,50,33,3,319,919,Maine Black Bears,layup,True,True,False,Anne Simon,False,,27.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon made Layup. Assisted by Jacy Sheldon.,52,33,3,296,896,Ohio State Buckeyes,layup,True,True,False,Cotie McMahon,True,Jacy Sheldon,27.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Adrianna Smith.,52,33,3,296,896,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears, Official TV Timeout,52,33,3,296,896,,tv timeout,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon made Free Throw.,53,33,3,296,896,Ohio State Buckeyes,free throw,True,True,False,Cotie McMahon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Maine  Turnover.,53,33,3,285,885,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Paula Gallego.,53,33,3,275,875,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon made Free Throw.,54,33,3,275,875,Ohio State Buckeyes,free throw,True,True,False,Cotie McMahon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon missed Free Throw.,54,33,3,275,875,Ohio State Buckeyes,free throw,True,False,False,Cotie McMahon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Defensive Rebound.,54,33,3,275,875,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Turnover.,54,33,3,247,847,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor made Three Point Jumper. Assisted by Jacy Sheldon.,57,33,3,237,837,Ohio State Buckeyes,three point jumper,True,True,True,Celeste Taylor,True,Jacy Sheldon,48.0,-1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Jacy Sheldon.,57,33,3,225,825,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Taiyier Parks.,57,33,3,214,814,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith made Jumper. Assisted by Paula Gallego.,57,35,3,202,802,Maine Black Bears,jumper,True,True,False,Adrianna Smith,True,Paula Gallego,27.0,9.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Rikki Harris missed Three Point Jumper.,57,35,3,185,785,Ohio State Buckeyes,three point jumper,True,False,True,Rikki Harris,False,,49.0,-2.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Defensive Rebound.,57,35,3,185,785,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon made Layup.,57,37,3,166,766,Maine Black Bears,layup,True,True,False,Anne Simon,False,,28.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Cotie McMahon.,57,37,3,166,766,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon made Free Throw.,57,38,3,166,766,Maine Black Bears,free throw,True,True,False,Anne Simon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Caroline Bornemann.,57,38,3,153,753,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon made Free Throw.,58,38,3,153,753,Ohio State Buckeyes,free throw,True,True,False,Cotie McMahon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon missed Free Throw.,58,38,3,153,753,Ohio State Buckeyes,free throw,True,False,False,Cotie McMahon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Caroline Bornemann Defensive Rebound.,58,38,3,153,753,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Caroline Bornemann Turnover.,58,38,3,153,753,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Rikki Harris Steal.,58,38,3,153,753,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Rikki Harris missed Jumper.,58,38,3,153,753,Ohio State Buckeyes,jumper,True,False,False,Rikki Harris,False,,24.0,13.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Caroline Bornemann Defensive Rebound.,58,38,3,153,753,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Turnover.,58,38,3,140,740,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taiyier Parks made Layup. Assisted by Jacy Sheldon.,60,38,3,130,730,Ohio State Buckeyes,layup,True,True,False,Taiyier Parks,True,Jacy Sheldon,28.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon made Layup. Assisted by Adrianna Smith.,60,40,3,115,715,Maine Black Bears,layup,True,True,False,Anne Simon,True,Adrianna Smith,27.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Emma Shumate Turnover.,60,40,3,97,697,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon Steal.,60,40,3,97,697,Maine Black Bears,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon made Layup.,60,42,3,83,683,Maine Black Bears,layup,True,True,False,Anne Simon,False,,27.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Taiyier Parks.,60,42,3,83,683,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon made Free Throw.,60,43,3,83,683,Maine Black Bears,free throw,True,True,False,Anne Simon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Anne Simon.,60,43,3,73,673,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Emma Shumate missed Three Point Jumper.,60,43,3,56,656,Ohio State Buckeyes,three point jumper,True,False,True,Emma Shumate,False,,1.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon Offensive Rebound.,60,43,3,56,656,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon made Jumper.,62,43,3,47,647,Ohio State Buckeyes,jumper,True,True,False,Jacy Sheldon,False,,30.0,8.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Turnover.,62,43,3,30,630,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taiyier Parks Steal.,62,43,3,30,630,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon made Layup. Assisted by Madison Greene.,64,43,3,26,626,Ohio State Buckeyes,layup,True,True,False,Jacy Sheldon,True,Madison Greene,23.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Caroline Bornemann made Layup. Assisted by Adrianna Smith.,64,45,3,11,611,Maine Black Bears,layup,True,True,False,Caroline Bornemann,True,Adrianna Smith,22.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Olivia Rockwood.,64,45,3,5,605,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon made Free Throw.,65,45,3,5,605,Ohio State Buckeyes,free throw,True,True,False,Jacy Sheldon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon made Free Throw.,66,45,3,5,605,Ohio State Buckeyes,free throw,True,True,False,Jacy Sheldon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon missed Three Point Jumper.,66,45,3,2,602,Maine Black Bears,three point jumper,True,False,True,Anne Simon,False,,42.0,24.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon Defensive Rebound.,66,45,3,2,602,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,End of 3rd Quarter,66,45,3,0,600,,end,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jump Ball won by Ohio State,66,45,4,600,600,Ohio State Buckeyes,jump ball,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon made Layup. Assisted by Rebeka Mikulasikova.,68,45,4,593,593,Ohio State Buckeyes,layup,True,True,False,Cotie McMahon,True,Rebeka Mikulasikova,23.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Jacy Sheldon.,68,45,4,581,581,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Emma Shumate.,68,45,4,562,562,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon made Jumper. Assisted by Adrianna Smith.,68,47,4,560,560,Maine Black Bears,jumper,True,True,False,Anne Simon,True,Adrianna Smith,24.0,21.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon missed Jumper.,68,47,4,533,533,Ohio State Buckeyes,jumper,True,False,False,Jacy Sheldon,False,,31.0,4.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Sarah Talon Defensive Rebound.,68,47,4,533,533,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood made Three Point Jumper. Assisted by Sarah Talon.,68,50,4,511,511,Maine Black Bears,three point jumper,True,True,True,Olivia Rockwood,True,Sarah Talon,2.0,5.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon missed Jumper.,68,50,4,493,493,Ohio State Buckeyes,jumper,True,False,False,Cotie McMahon,False,,26.0,5.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Rebeka Mikulasikova Offensive Rebound.,68,50,4,493,493,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Jacy Sheldon missed Three Point Jumper.,68,50,4,486,486,Ohio State Buckeyes,three point jumper,True,False,True,Jacy Sheldon,False,,47.0,10.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Sarah Talon Defensive Rebound.,68,50,4,486,486,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Sarah Talon missed Three Point Jumper.,68,50,4,469,469,Maine Black Bears,three point jumper,True,False,True,Sarah Talon,False,,5.0,12.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Defensive Rebound.,68,50,4,469,469,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Caroline Bornemann.,68,50,4,465,465,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Turnover.,68,50,4,451,451,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood Steal.,68,50,4,451,451,Maine Black Bears,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood missed Three Point Jumper.,68,50,4,436,436,Maine Black Bears,three point jumper,True,False,True,Olivia Rockwood,False,,48.0,6.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon Defensive Rebound.,68,50,4,436,436,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Rebeka Mikulasikova made Three Point Jumper. Assisted by Celeste Taylor.,71,50,4,418,418,Ohio State Buckeyes,three point jumper,True,True,True,Rebeka Mikulasikova,True,Celeste Taylor,48.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Turnover.,71,50,4,407,407,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Steal.,71,50,4,407,407,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Cotie McMahon missed Layup.,71,50,4,398,398,Ohio State Buckeyes,layup,True,False,False,Cotie McMahon,False,,24.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon Defensive Rebound.,71,50,4,398,398,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon missed Three Point Jumper.,71,50,4,386,386,Maine Black Bears,three point jumper,True,False,True,Anne Simon,False,,26.0,25.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Defensive Rebound.,71,50,4,386,386,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Emma Shumate made Three Point Jumper. Assisted by Celeste Taylor.,74,50,4,378,378,Ohio State Buckeyes,three point jumper,True,True,True,Emma Shumate,True,Celeste Taylor,49.0,-2.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon made Three Point Jumper.,74,53,4,352,352,Maine Black Bears,three point jumper,True,True,True,Anne Simon,False,,35.0,21.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Emma Shumate missed Three Point Jumper.,74,53,4,335,335,Ohio State Buckeyes,three point jumper,True,False,True,Emma Shumate,False,,47.0,8.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith Defensive Rebound.,74,53,4,335,335,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood missed Three Point Jumper.,74,53,4,327,327,Maine Black Bears,three point jumper,True,False,True,Olivia Rockwood,False,,46.0,11.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Ohio State Defensive Rebound.,74,53,4,327,327,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Rebeka Mikulasikova made Jumper. Assisted by Jacy Sheldon.,76,53,4,312,312,Ohio State Buckeyes,jumper,True,True,False,Rebeka Mikulasikova,True,Jacy Sheldon,31.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Celeste Taylor.,76,53,4,284,284,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears, Official TV Timeout,76,53,4,284,284,,tv timeout,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Rikki Harris.,76,53,4,273,273,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon missed Free Throw.,76,53,4,273,273,Maine Black Bears,free throw,True,False,False,Anne Simon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Maine Deadball Team Rebound.,76,53,4,273,273,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon missed Free Throw.,76,53,4,273,273,Maine Black Bears,free throw,True,False,False,Anne Simon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Defensive Rebound.,76,53,4,273,273,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Emma Shumate missed Three Point Jumper.,76,53,4,262,262,Ohio State Buckeyes,three point jumper,True,False,True,Emma Shumate,False,,41.0,17.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Taiyier Parks Offensive Rebound.,76,53,4,262,262,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Taiyier Parks made Layup.,78,53,4,257,257,Ohio State Buckeyes,layup,True,True,False,Taiyier Parks,False,,23.0,1.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Paula Gallego missed Layup.,78,53,4,226,226,Maine Black Bears,layup,True,False,False,Paula Gallego,False,,21.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Defensive Rebound.,78,53,4,226,226,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Emma Shumate made Layup. Assisted by Celeste Taylor.,80,53,4,219,219,Ohio State Buckeyes,layup,True,True,False,Emma Shumate,True,Celeste Taylor,27.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood missed Three Point Jumper.,80,53,4,190,190,Maine Black Bears,three point jumper,True,False,True,Olivia Rockwood,False,,3.0,8.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Defensive Rebound.,80,53,4,190,190,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Celeste Taylor Turnover.,80,53,4,182,182,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon Turnover.,80,53,4,169,169,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Anne Simon.,80,53,4,169,169,Maine Black Bears,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Madison Greene Turnover.,80,53,4,145,145,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood Turnover.,80,53,4,141,141,Maine Black Bears,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Diana Collins Steal.,80,53,4,141,141,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Emma Shumate missed Three Point Jumper.,80,53,4,118,118,Ohio State Buckeyes,three point jumper,True,False,True,Emma Shumate,False,,25.0,25.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Olivia Rockwood Defensive Rebound.,80,53,4,118,118,Maine Black Bears,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon made Layup.,80,55,4,105,105,Maine Black Bears,layup,True,True,False,Anne Simon,False,,25.0,3.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Emma Shumate.,80,55,4,105,105,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon missed Free Throw.,80,55,4,105,105,Maine Black Bears,free throw,True,False,False,Anne Simon,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Faith Carson Defensive Rebound.,80,55,4,105,105,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Emma Shumate Turnover.,80,55,4,90,90,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Adrianna Smith missed Layup.,80,55,4,76,76,Maine Black Bears,layup,True,False,False,Adrianna Smith,False,,22.0,0.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Faith Carson Defensive Rebound.,80,55,4,76,76,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Emma Shumate Turnover.,80,55,4,54,54,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Anne Simon Steal.,80,55,4,54,54,Maine Black Bears,steal,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Eboni Walker.,80,55,4,53,53,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Milana Nenadic missed Jumper.,80,55,4,47,47,Maine Black Bears,jumper,True,False,False,Milana Nenadic,False,,27.0,10.0
+401637558,Ohio State Buckeyes,Maine Black Bears,Faith Carson Defensive Rebound.,80,55,4,47,47,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Eboni Walker Turnover.,80,55,4,31,31,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Foul on Kaia Henderson.,80,55,4,9,9,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Milana Nenadic made Free Throw.,80,56,4,9,9,Maine Black Bears,free throw,True,True,False,Milana Nenadic,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,Milana Nenadic made Free Throw.,80,57,4,9,9,Maine Black Bears,free throw,True,True,False,Milana Nenadic,False,,,
+401637558,Ohio State Buckeyes,Maine Black Bears,End of Game,80,57,4,0,0,,end,False,False,False,,False,,,

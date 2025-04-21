@@ -1,0 +1,370 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637609,USC Trojans,UConn Huskies,Jump Ball won by USC,0,0,1,600,2400,USC Trojans,jump ball,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kayla Padilla missed Three Point Jumper.,0,0,1,586,2386,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,8.0,17.0
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes Offensive Rebound.,0,0,1,586,2386,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Three Point Jumper.,0,0,1,578,2378,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,36.0,23.0
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis Offensive Rebound.,0,0,1,578,2378,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on JuJu Watkins.,0,0,1,565,2365,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Turnover.,0,0,1,565,2365,USC Trojans,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl Turnover.,0,0,1,549,2349,UConn Huskies,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kayla Padilla Steal.,0,0,1,549,2349,USC Trojans,steal,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis missed Layup.,0,0,1,542,2342,USC Trojans,layup,True,False,False,Kaitlyn Davis,False,,23.0,2.0
+401637609,USC Trojans,UConn Huskies,Nika Muhl Block.,0,0,1,542,2342,UConn Huskies,block,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,USC Offensive Rebound.,0,0,1,542,2342,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Jumper.,0,0,1,535,2335,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,34.0,14.0
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Offensive Rebound.,0,0,1,535,2335,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall made Jumper.,2,0,1,527,2327,USC Trojans,jumper,True,True,False,Rayah Marshall,False,,22.0,2.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Layup. Assisted by Aaliyah Edwards.,2,2,1,518,2318,UConn Huskies,layup,True,True,False,Paige Bueckers,True,Aaliyah Edwards,23.0,1.0
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes made Three Point Jumper. Assisted by Kayla Padilla.,5,2,1,503,2303,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,True,Kayla Padilla,37.0,23.0
+401637609,USC Trojans,UConn Huskies,Ashlynn Shade missed Three Point Jumper.,5,2,1,487,2287,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,48.0,-2.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Defensive Rebound.,5,2,1,487,2287,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kayla Padilla missed Three Point Jumper.,5,2,1,477,2277,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,3.0,8.0
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Offensive Rebound.,5,2,1,477,2277,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall missed Two Point Tip Shot.,5,2,1,477,2277,USC Trojans,two point tip shot,True,False,False,Rayah Marshall,False,,24.0,2.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Defensive Rebound.,5,2,1,476,2276,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards missed Layup.,5,2,1,462,2262,UConn Huskies,layup,True,False,False,Aaliyah Edwards,False,,28.0,2.0
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Defensive Rebound.,5,2,1,462,2262,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Ashlynn Shade.,5,2,1,442,2242,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall made Free Throw.,6,2,1,442,2242,USC Trojans,free throw,True,True,False,Rayah Marshall,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall made Free Throw.,7,2,1,442,2242,USC Trojans,free throw,True,True,False,Rayah Marshall,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards missed Jumper.,7,2,1,430,2230,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,24.0,16.0
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Defensive Rebound.,7,2,1,430,2230,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Three Point Jumper.,7,2,1,420,2220,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,39.0,23.0
+401637609,USC Trojans,UConn Huskies,KK Arnold Defensive Rebound.,7,2,1,420,2220,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl Turnover.,7,2,1,409,2209,UConn Huskies,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kayla Padilla Turnover.,7,2,1,396,2196,USC Trojans,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Jumper. Assisted by Paige Bueckers.,7,4,1,375,2175,UConn Huskies,jumper,True,True,False,Aaliyah Edwards,True,Paige Bueckers,23.0,6.0
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Jumper.,7,4,1,353,2153,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,22.0,17.0
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards Defensive Rebound.,7,4,1,353,2153,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,KK Arnold made Layup.,7,6,1,345,2145,UConn Huskies,layup,True,True,False,KK Arnold,False,,23.0,0.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Jumper.,9,6,1,332,2132,USC Trojans,jumper,True,True,False,JuJu Watkins,False,,30.0,16.0
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards Turnover.,9,6,1,314,2114,UConn Huskies,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Jumper.,11,6,1,295,2095,USC Trojans,jumper,True,True,False,JuJu Watkins,False,,14.0,9.0
+401637609,USC Trojans,UConn Huskies,Foul on Nika Muhl.,11,6,1,295,2095,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies, Official TV Timeout,11,6,1,295,2095,,tv timeout,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Free Throw.,12,6,1,295,2095,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers missed Jumper.,12,6,1,286,2086,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,25.0,17.0
+401637609,USC Trojans,UConn Huskies,UConn Offensive Rebound.,12,6,1,286,2086,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on McKenzie Forbes.,12,6,1,283,2083,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Ashlynn Shade missed Jumper.,12,6,1,282,2082,UConn Huskies,jumper,True,False,False,Ashlynn Shade,False,,6.0,7.0
+401637609,USC Trojans,UConn Huskies,Clarice Akunwafo Defensive Rebound.,12,6,1,282,2082,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Three Point Jumper.,12,6,1,274,2074,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,40.0,25.0
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards Defensive Rebound.,12,6,1,274,2074,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl missed Three Point Jumper.,12,6,1,265,2065,UConn Huskies,three point jumper,True,False,True,Nika Muhl,False,,9.0,21.0
+401637609,USC Trojans,UConn Huskies,Ashlynn Shade Offensive Rebound.,12,6,1,265,2065,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers missed Three Point Jumper.,12,6,1,247,2047,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,41.0,19.0
+401637609,USC Trojans,UConn Huskies,Nika Muhl Offensive Rebound.,12,6,1,247,2047,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl missed Layup.,12,6,1,241,2041,UConn Huskies,layup,True,False,False,Nika Muhl,False,,28.0,1.0
+401637609,USC Trojans,UConn Huskies,Clarice Akunwafo Defensive Rebound.,12,6,1,241,2041,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes made Jumper.,14,6,1,233,2033,USC Trojans,jumper,True,True,False,McKenzie Forbes,False,,19.0,2.0
+401637609,USC Trojans,UConn Huskies,Foul on Ashlynn Shade.,14,6,1,233,2033,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes made Free Throw.,15,6,1,233,2033,USC Trojans,free throw,True,True,False,McKenzie Forbes,False,,,
+401637609,USC Trojans,UConn Huskies,KK Arnold Turnover.,15,6,1,222,2022,UConn Huskies,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kayla Padilla Steal.,15,6,1,222,2022,USC Trojans,steal,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Layup.,15,6,1,211,2011,USC Trojans,layup,True,False,False,McKenzie Forbes,False,,23.0,3.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Defensive Rebound.,15,6,1,211,2011,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Jumper.,15,8,1,202,2002,UConn Huskies,jumper,True,True,False,Paige Bueckers,False,,22.0,4.0
+401637609,USC Trojans,UConn Huskies,Foul on Kayla Padilla.,15,8,1,202,2002,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Free Throw.,15,9,1,202,2002,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Turnover.,15,9,1,192,1992,USC Trojans,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Steal.,15,9,1,192,1992,UConn Huskies,steal,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Jumper. Assisted by Paige Bueckers.,15,11,1,183,1983,UConn Huskies,jumper,True,True,False,Aaliyah Edwards,True,Paige Bueckers,22.0,3.0
+401637609,USC Trojans,UConn Huskies,Kayla Williams Turnover.,15,11,1,157,1957,USC Trojans,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers missed Three Point Jumper.,15,11,1,133,1933,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,22.0,28.0
+401637609,USC Trojans,UConn Huskies,UConn Offensive Rebound.,15,11,1,133,1933,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Clarice Akunwafo.,15,11,1,114,1914,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Free Throw.,15,12,1,114,1914,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Free Throw.,15,13,1,114,1914,UConn Huskies,free throw,True,True,False,Paige Bueckers,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall missed Jumper.,15,13,1,96,1896,USC Trojans,jumper,True,False,False,Rayah Marshall,False,,44.0,2.0
+401637609,USC Trojans,UConn Huskies,USC Offensive Rebound.,15,13,1,96,1896,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,USC  Turnover.,15,13,1,83,1883,USC Trojans,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Layup.,15,15,1,68,1868,UConn Huskies,layup,True,True,False,Aaliyah Edwards,False,,22.0,1.0
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes made Jumper.,17,15,1,56,1856,USC Trojans,jumper,True,True,False,McKenzie Forbes,False,,15.0,15.0
+401637609,USC Trojans,UConn Huskies,Foul on Aaliyah Edwards.,17,15,1,28,1828,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards Turnover.,17,15,1,28,1828,UConn Huskies,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Layup.,17,15,1,5,1805,USC Trojans,layup,True,False,False,McKenzie Forbes,False,,22.0,2.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Block.,17,15,1,5,1805,UConn Huskies,block,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Qadence Samuels Defensive Rebound.,17,15,1,5,1805,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,End of 1st Quarter,17,15,1,0,1800,,end,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Jump Ball won by UConn,17,15,2,600,1800,UConn Huskies,jump ball,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Qadence Samuels missed Three Point Jumper.,17,15,2,591,1791,UConn Huskies,three point jumper,True,False,True,Qadence Samuels,False,,40.0,18.0
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards Offensive Rebound.,17,15,2,591,1791,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers missed Jumper.,17,15,2,580,1780,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,14.0,16.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Defensive Rebound.,17,15,2,580,1780,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall missed Jumper.,17,15,2,557,1757,USC Trojans,jumper,True,False,False,Rayah Marshall,False,,20.0,1.0
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards Block.,17,15,2,557,1757,UConn Huskies,block,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,USC Offensive Rebound.,17,15,2,557,1757,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kayla Padilla missed Jumper.,17,15,2,553,1753,USC Trojans,jumper,True,False,False,Kayla Padilla,False,,45.0,0.0
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis Offensive Rebound.,17,15,2,553,1753,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis missed Layup.,17,15,2,547,1747,USC Trojans,layup,True,False,False,Kaitlyn Davis,False,,28.0,1.0
+401637609,USC Trojans,UConn Huskies,KK Arnold Defensive Rebound.,17,15,2,547,1747,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl made Jumper. Assisted by KK Arnold.,17,17,2,540,1740,UConn Huskies,jumper,True,True,False,Nika Muhl,True,KK Arnold,14.0,15.0
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis made Layup. Assisted by Rayah Marshall.,19,17,2,522,1722,USC Trojans,layup,True,True,False,Kaitlyn Davis,True,Rayah Marshall,21.0,0.0
+401637609,USC Trojans,UConn Huskies,Nika Muhl missed Jumper.,19,17,2,500,1700,UConn Huskies,jumper,True,False,False,Nika Muhl,False,,4.0,4.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Defensive Rebound.,19,17,2,500,1700,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Turnover.,19,17,2,491,1691,USC Trojans,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Qadence Samuels Steal.,19,17,2,491,1691,UConn Huskies,steal,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Three Point Jumper. Assisted by Nika Muhl.,19,20,2,471,1671,UConn Huskies,three point jumper,True,True,True,Paige Bueckers,True,Nika Muhl,2.0,-1.0
+401637609,USC Trojans,UConn Huskies,Foul on KK Arnold.,19,20,2,452,1652,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Nika Muhl.,19,20,2,446,1646,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis missed Jumper.,19,20,2,429,1629,USC Trojans,jumper,True,False,False,Kaitlyn Davis,False,,25.0,7.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Defensive Rebound.,19,20,2,429,1629,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,KK Arnold made Layup. Assisted by Paige Bueckers.,19,22,2,421,1621,UConn Huskies,layup,True,True,False,KK Arnold,True,Paige Bueckers,26.0,2.0
+401637609,USC Trojans,UConn Huskies,Foul on KK Arnold.,19,22,2,407,1607,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Three Point Jumper.,19,22,2,396,1596,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,26.0,25.0
+401637609,USC Trojans,UConn Huskies,Qadence Samuels Defensive Rebound.,19,22,2,396,1596,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Qadence Samuels made Three Point Jumper. Assisted by Nika Muhl.,19,25,2,379,1579,UConn Huskies,three point jumper,True,True,True,Qadence Samuels,True,Nika Muhl,43.0,15.0
+401637609,USC Trojans,UConn Huskies,USC  Timeout,19,25,2,372,1572,USC Trojans,timeout,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Three Point Jumper. Assisted by Kayla Padilla.,22,25,2,367,1567,USC Trojans,three point jumper,True,True,True,JuJu Watkins,True,Kayla Padilla,26.0,29.0
+401637609,USC Trojans,UConn Huskies,Foul on Clarice Akunwafo.,22,25,2,335,1535,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards missed Free Throw.,22,25,2,335,1535,UConn Huskies,free throw,True,False,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,UConn Deadball Team Rebound.,22,25,2,335,1535,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Free Throw.,22,26,2,335,1535,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis missed Layup.,22,26,2,328,1528,USC Trojans,layup,True,False,False,Kaitlyn Davis,False,,22.0,1.0
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards Defensive Rebound.,22,26,2,328,1528,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,KK Arnold missed Layup.,22,26,2,313,1513,UConn Huskies,layup,True,False,False,KK Arnold,False,,29.0,1.0
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes Block.,22,26,2,313,1513,USC Trojans,block,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis Defensive Rebound.,22,26,2,313,1513,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on KK Arnold.,22,26,2,296,1496,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies, Official TV Timeout,22,26,2,296,1496,,tv timeout,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Three Point Jumper.,25,26,2,282,1482,USC Trojans,three point jumper,True,True,True,JuJu Watkins,False,,19.0,25.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Jumper.,25,28,2,266,1466,UConn Huskies,jumper,True,True,False,Paige Bueckers,False,,28.0,14.0
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Three Point Jumper.,25,28,2,254,1454,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,43.0,20.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Offensive Rebound.,25,28,2,254,1454,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Layup.,25,28,2,247,1447,USC Trojans,layup,True,False,False,JuJu Watkins,False,,22.0,1.0
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis Offensive Rebound.,25,28,2,247,1447,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Jump Ball won by USC,25,28,2,247,1447,USC Trojans,jump ball,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kayla Padilla missed Three Point Jumper.,25,28,2,234,1434,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,22.0,25.0
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards Defensive Rebound.,25,28,2,234,1434,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Three Point Jumper. Assisted by Qadence Samuels.,25,31,2,211,1411,UConn Huskies,three point jumper,True,True,True,Paige Bueckers,True,Qadence Samuels,7.0,21.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Jumper.,25,31,2,200,1400,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,25.0,18.0
+401637609,USC Trojans,UConn Huskies,Ice Brady Defensive Rebound.,25,31,2,200,1400,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers missed Jumper.,25,31,2,176,1376,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,12.0,12.0
+401637609,USC Trojans,UConn Huskies,UConn Offensive Rebound.,25,31,2,176,1376,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Qadence Samuels missed Three Point Jumper.,25,31,2,169,1369,UConn Huskies,three point jumper,True,False,True,Qadence Samuels,False,,11.0,21.0
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis Defensive Rebound.,25,31,2,169,1369,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes made Jumper.,27,31,2,156,1356,USC Trojans,jumper,True,True,False,McKenzie Forbes,False,,36.0,13.0
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards missed Layup.,27,31,2,129,1329,UConn Huskies,layup,True,False,False,Aaliyah Edwards,False,,29.0,1.0
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Block.,27,31,2,129,1329,USC Trojans,block,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis Defensive Rebound.,27,31,2,129,1329,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Three Point Jumper.,27,31,2,118,1318,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,32.0,24.0
+401637609,USC Trojans,UConn Huskies,UConn Defensive Rebound.,27,31,2,118,1318,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Ice Brady made Jumper. Assisted by Paige Bueckers.,27,33,2,101,1301,UConn Huskies,jumper,True,True,False,Ice Brady,True,Paige Bueckers,22.0,19.0
+401637609,USC Trojans,UConn Huskies,Rayah Marshall made Layup. Assisted by McKenzie Forbes.,29,33,2,85,1285,USC Trojans,layup,True,True,False,Rayah Marshall,True,McKenzie Forbes,21.0,1.0
+401637609,USC Trojans,UConn Huskies,Ice Brady Turnover.,29,33,2,75,1275,UConn Huskies,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Steal.,29,33,2,75,1275,USC Trojans,steal,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Ice Brady.,29,33,2,57,1257,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall made Free Throw.,30,33,2,57,1257,USC Trojans,free throw,True,True,False,Rayah Marshall,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall made Free Throw.,31,33,2,57,1257,USC Trojans,free throw,True,True,False,Rayah Marshall,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers missed Jumper.,31,33,2,47,1247,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,18.0,3.0
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Defensive Rebound.,31,33,2,47,1247,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Qadence Samuels.,31,33,2,36,1236,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Free Throw.,32,33,2,36,1236,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Free Throw.,33,33,2,36,1236,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on McKenzie Forbes.,33,33,2,17,1217,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Aaliyah Edwards.,33,33,2,2,1202,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards Turnover.,33,33,2,2,1202,UConn Huskies,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,End of 2nd Quarter,33,33,2,0,1200,,end,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Jump Ball won by UConn,33,33,3,600,1200,UConn Huskies,jump ball,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on JuJu Watkins.,33,33,3,581,1181,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Free Throw.,33,34,3,581,1181,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards missed Free Throw.,33,34,3,581,1181,UConn Huskies,free throw,True,False,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Defensive Rebound.,33,34,3,581,1181,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis missed Jumper.,33,34,3,556,1156,USC Trojans,jumper,True,False,False,Kaitlyn Davis,False,,31.0,8.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Defensive Rebound.,33,34,3,556,1156,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Ashlynn Shade made Jumper. Assisted by Nika Muhl.,33,36,3,538,1138,UConn Huskies,jumper,True,True,False,Ashlynn Shade,True,Nika Muhl,25.0,16.0
+401637609,USC Trojans,UConn Huskies,Foul on Nika Muhl.,33,36,3,512,1112,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Jumper.,33,36,3,497,1097,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,17.0,10.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Offensive Rebound.,33,36,3,497,1097,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kayla Padilla missed Three Point Jumper.,33,36,3,488,1088,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,48.0,-1.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Defensive Rebound.,33,36,3,488,1088,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl made Three Point Jumper. Assisted by Paige Bueckers.,33,39,3,478,1078,UConn Huskies,three point jumper,True,True,True,Nika Muhl,True,Paige Bueckers,46.0,13.0
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Three Point Jumper.,33,39,3,468,1068,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,17.0,24.0
+401637609,USC Trojans,UConn Huskies,Ashlynn Shade Defensive Rebound.,33,39,3,468,1068,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Layup.,33,41,3,449,1049,UConn Huskies,layup,True,True,False,Aaliyah Edwards,False,,22.0,0.0
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes made Three Point Jumper.,36,41,3,440,1040,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,False,,44.0,13.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers missed Jumper.,36,41,3,419,1019,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,26.0,11.0
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Defensive Rebound.,36,41,3,419,1019,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Paige Bueckers.,36,41,3,404,1004,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis missed Free Throw.,36,41,3,404,1004,USC Trojans,free throw,True,False,False,Kaitlyn Davis,False,,,
+401637609,USC Trojans,UConn Huskies,USC Deadball Team Rebound.,36,41,3,404,1004,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis made Free Throw.,37,41,3,404,1004,USC Trojans,free throw,True,True,False,Kaitlyn Davis,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Rayah Marshall.,37,41,3,392,992,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Free Throw.,37,42,3,392,992,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Free Throw.,37,43,3,392,992,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,Kayla Padilla missed Jumper.,37,43,3,377,977,USC Trojans,jumper,True,False,False,Kayla Padilla,False,,21.0,15.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Defensive Rebound.,37,43,3,377,977,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,KK Arnold missed Three Point Jumper.,37,43,3,363,963,UConn Huskies,three point jumper,True,False,True,KK Arnold,False,,41.0,20.0
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes Defensive Rebound.,37,43,3,363,963,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Jumper.,37,43,3,349,949,USC Trojans,jumper,True,False,False,McKenzie Forbes,False,,17.0,7.0
+401637609,USC Trojans,UConn Huskies,Ashlynn Shade Defensive Rebound.,37,43,3,349,949,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Layup.,37,45,3,332,932,UConn Huskies,layup,True,True,False,Paige Bueckers,False,,21.0,0.0
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes made Three Point Jumper. Assisted by JuJu Watkins.,40,45,3,320,920,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,True,JuJu Watkins,39.0,20.0
+401637609,USC Trojans,UConn Huskies,Foul on Taylor Bigby.,40,45,3,303,903,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Free Throw.,40,46,3,303,903,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Free Throw.,40,47,3,303,903,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Layup.,40,47,3,287,887,USC Trojans,layup,True,False,False,JuJu Watkins,False,,27.0,4.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Defensive Rebound.,40,47,3,287,887,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Ashlynn Shade made Three Point Jumper.,40,50,3,273,873,UConn Huskies,three point jumper,True,True,True,Ashlynn Shade,False,,34.0,23.0
+401637609,USC Trojans,UConn Huskies,Foul on Paige Bueckers.,40,50,3,265,865,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies, Official TV Timeout,40,50,3,265,865,,tv timeout,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes Turnover.,40,50,3,260,860,USC Trojans,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Steal.,40,50,3,260,860,UConn Huskies,steal,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Layup.,40,52,3,257,857,UConn Huskies,layup,True,True,False,Paige Bueckers,False,,23.0,1.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Jumper.,40,52,3,244,844,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,24.0,7.0
+401637609,USC Trojans,UConn Huskies,KK Arnold Defensive Rebound.,40,52,3,244,844,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Turnover.,40,52,3,235,835,UConn Huskies,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Steal.,40,52,3,235,835,USC Trojans,steal,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Layup.,42,52,3,227,827,USC Trojans,layup,True,True,False,JuJu Watkins,False,,25.0,4.0
+401637609,USC Trojans,UConn Huskies,Foul on KK Arnold.,42,52,3,227,827,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Free Throw.,43,52,3,227,827,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl Turnover.,43,52,3,210,810,UConn Huskies,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Layup.,43,52,3,187,787,USC Trojans,layup,True,False,False,JuJu Watkins,False,,21.0,2.0
+401637609,USC Trojans,UConn Huskies,Ice Brady Block.,43,52,3,187,787,UConn Huskies,block,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,USC Offensive Rebound.,43,52,3,187,787,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Nika Muhl.,43,52,3,185,785,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes made Free Throw.,44,52,3,185,785,USC Trojans,free throw,True,True,False,McKenzie Forbes,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes made Free Throw.,45,52,3,185,785,USC Trojans,free throw,True,True,False,McKenzie Forbes,False,,,
+401637609,USC Trojans,UConn Huskies,Ashlynn Shade missed Jumper.,45,52,3,179,779,UConn Huskies,jumper,True,False,False,Ashlynn Shade,False,,33.0,12.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Defensive Rebound.,45,52,3,179,779,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Three Point Jumper.,45,52,3,174,774,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,39.0,23.0
+401637609,USC Trojans,UConn Huskies,Nika Muhl Defensive Rebound.,45,52,3,174,774,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,UConn  Timeout,45,52,3,150,750,UConn Huskies,timeout,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards missed Jumper.,45,52,3,137,737,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,30.0,13.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Defensive Rebound.,45,52,3,137,737,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Jumper.,45,52,3,130,730,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,28.0,18.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Defensive Rebound.,45,52,3,130,730,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers missed Jumper.,45,52,3,102,702,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,29.0,9.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Defensive Rebound.,45,52,3,102,702,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Turnover.,45,52,3,92,692,USC Trojans,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl Steal.,45,52,3,92,692,UConn Huskies,steal,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards Turnover.,45,52,3,84,684,UConn Huskies,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Three Point Jumper.,45,52,3,69,669,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,45.0,14.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Defensive Rebound.,45,52,3,69,669,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards missed Jumper.,45,52,3,52,652,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,27.0,8.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Block.,45,52,3,52,652,USC Trojans,block,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Defensive Rebound.,45,52,3,52,652,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Taylor Bigby made Three Point Jumper. Assisted by JuJu Watkins.,48,52,3,45,645,USC Trojans,three point jumper,True,True,True,Taylor Bigby,True,JuJu Watkins,46.0,12.0
+401637609,USC Trojans,UConn Huskies,Foul on McKenzie Forbes.,48,52,3,45,645,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Ice Brady made Three Point Jumper. Assisted by Nika Muhl.,48,55,3,17,617,UConn Huskies,three point jumper,True,True,True,Ice Brady,True,Nika Muhl,49.0,-1.0
+401637609,USC Trojans,UConn Huskies,Kayla Padilla made Three Point Jumper. Assisted by Rayah Marshall.,51,55,3,1,601,USC Trojans,three point jumper,True,True,True,Kayla Padilla,True,Rayah Marshall,48.0,6.0
+401637609,USC Trojans,UConn Huskies,End of 3rd Quarter,51,55,3,0,600,,end,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Jump Ball won by USC,51,55,4,600,600,USC Trojans,jump ball,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Taylor Bigby Turnover.,51,55,4,592,592,USC Trojans,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Steal.,51,55,4,592,592,UConn Huskies,steal,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers missed Layup.,51,55,4,585,585,UConn Huskies,layup,True,False,False,Paige Bueckers,False,,23.0,0.0
+401637609,USC Trojans,UConn Huskies,UConn Offensive Rebound.,51,55,4,585,585,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Layup. Assisted by Paige Bueckers.,51,57,4,567,567,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,Paige Bueckers,22.0,0.0
+401637609,USC Trojans,UConn Huskies,Foul on Rayah Marshall.,51,57,4,567,567,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Free Throw.,51,58,4,567,567,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Layup. Assisted by McKenzie Forbes.,53,58,4,548,548,USC Trojans,layup,True,True,False,JuJu Watkins,True,McKenzie Forbes,22.0,2.0
+401637609,USC Trojans,UConn Huskies,Foul on Ice Brady.,53,58,4,548,548,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Free Throw.,54,58,4,548,548,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Kayla Padilla.,54,58,4,527,527,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Ice Brady made Free Throw.,54,59,4,527,527,UConn Huskies,free throw,True,True,False,Ice Brady,False,,,
+401637609,USC Trojans,UConn Huskies,Ice Brady missed Free Throw.,54,59,4,527,527,UConn Huskies,free throw,True,False,False,Ice Brady,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes Defensive Rebound.,54,59,4,527,527,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Three Point Jumper.,54,59,4,523,523,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,42.0,18.0
+401637609,USC Trojans,UConn Huskies,Ashlynn Shade Defensive Rebound.,54,59,4,523,523,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Ashlynn Shade missed Jumper.,54,59,4,502,502,UConn Huskies,jumper,True,False,False,Ashlynn Shade,False,,38.0,14.0
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Defensive Rebound.,54,59,4,502,502,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Layup.,56,59,4,493,493,USC Trojans,layup,True,True,False,JuJu Watkins,False,,27.0,0.0
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards missed Layup.,56,59,4,464,464,UConn Huskies,layup,True,False,False,Aaliyah Edwards,False,,20.0,1.0
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Defensive Rebound.,56,59,4,464,464,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes made Three Point Jumper. Assisted by Kaitlyn Davis.,59,59,4,456,456,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,True,Kaitlyn Davis,35.0,23.0
+401637609,USC Trojans,UConn Huskies,UConn  Timeout,59,59,4,441,441,UConn Huskies,timeout,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Ice Brady missed Jumper.,59,59,4,428,428,UConn Huskies,jumper,True,False,False,Ice Brady,False,,28.0,10.0
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis Defensive Rebound.,59,59,4,428,428,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Jumper.,59,59,4,428,428,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,23.0,2.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Block.,59,59,4,428,428,UConn Huskies,block,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Ashlynn Shade Defensive Rebound.,59,59,4,428,428,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Ice Brady made Jumper. Assisted by Nika Muhl.,59,61,4,389,389,UConn Huskies,jumper,True,True,False,Ice Brady,True,Nika Muhl,40.0,2.0
+401637609,USC Trojans,UConn Huskies,Kayla Padilla missed Three Point Jumper.,59,61,4,371,371,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,6.0,21.0
+401637609,USC Trojans,UConn Huskies,UConn Defensive Rebound.,59,61,4,371,371,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Layup.,59,63,4,352,352,UConn Huskies,layup,True,True,False,Aaliyah Edwards,False,,28.0,1.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Jumper.,59,63,4,339,339,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,23.0,16.0
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Offensive Rebound.,59,63,4,339,339,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Ice Brady.,59,63,4,331,331,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall made Free Throw.,60,63,4,331,331,USC Trojans,free throw,True,True,False,Rayah Marshall,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall missed Free Throw.,60,63,4,331,331,USC Trojans,free throw,True,False,False,Rayah Marshall,False,,,
+401637609,USC Trojans,UConn Huskies,UConn Defensive Rebound.,60,63,4,331,331,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers missed Three Point Jumper.,60,63,4,318,318,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,40.0,24.0
+401637609,USC Trojans,UConn Huskies,Nika Muhl Offensive Rebound.,60,63,4,318,318,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on JuJu Watkins.,60,63,4,307,307,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Jumper. Assisted by Nika Muhl.,60,65,4,305,305,UConn Huskies,jumper,True,True,False,Paige Bueckers,True,Nika Muhl,12.0,2.0
+401637609,USC Trojans,UConn Huskies,Foul on Aaliyah Edwards.,60,65,4,294,294,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Free Throw.,61,65,4,294,294,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Free Throw.,62,65,4,294,294,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637609,USC Trojans,UConn Huskies,KK Arnold Turnover.,62,65,4,285,285,UConn Huskies,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kayla Padilla Steal.,62,65,4,285,285,USC Trojans,steal,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Layup. Assisted by McKenzie Forbes.,64,65,4,276,276,USC Trojans,layup,True,True,False,JuJu Watkins,True,McKenzie Forbes,27.0,1.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Jumper.,64,67,4,254,254,UConn Huskies,jumper,True,True,False,Paige Bueckers,False,,14.0,3.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Three Point Jumper.,64,67,4,248,248,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,44.0,15.0
+401637609,USC Trojans,UConn Huskies,KK Arnold Defensive Rebound.,64,67,4,248,248,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Three Point Jumper. Assisted by Nika Muhl.,64,70,4,225,225,UConn Huskies,three point jumper,True,True,True,Paige Bueckers,True,Nika Muhl,25.0,25.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Layup.,64,70,4,212,212,USC Trojans,layup,True,False,False,JuJu Watkins,False,,28.0,1.0
+401637609,USC Trojans,UConn Huskies,KK Arnold Defensive Rebound.,64,70,4,212,212,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers missed Jumper.,64,70,4,185,185,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,16.0,16.0
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis Defensive Rebound.,64,70,4,185,185,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,USC  Timeout,64,70,4,173,173,USC Trojans,timeout,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Jumper.,64,70,4,166,166,USC Trojans,jumper,True,False,False,JuJu Watkins,False,,29.0,20.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Defensive Rebound.,64,70,4,166,166,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Layup. Assisted by Nika Muhl.,64,72,4,150,150,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,Nika Muhl,22.0,1.0
+401637609,USC Trojans,UConn Huskies,Foul on Kaitlyn Davis.,64,72,4,150,150,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Free Throw.,64,73,4,150,150,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Three Point Jumper.,64,73,4,132,132,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,12.0,23.0
+401637609,USC Trojans,UConn Huskies,Nika Muhl Defensive Rebound.,64,73,4,132,132,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers made Jumper.,64,75,4,102,102,UConn Huskies,jumper,True,True,False,Paige Bueckers,False,,31.0,7.0
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes Turnover.,64,75,4,91,91,USC Trojans,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl Steal.,64,75,4,91,91,UConn Huskies,steal,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Kaitlyn Davis.,64,75,4,85,85,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl made Free Throw.,64,76,4,85,85,UConn Huskies,free throw,True,True,False,Nika Muhl,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl missed Free Throw.,64,76,4,85,85,UConn Huskies,free throw,True,False,False,Nika Muhl,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards Offensive Rebound.,64,76,4,85,85,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Paige Bueckers missed Layup.,64,76,4,74,74,UConn Huskies,layup,True,False,False,Paige Bueckers,False,,28.0,3.0
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Block.,64,76,4,74,74,USC Trojans,block,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,USC Defensive Rebound.,64,76,4,74,74,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Aaliyah Edwards.,64,76,4,67,67,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes made Three Point Jumper.,67,76,4,61,61,USC Trojans,three point jumper,True,True,True,McKenzie Forbes,False,,6.0,16.0
+401637609,USC Trojans,UConn Huskies,UConn  Timeout,67,76,4,56,56,UConn Huskies,timeout,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Kaitlyn Davis.,67,76,4,54,54,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards missed Free Throw.,67,76,4,54,54,UConn Huskies,free throw,True,False,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,UConn Deadball Team Rebound.,67,76,4,54,54,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards missed Free Throw.,67,76,4,54,54,UConn Huskies,free throw,True,False,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins Defensive Rebound.,67,76,4,54,54,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Paige Bueckers.,67,76,4,48,48,UConn Huskies,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Free Throw.,68,76,4,48,48,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Free Throw.,69,76,4,48,48,USC Trojans,free throw,True,True,False,JuJu Watkins,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Rayah Marshall.,69,76,4,45,45,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,KK Arnold missed Free Throw.,69,76,4,45,45,UConn Huskies,free throw,True,False,False,KK Arnold,False,,,
+401637609,USC Trojans,UConn Huskies,UConn Deadball Team Rebound.,69,76,4,45,45,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,KK Arnold missed Free Throw.,69,76,4,45,45,UConn Huskies,free throw,True,False,False,KK Arnold,False,,,
+401637609,USC Trojans,UConn Huskies,Kaitlyn Davis Defensive Rebound.,69,76,4,45,45,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,McKenzie Forbes missed Three Point Jumper.,69,76,4,38,38,USC Trojans,three point jumper,True,False,True,McKenzie Forbes,False,,35.0,23.0
+401637609,USC Trojans,UConn Huskies,Nika Muhl Defensive Rebound.,69,76,4,38,38,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Kaitlyn Davis.,69,76,4,27,27,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl missed Free Throw.,69,76,4,27,27,UConn Huskies,free throw,True,False,False,Nika Muhl,False,,,
+401637609,USC Trojans,UConn Huskies,UConn Deadball Team Rebound.,69,76,4,27,27,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl missed Free Throw.,69,76,4,27,27,UConn Huskies,free throw,True,False,False,Nika Muhl,False,,,
+401637609,USC Trojans,UConn Huskies,USC Defensive Rebound.,69,76,4,27,27,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,USC  Timeout,69,76,4,24,24,USC Trojans,timeout,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall missed Layup.,69,76,4,20,20,USC Trojans,layup,True,False,False,Rayah Marshall,False,,28.0,1.0
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Offensive Rebound.,69,76,4,20,20,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall made Layup.,71,76,4,18,18,USC Trojans,layup,True,True,False,Rayah Marshall,False,,27.0,2.0
+401637609,USC Trojans,UConn Huskies,UConn  Timeout,71,76,4,17,17,UConn Huskies,timeout,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Kayla Padilla.,71,76,4,17,17,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl made Free Throw.,71,77,4,17,17,UConn Huskies,free throw,True,True,False,Nika Muhl,False,,,
+401637609,USC Trojans,UConn Huskies,Nika Muhl made Free Throw.,71,78,4,17,17,UConn Huskies,free throw,True,True,False,Nika Muhl,False,,,
+401637609,USC Trojans,UConn Huskies,USC  Timeout,71,78,4,17,17,USC Trojans,timeout,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins made Layup.,73,78,4,12,12,USC Trojans,layup,True,True,False,JuJu Watkins,False,,24.0,3.0
+401637609,USC Trojans,UConn Huskies,Paige Bueckers Turnover.,73,78,4,6,6,UConn Huskies,turnover,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Rayah Marshall Steal.,73,78,4,6,6,USC Trojans,steal,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Kayla Padilla missed Three Point Jumper.,73,78,4,5,5,USC Trojans,three point jumper,True,False,True,Kayla Padilla,False,,46.0,11.0
+401637609,USC Trojans,UConn Huskies,Ashlynn Shade Defensive Rebound.,73,78,4,5,5,UConn Huskies,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Jump Ball won by UConn,73,78,4,5,5,UConn Huskies,jump ball,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Foul on Kaitlyn Davis.,73,78,4,4,4,USC Trojans,foul,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Free Throw.,73,79,4,4,4,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,Aaliyah Edwards made Free Throw.,73,80,4,4,4,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637609,USC Trojans,UConn Huskies,JuJu Watkins missed Three Point Jumper.,73,80,4,1,1,USC Trojans,three point jumper,True,False,True,JuJu Watkins,False,,6.0,41.0
+401637609,USC Trojans,UConn Huskies,USC Deadball Team Rebound.,73,80,4,1,1,USC Trojans,rebound,False,False,False,,False,,,
+401637609,USC Trojans,UConn Huskies,End of Game,73,80,4,0,0,,end,False,False,False,,False,,,

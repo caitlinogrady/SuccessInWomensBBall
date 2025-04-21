@@ -1,0 +1,335 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jump Ball won by North Carolina,0,0,1,600,2400,North Carolina Tar Heels,jump ball,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng missed Layup.,0,0,1,588,2388,North Carolina Tar Heels,layup,True,False,False,Maria Gakdeng,False,,22.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Block.,0,0,1,588,2388,Michigan State Spartans,block,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina Offensive Rebound.,0,0,1,588,2388,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar missed Three Point Jumper.,0,0,1,584,2384,North Carolina Tar Heels,three point jumper,True,False,True,Indya Nivar,False,,43.0,16.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Defensive Rebound.,0,0,1,584,2384,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann Turnover.,0,0,1,577,2377,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar Steal.,0,0,1,577,2377,North Carolina Tar Heels,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng made Layup. Assisted by Alyssa Ustby.,2,0,1,555,2355,North Carolina Tar Heels,layup,True,True,False,Maria Gakdeng,True,Alyssa Ustby,27.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Julia Ayrault.,2,0,1,555,2355,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng made Free Throw.,3,0,1,555,2355,North Carolina Tar Heels,free throw,True,True,False,Maria Gakdeng,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault missed Three Point Jumper.,3,0,1,533,2333,Michigan State Spartans,three point jumper,True,False,True,Julia Ayrault,False,,2.0,-3.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,3,0,1,533,2333,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng missed Layup.,3,0,1,514,2314,North Carolina Tar Heels,layup,True,False,False,Maria Gakdeng,False,,22.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate Defensive Rebound.,3,0,1,514,2314,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate made Layup.,3,2,1,492,2292,Michigan State Spartans,layup,True,True,False,Jocelyn Tate,False,,27.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Maria Gakdeng.,3,2,1,492,2292,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate missed Free Throw.,3,2,1,492,2292,Michigan State Spartans,free throw,True,False,False,Jocelyn Tate,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,3,2,1,492,2292,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Lexi Donarski missed Three Point Jumper.,3,2,1,484,2284,North Carolina Tar Heels,three point jumper,True,False,True,Lexi Donarski,False,,9.0,20.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Offensive Rebound.,3,2,1,484,2284,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng made Layup. Assisted by Deja Kelly.,5,2,1,468,2268,North Carolina Tar Heels,layup,True,True,False,Maria Gakdeng,True,Deja Kelly,22.0,2.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Moira Joiner.,5,2,1,449,2249,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner Turnover.,5,2,1,449,2249,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby made Layup.,7,2,1,431,2231,North Carolina Tar Heels,layup,True,True,False,Alyssa Ustby,False,,27.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment missed Layup.,7,2,1,430,2230,Michigan State Spartans,layup,True,False,False,Tory Ozment,False,,24.0,2.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Block.,7,2,1,430,2230,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,7,2,1,429,2229,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Indya Nivar.,7,2,1,376,2176,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar Turnover.,7,2,1,376,2176,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner made Three Point Jumper. Assisted by DeeDee Hagemann.,7,5,1,357,2157,Michigan State Spartans,three point jumper,True,True,True,Moira Joiner,True,DeeDee Hagemann,14.0,21.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar missed Layup.,7,5,1,341,2141,North Carolina Tar Heels,layup,True,False,False,Indya Nivar,False,,27.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key Offensive Rebound.,7,5,1,341,2141,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key missed Layup.,7,5,1,341,2141,North Carolina Tar Heels,layup,True,False,False,Teonni Key,False,,23.0,2.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate Defensive Rebound.,7,5,1,341,2141,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock missed Three Point Jumper.,7,5,1,329,2129,Michigan State Spartans,three point jumper,True,False,True,Theryn Hallock,False,,2.0,-1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar Defensive Rebound.,7,5,1,329,2129,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby made Layup. Assisted by Indya Nivar.,9,5,1,319,2119,North Carolina Tar Heels,layup,True,True,False,Alyssa Ustby,True,Indya Nivar,23.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner Turnover.,9,5,1,306,2106,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Lexi Donarski Steal.,9,5,1,306,2106,North Carolina Tar Heels,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar made Layup. Assisted by Alyssa Ustby.,11,5,1,297,2097,North Carolina Tar Heels,layup,True,True,False,Indya Nivar,True,Alyssa Ustby,23.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Jocelyn Tate.,11,5,1,278,2078,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate Turnover.,11,5,1,278,2078,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans, Official TV Timeout,11,5,1,278,2078,,tv timeout,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby made Layup.,13,5,1,275,2075,North Carolina Tar Heels,layup,True,True,False,Alyssa Ustby,False,,22.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Abbey Kimball missed Three Point Jumper.,13,5,1,255,2055,Michigan State Spartans,three point jumper,True,False,True,Abbey Kimball,False,,48.0,10.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key Defensive Rebound.,13,5,1,255,2055,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Lexi Donarski missed Layup.,13,5,1,247,2047,North Carolina Tar Heels,layup,True,False,False,Lexi Donarski,False,,28.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key Offensive Rebound.,13,5,1,247,2047,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key made Layup.,15,5,1,247,2047,North Carolina Tar Heels,layup,True,True,False,Teonni Key,False,,24.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Julia Ayrault.,15,5,1,219,2019,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Turnover.,15,5,1,219,2019,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Turnover.,15,5,1,216,2016,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate Steal.,15,5,1,216,2016,Michigan State Spartans,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner missed Jumper.,15,5,1,212,2012,Michigan State Spartans,jumper,True,False,False,Moira Joiner,False,,26.0,12.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly Defensive Rebound.,15,5,1,212,2012,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly Turnover.,15,5,1,201,2001,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Abbey Kimball Steal.,15,5,1,201,2001,Michigan State Spartans,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Sydney Barker.,15,5,1,195,1995,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann made Free Throw.,15,6,1,195,1995,Michigan State Spartans,free throw,True,True,False,DeeDee Hagemann,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann made Free Throw.,15,7,1,195,1995,Michigan State Spartans,free throw,True,True,False,DeeDee Hagemann,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby made Jumper.,17,7,1,172,1972,North Carolina Tar Heels,jumper,True,True,False,Alyssa Ustby,False,,24.0,11.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment Turnover.,17,7,1,154,1954,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar Steal.,17,7,1,154,1954,North Carolina Tar Heels,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Moira Joiner.,17,7,1,151,1951,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar missed Free Throw.,17,7,1,151,1951,North Carolina Tar Heels,free throw,True,False,False,Indya Nivar,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina Deadball Team Rebound.,17,7,1,151,1951,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar made Free Throw.,18,7,1,151,1951,North Carolina Tar Heels,free throw,True,True,False,Indya Nivar,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment missed Layup.,18,7,1,134,1934,Michigan State Spartans,layup,True,False,False,Tory Ozment,False,,27.0,3.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,18,7,1,134,1934,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly missed Three Point Jumper.,18,7,1,127,1927,North Carolina Tar Heels,three point jumper,True,False,True,Deja Kelly,False,,38.0,20.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Offensive Rebound.,18,7,1,127,1927,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Lexi Donarski made Three Point Jumper. Assisted by Maria Gakdeng.,21,7,1,121,1921,North Carolina Tar Heels,three point jumper,True,True,True,Lexi Donarski,True,Maria Gakdeng,22.0,23.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment Turnover.,21,7,1,102,1902,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Maria Gakdeng.,21,7,1,89,1889,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Turnover.,21,7,1,89,1889,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault missed Jumper.,21,7,1,71,1871,Michigan State Spartans,jumper,True,False,False,Julia Ayrault,False,,23.0,4.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Block.,21,7,1,71,1871,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,21,7,1,71,1871,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng made Layup. Assisted by Lexi Donarski.,23,7,1,62,1862,North Carolina Tar Heels,layup,True,True,False,Maria Gakdeng,True,Lexi Donarski,24.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Alyssa Ustby.,23,7,1,47,1847,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock made Free Throw.,23,8,1,47,1847,Michigan State Spartans,free throw,True,True,False,Theryn Hallock,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock missed Free Throw.,23,8,1,47,1847,Michigan State Spartans,free throw,True,False,False,Theryn Hallock,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key Defensive Rebound.,23,8,1,47,1847,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly Turnover.,23,8,1,20,1820,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock Steal.,23,8,1,20,1820,Michigan State Spartans,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock made Layup.,23,10,1,16,1816,Michigan State Spartans,layup,True,True,False,Theryn Hallock,False,,23.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key missed Jumper.,23,10,1,2,1802,North Carolina Tar Heels,jumper,True,False,False,Teonni Key,False,,35.0,7.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina Deadball Team Rebound.,23,10,1,2,1802,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,End of 1st Quarter,23,10,1,0,1800,,end,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jump Ball won by Michigan State,23,10,2,600,1800,Michigan State Spartans,jump ball,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner made Three Point Jumper. Assisted by DeeDee Hagemann.,23,13,2,592,1792,Michigan State Spartans,three point jumper,True,True,True,Moira Joiner,True,DeeDee Hagemann,5.0,13.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Anya Poole missed Jumper.,23,13,2,557,1757,North Carolina Tar Heels,jumper,True,False,False,Anya Poole,False,,26.0,5.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Defensive Rebound.,23,13,2,557,1757,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock missed Layup.,23,13,2,531,1731,Michigan State Spartans,layup,True,False,False,Theryn Hallock,False,,27.0,3.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Anya Poole Block.,23,13,2,531,1731,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Michigan State Offensive Rebound.,23,13,2,531,1731,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault made Three Point Jumper. Assisted by Jocelyn Tate.,23,16,2,527,1727,Michigan State Spartans,three point jumper,True,True,True,Julia Ayrault,True,Jocelyn Tate,8.0,16.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar Turnover.,23,16,2,498,1698,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Steal.,23,16,2,498,1698,Michigan State Spartans,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Indya Nivar.,23,16,2,495,1695,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock Turnover.,23,16,2,475,1675,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Turnover.,23,16,2,454,1654,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock missed Three Point Jumper.,23,16,2,440,1640,Michigan State Spartans,three point jumper,True,False,True,Theryn Hallock,False,,10.0,18.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina Defensive Rebound.,23,16,2,440,1640,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key made Layup. Assisted by Alyssa Ustby.,25,16,2,414,1614,North Carolina Tar Heels,layup,True,True,False,Teonni Key,True,Alyssa Ustby,28.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Moira Joiner.,25,16,2,414,1614,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key made Free Throw.,26,16,2,414,1614,North Carolina Tar Heels,free throw,True,True,False,Teonni Key,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment missed Layup.,26,16,2,394,1594,Michigan State Spartans,layup,True,False,False,Tory Ozment,False,,21.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Block.,26,16,2,394,1594,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Michigan State Offensive Rebound.,26,16,2,394,1594,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate missed Layup.,26,16,2,383,1583,Michigan State Spartans,layup,True,False,False,Jocelyn Tate,False,,26.0,3.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Defensive Rebound.,26,16,2,383,1583,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby made Layup. Assisted by Deja Kelly.,28,16,2,376,1576,North Carolina Tar Heels,layup,True,True,False,Alyssa Ustby,True,Deja Kelly,23.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Alyssa Ustby.,28,16,2,351,1551,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner missed Jumper.,28,16,2,346,1546,Michigan State Spartans,jumper,True,False,False,Moira Joiner,False,,27.0,16.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,28,16,2,346,1546,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng missed Layup.,28,16,2,327,1527,North Carolina Tar Heels,layup,True,False,False,Maria Gakdeng,False,,28.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock Block.,28,16,2,327,1527,Michigan State Spartans,block,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Offensive Rebound.,28,16,2,327,1527,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng missed Layup.,28,16,2,322,1522,North Carolina Tar Heels,layup,True,False,False,Maria Gakdeng,False,,28.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Defensive Rebound.,28,16,2,322,1522,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner missed Jumper.,28,16,2,294,1494,Michigan State Spartans,jumper,True,False,False,Moira Joiner,False,,21.0,9.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,28,16,2,294,1494,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly missed Jumper.,28,16,2,279,1479,North Carolina Tar Heels,jumper,True,False,False,Deja Kelly,False,,24.0,15.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate Defensive Rebound.,28,16,2,279,1479,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate missed Layup.,28,16,2,268,1468,Michigan State Spartans,layup,True,False,False,Jocelyn Tate,False,,27.0,2.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key Block.,28,16,2,268,1468,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,28,16,2,268,1468,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng made Jumper. Assisted by Alyssa Ustby.,30,16,2,255,1455,North Carolina Tar Heels,jumper,True,True,False,Maria Gakdeng,True,Alyssa Ustby,26.0,3.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Michigan State  Timeout,30,16,2,252,1452,Michigan State Spartans,timeout,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner made Three Point Jumper. Assisted by DeeDee Hagemann.,30,19,2,226,1426,Michigan State Spartans,three point jumper,True,True,True,Moira Joiner,True,DeeDee Hagemann,49.0,-2.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly missed Jumper.,30,19,2,205,1405,North Carolina Tar Heels,jumper,True,False,False,Deja Kelly,False,,8.0,6.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner Defensive Rebound.,30,19,2,205,1405,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault made Layup. Assisted by Moira Joiner.,30,21,2,197,1397,Michigan State Spartans,layup,True,True,False,Julia Ayrault,True,Moira Joiner,25.0,3.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Lexi Donarski missed Jumper.,30,21,2,180,1380,North Carolina Tar Heels,jumper,True,False,False,Lexi Donarski,False,,29.0,18.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Defensive Rebound.,30,21,2,180,1380,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock Turnover.,30,21,2,172,1372,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans, Official TV Timeout,30,21,2,172,1372,,tv timeout,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby missed Jumper.,30,21,2,148,1348,North Carolina Tar Heels,jumper,True,False,False,Alyssa Ustby,False,,27.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment Defensive Rebound.,30,21,2,148,1348,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Deja Kelly.,30,21,2,140,1340,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock made Free Throw.,30,22,2,140,1340,Michigan State Spartans,free throw,True,True,False,Theryn Hallock,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock made Free Throw.,30,23,2,140,1340,Michigan State Spartans,free throw,True,True,False,Theryn Hallock,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar Turnover.,30,23,2,128,1328,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann missed Three Point Jumper.,30,23,2,113,1313,Michigan State Spartans,three point jumper,True,False,True,DeeDee Hagemann,False,,2.0,-3.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Anya Poole Defensive Rebound.,30,23,2,113,1313,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly made Three Point Jumper. Assisted by Anya Poole.,33,23,2,97,1297,North Carolina Tar Heels,three point jumper,True,True,True,Deja Kelly,True,Anya Poole,8.0,19.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault made Layup. Assisted by Theryn Hallock.,33,25,2,75,1275,Michigan State Spartans,layup,True,True,False,Julia Ayrault,True,Theryn Hallock,22.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby missed Layup.,33,25,2,58,1258,North Carolina Tar Heels,layup,True,False,False,Alyssa Ustby,False,,22.0,2.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment Defensive Rebound.,33,25,2,58,1258,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock missed Layup.,33,25,2,47,1247,Michigan State Spartans,layup,True,False,False,Theryn Hallock,False,,23.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,33,25,2,47,1247,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Julia Ayrault.,33,25,2,37,1237,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly made Jumper. Assisted by Indya Nivar.,35,25,2,36,1236,North Carolina Tar Heels,jumper,True,True,False,Deja Kelly,True,Indya Nivar,34.0,9.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment made Layup. Assisted by DeeDee Hagemann.,35,27,2,4,1204,Michigan State Spartans,layup,True,True,False,Tory Ozment,True,DeeDee Hagemann,21.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,End of 2nd Quarter,35,27,2,0,1200,,end,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jump Ball won by North Carolina,35,27,3,600,1200,North Carolina Tar Heels,jump ball,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly missed Jumper.,35,27,3,587,1187,North Carolina Tar Heels,jumper,True,False,False,Deja Kelly,False,,25.0,9.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Offensive Rebound.,35,27,3,587,1187,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng made Layup.,37,27,3,583,1183,North Carolina Tar Heels,layup,True,True,False,Maria Gakdeng,False,,23.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate Turnover.,37,27,3,562,1162,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng missed Layup.,37,27,3,549,1149,North Carolina Tar Heels,layup,True,False,False,Maria Gakdeng,False,,22.0,2.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Defensive Rebound.,37,27,3,549,1149,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault missed Layup.,37,27,3,527,1127,Michigan State Spartans,layup,True,False,False,Julia Ayrault,False,,22.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Block.,37,27,3,527,1127,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,37,27,3,527,1127,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar missed Layup.,37,27,3,520,1120,North Carolina Tar Heels,layup,True,False,False,Indya Nivar,False,,22.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Offensive Rebound.,37,27,3,520,1120,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby missed Jumper.,37,27,3,515,1115,North Carolina Tar Heels,jumper,True,False,False,Alyssa Ustby,False,,22.0,21.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner Defensive Rebound.,37,27,3,515,1115,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault missed Three Point Jumper.,37,27,3,507,1107,Michigan State Spartans,three point jumper,True,False,True,Julia Ayrault,False,,33.0,24.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly Defensive Rebound.,37,27,3,507,1107,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on DeeDee Hagemann.,37,27,3,477,1077,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly missed Free Throw.,37,27,3,477,1077,North Carolina Tar Heels,free throw,True,False,False,Deja Kelly,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina Deadball Team Rebound.,37,27,3,477,1077,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly missed Free Throw.,37,27,3,477,1077,North Carolina Tar Heels,free throw,True,False,False,Deja Kelly,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock Defensive Rebound.,37,27,3,477,1077,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate missed Layup.,37,27,3,452,1052,Michigan State Spartans,layup,True,False,False,Jocelyn Tate,False,,22.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,37,27,3,452,1052,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Turnover.,37,27,3,436,1036,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate Steal.,37,27,3,436,1036,Michigan State Spartans,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate missed Layup.,37,27,3,431,1031,Michigan State Spartans,layup,True,False,False,Jocelyn Tate,False,,28.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar Defensive Rebound.,37,27,3,431,1031,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly missed Three Point Jumper.,37,27,3,424,1024,North Carolina Tar Heels,three point jumper,True,False,True,Deja Kelly,False,,49.0,3.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Offensive Rebound.,37,27,3,424,1024,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng made Layup.,39,27,3,419,1019,North Carolina Tar Heels,layup,True,True,False,Maria Gakdeng,False,,25.0,2.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment missed Layup.,39,27,3,392,992,Michigan State Spartans,layup,True,False,False,Tory Ozment,False,,23.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Defensive Rebound.,39,27,3,392,992,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar Block.,39,27,3,391,991,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Lexi Donarski missed Three Point Jumper.,39,27,3,386,986,North Carolina Tar Heels,three point jumper,True,False,True,Lexi Donarski,False,,5.0,12.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar Offensive Rebound.,39,27,3,386,986,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar missed Layup.,39,27,3,381,981,North Carolina Tar Heels,layup,True,False,False,Indya Nivar,False,,25.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann Defensive Rebound.,39,27,3,381,981,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina  Timeout,39,27,3,376,976,North Carolina Tar Heels,timeout,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate Turnover.,39,27,3,364,964,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Jocelyn Tate.,39,27,3,364,964,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly Turnover.,39,27,3,352,952,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann Steal.,39,27,3,352,952,Michigan State Spartans,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment Turnover.,39,27,3,351,951,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Deja Kelly.,39,27,3,347,947,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner missed Free Throw.,39,27,3,347,947,Michigan State Spartans,free throw,True,False,False,Moira Joiner,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Michigan State Deadball Team Rebound.,39,27,3,347,947,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner made Free Throw.,39,28,3,347,947,Michigan State Spartans,free throw,True,True,False,Moira Joiner,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock made Layup.,39,30,3,331,931,Michigan State Spartans,layup,True,True,False,Theryn Hallock,False,,22.0,2.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar missed Three Point Jumper.,39,30,3,314,914,North Carolina Tar Heels,three point jumper,True,False,True,Indya Nivar,False,,48.0,7.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Defensive Rebound.,39,30,3,314,914,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment missed Jumper.,39,30,3,278,878,Michigan State Spartans,jumper,True,False,False,Tory Ozment,False,,28.0,11.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Block.,39,30,3,278,878,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner Offensive Rebound.,39,30,3,278,878,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Michigan State  Turnover.,39,30,3,277,877,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby made Jumper.,41,30,3,264,864,North Carolina Tar Heels,jumper,True,True,False,Alyssa Ustby,False,,21.0,9.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock made Layup. Assisted by DeeDee Hagemann.,41,32,3,237,837,Michigan State Spartans,layup,True,True,False,Theryn Hallock,True,DeeDee Hagemann,23.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly missed Jumper.,41,32,3,216,816,North Carolina Tar Heels,jumper,True,False,False,Deja Kelly,False,,38.0,6.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Offensive Rebound.,41,32,3,216,816,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly made Three Point Jumper. Assisted by Alyssa Ustby.,44,32,3,211,811,North Carolina Tar Heels,three point jumper,True,True,True,Deja Kelly,True,Alyssa Ustby,41.0,18.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment missed Layup.,44,32,3,188,788,Michigan State Spartans,layup,True,False,False,Tory Ozment,False,,28.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,44,32,3,188,788,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar missed Layup.,44,32,3,182,782,North Carolina Tar Heels,layup,True,False,False,Indya Nivar,False,,23.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Defensive Rebound.,44,32,3,182,782,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner made Three Point Jumper. Assisted by DeeDee Hagemann.,44,35,3,174,774,Michigan State Spartans,three point jumper,True,True,True,Moira Joiner,True,DeeDee Hagemann,43.0,17.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Indya Nivar missed Jumper.,44,35,3,148,748,North Carolina Tar Heels,jumper,True,False,False,Indya Nivar,False,,32.0,17.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment Defensive Rebound.,44,35,3,148,748,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner missed Three Point Jumper.,44,35,3,121,721,Michigan State Spartans,three point jumper,True,False,True,Moira Joiner,False,,21.0,24.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,44,35,3,121,721,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Lexi Donarski missed Jumper.,44,35,3,95,695,North Carolina Tar Heels,jumper,True,False,False,Lexi Donarski,False,,15.0,16.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann Defensive Rebound.,44,35,3,95,695,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Lexi Donarski.,44,35,3,80,680,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann Turnover.,44,35,3,60,660,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Sydney Barker Steal.,44,35,3,60,660,North Carolina Tar Heels,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Jocelyn Tate.,44,35,3,43,643,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Lexi Donarski missed Jumper.,44,35,3,40,640,North Carolina Tar Heels,jumper,True,False,False,Lexi Donarski,False,,28.0,21.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Michigan State Defensive Rebound.,44,35,3,40,640,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault missed Three Point Jumper.,44,35,3,11,611,Michigan State Spartans,three point jumper,True,False,True,Julia Ayrault,False,,28.0,25.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina Defensive Rebound.,44,35,3,11,611,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key missed Jumper.,44,35,3,2,602,North Carolina Tar Heels,jumper,True,False,False,Teonni Key,False,,13.0,-1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Michigan State Deadball Team Rebound.,44,35,3,2,602,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,End of 3rd Quarter,44,35,3,0,600,,end,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jump Ball won by Michigan State,44,35,4,600,600,Michigan State Spartans,jump ball,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Lexi Donarski.,44,35,4,587,587,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Michigan State  Turnover.,44,35,4,564,564,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng missed Layup.,44,35,4,548,548,North Carolina Tar Heels,layup,True,False,False,Maria Gakdeng,False,,27.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina Offensive Rebound.,44,35,4,548,548,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng made Layup. Assisted by Alyssa Ustby.,46,35,4,539,539,North Carolina Tar Heels,layup,True,True,False,Maria Gakdeng,True,Alyssa Ustby,23.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock missed Jumper.,46,35,4,509,509,Michigan State Spartans,jumper,True,False,False,Theryn Hallock,False,,29.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Block.,46,35,4,509,509,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key Defensive Rebound.,46,35,4,509,509,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Tory Ozment.,46,35,4,498,498,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng made Layup. Assisted by Teonni Key.,48,35,4,481,481,North Carolina Tar Heels,layup,True,True,False,Maria Gakdeng,True,Teonni Key,22.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment missed Three Point Jumper.,48,35,4,457,457,Michigan State Spartans,three point jumper,True,False,True,Tory Ozment,False,,13.0,22.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Defensive Rebound.,48,35,4,457,457,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Lexi Donarski missed Three Point Jumper.,48,35,4,445,445,North Carolina Tar Heels,three point jumper,True,False,True,Lexi Donarski,False,,2.0,-2.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Offensive Rebound.,48,35,4,445,445,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on DeeDee Hagemann.,48,35,4,438,438,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby missed Jumper.,48,35,4,419,419,North Carolina Tar Heels,jumper,True,False,False,Alyssa Ustby,False,,25.0,16.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina Offensive Rebound.,48,35,4,419,419,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina  Turnover.,48,35,4,417,417,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment Turnover.,48,35,4,396,396,Michigan State Spartans,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly Steal.,48,35,4,396,396,North Carolina Tar Heels,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly made Jumper.,50,35,4,392,392,North Carolina Tar Heels,jumper,True,True,False,Deja Kelly,False,,16.0,10.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault made Three Point Jumper. Assisted by DeeDee Hagemann.,50,38,4,377,377,Michigan State Spartans,three point jumper,True,True,True,Julia Ayrault,True,DeeDee Hagemann,7.0,17.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Lexi Donarski missed Jumper.,50,38,4,363,363,North Carolina Tar Heels,jumper,True,False,False,Lexi Donarski,False,,6.0,6.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Maria Gakdeng Offensive Rebound.,50,38,4,363,363,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Tory Ozment.,50,38,4,340,340,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly Turnover.,50,38,4,337,337,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Steal.,50,38,4,337,337,Michigan State Spartans,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann made Layup. Assisted by Julia Ayrault.,50,40,4,333,333,Michigan State Spartans,layup,True,True,False,DeeDee Hagemann,True,Julia Ayrault,22.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on DeeDee Hagemann.,50,40,4,316,316,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby made Jumper. Assisted by Indya Nivar.,52,40,4,298,298,North Carolina Tar Heels,jumper,True,True,False,Alyssa Ustby,True,Indya Nivar,26.0,3.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Alyssa Ustby.,52,40,4,274,274,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans, Official TV Timeout,52,40,4,274,274,,tv timeout,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault made Jumper.,52,42,4,271,271,Michigan State Spartans,jumper,True,True,False,Julia Ayrault,False,,25.0,10.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Jocelyn Tate.,52,42,4,243,243,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly missed Free Throw.,52,42,4,243,243,North Carolina Tar Heels,free throw,True,False,False,Deja Kelly,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina Deadball Team Rebound.,52,42,4,243,243,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly missed Free Throw.,52,42,4,243,243,North Carolina Tar Heels,free throw,True,False,False,Deja Kelly,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Defensive Rebound.,52,42,4,243,243,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault missed Three Point Jumper.,52,42,4,230,230,Michigan State Spartans,three point jumper,True,False,True,Julia Ayrault,False,,26.0,24.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Jocelyn Tate Offensive Rebound.,52,42,4,230,230,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Moira Joiner missed Jumper.,52,42,4,215,215,Michigan State Spartans,jumper,True,False,False,Moira Joiner,False,,23.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Defensive Rebound.,52,42,4,215,215,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby made Jumper.,54,42,4,206,206,North Carolina Tar Heels,jumper,True,True,False,Alyssa Ustby,False,,18.0,3.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Teonni Key.,54,42,4,183,183,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault missed Three Point Jumper.,54,42,4,181,181,Michigan State Spartans,three point jumper,True,False,True,Julia Ayrault,False,,10.0,20.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina Deadball Team Rebound.,54,42,4,181,181,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly Turnover.,54,42,4,149,149,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Steal.,54,42,4,149,149,Michigan State Spartans,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault missed Layup.,54,42,4,145,145,Michigan State Spartans,layup,True,False,False,Julia Ayrault,False,,27.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault Offensive Rebound.,54,42,4,145,145,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Indya Nivar.,54,42,4,142,142,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault made Free Throw.,54,43,4,142,142,Michigan State Spartans,free throw,True,True,False,Julia Ayrault,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault made Free Throw.,54,44,4,142,142,Michigan State Spartans,free throw,True,True,False,Julia Ayrault,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina  Turnover.,54,44,4,111,111,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Michigan State  Timeout,54,44,4,111,111,Michigan State Spartans,timeout,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock made Layup.,54,46,4,99,99,Michigan State Spartans,layup,True,True,False,Theryn Hallock,False,,23.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Theryn Hallock.,54,46,4,77,77,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby missed Free Throw.,54,46,4,77,77,North Carolina Tar Heels,free throw,True,False,False,Alyssa Ustby,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina Deadball Team Rebound.,54,46,4,77,77,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby missed Free Throw.,54,46,4,77,77,North Carolina Tar Heels,free throw,True,False,False,Alyssa Ustby,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key Offensive Rebound.,54,46,4,77,77,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina  Turnover.,54,46,4,56,56,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Lexi Donarski.,54,46,4,48,48,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann made Free Throw.,54,47,4,48,48,Michigan State Spartans,free throw,True,True,False,DeeDee Hagemann,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann made Free Throw.,54,48,4,48,48,Michigan State Spartans,free throw,True,True,False,DeeDee Hagemann,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann made Free Throw.,54,49,4,48,48,Michigan State Spartans,free throw,True,True,False,DeeDee Hagemann,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina  Timeout,54,49,4,48,48,North Carolina Tar Heels,timeout,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Lexi Donarski Turnover.,54,49,4,43,43,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann Steal.,54,49,4,43,43,Michigan State Spartans,steal,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,DeeDee Hagemann made Layup. Assisted by Moira Joiner.,54,51,4,38,38,Michigan State Spartans,layup,True,True,False,DeeDee Hagemann,True,Moira Joiner,28.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Tory Ozment.,54,51,4,31,31,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly made Free Throw.,55,51,4,31,31,North Carolina Tar Heels,free throw,True,True,False,Deja Kelly,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly missed Free Throw.,55,51,4,31,31,North Carolina Tar Heels,free throw,True,False,False,Deja Kelly,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment Defensive Rebound.,55,51,4,31,31,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Michigan State  Timeout,55,51,4,30,30,Michigan State Spartans,timeout,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Julia Ayrault missed Layup.,55,51,4,20,20,Michigan State Spartans,layup,True,False,False,Julia Ayrault,False,,22.0,1.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key Block.,55,51,4,20,20,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Michigan State Offensive Rebound.,55,51,4,20,20,Michigan State Spartans,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Tory Ozment made Layup. Assisted by DeeDee Hagemann.,55,53,4,18,18,Michigan State Spartans,layup,True,True,False,Tory Ozment,True,DeeDee Hagemann,28.0,0.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina  Timeout,55,53,4,18,18,North Carolina Tar Heels,timeout,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Tory Ozment.,55,53,4,13,13,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Lexi Donarski made Free Throw.,56,53,4,13,13,North Carolina Tar Heels,free throw,True,True,False,Lexi Donarski,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Lexi Donarski made Free Throw.,57,53,4,13,13,North Carolina Tar Heels,free throw,True,True,False,Lexi Donarski,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Michigan State  Timeout,57,53,4,13,13,Michigan State Spartans,timeout,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Theryn Hallock made Three Point Jumper. Assisted by Tory Ozment.,57,56,4,8,8,Michigan State Spartans,three point jumper,True,True,True,Theryn Hallock,True,Tory Ozment,1.0,3.0
+401637555,North Carolina Tar Heels,Michigan State Spartans,North Carolina  Timeout,57,56,4,5,5,North Carolina Tar Heels,timeout,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on DeeDee Hagemann.,57,56,4,5,5,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly made Free Throw.,58,56,4,5,5,North Carolina Tar Heels,free throw,True,True,False,Deja Kelly,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly missed Free Throw.,58,56,4,5,5,North Carolina Tar Heels,free throw,True,False,False,Deja Kelly,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Teonni Key Offensive Rebound.,58,56,4,5,5,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Foul on Moira Joiner.,58,56,4,3,3,Michigan State Spartans,foul,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly made Free Throw.,59,56,4,3,3,North Carolina Tar Heels,free throw,True,True,False,Deja Kelly,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Deja Kelly missed Free Throw.,59,56,4,3,3,North Carolina Tar Heels,free throw,True,False,False,Deja Kelly,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,Alyssa Ustby Offensive Rebound.,59,56,4,3,3,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637555,North Carolina Tar Heels,Michigan State Spartans,End of Game,59,56,4,0,0,,end,False,False,False,,False,,,

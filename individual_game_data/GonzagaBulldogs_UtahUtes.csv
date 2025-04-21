@@ -1,0 +1,300 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637583,Gonzaga Bulldogs,Utah Utes,Jump Ball won by Gonzaga,0,0,1,600,2400,Gonzaga Bulldogs,jump ball,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim made Jumper. Assisted by Kaylynne Truong.,2,0,1,584,2384,Gonzaga Bulldogs,jumper,True,True,False,Yvonne Ejim,True,Kaylynne Truong,17.0,15.0
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Layup. Assisted by Jenna Johnson.,2,2,1,564,2364,Utah Utes,layup,True,True,False,Alissa Pili,True,Jenna Johnson,23.0,0.0
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth missed Three Point Jumper.,2,2,1,546,2346,Gonzaga Bulldogs,three point jumper,True,False,True,Eliza Hollingsworth,False,,28.0,26.0
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira Defensive Rebound.,2,2,1,546,2346,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen missed Three Point Jumper.,2,2,1,537,2337,Utah Utes,three point jumper,True,False,True,Kennady McQueen,False,,48.0,-1.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Defensive Rebound.,2,2,1,537,2337,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong missed Jumper.,2,2,1,521,2321,Gonzaga Bulldogs,jumper,True,False,False,Kaylynne Truong,False,,13.0,-1.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen Defensive Rebound.,2,2,1,521,2321,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke missed Three Point Jumper.,2,2,1,496,2296,Utah Utes,three point jumper,True,False,True,Matyson Wilke,False,,42.0,18.0
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili Offensive Rebound.,2,2,1,496,2296,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Layup.,2,4,1,475,2275,Utah Utes,layup,True,True,False,Alissa Pili,False,,25.0,1.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong missed Three Point Jumper.,2,4,1,463,2263,Gonzaga Bulldogs,three point jumper,True,False,True,Kayleigh Truong,False,,39.0,22.0
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke Defensive Rebound.,2,4,1,463,2263,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Three Point Jumper. Assisted by Matyson Wilke.,2,7,1,453,2253,Utah Utes,three point jumper,True,True,True,Alissa Pili,True,Matyson Wilke,26.0,25.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong made Jumper.,4,7,1,432,2232,Gonzaga Bulldogs,jumper,True,True,False,Kayleigh Truong,False,,18.0,1.0
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke Turnover.,4,7,1,414,2214,Utah Utes,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong Steal.,4,7,1,414,2214,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim made Layup. Assisted by Eliza Hollingsworth.,6,7,1,398,2198,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,True,Eliza Hollingsworth,23.0,2.0
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Three Point Jumper. Assisted by Jenna Johnson.,6,10,1,380,2180,Utah Utes,three point jumper,True,True,True,Alissa Pili,True,Jenna Johnson,26.0,25.0
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth made Three Point Jumper. Assisted by Kaylynne Truong.,9,10,1,358,2158,Gonzaga Bulldogs,three point jumper,True,True,True,Eliza Hollingsworth,True,Kaylynne Truong,11.0,22.0
+401637583,Gonzaga Bulldogs,Utah Utes,Jenna Johnson missed Three Point Jumper.,9,10,1,344,2144,Utah Utes,three point jumper,True,False,True,Jenna Johnson,False,,47.0,10.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong Defensive Rebound.,9,10,1,344,2144,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong Turnover.,9,10,1,335,2135,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira Steal.,9,10,1,335,2135,Utah Utes,steal,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira Turnover.,9,10,1,327,2127,Utah Utes,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Kennady McQueen.,9,10,1,313,2113,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong made Free Throw.,10,10,1,313,2113,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong made Free Throw.,11,10,1,313,2113,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Utah  Turnover.,11,10,1,283,2083,Utah Utes,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes, Official TV Timeout,11,10,1,283,2083,,tv timeout,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth Turnover.,11,10,1,261,2061,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen missed Three Point Jumper.,11,10,1,247,2047,Utah Utes,three point jumper,True,False,True,Kennady McQueen,False,,36.0,22.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong Defensive Rebound.,11,10,1,246,2046,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong made Three Point Jumper.,14,10,1,210,2010,Gonzaga Bulldogs,three point jumper,True,True,True,Kayleigh Truong,False,,5.0,14.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen made Layup. Assisted by Jenna Johnson.,14,12,1,193,1993,Utah Utes,layup,True,True,False,Kennady McQueen,True,Jenna Johnson,22.0,1.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim missed Jumper.,14,12,1,176,1976,Gonzaga Bulldogs,jumper,True,False,False,Yvonne Ejim,False,,38.0,3.0
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira Defensive Rebound.,14,12,1,176,1976,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen made Three Point Jumper.,14,15,1,165,1965,Utah Utes,three point jumper,True,True,True,Kennady McQueen,False,,20.0,26.0
+401637583,Gonzaga Bulldogs,Utah Utes,Maud Huijbens missed Layup.,14,15,1,139,1939,Gonzaga Bulldogs,layup,True,False,False,Maud Huijbens,False,,24.0,2.0
+401637583,Gonzaga Bulldogs,Utah Utes,Jenna Johnson Block.,14,15,1,139,1939,Utah Utes,block,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Maud Huijbens Offensive Rebound.,14,15,1,139,1939,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim missed Three Point Jumper.,14,15,1,129,1929,Gonzaga Bulldogs,three point jumper,True,False,True,Yvonne Ejim,False,,34.0,27.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen Defensive Rebound.,14,15,1,129,1929,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Esther Little.,14,15,1,120,1920,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Free Throw.,14,16,1,120,1920,Utah Utes,free throw,True,True,False,Alissa Pili,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Free Throw.,14,17,1,120,1920,Utah Utes,free throw,True,True,False,Alissa Pili,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell missed Three Point Jumper.,14,17,1,105,1905,Gonzaga Bulldogs,three point jumper,True,False,True,Brynna Maxwell,False,,15.0,24.0
+401637583,Gonzaga Bulldogs,Utah Utes,Lani White Defensive Rebound.,14,17,1,105,1905,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Lani White missed Three Point Jumper.,14,17,1,94,1894,Utah Utes,three point jumper,True,False,True,Lani White,False,,1.0,8.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Defensive Rebound.,14,17,1,94,1894,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong missed Layup.,14,17,1,84,1884,Gonzaga Bulldogs,layup,True,False,False,Kaylynne Truong,False,,23.0,3.0
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili Defensive Rebound.,14,17,1,84,1884,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young made Three Point Jumper. Assisted by Alissa Pili.,14,20,1,65,1865,Utah Utes,three point jumper,True,True,True,Dasia Young,True,Alissa Pili,41.0,19.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong made Three Point Jumper. Assisted by Maud Huijbens.,17,20,1,33,1833,Gonzaga Bulldogs,three point jumper,True,True,True,Kaylynne Truong,True,Maud Huijbens,34.0,28.0
+401637583,Gonzaga Bulldogs,Utah Utes,Jenna Johnson made Three Point Jumper. Assisted by Ines Vieira.,17,23,1,1,1801,Utah Utes,three point jumper,True,True,True,Jenna Johnson,True,Ines Vieira,12.0,24.0
+401637583,Gonzaga Bulldogs,Utah Utes,End of 1st Quarter,17,23,1,0,1800,,end,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Jump Ball won by Utah,17,23,2,600,1800,Utah Utes,jump ball,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Lani White missed Three Point Jumper.,17,23,2,589,1789,Utah Utes,three point jumper,True,False,True,Lani White,False,,37.0,20.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong Defensive Rebound.,17,23,2,589,1789,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim made Layup. Assisted by Kaylynne Truong.,19,23,2,574,1774,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,True,Kaylynne Truong,23.0,0.0
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Layup. Assisted by Lani White.,19,25,2,557,1757,Utah Utes,layup,True,True,False,Alissa Pili,True,Lani White,23.0,1.0
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Kayleigh Truong.,19,25,2,557,1757,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Free Throw.,19,26,2,557,1757,Utah Utes,free throw,True,True,False,Alissa Pili,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong Turnover.,19,26,2,550,1750,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Lani White missed Three Point Jumper.,19,26,2,544,1744,Utah Utes,three point jumper,True,False,True,Lani White,False,,25.0,25.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Defensive Rebound.,19,26,2,544,1744,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell made Jumper.,21,26,2,529,1729,Gonzaga Bulldogs,jumper,True,True,False,Brynna Maxwell,False,,16.0,14.0
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Ines Vieira.,21,26,2,513,1713,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira Turnover.,21,26,2,513,1713,Utah Utes,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong made Three Point Jumper. Assisted by Eliza Hollingsworth.,24,26,2,498,1698,Gonzaga Bulldogs,three point jumper,True,True,True,Kaylynne Truong,True,Eliza Hollingsworth,47.0,14.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen missed Three Point Jumper.,24,26,2,461,1661,Utah Utes,three point jumper,True,False,True,Kennady McQueen,False,,1.0,3.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Defensive Rebound.,24,26,2,461,1661,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong missed Jumper.,24,26,2,435,1635,Gonzaga Bulldogs,jumper,True,False,False,Kayleigh Truong,False,,12.0,2.0
+401637583,Gonzaga Bulldogs,Utah Utes,Utah Defensive Rebound.,24,26,2,435,1635,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Jump Ball won by Gonzaga,24,26,2,422,1622,Gonzaga Bulldogs,jump ball,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke Turnover.,24,26,2,421,1621,Utah Utes,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell Steal.,24,26,2,421,1621,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong Turnover.,24,26,2,404,1604,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young Steal.,24,26,2,404,1604,Utah Utes,steal,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke missed Three Point Jumper.,24,26,2,395,1595,Utah Utes,three point jumper,True,False,True,Matyson Wilke,False,,42.0,18.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Defensive Rebound.,24,26,2,395,1595,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong made Three Point Jumper. Assisted by Eliza Hollingsworth.,27,26,2,379,1579,Gonzaga Bulldogs,three point jumper,True,True,True,Kayleigh Truong,True,Eliza Hollingsworth,46.0,16.0
+401637583,Gonzaga Bulldogs,Utah Utes,Utah  Timeout,27,26,2,378,1578,Utah Utes,timeout,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen made Three Point Jumper. Assisted by Ines Vieira.,27,29,2,367,1567,Utah Utes,three point jumper,True,True,True,Kennady McQueen,True,Ines Vieira,36.0,22.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong made Layup.,29,29,2,350,1550,Gonzaga Bulldogs,layup,True,True,False,Kayleigh Truong,False,,28.0,1.0
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young missed Three Point Jumper.,29,29,2,338,1538,Utah Utes,three point jumper,True,False,True,Dasia Young,False,,42.0,18.0
+401637583,Gonzaga Bulldogs,Utah Utes,Esther Little Defensive Rebound.,29,29,2,338,1538,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth made Three Point Jumper. Assisted by Kayleigh Truong.,32,29,2,315,1515,Gonzaga Bulldogs,three point jumper,True,True,True,Eliza Hollingsworth,True,Kayleigh Truong,19.0,25.0
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira missed Three Point Jumper.,32,29,2,290,1490,Utah Utes,three point jumper,True,False,True,Ines Vieira,False,,5.0,17.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong Defensive Rebound.,32,29,2,290,1490,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell made Three Point Jumper. Assisted by Eliza Hollingsworth.,35,29,2,267,1467,Gonzaga Bulldogs,three point jumper,True,True,True,Brynna Maxwell,True,Eliza Hollingsworth,37.0,24.0
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Kayleigh Truong.,35,29,2,254,1454,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes, Official TV Timeout,35,29,2,254,1454,,tv timeout,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili missed Jumper.,35,29,2,242,1442,Utah Utes,jumper,True,False,False,Alissa Pili,False,,19.0,13.0
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell Defensive Rebound.,35,29,2,242,1442,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Maud Huijbens made Three Point Jumper. Assisted by Yvonne Ejim.,38,29,2,220,1420,Gonzaga Bulldogs,three point jumper,True,True,True,Maud Huijbens,True,Yvonne Ejim,36.0,22.0
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira missed Three Point Jumper.,38,29,2,202,1402,Utah Utes,three point jumper,True,False,True,Ines Vieira,False,,44.0,15.0
+401637583,Gonzaga Bulldogs,Utah Utes,Esther Little Defensive Rebound.,38,29,2,202,1402,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong missed Jumper.,38,29,2,179,1379,Gonzaga Bulldogs,jumper,True,False,False,Kaylynne Truong,False,,18.0,15.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen Defensive Rebound.,38,29,2,179,1379,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke missed Layup.,38,29,2,166,1366,Utah Utes,layup,True,False,False,Matyson Wilke,False,,28.0,0.0
+401637583,Gonzaga Bulldogs,Utah Utes,Esther Little Defensive Rebound.,38,29,2,166,1366,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong Turnover.,38,29,2,139,1339,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke Steal.,38,29,2,139,1339,Utah Utes,steal,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili Turnover.,38,29,2,127,1327,Utah Utes,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Jenna Johnson.,38,29,2,109,1309,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong missed Jumper.,38,29,2,103,1303,Gonzaga Bulldogs,jumper,True,False,False,Kaylynne Truong,False,,23.0,15.0
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili Defensive Rebound.,38,29,2,103,1303,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Matyson Wilke.,38,29,2,94,1294,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke Turnover.,38,29,2,94,1294,Utah Utes,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim made Layup.,40,29,2,81,1281,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,False,,24.0,1.0
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Eliza Hollingsworth.,40,29,2,64,1264,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Gonzaga  Turnover.,40,29,2,42,1242,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Alissa Pili.,40,29,2,16,1216,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth made Free Throw.,41,29,2,16,1216,Gonzaga Bulldogs,free throw,True,True,False,Eliza Hollingsworth,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth missed Free Throw.,41,29,2,16,1216,Gonzaga Bulldogs,free throw,True,False,False,Eliza Hollingsworth,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young Defensive Rebound.,41,29,2,16,1216,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young made Layup.,41,31,2,6,1206,Utah Utes,layup,True,True,False,Dasia Young,False,,22.0,1.0
+401637583,Gonzaga Bulldogs,Utah Utes,End of 2nd Quarter,41,31,2,0,1200,,end,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Jump Ball won by Utah,41,31,3,600,1200,Utah Utes,jump ball,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen Turnover.,41,31,3,591,1191,Utah Utes,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Steal.,41,31,3,591,1191,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim made Layup.,43,31,3,586,1186,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,False,,22.0,2.0
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke missed Three Point Jumper.,43,31,3,572,1172,Utah Utes,three point jumper,True,False,True,Matyson Wilke,False,,37.0,26.0
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili Offensive Rebound.,43,31,3,572,1172,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Yvonne Ejim.,43,31,3,572,1172,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira missed Three Point Jumper.,43,31,3,568,1168,Utah Utes,three point jumper,True,False,True,Ines Vieira,False,,34.0,26.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong Defensive Rebound.,43,31,3,568,1168,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong made Three Point Jumper. Assisted by Eliza Hollingsworth.,46,31,3,534,1134,Gonzaga Bulldogs,three point jumper,True,True,True,Kaylynne Truong,True,Eliza Hollingsworth,6.0,19.0
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke missed Three Point Jumper.,46,31,3,509,1109,Utah Utes,three point jumper,True,False,True,Matyson Wilke,False,,43.0,20.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong Defensive Rebound.,46,31,3,509,1109,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim missed Layup.,46,31,3,491,1091,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,22.0,0.0
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili Block.,46,31,3,491,1091,Utah Utes,block,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell Offensive Rebound.,46,31,3,491,1091,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong made Three Point Jumper. Assisted by Kayleigh Truong.,49,31,3,476,1076,Gonzaga Bulldogs,three point jumper,True,True,True,Kaylynne Truong,True,Kayleigh Truong,15.0,25.0
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke missed Layup.,49,31,3,466,1066,Utah Utes,layup,True,False,False,Matyson Wilke,False,,23.0,83.0
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell Block.,49,31,3,466,1066,Gonzaga Bulldogs,block,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell Defensive Rebound.,49,31,3,466,1066,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell Turnover.,49,31,3,461,1061,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira Steal.,49,31,3,461,1061,Utah Utes,steal,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili missed Layup.,49,31,3,434,1034,Utah Utes,layup,True,False,False,Alissa Pili,False,,21.0,3.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong Defensive Rebound.,49,31,3,434,1034,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth made Layup. Assisted by Yvonne Ejim.,51,31,3,423,1023,Gonzaga Bulldogs,layup,True,True,False,Eliza Hollingsworth,True,Yvonne Ejim,22.0,2.0
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Matyson Wilke.,51,31,3,423,1023,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth made Free Throw.,52,31,3,423,1023,Gonzaga Bulldogs,free throw,True,True,False,Eliza Hollingsworth,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Three Point Jumper.,52,34,3,423,1023,Utah Utes,three point jumper,True,True,True,Alissa Pili,False,,37.0,23.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong made Three Point Jumper. Assisted by Yvonne Ejim.,55,34,3,419,1019,Gonzaga Bulldogs,three point jumper,True,True,True,Kayleigh Truong,True,Yvonne Ejim,2.0,14.0
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young made Layup.,55,36,3,404,1004,Utah Utes,layup,True,True,False,Dasia Young,False,,23.0,2.0
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Jenna Johnson.,55,36,3,374,974,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Ines Vieira.,55,36,3,369,969,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong missed Jumper.,55,36,3,369,969,Gonzaga Bulldogs,jumper,True,False,False,Kayleigh Truong,False,,14.0,6.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen Defensive Rebound.,55,36,3,369,969,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Jenna Johnson missed Three Point Jumper.,55,36,3,351,951,Utah Utes,three point jumper,True,False,True,Jenna Johnson,False,,36.0,24.0
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira Offensive Rebound.,55,36,3,351,951,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira Turnover.,55,36,3,337,937,Utah Utes,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong Steal.,55,36,3,337,937,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Maud Huijbens.,55,36,3,329,929,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Maud Huijbens Turnover.,55,36,3,329,929,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Layup. Assisted by Ines Vieira.,55,38,3,323,923,Utah Utes,layup,True,True,False,Alissa Pili,True,Ines Vieira,27.0,3.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong missed Jumper.,55,38,3,305,905,Gonzaga Bulldogs,jumper,True,False,False,Kaylynne Truong,False,,19.0,3.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong Offensive Rebound.,55,38,3,305,905,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Jump Ball won by Gonzaga,55,38,3,300,900,Gonzaga Bulldogs,jump ball,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes, Official TV Timeout,55,38,3,295,895,,tv timeout,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim missed Jumper.,55,38,3,291,891,Gonzaga Bulldogs,jumper,True,False,False,Yvonne Ejim,False,,18.0,4.0
+401637583,Gonzaga Bulldogs,Utah Utes,Jenna Johnson Defensive Rebound.,55,38,3,291,891,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili missed Jumper.,55,38,3,281,881,Utah Utes,jumper,True,False,False,Alissa Pili,False,,25.0,8.0
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili Offensive Rebound.,55,38,3,281,881,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Yvonne Ejim.,55,38,3,275,875,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Free Throw.,55,39,3,275,875,Utah Utes,free throw,True,True,False,Alissa Pili,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Free Throw.,55,40,3,275,875,Utah Utes,free throw,True,True,False,Alissa Pili,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Maud Huijbens Turnover.,55,40,3,265,865,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira Steal.,55,40,3,265,865,Utah Utes,steal,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Kaylynne Truong.,55,40,3,264,864,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Jenna Johnson missed Three Point Jumper.,55,40,3,255,855,Utah Utes,three point jumper,True,False,True,Jenna Johnson,False,,43.0,19.0
+401637583,Gonzaga Bulldogs,Utah Utes,Jenna Johnson Offensive Rebound.,55,40,3,255,855,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Yvonne Ejim.,55,40,3,251,851,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Jenna Johnson made Free Throw.,55,41,3,251,851,Utah Utes,free throw,True,True,False,Jenna Johnson,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Jenna Johnson made Free Throw.,55,42,3,251,851,Utah Utes,free throw,True,True,False,Jenna Johnson,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong missed Three Point Jumper.,55,42,3,231,831,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,38.0,21.0
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young Defensive Rebound.,55,42,3,231,831,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young missed Layup.,55,42,3,212,812,Utah Utes,layup,True,False,False,Dasia Young,False,,28.0,3.0
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili Offensive Rebound.,55,42,3,212,812,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen made Layup.,55,44,3,200,800,Utah Utes,layup,True,True,False,Kennady McQueen,False,,23.0,1.0
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Alissa Pili.,55,44,3,182,782,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong made Free Throw.,56,44,3,182,782,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong made Free Throw.,57,44,3,182,782,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young missed Layup.,57,44,3,159,759,Utah Utes,layup,True,False,False,Dasia Young,False,,22.0,0.0
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell Defensive Rebound.,57,44,3,159,759,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong missed Three Point Jumper.,57,44,3,151,751,Gonzaga Bulldogs,three point jumper,True,False,True,Kayleigh Truong,False,,7.0,20.0
+401637583,Gonzaga Bulldogs,Utah Utes,Gonzaga Offensive Rebound.,57,44,3,151,751,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell made Jumper.,59,44,3,141,741,Gonzaga Bulldogs,jumper,True,True,False,Brynna Maxwell,False,,18.0,15.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen missed Three Point Jumper.,59,44,3,124,724,Utah Utes,three point jumper,True,False,True,Kennady McQueen,False,,7.0,17.0
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young Offensive Rebound.,59,44,3,124,724,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young made Layup.,59,46,3,113,713,Utah Utes,layup,True,True,False,Dasia Young,False,,23.0,3.0
+401637583,Gonzaga Bulldogs,Utah Utes,Gonzaga  Timeout,59,46,3,110,710,Gonzaga Bulldogs,timeout,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth made Three Point Jumper. Assisted by Kaylynne Truong.,62,46,3,103,703,Gonzaga Bulldogs,three point jumper,True,True,True,Eliza Hollingsworth,True,Kaylynne Truong,32.0,23.0
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young made Jumper.,62,48,3,84,684,Utah Utes,jumper,True,True,False,Dasia Young,False,,17.0,13.0
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell missed Three Point Jumper.,62,48,3,65,665,Gonzaga Bulldogs,three point jumper,True,False,True,Brynna Maxwell,False,,10.0,21.0
+401637583,Gonzaga Bulldogs,Utah Utes,Maud Huijbens Offensive Rebound.,62,48,3,65,665,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth missed Layup.,62,48,3,44,644,Gonzaga Bulldogs,layup,True,False,False,Eliza Hollingsworth,False,,22.0,1.0
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth Offensive Rebound.,62,48,3,44,644,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth Turnover.,62,48,3,37,637,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen Steal.,62,48,3,37,637,Utah Utes,steal,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen missed Three Point Jumper.,62,48,3,25,625,Utah Utes,three point jumper,True,False,True,Kennady McQueen,False,,49.0,3.0
+401637583,Gonzaga Bulldogs,Utah Utes,Maud Huijbens Defensive Rebound.,62,48,3,25,625,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Dasia Young.,62,48,3,22,622,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Maud Huijbens missed Free Throw.,62,48,3,22,622,Gonzaga Bulldogs,free throw,True,False,False,Maud Huijbens,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Maud Huijbens missed Free Throw.,62,48,3,22,622,Gonzaga Bulldogs,free throw,True,False,False,Maud Huijbens,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili Defensive Rebound.,62,48,3,19,619,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili missed Three Point Jumper.,62,48,3,7,607,Utah Utes,three point jumper,True,False,True,Alissa Pili,False,,39.0,23.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong Defensive Rebound.,62,48,3,2,602,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,End of 3rd Quarter,62,48,3,0,600,,end,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Jump Ball won by Utah,62,48,4,600,600,Utah Utes,jump ball,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Layup. Assisted by Ines Vieira.,62,50,4,585,585,Utah Utes,layup,True,True,False,Alissa Pili,True,Ines Vieira,22.0,0.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim made Layup. Assisted by Kaylynne Truong.,64,50,4,570,570,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,True,Kaylynne Truong,27.0,0.0
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira missed Three Point Jumper.,64,50,4,540,540,Utah Utes,three point jumper,True,False,True,Ines Vieira,False,,14.0,24.0
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth Defensive Rebound.,64,50,4,540,540,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong missed Three Point Jumper.,64,50,4,521,521,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,2.0,6.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen Defensive Rebound.,64,50,4,521,521,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen Turnover.,64,50,4,511,511,Utah Utes,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong Turnover.,64,50,4,499,499,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili Steal.,64,50,4,499,499,Utah Utes,steal,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili missed Three Point Jumper.,64,50,4,489,489,Utah Utes,three point jumper,True,False,True,Alissa Pili,False,,36.0,25.0
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young Offensive Rebound.,64,50,4,489,489,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili missed Three Point Jumper.,64,50,4,479,479,Utah Utes,three point jumper,True,False,True,Alissa Pili,False,,22.0,25.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Defensive Rebound.,64,50,4,479,479,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Dasia Young.,64,50,4,470,470,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell made Free Throw.,65,50,4,470,470,Gonzaga Bulldogs,free throw,True,True,False,Brynna Maxwell,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell made Free Throw.,66,50,4,470,470,Gonzaga Bulldogs,free throw,True,True,False,Brynna Maxwell,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Kaylynne Truong.,66,50,4,463,463,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen made Layup.,66,52,4,463,463,Utah Utes,layup,True,True,False,Kennady McQueen,False,,28.0,2.0
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Alissa Pili.,66,52,4,448,448,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim missed Free Throw.,66,52,4,448,448,Gonzaga Bulldogs,free throw,True,False,False,Yvonne Ejim,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Gonzaga Deadball Team Rebound.,66,52,4,448,448,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim made Free Throw.,67,52,4,448,448,Gonzaga Bulldogs,free throw,True,True,False,Yvonne Ejim,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke made Three Point Jumper. Assisted by Jenna Johnson.,67,55,4,431,431,Utah Utes,three point jumper,True,True,True,Matyson Wilke,True,Jenna Johnson,43.0,20.0
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Jenna Johnson.,67,55,4,415,415,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes, Official TV Timeout,67,55,4,415,415,,tv timeout,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Intentional foul on Eliza Hollingsworth.,67,55,4,415,415,Gonzaga Bulldogs,,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Free Throw.,67,56,4,415,415,Utah Utes,free throw,True,True,False,Alissa Pili,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Free Throw.,67,57,4,415,415,Utah Utes,free throw,True,True,False,Alissa Pili,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Layup. Assisted by Matyson Wilke.,67,59,4,398,398,Utah Utes,layup,True,True,False,Alissa Pili,True,Matyson Wilke,28.0,2.0
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth missed Three Point Jumper.,67,59,4,381,381,Gonzaga Bulldogs,three point jumper,True,False,True,Eliza Hollingsworth,False,,28.0,24.0
+401637583,Gonzaga Bulldogs,Utah Utes,Utah Defensive Rebound.,67,59,4,381,381,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Esther Little.,67,59,4,377,377,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili missed Jumper.,67,59,4,366,366,Utah Utes,jumper,True,False,False,Alissa Pili,False,,19.0,16.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Defensive Rebound.,67,59,4,366,366,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim missed Layup.,67,59,4,335,335,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,27.0,1.0
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth Offensive Rebound.,67,59,4,335,335,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Gonzaga  Turnover.,67,59,4,326,326,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili missed Jumper.,67,59,4,310,310,Utah Utes,jumper,True,False,False,Alissa Pili,False,,28.0,5.0
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth Block.,67,59,4,310,310,Gonzaga Bulldogs,block,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Defensive Rebound.,67,59,4,310,310,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim missed Layup.,67,59,4,308,308,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,22.0,0.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen Defensive Rebound.,67,59,4,308,308,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Layup. Assisted by Ines Vieira.,67,61,4,302,302,Utah Utes,layup,True,True,False,Alissa Pili,True,Ines Vieira,24.0,0.0
+401637583,Gonzaga Bulldogs,Utah Utes,Gonzaga  Timeout,67,61,4,290,290,Gonzaga Bulldogs,timeout,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Brynna Maxwell missed Jumper.,67,61,4,278,278,Gonzaga Bulldogs,jumper,True,False,False,Brynna Maxwell,False,,11.0,4.0
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke Defensive Rebound.,67,61,4,278,278,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen missed Jumper.,67,61,4,253,253,Utah Utes,jumper,True,False,False,Kennady McQueen,False,,25.0,15.0
+401637583,Gonzaga Bulldogs,Utah Utes,Utah Offensive Rebound.,67,61,4,253,253,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke missed Three Point Jumper.,67,61,4,248,248,Utah Utes,three point jumper,True,False,True,Matyson Wilke,False,,35.0,24.0
+401637583,Gonzaga Bulldogs,Utah Utes,Eliza Hollingsworth Defensive Rebound.,67,61,4,248,248,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Kennady McQueen.,67,61,4,230,230,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong made Free Throw.,68,61,4,230,230,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong missed Free Throw.,68,61,4,230,230,Gonzaga Bulldogs,free throw,True,False,False,Kayleigh Truong,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Jenna Johnson Defensive Rebound.,68,61,4,230,230,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Ines Vieira missed Layup.,68,61,4,199,199,Utah Utes,layup,True,False,False,Ines Vieira,False,,22.0,2.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Defensive Rebound.,68,61,4,199,199,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Alissa Pili.,68,61,4,188,188,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim made Free Throw.,69,61,4,188,188,Gonzaga Bulldogs,free throw,True,True,False,Yvonne Ejim,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim made Free Throw.,70,61,4,188,188,Gonzaga Bulldogs,free throw,True,True,False,Yvonne Ejim,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Matyson Wilke missed Layup.,70,61,4,164,164,Utah Utes,layup,True,False,False,Matyson Wilke,False,,22.0,1.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Defensive Rebound.,70,61,4,164,164,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Ines Vieira.,70,61,4,153,153,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong made Free Throw.,71,61,4,153,153,Gonzaga Bulldogs,free throw,True,True,False,Kaylynne Truong,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong made Free Throw.,72,61,4,153,153,Gonzaga Bulldogs,free throw,True,True,False,Kaylynne Truong,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen missed Jumper.,72,61,4,139,139,Utah Utes,jumper,True,False,False,Kennady McQueen,False,,20.0,13.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Defensive Rebound.,72,61,4,139,139,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim missed Layup.,72,61,4,114,114,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,27.0,0.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Offensive Rebound.,72,61,4,114,114,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim made Two Point Tip Shot.,74,61,4,114,114,Gonzaga Bulldogs,two point tip shot,True,True,False,Yvonne Ejim,False,,25.0,1.0
+401637583,Gonzaga Bulldogs,Utah Utes,Utah  Timeout,74,61,4,105,105,Utah Utes,timeout,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Kaylynne Truong.,74,61,4,93,93,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Dasia Young missed Jumper.,74,61,4,84,84,Utah Utes,jumper,True,False,False,Dasia Young,False,,33.0,15.0
+401637583,Gonzaga Bulldogs,Utah Utes,Yvonne Ejim Defensive Rebound.,74,61,4,84,84,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kaylynne Truong missed Three Point Jumper.,74,61,4,61,61,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,10.0,21.0
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen Defensive Rebound.,74,61,4,61,61,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kennady McQueen missed Three Point Jumper.,74,61,4,45,45,Utah Utes,three point jumper,True,False,True,Kennady McQueen,False,,39.0,24.0
+401637583,Gonzaga Bulldogs,Utah Utes,Jenna Johnson Offensive Rebound.,74,61,4,44,44,Utah Utes,rebound,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Layup. Assisted by Ines Vieira.,74,63,4,40,40,Utah Utes,layup,True,True,False,Alissa Pili,True,Ines Vieira,27.0,2.0
+401637583,Gonzaga Bulldogs,Utah Utes,Gonzaga  Timeout,74,63,4,38,38,Gonzaga Bulldogs,timeout,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Foul on Kennady McQueen.,74,63,4,9,9,Utah Utes,foul,False,False,False,,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong made Free Throw.,75,63,4,9,9,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong made Free Throw.,76,63,4,9,9,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Kayleigh Truong made Free Throw.,77,63,4,9,9,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637583,Gonzaga Bulldogs,Utah Utes,Alissa Pili made Three Point Jumper. Assisted by Ines Vieira.,77,66,4,2,2,Utah Utes,three point jumper,True,True,True,Alissa Pili,True,Ines Vieira,36.0,24.0
+401637583,Gonzaga Bulldogs,Utah Utes,End of Game,77,66,4,0,0,,end,False,False,False,,False,,,

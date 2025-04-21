@@ -1,0 +1,368 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637556,LSU Tigers,Rice Owls,Jump Ball won by LSU,0,0,1,600,2400,LSU Tigers,jump ball,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese missed Jumper.,0,0,1,595,2395,LSU Tigers,jumper,True,False,False,Angel Reese,False,,23.0,5.0
+401637556,LSU Tigers,Rice Owls,Emily Klaczek Defensive Rebound.,0,0,1,595,2395,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher Turnover.,0,0,1,571,2371,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow Steal.,0,0,1,571,2371,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow missed Layup.,0,0,1,564,2364,LSU Tigers,layup,True,False,False,Aneesah Morrow,False,,27.0,1.0
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith Offensive Rebound.,0,0,1,564,2364,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams made Jumper. Assisted by Hailey Van Lith.,2,0,1,557,2357,LSU Tigers,jumper,True,True,False,Mikaylah Williams,True,Hailey Van Lith,20.0,15.0
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Three Point Jumper.,2,0,1,547,2347,Rice Owls,three point jumper,True,False,True,Emily Klaczek,False,,42.0,21.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Defensive Rebound.,2,0,1,547,2347,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams missed Three Point Jumper.,2,0,1,535,2335,LSU Tigers,three point jumper,True,False,True,Mikaylah Williams,False,,41.0,19.0
+401637556,LSU Tigers,Rice Owls,Malia Fisher Defensive Rebound.,2,0,1,535,2335,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher missed Jumper.,2,0,1,526,2326,Rice Owls,jumper,True,False,False,Malia Fisher,False,,14.0,5.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Defensive Rebound.,2,0,1,526,2326,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson made Three Point Jumper. Assisted by Hailey Van Lith.,5,0,1,510,2310,LSU Tigers,three point jumper,True,True,True,Flau'jae Johnson,True,Hailey Van Lith,39.0,21.0
+401637556,LSU Tigers,Rice Owls,Malia Fisher missed Three Point Jumper.,5,0,1,485,2285,Rice Owls,three point jumper,True,False,True,Malia Fisher,False,,33.0,27.0
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson Defensive Rebound.,5,0,1,485,2285,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson missed Jumper.,5,0,1,471,2271,LSU Tigers,jumper,True,False,False,Flau'jae Johnson,False,,25.0,7.0
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow Offensive Rebound.,5,0,1,468,2268,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Destiny Jackson.,5,0,1,467,2267,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow made Free Throw.,6,0,1,466,2266,LSU Tigers,free throw,True,True,False,Aneesah Morrow,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow made Free Throw.,7,0,1,466,2266,LSU Tigers,free throw,True,True,False,Aneesah Morrow,False,,,
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac made Layup. Assisted by Trinity Gooden.,7,2,1,452,2252,Rice Owls,layup,True,True,False,Sussy Ngulefac,True,Trinity Gooden,26.0,1.0
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow missed Jumper.,7,2,1,428,2228,LSU Tigers,jumper,True,False,False,Aneesah Morrow,False,,17.0,12.0
+401637556,LSU Tigers,Rice Owls,LSU Offensive Rebound.,7,2,1,425,2225,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese Turnover.,7,2,1,424,2224,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac missed Layup.,7,2,1,408,2208,Rice Owls,layup,True,False,False,Sussy Ngulefac,False,,22.0,0.0
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith Defensive Rebound.,7,2,1,408,2208,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Flau'jae Johnson.,7,2,1,398,2198,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson Turnover.,7,2,1,398,2198,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson missed Layup.,7,2,1,391,2191,Rice Owls,layup,True,False,False,Destiny Jackson,False,,28.0,4.0
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa Block.,7,2,1,391,2191,LSU Tigers,block,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Rice Offensive Rebound.,7,2,1,391,2191,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher missed Three Point Jumper.,7,2,1,385,2185,Rice Owls,three point jumper,True,False,True,Malia Fisher,False,,1.0,6.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Defensive Rebound.,7,2,1,385,2185,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese Turnover.,7,2,1,368,2168,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson made Jumper. Assisted by Trinity Gooden.,7,4,1,350,2150,Rice Owls,jumper,True,True,False,Destiny Jackson,True,Trinity Gooden,7.0,13.0
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith missed Jumper.,7,4,1,335,2135,LSU Tigers,jumper,True,False,False,Hailey Van Lith,False,,25.0,15.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Offensive Rebound.,7,4,1,334,2134,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Sussy Ngulefac.,7,4,1,330,2130,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith missed Jumper.,7,4,1,322,2122,LSU Tigers,jumper,True,False,False,Hailey Van Lith,False,,25.0,16.0
+401637556,LSU Tigers,Rice Owls,Malia Fisher Defensive Rebound.,7,4,1,322,2122,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac made Layup. Assisted by Malia Fisher.,7,6,1,300,2100,Rice Owls,layup,True,True,False,Sussy Ngulefac,True,Malia Fisher,26.0,1.0
+401637556,LSU Tigers,Rice Owls,Angel Reese missed Jumper.,7,6,1,287,2087,LSU Tigers,jumper,True,False,False,Angel Reese,False,,20.0,15.0
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith Offensive Rebound.,7,6,1,287,2087,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow Turnover.,7,6,1,278,2078,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson Steal.,7,6,1,278,2078,Rice Owls,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson missed Jumper.,7,6,1,270,2070,Rice Owls,jumper,True,False,False,Destiny Jackson,False,,9.0,6.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Defensive Rebound.,7,6,1,270,2070,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Malia Fisher.,7,6,1,266,2066,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls, Official TV Timeout,7,6,1,266,2066,,tv timeout,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith made Three Point Jumper. Assisted by Aalyah Del Rosario.,10,6,1,259,2059,LSU Tigers,three point jumper,True,True,True,Hailey Van Lith,True,Aalyah Del Rosario,9.0,20.0
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Three Point Jumper.,10,6,1,233,2033,Rice Owls,three point jumper,True,False,True,Emily Klaczek,False,,3.0,11.0
+401637556,LSU Tigers,Rice Owls,Fatou Samb Offensive Rebound.,10,6,1,233,2033,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Fatou Samb Turnover.,10,6,1,225,2025,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith Steal.,10,6,1,225,2025,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith missed Three Point Jumper.,10,6,1,202,2002,LSU Tigers,three point jumper,True,False,True,Hailey Van Lith,False,,25.0,26.0
+401637556,LSU Tigers,Rice Owls,Rice Defensive Rebound.,10,6,1,202,2002,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Aalyah Del Rosario.,10,6,1,179,1979,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher Turnover.,10,6,1,168,1968,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Destiny Jackson.,10,6,1,163,1963,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa Turnover.,10,6,1,158,1958,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Trinity Gooden missed Layup.,10,6,1,148,1948,Rice Owls,layup,True,False,False,Trinity Gooden,False,,22.0,1.0
+401637556,LSU Tigers,Rice Owls,Aalyah Del Rosario Defensive Rebound.,10,6,1,148,1948,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese Turnover.,10,6,1,143,1943,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek Turnover.,10,6,1,128,1928,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aalyah Del Rosario Steal.,10,6,1,128,1928,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aalyah Del Rosario Turnover.,10,6,1,114,1914,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Jazzy Owens-Barnett Steal.,10,6,1,114,1914,Rice Owls,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Jazzy Owens-Barnett Turnover.,10,6,1,103,1903,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams Steal.,10,6,1,103,1903,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams Turnover.,10,6,1,100,1900,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Jazzy Owens-Barnett Steal.,10,6,1,100,1900,Rice Owls,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher Turnover.,10,6,1,100,1900,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese missed Jumper.,10,6,1,96,1896,LSU Tigers,jumper,True,False,False,Angel Reese,False,,23.0,17.0
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac Defensive Rebound.,10,6,1,96,1896,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Rice  Timeout,10,6,1,78,1878,Rice Owls,timeout,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Trinity Gooden missed Layup.,10,6,1,78,1878,Rice Owls,layup,True,False,False,Trinity Gooden,False,,28.0,2.0
+401637556,LSU Tigers,Rice Owls,Rice Offensive Rebound.,10,6,1,78,1878,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Maya Bokunewicz missed Three Point Jumper.,10,6,1,68,1868,Rice Owls,three point jumper,True,False,True,Maya Bokunewicz,False,,2.0,2.0
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow Defensive Rebound.,10,6,1,68,1868,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson made Layup.,12,6,1,55,1855,LSU Tigers,layup,True,True,False,Flau'jae Johnson,False,,23.0,1.0
+401637556,LSU Tigers,Rice Owls,Jazzy Owens-Barnett missed Three Point Jumper.,12,6,1,29,1829,Rice Owls,three point jumper,True,False,True,Jazzy Owens-Barnett,False,,5.0,15.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Defensive Rebound.,12,6,1,29,1829,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson missed Three Point Jumper.,12,6,1,4,1804,LSU Tigers,three point jumper,True,False,True,Flau'jae Johnson,False,,40.0,20.0
+401637556,LSU Tigers,Rice Owls,LSU Deadball Team Rebound.,12,6,1,4,1804,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,End of 1st Quarter,12,6,1,0,1800,,end,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Jump Ball won by Rice,12,6,2,600,1800,Rice Owls,jump ball,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek Turnover.,12,6,2,585,1785,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow Steal.,12,6,2,585,1785,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson missed Jumper.,12,6,2,556,1756,LSU Tigers,jumper,True,False,False,Flau'jae Johnson,False,,14.0,15.0
+401637556,LSU Tigers,Rice Owls,Jazzy Owens-Barnett Defensive Rebound.,12,6,2,556,1756,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Hailey Van Lith.,12,6,2,556,1756,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Maya Bokunewicz missed Three Point Jumper.,12,6,2,545,1745,Rice Owls,three point jumper,True,False,True,Maya Bokunewicz,False,,1.0,2.0
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow Defensive Rebound.,12,6,2,545,1745,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa Turnover.,12,6,2,536,1736,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Maya Bokunewicz made Three Point Jumper. Assisted by Malia Fisher.,12,9,2,524,1724,Rice Owls,three point jumper,True,True,True,Maya Bokunewicz,True,Malia Fisher,2.0,6.0
+401637556,LSU Tigers,Rice Owls,Foul on Hailey Van Lith.,12,9,2,511,1711,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith Turnover.,12,9,2,511,1711,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Jazzy Owens-Barnett missed Three Point Jumper.,12,9,2,505,1705,Rice Owls,three point jumper,True,False,True,Jazzy Owens-Barnett,False,,27.0,26.0
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson Defensive Rebound.,12,9,2,505,1705,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese Turnover.,12,9,2,491,1691,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher made Three Point Jumper. Assisted by Maya Bokunewicz.,12,12,2,479,1679,Rice Owls,three point jumper,True,True,True,Malia Fisher,True,Maya Bokunewicz,35.0,25.0
+401637556,LSU Tigers,Rice Owls,Foul on Jazzy Owens-Barnett.,12,12,2,452,1652,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow made Jumper.,14,12,2,443,1643,LSU Tigers,jumper,True,True,False,Aneesah Morrow,False,,25.0,5.0
+401637556,LSU Tigers,Rice Owls,Malia Fisher made Jumper.,14,14,2,427,1627,Rice Owls,jumper,True,True,False,Malia Fisher,False,,25.0,14.0
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow made Jumper.,16,14,2,413,1613,LSU Tigers,jumper,True,True,False,Aneesah Morrow,False,,35.0,6.0
+401637556,LSU Tigers,Rice Owls,Jazzy Owens-Barnett missed Three Point Jumper.,16,14,2,392,1592,Rice Owls,three point jumper,True,False,True,Jazzy Owens-Barnett,False,,40.0,22.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Defensive Rebound.,16,14,2,392,1592,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa missed Layup.,16,14,2,377,1577,LSU Tigers,layup,True,False,False,Last-Tear Poa,False,,28.0,0.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Offensive Rebound.,16,14,2,377,1577,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Malia Fisher.,16,14,2,377,1577,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese made Free Throw.,17,14,2,377,1577,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese made Free Throw.,18,14,2,377,1577,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Aalyah Del Rosario.,18,14,2,361,1561,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Jumper.,18,14,2,347,1547,Rice Owls,jumper,True,False,False,Emily Klaczek,False,,7.0,2.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Defensive Rebound.,18,14,2,347,1547,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams made Jumper.,20,14,2,330,1530,LSU Tigers,jumper,True,True,False,Mikaylah Williams,False,,8.0,7.0
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac made Layup.,20,16,2,316,1516,Rice Owls,layup,True,True,False,Sussy Ngulefac,False,,25.0,2.0
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow made Layup. Assisted by Flau'jae Johnson.,22,16,2,302,1502,LSU Tigers,layup,True,True,False,Aneesah Morrow,True,Flau'jae Johnson,29.0,0.0
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Three Point Jumper.,22,16,2,285,1485,Rice Owls,three point jumper,True,False,True,Emily Klaczek,False,,49.0,2.0
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams Defensive Rebound.,22,16,2,285,1485,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow made Layup. Assisted by Flau'jae Johnson.,24,16,2,270,1470,LSU Tigers,layup,True,True,False,Aneesah Morrow,True,Flau'jae Johnson,24.0,1.0
+401637556,LSU Tigers,Rice Owls,Foul on Sussy Ngulefac.,24,16,2,270,1470,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls, Official TV Timeout,24,16,2,270,1470,,tv timeout,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow missed Free Throw.,24,16,2,270,1470,LSU Tigers,free throw,True,False,False,Aneesah Morrow,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Adams Defensive Rebound.,24,16,2,270,1470,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek made Three Point Jumper.,24,19,2,251,1451,Rice Owls,three point jumper,True,True,True,Emily Klaczek,False,,31.0,26.0
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa made Three Point Jumper. Assisted by Mikaylah Williams.,27,19,2,227,1427,LSU Tigers,three point jumper,True,True,True,Last-Tear Poa,True,Mikaylah Williams,36.0,23.0
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Layup.,27,19,2,209,1409,Rice Owls,layup,True,False,False,Emily Klaczek,False,,21.0,0.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Defensive Rebound.,27,19,2,209,1409,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Fatou Samb.,27,19,2,198,1398,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Emily Klaczek.,27,19,2,197,1397,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Janae Kent made Free Throw.,28,19,2,197,1397,LSU Tigers,free throw,True,True,False,Janae Kent,False,,,
+401637556,LSU Tigers,Rice Owls,Janae Kent missed Free Throw.,28,19,2,197,1397,LSU Tigers,free throw,True,False,False,Janae Kent,False,,,
+401637556,LSU Tigers,Rice Owls,Maya Bokunewicz Defensive Rebound.,28,19,2,197,1397,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson Turnover.,28,19,2,187,1387,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson Steal.,28,19,2,187,1387,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa Turnover.,28,19,2,182,1382,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Fatou Samb Steal.,28,19,2,182,1382,Rice Owls,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek made Three Point Jumper. Assisted by Destiny Jackson.,28,22,2,175,1375,Rice Owls,three point jumper,True,True,True,Emily Klaczek,True,Destiny Jackson,44.0,21.0
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson Turnover.,28,22,2,159,1359,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek Steal.,28,22,2,159,1359,Rice Owls,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Layup.,28,22,2,153,1353,Rice Owls,layup,True,False,False,Emily Klaczek,False,,27.0,1.0
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa Block.,28,22,2,153,1353,LSU Tigers,block,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Rice Offensive Rebound.,28,22,2,153,1353,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson Turnover.,28,22,2,131,1331,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa Steal.,28,22,2,131,1331,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese missed Layup.,28,22,2,119,1319,LSU Tigers,layup,True,False,False,Angel Reese,False,,23.0,0.0
+401637556,LSU Tigers,Rice Owls,Fatou Samb Defensive Rebound.,28,22,2,119,1319,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek Turnover.,28,22,2,102,1302,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams missed Three Point Jumper.,28,22,2,94,1294,LSU Tigers,three point jumper,True,False,True,Mikaylah Williams,False,,9.0,20.0
+401637556,LSU Tigers,Rice Owls,Rice Defensive Rebound.,28,22,2,94,1294,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Fatou Samb made Layup. Assisted by Destiny Jackson.,28,24,2,69,1269,Rice Owls,layup,True,True,False,Fatou Samb,True,Destiny Jackson,22.0,0.0
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa missed Three Point Jumper.,28,24,2,51,1251,LSU Tigers,three point jumper,True,False,True,Last-Tear Poa,False,,40.0,23.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Offensive Rebound.,28,24,2,51,1251,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Hailey Adams.,28,24,2,38,1238,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese made Free Throw.,29,24,2,38,1238,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese made Free Throw.,30,24,2,38,1238,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek made Three Point Jumper.,30,27,2,11,1211,Rice Owls,three point jumper,True,True,True,Emily Klaczek,False,,44.0,20.0
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa missed Three Point Jumper.,30,27,2,6,1206,LSU Tigers,three point jumper,True,False,True,Last-Tear Poa,False,,25.0,37.0
+401637556,LSU Tigers,Rice Owls,Rice Deadball Team Rebound.,30,27,2,6,1206,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,End of 2nd Quarter,30,27,2,0,1200,,end,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Jump Ball won by LSU,30,27,3,600,1200,LSU Tigers,jump ball,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams missed Jumper.,30,27,3,587,1187,LSU Tigers,jumper,True,False,False,Mikaylah Williams,False,,33.0,1.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Offensive Rebound.,30,27,3,587,1187,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Trinity Gooden.,30,27,3,585,1185,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow missed Jumper.,30,27,3,583,1183,LSU Tigers,jumper,True,False,False,Aneesah Morrow,False,,16.0,4.0
+401637556,LSU Tigers,Rice Owls,Malia Fisher Defensive Rebound.,30,27,3,579,1179,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher made Layup. Assisted by Trinity Gooden.,30,29,3,567,1167,Rice Owls,layup,True,True,False,Malia Fisher,True,Trinity Gooden,24.0,0.0
+401637556,LSU Tigers,Rice Owls,Foul on Emily Klaczek.,30,29,3,551,1151,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese made Free Throw.,31,29,3,550,1150,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese made Free Throw.,32,29,3,550,1150,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Angel Reese.,32,29,3,534,1134,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Angel Reese.,32,29,3,531,1131,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Three Point Jumper.,32,29,3,527,1127,Rice Owls,three point jumper,True,False,True,Emily Klaczek,False,,1.0,-1.0
+401637556,LSU Tigers,Rice Owls,Malia Fisher Offensive Rebound.,32,29,3,527,1127,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher made Layup.,32,31,3,520,1120,Rice Owls,layup,True,True,False,Malia Fisher,False,,27.0,0.0
+401637556,LSU Tigers,Rice Owls,Angel Reese missed Layup.,32,31,3,512,1112,LSU Tigers,layup,True,False,False,Angel Reese,False,,21.0,1.0
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow Offensive Rebound.,32,31,3,512,1112,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow made Layup.,34,31,3,508,1108,LSU Tigers,layup,True,True,False,Aneesah Morrow,False,,26.0,1.0
+401637556,LSU Tigers,Rice Owls,Malia Fisher missed Jumper.,34,31,3,496,1096,Rice Owls,jumper,True,False,False,Malia Fisher,False,,28.0,16.0
+401637556,LSU Tigers,Rice Owls,Trinity Gooden Offensive Rebound.,34,31,3,496,1096,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Jump Ball won by Rice,34,31,3,492,1092,Rice Owls,jump ball,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher made Jumper.,34,33,3,478,1078,Rice Owls,jumper,True,True,False,Malia Fisher,False,,24.0,12.0
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson made Three Point Jumper. Assisted by Hailey Van Lith.,37,33,3,456,1056,LSU Tigers,three point jumper,True,True,True,Flau'jae Johnson,True,Hailey Van Lith,1.0,1.0
+401637556,LSU Tigers,Rice Owls,Trinity Gooden missed Jumper.,37,33,3,443,1043,Rice Owls,jumper,True,False,False,Trinity Gooden,False,,22.0,5.0
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith Defensive Rebound.,37,33,3,443,1043,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith Turnover.,37,33,3,439,1039,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher Steal.,37,33,3,439,1039,Rice Owls,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Three Point Jumper.,37,33,3,426,1026,Rice Owls,three point jumper,True,False,True,Emily Klaczek,False,,38.0,21.0
+401637556,LSU Tigers,Rice Owls,Malia Fisher Offensive Rebound.,37,33,3,426,1026,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher made Layup.,37,35,3,417,1017,Rice Owls,layup,True,True,False,Malia Fisher,False,,23.0,1.0
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith Turnover.,37,35,3,407,1007,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher Steal.,37,35,3,407,1007,Rice Owls,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Aneesah Morrow.,37,35,3,394,994,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson missed Jumper.,37,35,3,393,993,Rice Owls,jumper,True,False,False,Destiny Jackson,False,,34.0,14.0
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow Defensive Rebound.,37,35,3,393,993,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow Turnover.,37,35,3,381,981,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher Steal.,37,35,3,381,981,Rice Owls,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher missed Layup.,37,35,3,377,977,Rice Owls,layup,True,False,False,Malia Fisher,False,,28.0,0.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Defensive Rebound.,37,35,3,377,977,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson made Layup.,39,35,3,370,970,LSU Tigers,layup,True,True,False,Flau'jae Johnson,False,,22.0,1.0
+401637556,LSU Tigers,Rice Owls,Destiny Jackson missed Jumper.,39,35,3,349,949,Rice Owls,jumper,True,False,False,Destiny Jackson,False,,26.0,8.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Defensive Rebound.,39,35,3,349,949,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson missed Three Point Jumper.,39,35,3,332,932,LSU Tigers,three point jumper,True,False,True,Flau'jae Johnson,False,,5.0,16.0
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow Offensive Rebound.,39,35,3,332,932,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Sussy Ngulefac.,39,35,3,329,929,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow missed Free Throw.,39,35,3,329,929,LSU Tigers,free throw,True,False,False,Aneesah Morrow,False,,,
+401637556,LSU Tigers,Rice Owls,LSU Deadball Team Rebound.,39,35,3,329,929,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow made Free Throw.,40,35,3,329,929,LSU Tigers,free throw,True,True,False,Aneesah Morrow,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson made Three Point Jumper. Assisted by Trinity Gooden.,40,38,3,307,907,Rice Owls,three point jumper,True,True,True,Destiny Jackson,True,Trinity Gooden,42.0,18.0
+401637556,LSU Tigers,Rice Owls,Jump Ball won by LSU,40,38,3,290,890,LSU Tigers,jump ball,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls, Official TV Timeout,40,38,3,290,890,,tv timeout,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams made Layup.,42,38,3,284,884,LSU Tigers,layup,True,True,False,Mikaylah Williams,False,,24.0,2.0
+401637556,LSU Tigers,Rice Owls,Fatou Samb Turnover.,42,38,3,269,869,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese Steal.,42,38,3,269,869,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Fatou Samb.,42,38,3,262,862,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese missed Free Throw.,42,38,3,262,862,LSU Tigers,free throw,True,False,False,Angel Reese,False,,,
+401637556,LSU Tigers,Rice Owls,LSU Deadball Team Rebound.,42,38,3,262,862,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese made Free Throw.,43,38,3,262,862,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher missed Jumper.,43,38,3,250,850,Rice Owls,jumper,True,False,False,Malia Fisher,False,,32.0,8.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Defensive Rebound.,43,38,3,250,850,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams missed Jumper.,43,38,3,223,823,LSU Tigers,jumper,True,False,False,Mikaylah Williams,False,,10.0,1.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Offensive Rebound.,43,38,3,223,823,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese made Layup.,45,38,3,218,818,LSU Tigers,layup,True,True,False,Angel Reese,False,,27.0,0.0
+401637556,LSU Tigers,Rice Owls,Foul on Mikaylah Williams.,45,38,3,211,811,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac made Layup. Assisted by Trinity Gooden.,45,40,3,204,804,Rice Owls,layup,True,True,False,Sussy Ngulefac,True,Trinity Gooden,24.0,2.0
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams made Three Point Jumper. Assisted by Flau'jae Johnson.,48,40,3,191,791,LSU Tigers,three point jumper,True,True,True,Mikaylah Williams,True,Flau'jae Johnson,7.0,18.0
+401637556,LSU Tigers,Rice Owls,Malia Fisher missed Three Point Jumper.,48,40,3,170,770,Rice Owls,three point jumper,True,False,True,Malia Fisher,False,,23.0,27.0
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams Defensive Rebound.,48,40,3,170,770,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Trinity Gooden.,48,40,3,160,760,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams made Free Throw.,49,40,3,160,760,LSU Tigers,free throw,True,True,False,Mikaylah Williams,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams made Free Throw.,50,40,3,160,760,LSU Tigers,free throw,True,True,False,Mikaylah Williams,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson Turnover.,50,40,3,136,736,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese Steal.,50,40,3,136,736,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Malia Fisher.,50,40,3,131,731,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese missed Free Throw.,50,40,3,131,731,LSU Tigers,free throw,True,False,False,Angel Reese,False,,,
+401637556,LSU Tigers,Rice Owls,LSU Deadball Team Rebound.,50,40,3,131,731,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese made Free Throw.,51,40,3,131,731,LSU Tigers,free throw,True,True,False,Angel Reese,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson made Layup.,51,42,3,116,716,Rice Owls,layup,True,True,False,Destiny Jackson,False,,27.0,1.0
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams Turnover.,51,42,3,98,698,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher missed Three Point Jumper.,51,42,3,93,693,Rice Owls,three point jumper,True,False,True,Malia Fisher,False,,40.0,21.0
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith Defensive Rebound.,51,42,3,93,693,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Trinity Gooden.,51,42,3,93,693,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson missed Free Throw.,51,42,3,93,693,LSU Tigers,free throw,True,False,False,Flau'jae Johnson,False,,,
+401637556,LSU Tigers,Rice Owls,LSU Deadball Team Rebound.,51,42,3,93,693,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson missed Free Throw.,51,42,3,93,693,LSU Tigers,free throw,True,False,False,Flau'jae Johnson,False,,,
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac Defensive Rebound.,51,42,3,93,693,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Trinity Gooden Turnover.,51,42,3,59,659,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aalyah Del Rosario Steal.,51,42,3,59,659,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow missed Three Point Jumper.,51,42,3,50,650,LSU Tigers,three point jumper,True,False,True,Aneesah Morrow,False,,12.0,23.0
+401637556,LSU Tigers,Rice Owls,Destiny Jackson Defensive Rebound.,51,42,3,50,650,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Malia Fisher missed Layup.,51,42,3,31,631,Rice Owls,layup,True,False,False,Malia Fisher,False,,27.0,0.0
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson Defensive Rebound.,51,42,3,31,631,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Malia Fisher.,51,42,3,19,619,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson made Free Throw.,52,42,3,19,619,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson made Free Throw.,53,42,3,19,619,LSU Tigers,free throw,True,True,False,Flau'jae Johnson,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson missed Layup.,53,42,3,2,602,Rice Owls,layup,True,False,False,Destiny Jackson,False,,28.0,1.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Defensive Rebound.,53,42,3,2,602,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,End of 3rd Quarter,53,42,3,0,600,,end,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Jump Ball won by Rice,53,42,4,600,600,Rice Owls,jump ball,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Mikaylah Williams.,53,42,4,591,591,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Hailey Van Lith.,53,42,4,576,576,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson missed Three Point Jumper.,53,42,4,564,564,Rice Owls,three point jumper,True,False,True,Destiny Jackson,False,,21.0,27.0
+401637556,LSU Tigers,Rice Owls,LSU Defensive Rebound.,53,42,4,564,564,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Hailey Adams.,53,42,4,549,549,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese missed Free Throw.,53,42,4,549,549,LSU Tigers,free throw,True,False,False,Angel Reese,False,,,
+401637556,LSU Tigers,Rice Owls,LSU Deadball Team Rebound.,53,42,4,549,549,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese missed Free Throw.,53,42,4,549,549,LSU Tigers,free throw,True,False,False,Angel Reese,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek Defensive Rebound.,53,42,4,549,549,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson made Three Point Jumper. Assisted by Emily Klaczek.,53,45,4,528,528,Rice Owls,three point jumper,True,True,True,Destiny Jackson,True,Emily Klaczek,35.0,23.0
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams Turnover.,53,45,4,510,510,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Aalyah Del Rosario.,53,45,4,488,488,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Aalyah Del Rosario.,53,45,4,483,483,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson missed Layup.,53,45,4,463,463,Rice Owls,layup,True,False,False,Destiny Jackson,False,,29.0,0.0
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow Defensive Rebound.,53,45,4,463,463,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Hailey Adams.,53,45,4,462,462,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow missed Layup.,53,45,4,456,456,LSU Tigers,layup,True,False,False,Aneesah Morrow,False,,27.0,0.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Offensive Rebound.,53,45,4,456,456,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese missed Layup.,53,45,4,449,449,LSU Tigers,layup,True,False,False,Angel Reese,False,,25.0,3.0
+401637556,LSU Tigers,Rice Owls,Rice Defensive Rebound.,53,45,4,449,449,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Flau'jae Johnson.,53,45,4,426,426,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Free Throw.,53,45,4,419,419,Rice Owls,free throw,True,False,False,Emily Klaczek,False,,,
+401637556,LSU Tigers,Rice Owls,Rice Deadball Team Rebound.,53,45,4,419,419,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek made Free Throw.,53,46,4,419,419,Rice Owls,free throw,True,True,False,Emily Klaczek,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith made Jumper. Assisted by Mikaylah Williams.,55,46,4,412,412,LSU Tigers,jumper,True,True,False,Hailey Van Lith,True,Mikaylah Williams,37.0,15.0
+401637556,LSU Tigers,Rice Owls,Destiny Jackson Turnover.,55,46,4,395,395,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese Steal.,55,46,4,395,395,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Trinity Gooden.,55,46,4,380,380,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams Turnover.,55,46,4,379,379,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac missed Layup.,55,46,4,366,366,Rice Owls,layup,True,False,False,Sussy Ngulefac,False,,27.0,0.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Block.,55,46,4,366,366,LSU Tigers,block,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith Defensive Rebound.,55,46,4,366,366,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow made Layup. Assisted by Flau'jae Johnson.,57,46,4,346,346,LSU Tigers,layup,True,True,False,Aneesah Morrow,True,Flau'jae Johnson,26.0,1.0
+401637556,LSU Tigers,Rice Owls,Foul on Malia Fisher.,57,46,4,345,345,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese Turnover.,57,46,4,344,344,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Maya Bokunewicz missed Jumper.,57,46,4,330,330,Rice Owls,jumper,True,False,False,Maya Bokunewicz,False,,27.0,14.0
+401637556,LSU Tigers,Rice Owls,Angel Reese Defensive Rebound.,57,46,4,326,326,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith missed Three Point Jumper.,57,46,4,317,317,LSU Tigers,three point jumper,True,False,True,Hailey Van Lith,False,,48.0,7.0
+401637556,LSU Tigers,Rice Owls,Emily Klaczek Defensive Rebound.,57,46,4,315,315,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Jumper.,57,46,4,302,302,Rice Owls,jumper,True,False,False,Emily Klaczek,False,,28.0,17.0
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson Block.,57,46,4,301,301,LSU Tigers,block,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson Offensive Rebound.,57,46,4,298,298,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson made Layup.,57,48,4,297,297,Rice Owls,layup,True,True,False,Destiny Jackson,False,,29.0,0.0
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams missed Jumper.,57,48,4,289,289,LSU Tigers,jumper,True,False,False,Mikaylah Williams,False,,30.0,15.0
+401637556,LSU Tigers,Rice Owls,Hailey Adams Defensive Rebound.,57,48,4,289,289,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Aneesah Morrow.,57,48,4,289,289,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Adams made Free Throw.,57,49,4,289,289,Rice Owls,free throw,True,True,False,Hailey Adams,False,,,
+401637556,LSU Tigers,Rice Owls, Official TV Timeout,57,48,4,289,289,,tv timeout,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Adams made Free Throw.,57,50,4,289,289,Rice Owls,free throw,True,True,False,Hailey Adams,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith Turnover.,57,50,4,285,285,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek Steal.,57,50,4,285,285,Rice Owls,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac Turnover.,57,50,4,261,261,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams made Three Point Jumper. Assisted by Last-Tear Poa.,60,50,4,245,245,LSU Tigers,three point jumper,True,True,True,Mikaylah Williams,True,Last-Tear Poa,16.0,25.0
+401637556,LSU Tigers,Rice Owls,Foul on Last-Tear Poa.,60,50,4,229,229,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson made Free Throw.,60,51,4,229,229,Rice Owls,free throw,True,True,False,Destiny Jackson,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson missed Free Throw.,60,51,4,229,229,Rice Owls,free throw,True,False,False,Destiny Jackson,False,,,
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac Offensive Rebound.,60,51,4,229,229,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Three Point Jumper.,60,51,4,224,224,Rice Owls,three point jumper,True,False,True,Emily Klaczek,False,,4.0,18.0
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams Defensive Rebound.,60,51,4,224,224,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa made Layup.,62,51,4,201,201,LSU Tigers,layup,True,True,False,Last-Tear Poa,False,,22.0,1.0
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac Turnover.,62,51,4,192,192,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow Steal.,62,51,4,192,192,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Angel Reese Turnover.,62,51,4,184,184,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Destiny Jackson Steal.,62,51,4,184,184,Rice Owls,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Three Point Jumper.,62,51,4,178,178,Rice Owls,three point jumper,True,False,True,Emily Klaczek,False,,33.0,25.0
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams Defensive Rebound.,62,51,4,178,178,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Mikaylah Williams Turnover.,62,51,4,173,173,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Maya Bokunewicz missed Three Point Jumper.,62,51,4,161,161,Rice Owls,three point jumper,True,False,True,Maya Bokunewicz,False,,45.0,14.0
+401637556,LSU Tigers,Rice Owls,Destiny Jackson Offensive Rebound.,62,51,4,161,161,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Maya Bokunewicz made Three Point Jumper. Assisted by Destiny Jackson.,62,54,4,153,153,Rice Owls,three point jumper,True,True,True,Maya Bokunewicz,True,Destiny Jackson,48.0,7.0
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith missed Jumper.,62,54,4,138,138,LSU Tigers,jumper,True,False,False,Hailey Van Lith,False,,24.0,14.0
+401637556,LSU Tigers,Rice Owls,Maya Bokunewicz Defensive Rebound.,62,54,4,138,138,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac made Layup. Assisted by Destiny Jackson.,62,56,4,118,118,Rice Owls,layup,True,True,False,Sussy Ngulefac,True,Destiny Jackson,28.0,0.0
+401637556,LSU Tigers,Rice Owls,LSU  Timeout,62,56,4,103,103,LSU Tigers,timeout,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Flau'jae Johnson made Jumper.,64,56,4,95,95,LSU Tigers,jumper,True,True,False,Flau'jae Johnson,False,,16.0,9.0
+401637556,LSU Tigers,Rice Owls,Destiny Jackson made Layup.,64,58,4,83,83,Rice Owls,layup,True,True,False,Destiny Jackson,False,,27.0,-1.0
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith Turnover.,64,58,4,77,77,LSU Tigers,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Jump Ball won by LSU,64,58,4,67,67,LSU Tigers,jump ball,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac Turnover.,64,58,4,67,67,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Aneesah Morrow Steal.,64,58,4,67,67,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Destiny Jackson.,64,58,4,46,46,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa made Free Throw.,65,58,4,46,46,LSU Tigers,free throw,True,True,False,Last-Tear Poa,False,,,
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa made Free Throw.,66,58,4,46,46,LSU Tigers,free throw,True,True,False,Last-Tear Poa,False,,,
+401637556,LSU Tigers,Rice Owls,Rice  Timeout,66,58,4,46,46,Rice Owls,timeout,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Angel Reese.,66,58,4,29,29,LSU Tigers,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Adams made Free Throw.,66,59,4,29,29,Rice Owls,free throw,True,True,False,Hailey Adams,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Adams made Free Throw.,66,60,4,29,29,Rice Owls,free throw,True,True,False,Hailey Adams,False,,,
+401637556,LSU Tigers,Rice Owls,LSU  Timeout,66,60,4,29,29,LSU Tigers,timeout,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Maya Bokunewicz.,66,60,4,25,25,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa made Free Throw.,67,60,4,25,25,LSU Tigers,free throw,True,True,False,Last-Tear Poa,False,,,
+401637556,LSU Tigers,Rice Owls,Last-Tear Poa made Free Throw.,68,60,4,25,25,LSU Tigers,free throw,True,True,False,Last-Tear Poa,False,,,
+401637556,LSU Tigers,Rice Owls,Rice  Timeout,68,60,4,25,25,Rice Owls,timeout,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Three Point Jumper.,68,60,4,20,20,Rice Owls,three point jumper,True,False,True,Emily Klaczek,False,,2.0,18.0
+401637556,LSU Tigers,Rice Owls,Hailey Adams Offensive Rebound.,68,60,4,20,20,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Adams Turnover.,68,60,4,12,12,Rice Owls,turnover,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith Steal.,68,60,4,12,12,LSU Tigers,steal,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Foul on Destiny Jackson.,68,60,4,8,8,Rice Owls,foul,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith made Free Throw.,69,60,4,8,8,LSU Tigers,free throw,True,True,False,Hailey Van Lith,False,,,
+401637556,LSU Tigers,Rice Owls,Hailey Van Lith made Free Throw.,70,60,4,8,8,LSU Tigers,free throw,True,True,False,Hailey Van Lith,False,,,
+401637556,LSU Tigers,Rice Owls,Rice  Timeout,70,60,4,8,8,Rice Owls,timeout,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Emily Klaczek missed Jumper.,70,60,4,4,4,Rice Owls,jumper,True,False,False,Emily Klaczek,False,,10.0,1.0
+401637556,LSU Tigers,Rice Owls,Rice Offensive Rebound.,70,60,4,4,4,Rice Owls,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,Sussy Ngulefac missed Jumper.,70,60,4,4,4,Rice Owls,jumper,True,False,False,Sussy Ngulefac,False,,33.0,2.0
+401637556,LSU Tigers,Rice Owls,LSU Deadball Team Rebound.,70,60,4,4,4,LSU Tigers,rebound,False,False,False,,False,,,
+401637556,LSU Tigers,Rice Owls,End of Game,70,60,4,0,0,,end,False,False,False,,False,,,

@@ -1,0 +1,326 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637543,Colorado Buffaloes,Drake Bulldogs,Jump Ball won by Drake,0,0,1,600,2400,Drake Bulldogs,jump ball,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker made Three Point Jumper. Assisted by Katie Dinnebier.,0,3,1,592,2392,Drake Bulldogs,three point jumper,True,True,True,Courtney Becker,True,Katie Dinnebier,44.0,18.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller missed Three Point Jumper.,0,3,1,577,2377,Colorado Buffaloes,three point jumper,True,False,True,Quay Miller,False,,1.0,-2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan Offensive Rebound.,0,3,1,577,2377,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod Turnover.,0,3,1,560,2360,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Steal.,0,3,1,560,2360,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay missed Three Point Jumper.,0,3,1,547,2347,Drake Bulldogs,three point jumper,True,False,True,Taylor McAulay,False,,9.0,19.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Offensive Rebound.,0,3,1,547,2347,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker made Layup.,0,5,1,539,2339,Drake Bulldogs,layup,True,True,False,Courtney Becker,False,,27.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan missed Three Point Jumper.,0,5,1,531,2331,Colorado Buffaloes,three point jumper,True,False,True,Maddie Nolan,False,,48.0,-2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg Defensive Rebound.,0,5,1,531,2331,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Quay Miller.,0,5,1,517,2317,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier made Layup. Assisted by Taylor McAulay.,0,7,1,512,2312,Drake Bulldogs,layup,True,True,False,Katie Dinnebier,True,Taylor McAulay,28.0,1.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh missed Layup.,0,7,1,496,2296,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,23.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Block.,0,7,1,496,2296,Drake Bulldogs,block,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller Defensive Rebound.,0,7,1,496,2296,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg made Layup. Assisted by Katie Dinnebier.,0,9,1,485,2285,Drake Bulldogs,layup,True,True,False,Grace Berg,True,Katie Dinnebier,23.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller made Three Point Jumper. Assisted by Frida Formann.,3,9,1,464,2264,Colorado Buffaloes,three point jumper,True,True,True,Quay Miller,True,Frida Formann,8.0,18.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Jaylyn Sherrod.,3,9,1,452,2252,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Shannon Fornshell made Layup. Assisted by Ava Hawthorne.,3,11,1,447,2247,Drake Bulldogs,layup,True,True,False,Shannon Fornshell,True,Ava Hawthorne,23.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Colorado  Timeout,3,11,1,446,2246,Colorado Buffaloes,timeout,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs, Official TV Timeout,3,11,1,446,2246,,tv timeout,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh missed Layup.,3,11,1,433,2233,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,23.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Block.,3,11,1,433,2233,Drake Bulldogs,block,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Offensive Rebound.,3,11,1,433,2233,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh made Layup.,5,11,1,433,2233,Colorado Buffaloes,layup,True,True,False,Aaronette Vonleh,False,,24.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Shannon Fornshell.,5,11,1,433,2233,Drake Bulldogs,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh made Free Throw.,6,11,1,433,2233,Colorado Buffaloes,free throw,True,True,False,Aaronette Vonleh,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Shannon Fornshell Turnover.,6,11,1,421,2221,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh made Layup. Assisted by Maddie Nolan.,8,11,1,411,2211,Colorado Buffaloes,layup,True,True,False,Aaronette Vonleh,True,Maddie Nolan,26.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg Turnover.,8,11,1,395,2195,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh missed Layup.,8,11,1,384,2184,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,22.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Sara-Rose Smith Offensive Rebound.,8,11,1,384,2184,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Sara-Rose Smith made Layup.,10,11,1,378,2178,Colorado Buffaloes,layup,True,True,False,Sara-Rose Smith,False,,27.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier missed Three Point Jumper.,10,11,1,368,2168,Drake Bulldogs,three point jumper,True,False,True,Katie Dinnebier,False,,25.0,26.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta Defensive Rebound.,10,11,1,368,2168,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Sara-Rose Smith missed Jumper.,10,11,1,355,2155,Colorado Buffaloes,jumper,True,False,False,Sara-Rose Smith,False,,23.0,8.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller Defensive Rebound.,10,11,1,355,2155,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Sara-Rose Smith.,10,11,1,350,2150,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller missed Layup.,10,11,1,332,2132,Drake Bulldogs,layup,True,False,False,Anna Miller,False,,22.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Block.,10,11,1,332,2132,Colorado Buffaloes,block,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Defensive Rebound.,10,11,1,332,2132,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod made Jumper. Assisted by Aaronette Vonleh.,12,11,1,325,2125,Colorado Buffaloes,jumper,True,True,False,Jaylyn Sherrod,True,Aaronette Vonleh,26.0,6.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Katie Dinnebier.,12,11,1,325,2125,Drake Bulldogs,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod made Free Throw.,13,11,1,325,2125,Colorado Buffaloes,free throw,True,True,False,Jaylyn Sherrod,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg Turnover.,13,11,1,322,2122,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta Steal.,13,11,1,322,2122,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Charlotte Whittaker missed Jumper.,13,11,1,302,2102,Colorado Buffaloes,jumper,True,False,False,Charlotte Whittaker,False,,27.0,13.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta Offensive Rebound.,13,11,1,302,2102,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs, Official TV Timeout,13,11,1,299,2099,,tv timeout,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Charlotte Whittaker Turnover.,13,11,1,290,2090,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Steal.,13,11,1,290,2090,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay made Three Point Jumper. Assisted by Anna Miller.,13,14,1,280,2080,Drake Bulldogs,three point jumper,True,True,True,Taylor McAulay,True,Anna Miller,47.0,8.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Frida Formann made Layup. Assisted by Jaylyn Sherrod.,15,14,1,257,2057,Colorado Buffaloes,layup,True,True,False,Frida Formann,True,Jaylyn Sherrod,27.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Frida Formann.,15,14,1,244,2044,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay made Free Throw.,15,15,1,244,2044,Drake Bulldogs,free throw,True,True,False,Taylor McAulay,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay missed Free Throw.,15,15,1,244,2044,Drake Bulldogs,free throw,True,False,False,Taylor McAulay,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller Defensive Rebound.,15,15,1,244,2044,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod missed Three Point Jumper.,15,15,1,221,2021,Colorado Buffaloes,three point jumper,True,False,True,Jaylyn Sherrod,False,,2.0,4.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Drake Defensive Rebound.,15,15,1,221,2021,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier Turnover.,15,15,1,217,2017,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh made Layup. Assisted by Kindyll Wetta.,17,15,1,200,2000,Colorado Buffaloes,layup,True,True,False,Aaronette Vonleh,True,Kindyll Wetta,21.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Kindyll Wetta.,17,15,1,186,1986,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier made Free Throw.,17,16,1,186,1986,Drake Bulldogs,free throw,True,True,False,Katie Dinnebier,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier made Free Throw.,17,17,1,186,1986,Drake Bulldogs,free throw,True,True,False,Katie Dinnebier,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller Turnover.,17,17,1,175,1975,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg Steal.,17,17,1,175,1975,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg missed Layup.,17,17,1,162,1962,Drake Bulldogs,layup,True,False,False,Grace Berg,False,,27.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan Defensive Rebound.,17,17,1,162,1962,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod missed Jumper.,17,17,1,143,1943,Colorado Buffaloes,jumper,True,False,False,Jaylyn Sherrod,False,,21.0,16.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay Defensive Rebound.,17,17,1,143,1943,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Shannon Fornshell missed Three Point Jumper.,17,17,1,122,1922,Drake Bulldogs,three point jumper,True,False,True,Shannon Fornshell,False,,14.0,22.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Colorado Deadball Team Rebound.,17,17,1,122,1922,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Courtney Becker.,17,17,1,118,1918,Drake Bulldogs,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan made Three Point Jumper. Assisted by Quay Miller.,20,17,1,103,1903,Colorado Buffaloes,three point jumper,True,True,True,Maddie Nolan,True,Quay Miller,47.0,9.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Ava Hawthorne made Three Point Jumper. Assisted by Grace Berg.,20,20,1,84,1884,Drake Bulldogs,three point jumper,True,True,True,Ava Hawthorne,True,Grace Berg,24.0,24.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan missed Three Point Jumper.,20,20,1,67,1867,Colorado Buffaloes,three point jumper,True,False,True,Maddie Nolan,False,,48.0,-1.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller Offensive Rebound.,20,20,1,67,1867,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh missed Jumper.,20,20,1,53,1853,Colorado Buffaloes,jumper,True,False,False,Aaronette Vonleh,False,,27.0,17.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay Defensive Rebound.,20,20,1,53,1853,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Kindyll Wetta.,20,20,1,39,1839,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller made Free Throw.,20,21,1,39,1839,Drake Bulldogs,free throw,True,True,False,Anna Miller,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller missed Free Throw.,20,21,1,39,1839,Drake Bulldogs,free throw,True,False,False,Anna Miller,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Defensive Rebound.,20,21,1,39,1839,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan made Layup. Assisted by Aaronette Vonleh.,22,21,1,21,1821,Colorado Buffaloes,layup,True,True,False,Maddie Nolan,True,Aaronette Vonleh,23.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller Turnover.,22,21,1,4,1804,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Tameiya Sadler Steal.,22,21,1,4,1804,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Tameiya Sadler made Layup.,24,21,1,1,1801,Colorado Buffaloes,layup,True,True,False,Tameiya Sadler,False,,27.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,End of 1st Quarter,24,21,1,0,1800,,end,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jump Ball won by Colorado,24,21,2,600,1800,Colorado Buffaloes,jump ball,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh missed Layup.,24,21,2,574,1774,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,23.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Offensive Rebound.,24,21,2,574,1774,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh missed Layup.,24,21,2,566,1766,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,23.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller Block.,24,21,2,566,1766,Drake Bulldogs,block,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Offensive Rebound.,24,21,2,566,1766,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh made Layup.,26,21,2,561,1761,Colorado Buffaloes,layup,True,True,False,Aaronette Vonleh,False,,24.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier Turnover.,26,21,2,561,1761,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan made Three Point Jumper. Assisted by Jaylyn Sherrod.,29,21,2,551,1751,Colorado Buffaloes,three point jumper,True,True,True,Maddie Nolan,True,Jaylyn Sherrod,48.0,1.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Frida Formann.,29,21,2,533,1733,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller missed Layup.,29,21,2,527,1727,Drake Bulldogs,layup,True,False,False,Anna Miller,False,,27.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod Defensive Rebound.,29,21,2,527,1727,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod Turnover.,29,21,2,520,1720,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay Steal.,29,21,2,520,1720,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Sara-Rose Smith.,29,21,2,520,1720,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier made Three Point Jumper. Assisted by Courtney Becker.,29,24,2,508,1708,Drake Bulldogs,three point jumper,True,True,True,Katie Dinnebier,True,Courtney Becker,42.0,17.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh missed Layup.,29,24,2,487,1687,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,25.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Offensive Rebound.,29,24,2,487,1687,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh made Layup.,31,24,2,480,1680,Colorado Buffaloes,layup,True,True,False,Aaronette Vonleh,False,,24.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay Turnover.,31,24,2,470,1670,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Tameiya Sadler made Three Point Jumper. Assisted by Jaylyn Sherrod.,34,24,2,445,1645,Colorado Buffaloes,three point jumper,True,True,True,Tameiya Sadler,True,Jaylyn Sherrod,1.0,1.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier Turnover.,34,24,2,437,1637,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod Steal.,34,24,2,437,1637,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod made Layup.,36,24,2,431,1631,Colorado Buffaloes,layup,True,True,False,Jaylyn Sherrod,False,,23.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker made Layup. Assisted by Shannon Fornshell.,36,26,2,417,1617,Drake Bulldogs,layup,True,True,False,Courtney Becker,True,Shannon Fornshell,27.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Grace Berg.,36,26,2,387,1587,Drake Bulldogs,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Brianna McLeod made Free Throw.,37,26,2,387,1587,Colorado Buffaloes,free throw,True,True,False,Brianna McLeod,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Brianna McLeod made Free Throw.,38,26,2,387,1587,Colorado Buffaloes,free throw,True,True,False,Brianna McLeod,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier made Layup.,38,28,2,368,1568,Drake Bulldogs,layup,True,True,False,Katie Dinnebier,False,,27.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Brianna McLeod.,38,28,2,368,1568,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier made Free Throw.,38,29,2,368,1568,Drake Bulldogs,free throw,True,True,False,Katie Dinnebier,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller missed Three Point Jumper.,38,29,2,356,1556,Colorado Buffaloes,three point jumper,True,False,True,Quay Miller,False,,1.0,1.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Defensive Rebound.,38,29,2,356,1556,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier made Three Point Jumper.,38,32,2,327,1527,Drake Bulldogs,three point jumper,True,True,True,Katie Dinnebier,False,,37.0,22.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod made Layup.,40,32,2,319,1519,Colorado Buffaloes,layup,True,True,False,Jaylyn Sherrod,False,,23.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier made Layup.,40,34,2,288,1488,Drake Bulldogs,layup,True,True,False,Katie Dinnebier,False,,22.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod Turnover.,40,34,2,280,1480,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Steal.,40,34,2,280,1480,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker made Layup. Assisted by Shannon Fornshell.,40,36,2,267,1467,Drake Bulldogs,layup,True,True,False,Courtney Becker,True,Shannon Fornshell,27.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta missed Three Point Jumper.,40,36,2,248,1448,Colorado Buffaloes,three point jumper,True,False,True,Kindyll Wetta,False,,30.0,25.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Megan Meyer Defensive Rebound.,40,36,2,248,1448,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier missed Three Point Jumper.,40,36,2,238,1438,Drake Bulldogs,three point jumper,True,False,True,Katie Dinnebier,False,,18.0,24.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan Defensive Rebound.,40,36,2,238,1438,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs, Official TV Timeout,40,36,2,229,1429,,tv timeout,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Charlotte Whittaker Turnover.,40,36,2,219,1419,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier made Three Point Jumper. Assisted by Taylor McAulay.,40,39,2,191,1391,Drake Bulldogs,three point jumper,True,True,True,Katie Dinnebier,True,Taylor McAulay,23.0,25.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh made Layup. Assisted by Tameiya Sadler.,42,39,2,175,1375,Colorado Buffaloes,layup,True,True,False,Aaronette Vonleh,True,Tameiya Sadler,22.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg made Layup.,42,41,2,155,1355,Drake Bulldogs,layup,True,True,False,Grace Berg,False,,26.0,4.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan missed Three Point Jumper.,42,41,2,140,1340,Colorado Buffaloes,three point jumper,True,False,True,Maddie Nolan,False,,16.0,23.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Offensive Rebound.,42,41,2,140,1340,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller made Jumper. Assisted by Jaylyn Sherrod.,44,41,2,123,1323,Colorado Buffaloes,jumper,True,True,False,Quay Miller,True,Jaylyn Sherrod,26.0,18.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier missed Three Point Jumper.,44,41,2,105,1305,Drake Bulldogs,three point jumper,True,False,True,Katie Dinnebier,False,,14.0,22.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller Defensive Rebound.,44,41,2,105,1305,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Courtney Becker.,44,41,2,94,1294,Drake Bulldogs,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh made Free Throw.,45,41,2,94,1294,Colorado Buffaloes,free throw,True,True,False,Aaronette Vonleh,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh missed Free Throw.,45,41,2,94,1294,Colorado Buffaloes,free throw,True,False,False,Aaronette Vonleh,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Drake Deadball Team Rebound.,45,41,2,94,1294,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Maddie Nolan.,45,41,2,93,1293,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Drake  Timeout,45,41,2,93,1293,Drake Bulldogs,timeout,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg Turnover.,45,41,2,73,1273,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller Turnover.,45,41,2,64,1264,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay Steal.,45,41,2,64,1264,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Taylor McAulay.,45,41,2,43,1243,Drake Bulldogs,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay Turnover.,45,41,2,43,1243,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Taylor McAulay.,45,41,2,22,1222,Drake Bulldogs,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Anna Miller.,45,41,2,3,1203,Drake Bulldogs,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod missed Free Throw.,45,41,2,3,1203,Colorado Buffaloes,free throw,True,False,False,Jaylyn Sherrod,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Colorado Deadball Team Rebound.,45,41,2,3,1203,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod made Free Throw.,46,41,2,3,1203,Colorado Buffaloes,free throw,True,True,False,Jaylyn Sherrod,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier Turnover.,46,41,2,1,1201,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,End of 2nd Quarter,46,41,2,0,1200,,end,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jump Ball won by Colorado,46,41,3,600,1200,Colorado Buffaloes,jump ball,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Turnover.,46,41,3,584,1184,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Steal.,46,41,3,584,1184,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Turnover.,46,41,3,570,1170,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Steal.,46,41,3,570,1170,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh missed Layup.,46,41,3,555,1155,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,27.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Offensive Rebound.,46,41,3,555,1155,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh made Layup.,48,41,3,550,1150,Colorado Buffaloes,layup,True,True,False,Aaronette Vonleh,False,,25.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg missed Layup.,48,41,3,536,1136,Drake Bulldogs,layup,True,False,False,Grace Berg,False,,22.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Colorado Defensive Rebound.,48,41,3,536,1136,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod made Layup.,50,41,3,511,1111,Colorado Buffaloes,layup,True,True,False,Jaylyn Sherrod,False,,22.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Maddie Nolan.,50,41,3,503,1103,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg missed Layup.,50,41,3,497,1097,Drake Bulldogs,layup,True,False,False,Grace Berg,False,,23.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller Defensive Rebound.,50,41,3,497,1097,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Frida Formann Turnover.,50,41,3,486,1086,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller Steal.,50,41,3,486,1086,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller missed Three Point Jumper.,50,41,3,481,1081,Drake Bulldogs,three point jumper,True,False,True,Anna Miller,False,,26.0,24.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller Defensive Rebound.,50,41,3,481,1081,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh made Layup. Assisted by Quay Miller.,52,41,3,466,1066,Colorado Buffaloes,layup,True,True,False,Aaronette Vonleh,True,Quay Miller,27.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker made Layup. Assisted by Katie Dinnebier.,52,43,3,452,1052,Drake Bulldogs,layup,True,True,False,Courtney Becker,True,Katie Dinnebier,22.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller made Layup. Assisted by Jaylyn Sherrod.,54,43,3,435,1035,Colorado Buffaloes,layup,True,True,False,Quay Miller,True,Jaylyn Sherrod,29.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller missed Layup.,54,43,3,418,1018,Drake Bulldogs,layup,True,False,False,Anna Miller,False,,29.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Block.,54,43,3,418,1018,Colorado Buffaloes,block,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Drake Offensive Rebound.,54,43,3,418,1018,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Sara-Rose Smith.,54,43,3,408,1008,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg made Free Throw.,54,44,3,408,1008,Drake Bulldogs,free throw,True,True,False,Grace Berg,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg missed Free Throw.,54,44,3,408,1008,Drake Bulldogs,free throw,True,False,False,Grace Berg,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Defensive Rebound.,54,44,3,408,1008,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta made Layup. Assisted by Jaylyn Sherrod.,56,44,3,401,1001,Colorado Buffaloes,layup,True,True,False,Kindyll Wetta,True,Jaylyn Sherrod,23.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Kindyll Wetta.,56,44,3,394,994,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg Turnover.,56,44,3,388,988,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta made Jumper.,58,44,3,364,964,Colorado Buffaloes,jumper,True,True,False,Kindyll Wetta,False,,34.0,10.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier missed Layup.,58,44,3,338,938,Drake Bulldogs,layup,True,False,False,Katie Dinnebier,False,,21.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Sara-Rose Smith Defensive Rebound.,58,44,3,338,938,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Sara-Rose Smith Turnover.,58,44,3,329,929,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Steal.,58,44,3,329,929,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay missed Three Point Jumper.,58,44,3,324,924,Drake Bulldogs,three point jumper,True,False,True,Taylor McAulay,False,,39.0,20.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Shannon Fornshell Offensive Rebound.,58,44,3,324,924,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Turnover.,58,44,3,319,919,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod made Layup.,60,44,3,302,902,Colorado Buffaloes,layup,True,True,False,Jaylyn Sherrod,False,,26.0,4.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Turnover.,60,44,3,296,896,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs, Official TV Timeout,60,44,3,296,896,,tv timeout,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod missed Three Point Jumper.,60,44,3,265,865,Colorado Buffaloes,three point jumper,True,False,True,Jaylyn Sherrod,False,,27.0,26.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Tameiya Sadler Offensive Rebound.,60,44,3,265,865,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod Turnover.,60,44,3,255,855,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay Steal.,60,44,3,255,855,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Megan Meyer made Three Point Jumper. Assisted by Katie Dinnebier.,60,47,3,247,847,Drake Bulldogs,three point jumper,True,True,True,Megan Meyer,True,Katie Dinnebier,45.0,13.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Frida Formann Turnover.,60,47,3,230,830,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Megan Meyer missed Three Point Jumper.,60,47,3,214,814,Drake Bulldogs,three point jumper,True,False,True,Megan Meyer,False,,7.0,20.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod Defensive Rebound.,60,47,3,214,814,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod Turnover.,60,47,3,205,805,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Quay Miller.,60,47,3,199,799,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Frida Formann.,60,47,3,192,792,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker made Free Throw.,60,48,3,192,792,Drake Bulldogs,free throw,True,True,False,Courtney Becker,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker made Free Throw.,60,49,3,192,792,Drake Bulldogs,free throw,True,True,False,Courtney Becker,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Tameiya Sadler missed Jumper.,60,49,3,177,777,Colorado Buffaloes,jumper,True,False,False,Tameiya Sadler,False,,40.0,9.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg Defensive Rebound.,60,49,3,177,777,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay missed Three Point Jumper.,60,49,3,168,768,Drake Bulldogs,three point jumper,True,False,True,Taylor McAulay,False,,3.0,12.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan Defensive Rebound.,60,49,3,168,768,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Grace Berg.,60,49,3,166,766,Drake Bulldogs,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta missed Jumper.,60,49,3,155,755,Colorado Buffaloes,jumper,True,False,False,Kindyll Wetta,False,,28.0,4.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller Defensive Rebound.,60,49,3,155,755,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Aaronette Vonleh.,60,49,3,152,752,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller missed Free Throw.,60,49,3,152,752,Drake Bulldogs,free throw,True,False,False,Anna Miller,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Drake Deadball Team Rebound.,60,49,3,152,752,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller missed Free Throw.,60,49,3,152,752,Drake Bulldogs,free throw,True,False,False,Anna Miller,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Sara-Rose Smith Defensive Rebound.,60,49,3,152,752,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Katie Dinnebier.,60,49,3,139,739,Drake Bulldogs,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Sara-Rose Smith made Three Point Jumper.,63,49,3,129,729,Colorado Buffaloes,three point jumper,True,True,True,Sara-Rose Smith,False,,48.0,1.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Turnover.,63,49,3,117,717,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta made Layup. Assisted by Jaylyn Sherrod.,65,49,3,97,697,Colorado Buffaloes,layup,True,True,False,Kindyll Wetta,True,Jaylyn Sherrod,27.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier missed Layup.,65,49,3,84,684,Drake Bulldogs,layup,True,False,False,Katie Dinnebier,False,,28.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh Defensive Rebound.,65,49,3,84,684,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan made Layup. Assisted by Kindyll Wetta.,67,49,3,78,678,Colorado Buffaloes,layup,True,True,False,Maddie Nolan,True,Kindyll Wetta,24.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay made Layup. Assisted by Courtney Becker.,67,51,3,63,663,Drake Bulldogs,layup,True,True,False,Taylor McAulay,True,Courtney Becker,27.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod made Layup.,69,51,3,41,641,Colorado Buffaloes,layup,True,True,False,Jaylyn Sherrod,False,,22.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Jaylyn Sherrod.,69,51,3,29,629,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay made Free Throw.,69,52,3,29,629,Drake Bulldogs,free throw,True,True,False,Taylor McAulay,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay made Free Throw.,69,53,3,29,629,Drake Bulldogs,free throw,True,True,False,Taylor McAulay,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan missed Three Point Jumper.,69,53,3,2,602,Colorado Buffaloes,three point jumper,True,False,True,Maddie Nolan,False,,48.0,5.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta Offensive Rebound.,69,53,3,2,602,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta made Layup.,71,53,3,1,601,Colorado Buffaloes,layup,True,True,False,Kindyll Wetta,False,,23.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,End of 3rd Quarter,71,53,3,0,600,,end,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jump Ball won by Drake,71,53,4,600,600,Drake Bulldogs,jump ball,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier made Layup. Assisted by Grace Berg.,71,55,4,587,587,Drake Bulldogs,layup,True,True,False,Katie Dinnebier,True,Grace Berg,27.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Jump Ball won by Colorado,71,55,4,568,568,Colorado Buffaloes,jump ball,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta missed Jumper.,71,55,4,557,557,Colorado Buffaloes,jumper,True,False,False,Kindyll Wetta,False,,24.0,15.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Colorado Offensive Rebound.,71,55,4,557,557,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller Turnover.,71,55,4,546,546,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Ava Hawthorne Steal.,71,55,4,546,546,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg Turnover.,71,55,4,534,534,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller Steal.,71,55,4,534,534,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta made Layup. Assisted by Jaylyn Sherrod.,73,55,4,526,526,Colorado Buffaloes,layup,True,True,False,Kindyll Wetta,True,Jaylyn Sherrod,21.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier made Layup.,73,57,4,513,513,Drake Bulldogs,layup,True,True,False,Katie Dinnebier,False,,28.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan missed Three Point Jumper.,73,57,4,489,489,Colorado Buffaloes,three point jumper,True,False,True,Maddie Nolan,False,,22.0,25.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay Defensive Rebound.,73,57,4,489,489,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier missed Three Point Jumper.,73,57,4,481,481,Drake Bulldogs,three point jumper,True,False,True,Katie Dinnebier,False,,40.0,19.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan Defensive Rebound.,73,57,4,481,481,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller missed Jumper.,73,57,4,454,454,Colorado Buffaloes,jumper,True,False,False,Quay Miller,False,,33.0,18.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay Defensive Rebound.,73,57,4,454,454,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Ava Hawthorne missed Three Point Jumper.,73,57,4,446,446,Drake Bulldogs,three point jumper,True,False,True,Ava Hawthorne,False,,3.0,12.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Colorado Defensive Rebound.,73,57,4,446,446,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta Turnover.,73,57,4,426,426,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller Steal.,73,57,4,426,426,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Brooklin Dailey missed Three Point Jumper.,73,57,4,411,411,Drake Bulldogs,three point jumper,True,False,True,Brooklin Dailey,False,,33.0,23.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Frida Formann Defensive Rebound.,73,57,4,411,411,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Aaronette Vonleh missed Layup.,73,57,4,393,393,Colorado Buffaloes,layup,True,False,False,Aaronette Vonleh,False,,22.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller Block.,73,57,4,393,393,Drake Bulldogs,block,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker Defensive Rebound.,73,57,4,393,393,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller missed Three Point Jumper.,73,57,4,381,381,Drake Bulldogs,three point jumper,True,False,True,Anna Miller,False,,27.0,24.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Brooklin Dailey Offensive Rebound.,73,57,4,381,381,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Sara-Rose Smith.,73,57,4,380,380,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Frida Formann.,73,57,4,373,373,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Megan Meyer Turnover.,73,57,4,368,368,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod Steal.,73,57,4,368,368,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Colorado  Timeout,73,57,4,368,368,Colorado Buffaloes,timeout,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs, Official TV Timeout,73,57,4,368,368,,tv timeout,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod missed Layup.,73,57,4,356,356,Colorado Buffaloes,layup,True,False,False,Jaylyn Sherrod,False,,22.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Ava Hawthorne Block.,73,57,4,356,356,Drake Bulldogs,block,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Colorado Offensive Rebound.,73,57,4,356,356,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Tameiya Sadler made Layup.,75,57,4,345,345,Colorado Buffaloes,layup,True,True,False,Tameiya Sadler,False,,25.0,4.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Shannon Fornshell missed Three Point Jumper.,75,57,4,313,313,Drake Bulldogs,three point jumper,True,False,True,Shannon Fornshell,False,,1.0,1.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Tameiya Sadler Defensive Rebound.,75,57,4,313,313,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Charlotte Whittaker missed Layup.,75,57,4,304,304,Colorado Buffaloes,layup,True,False,False,Charlotte Whittaker,False,,27.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay Block.,75,57,4,304,304,Drake Bulldogs,block,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Colorado Offensive Rebound.,75,57,4,304,304,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jump Ball won by Drake,75,57,4,294,294,Drake Bulldogs,jump ball,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Charlotte Whittaker Turnover.,75,57,4,294,294,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier Steal.,75,57,4,294,294,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs, Official TV Timeout,75,57,4,294,294,,tv timeout,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay made Three Point Jumper. Assisted by Katie Dinnebier.,75,60,4,286,286,Drake Bulldogs,three point jumper,True,True,True,Taylor McAulay,True,Katie Dinnebier,1.0,1.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller Turnover.,75,60,4,263,263,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Katie Dinnebier made Layup.,75,62,4,253,253,Drake Bulldogs,layup,True,True,False,Katie Dinnebier,False,,28.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta made Three Point Jumper. Assisted by Sara-Rose Smith.,78,62,4,233,233,Colorado Buffaloes,three point jumper,True,True,True,Kindyll Wetta,True,Sara-Rose Smith,1.0,1.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg Turnover.,78,62,4,225,225,Drake Bulldogs,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod Steal.,78,62,4,225,225,Colorado Buffaloes,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta made Three Point Jumper. Assisted by Sara-Rose Smith.,81,62,4,214,214,Colorado Buffaloes,three point jumper,True,True,True,Kindyll Wetta,True,Sara-Rose Smith,49.0,1.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Jaylyn Sherrod.,81,62,4,191,191,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay made Free Throw.,81,63,4,191,191,Drake Bulldogs,free throw,True,True,False,Taylor McAulay,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay made Free Throw.,81,64,4,191,191,Drake Bulldogs,free throw,True,True,False,Taylor McAulay,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Courtney Becker.,81,64,4,174,174,Drake Bulldogs,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller missed Free Throw.,81,64,4,174,174,Colorado Buffaloes,free throw,True,False,False,Quay Miller,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Colorado Deadball Team Rebound.,81,64,4,174,174,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Quay Miller made Free Throw.,82,64,4,174,174,Colorado Buffaloes,free throw,True,True,False,Quay Miller,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller made Layup. Assisted by Katie Dinnebier.,82,66,4,165,165,Drake Bulldogs,layup,True,True,False,Anna Miller,True,Katie Dinnebier,27.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan made Jumper. Assisted by Kindyll Wetta.,84,66,4,146,146,Colorado Buffaloes,jumper,True,True,False,Maddie Nolan,True,Kindyll Wetta,20.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Grace Berg made Layup. Assisted by Katie Dinnebier.,84,68,4,132,132,Drake Bulldogs,layup,True,True,False,Grace Berg,True,Katie Dinnebier,23.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Sara-Rose Smith Turnover.,84,68,4,119,119,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Taylor McAulay Steal.,84,68,4,119,119,Drake Bulldogs,steal,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Maddie Nolan.,84,68,4,114,114,Colorado Buffaloes,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker made Free Throw.,84,69,4,114,114,Drake Bulldogs,free throw,True,True,False,Courtney Becker,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Courtney Becker missed Free Throw.,84,69,4,114,114,Drake Bulldogs,free throw,True,False,False,Courtney Becker,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Kindyll Wetta Defensive Rebound.,84,69,4,114,114,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Jaylyn Sherrod made Layup.,86,69,4,96,96,Colorado Buffaloes,layup,True,True,False,Jaylyn Sherrod,False,,28.0,3.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Anna Miller missed Three Point Jumper.,86,69,4,82,82,Drake Bulldogs,three point jumper,True,False,True,Anna Miller,False,,8.0,17.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Maddie Nolan Defensive Rebound.,86,69,4,82,82,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Colorado  Timeout,86,69,4,73,73,Colorado Buffaloes,timeout,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Sophie Gerber Turnover.,86,69,4,56,56,Colorado Buffaloes,turnover,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Ashley Iiams made Three Point Jumper. Assisted by Ava Hawthorne.,86,72,4,40,40,Drake Bulldogs,three point jumper,True,True,True,Ashley Iiams,True,Ava Hawthorne,24.0,24.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Foul on Megan Meyer.,86,72,4,30,30,Drake Bulldogs,foul,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Mikayla Johnson missed Layup.,86,72,4,14,14,Colorado Buffaloes,layup,True,False,False,Mikayla Johnson,False,,27.0,2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Shannon Fornshell Defensive Rebound.,86,72,4,14,14,Drake Bulldogs,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,Ava Hawthorne missed Jumper.,86,72,4,4,4,Drake Bulldogs,jumper,True,False,False,Ava Hawthorne,False,,11.0,-2.0
+401637543,Colorado Buffaloes,Drake Bulldogs,Sophie Gerber Defensive Rebound.,86,72,4,4,4,Colorado Buffaloes,rebound,False,False,False,,False,,,
+401637543,Colorado Buffaloes,Drake Bulldogs,End of Game,86,72,4,0,0,,end,False,False,False,,False,,,

@@ -1,0 +1,334 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jump Ball won by Ohio State,0,0,1,600,2400,Ohio State Buckeyes,jump ball,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Layup. Assisted by Rebeka Mikulasikova.,2,0,1,583,2383,Ohio State Buckeyes,layup,True,True,False,Cotie McMahon,True,Rebeka Mikulasikova,27.0,3.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Ashlon Jackson.,2,0,1,583,2383,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Free Throw.,3,0,1,583,2383,Ohio State Buckeyes,free throw,True,True,False,Cotie McMahon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Oluchi Okananwa made Layup. Assisted by Jadyn Donovan.,3,2,1,574,2374,Duke Blue Devils,layup,True,True,False,Oluchi Okananwa,True,Jadyn Donovan,28.0,0.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova made Jumper.,5,2,1,554,2354,Ohio State Buckeyes,jumper,True,True,False,Rebeka Mikulasikova,False,,26.0,6.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair Turnover.,5,2,1,542,2342,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor Steal.,5,2,1,542,2342,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor made Layup.,7,2,1,538,2338,Ohio State Buckeyes,layup,True,True,False,Celeste Taylor,False,,23.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Oluchi Okananwa Turnover.,7,2,1,526,2326,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon missed Jumper.,7,2,1,501,2301,Ohio State Buckeyes,jumper,True,False,False,Jacy Sheldon,False,,18.0,12.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jadyn Donovan Defensive Rebound.,7,2,1,501,2301,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson missed Layup.,7,2,1,486,2286,Duke Blue Devils,layup,True,False,False,Reigan Richardson,False,,28.0,1.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown Offensive Rebound.,7,2,1,486,2286,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jump Ball won by Duke,7,2,1,486,2286,Duke Blue Devils,jump ball,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Jumper. Assisted by Taina Mair.,7,4,1,484,2284,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,True,Taina Mair,9.0,1.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon missed Three Point Jumper.,7,4,1,466,2266,Ohio State Buckeyes,three point jumper,True,False,True,Jacy Sheldon,False,,9.0,19.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jadyn Donovan Defensive Rebound.,7,4,1,466,2266,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jadyn Donovan missed Jumper.,7,4,1,446,2246,Duke Blue Devils,jumper,True,False,False,Jadyn Donovan,False,,25.0,10.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taylor Thierry Defensive Rebound.,7,4,1,446,2246,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Taina Mair.,7,4,1,428,2228,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova made Free Throw.,8,4,1,428,2228,Ohio State Buckeyes,free throw,True,True,False,Rebeka Mikulasikova,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova made Free Throw.,9,4,1,428,2228,Ohio State Buckeyes,free throw,True,True,False,Rebeka Mikulasikova,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson missed Jumper.,9,4,1,412,2212,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,19.0,16.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon Defensive Rebound.,9,4,1,412,2212,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova missed Three Point Jumper.,9,4,1,404,2204,Ohio State Buckeyes,three point jumper,True,False,True,Rebeka Mikulasikova,False,,44.0,18.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon Offensive Rebound.,9,4,1,404,2204,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor missed Three Point Jumper.,9,4,1,394,2194,Ohio State Buckeyes,three point jumper,True,False,True,Celeste Taylor,False,,10.0,20.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jadyn Donovan Defensive Rebound.,9,4,1,394,2194,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Oluchi Okananwa missed Three Point Jumper.,9,4,1,385,2185,Duke Blue Devils,three point jumper,True,False,True,Oluchi Okananwa,False,,49.0,-2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon Defensive Rebound.,9,4,1,385,2185,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor made Layup. Assisted by Jacy Sheldon.,11,4,1,381,2181,Ohio State Buckeyes,layup,True,True,False,Celeste Taylor,True,Jacy Sheldon,23.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown Turnover.,11,4,1,371,2171,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor Steal.,11,4,1,371,2171,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Jadyn Donovan.,11,4,1,354,2154,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon missed Free Throw.,11,4,1,354,2154,Ohio State Buckeyes,free throw,True,False,False,Cotie McMahon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State Deadball Team Rebound.,11,4,1,354,2154,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Free Throw.,12,4,1,354,2154,Ohio State Buckeyes,free throw,True,True,False,Cotie McMahon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Jacy Sheldon.,12,4,1,334,2134,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair made Free Throw.,12,5,1,334,2134,Duke Blue Devils,free throw,True,True,False,Taina Mair,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair made Free Throw.,12,6,1,334,2134,Duke Blue Devils,free throw,True,True,False,Taina Mair,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair made Free Throw.,12,7,1,334,2134,Duke Blue Devils,free throw,True,True,False,Taina Mair,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon missed Jumper.,12,7,1,312,2112,Ohio State Buckeyes,jumper,True,False,False,Cotie McMahon,False,,26.0,10.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown Defensive Rebound.,12,7,1,312,2112,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils, Official TV Timeout,12,7,1,299,2099,,tv timeout,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Celeste Taylor.,12,7,1,299,2099,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair missed Free Throw.,12,7,1,299,2099,Duke Blue Devils,free throw,True,False,False,Taina Mair,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Duke Deadball Team Rebound.,12,7,1,299,2099,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair made Free Throw.,12,8,1,299,2099,Duke Blue Devils,free throw,True,True,False,Taina Mair,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Reigan Richardson.,12,8,1,288,2088,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Jumper. Assisted by Taylor Thierry.,14,8,1,281,2081,Ohio State Buckeyes,jumper,True,True,False,Cotie McMahon,True,Taylor Thierry,18.0,19.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Oluchi Okananwa Turnover.,14,8,1,274,2074,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor Steal.,14,8,1,274,2074,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova missed Jumper.,14,8,1,267,2067,Ohio State Buckeyes,jumper,True,False,False,Rebeka Mikulasikova,False,,18.0,14.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown Defensive Rebound.,14,8,1,267,2067,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair missed Three Point Jumper.,14,8,1,245,2045,Duke Blue Devils,three point jumper,True,False,True,Taina Mair,False,,11.0,22.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Oluchi Okananwa Offensive Rebound.,14,8,1,245,2045,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Taylor Thierry.,14,8,1,245,2045,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair missed Layup.,14,8,1,239,2039,Duke Blue Devils,layup,True,False,False,Taina Mair,False,,28.0,1.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon Defensive Rebound.,14,8,1,239,2039,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon made Layup.,16,8,1,221,2021,Ohio State Buckeyes,layup,True,True,False,Jacy Sheldon,False,,22.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair missed Three Point Jumper.,16,8,1,187,1987,Duke Blue Devils,three point jumper,True,False,True,Taina Mair,False,,37.0,21.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon Defensive Rebound.,16,8,1,187,1987,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor missed Three Point Jumper.,16,8,1,181,1981,Ohio State Buckeyes,three point jumper,True,False,True,Celeste Taylor,False,,5.0,13.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Oluchi Okananwa Defensive Rebound.,16,8,1,181,1981,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Oluchi Okananwa Turnover.,16,8,1,161,1961,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor Turnover.,16,8,1,144,1944,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas Steal.,16,8,1,144,1944,Duke Blue Devils,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair missed Three Point Jumper.,16,8,1,125,1925,Duke Blue Devils,three point jumper,True,False,True,Taina Mair,False,,8.0,18.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State Defensive Rebound.,16,8,1,125,1925,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Layup. Assisted by Jacy Sheldon.,18,8,1,112,1912,Ohio State Buckeyes,layup,True,True,False,Cotie McMahon,True,Jacy Sheldon,23.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Taiyier Parks.,18,8,1,83,1883,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Camilla Emsbo missed Free Throw.,18,8,1,83,1883,Duke Blue Devils,free throw,True,False,False,Camilla Emsbo,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Duke Deadball Team Rebound.,18,8,1,83,1883,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Camilla Emsbo missed Free Throw.,18,8,1,83,1883,Duke Blue Devils,free throw,True,False,False,Camilla Emsbo,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State Deadball Team Rebound.,18,8,1,83,1883,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taiyier Parks made Layup. Assisted by Jacy Sheldon.,20,8,1,78,1878,Ohio State Buckeyes,layup,True,True,False,Taiyier Parks,True,Jacy Sheldon,27.0,3.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Cotie McMahon.,20,8,1,44,1844,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas made Free Throw.,20,9,1,44,1844,Duke Blue Devils,free throw,True,True,False,Delaney Thomas,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas made Free Throw.,20,10,1,44,1844,Duke Blue Devils,free throw,True,True,False,Delaney Thomas,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon missed Jumper.,20,10,1,31,1831,Ohio State Buckeyes,jumper,True,False,False,Jacy Sheldon,False,,25.0,6.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Camilla Emsbo Block.,20,10,1,31,1831,Duke Blue Devils,block,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas Defensive Rebound.,20,10,1,31,1831,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair missed Jumper.,20,10,1,1,1801,Duke Blue Devils,jumper,True,False,False,Taina Mair,False,,33.0,16.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Camilla Emsbo Offensive Rebound.,20,10,1,1,1801,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,End of 1st Quarter,20,10,1,0,1800,,end,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jump Ball won by Ohio State,20,10,2,600,1800,Ohio State Buckeyes,jump ball,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Oluchi Okananwa.,20,10,2,589,1789,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon missed Free Throw.,20,10,2,589,1789,Ohio State Buckeyes,free throw,True,False,False,Jacy Sheldon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State Deadball Team Rebound.,20,10,2,589,1789,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon made Free Throw.,21,10,2,589,1789,Ohio State Buckeyes,free throw,True,True,False,Jacy Sheldon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Oluchi Okananwa.,21,10,2,576,1776,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Oluchi Okananwa Turnover.,21,10,2,576,1776,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon missed Layup.,21,10,2,564,1764,Ohio State Buckeyes,layup,True,False,False,Cotie McMahon,False,,22.0,3.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Duke Defensive Rebound.,21,10,2,564,1764,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jump Ball won by Duke,21,10,2,549,1749,Duke Blue Devils,jump ball,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Duke  Turnover.,21,10,2,529,1729,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova made Layup.,23,10,2,503,1703,Ohio State Buckeyes,layup,True,True,False,Rebeka Mikulasikova,False,,22.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Taylor Thierry.,23,10,2,492,1692,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson missed Three Point Jumper.,23,10,2,477,1677,Duke Blue Devils,three point jumper,True,False,True,Ashlon Jackson,False,,28.0,25.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor Defensive Rebound.,23,10,2,477,1677,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor made Layup. Assisted by Rebeka Mikulasikova.,25,10,2,465,1665,Ohio State Buckeyes,layup,True,True,False,Celeste Taylor,True,Rebeka Mikulasikova,26.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair missed Layup.,25,10,2,454,1654,Duke Blue Devils,layup,True,False,False,Taina Mair,False,,28.0,1.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson Offensive Rebound.,25,10,2,454,1654,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair missed Three Point Jumper.,25,10,2,434,1634,Duke Blue Devils,three point jumper,True,False,True,Taina Mair,False,,42.0,17.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown Offensive Rebound.,25,10,2,434,1634,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson made Jumper.,25,12,2,416,1616,Duke Blue Devils,jumper,True,True,False,Ashlon Jackson,False,,33.0,13.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Taina Mair.,25,12,2,394,1594,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taylor Thierry missed Free Throw.,25,12,2,394,1594,Ohio State Buckeyes,free throw,True,False,False,Taylor Thierry,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State Deadball Team Rebound.,25,12,2,394,1594,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taylor Thierry made Free Throw.,26,12,2,394,1594,Ohio State Buckeyes,free throw,True,True,False,Taylor Thierry,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Jumper. Assisted by Ashlon Jackson.,26,14,2,371,1571,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,True,Ashlon Jackson,26.0,14.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon missed Layup.,26,14,2,345,1545,Ohio State Buckeyes,layup,True,False,False,Cotie McMahon,False,,21.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jadyn Donovan Block.,26,14,2,345,1545,Duke Blue Devils,block,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State Offensive Rebound.,26,14,2,345,1545,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon made Layup. Assisted by Rebeka Mikulasikova.,28,14,2,344,1544,Ohio State Buckeyes,layup,True,True,False,Jacy Sheldon,True,Rebeka Mikulasikova,25.0,1.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Kennedy Brown.,28,14,2,320,1520,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown Turnover.,28,14,2,320,1520,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Jadyn Donovan.,28,14,2,307,1507,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Free Throw.,29,14,2,307,1507,Ohio State Buckeyes,free throw,True,True,False,Cotie McMahon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Free Throw.,30,14,2,307,1507,Ohio State Buckeyes,free throw,True,True,False,Cotie McMahon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson made Three Point Jumper.,30,17,2,295,1495,Duke Blue Devils,three point jumper,True,True,True,Ashlon Jackson,False,,12.0,24.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon missed Jumper.,30,17,2,268,1468,Ohio State Buckeyes,jumper,True,False,False,Jacy Sheldon,False,,40.0,3.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson Defensive Rebound.,30,17,2,268,1468,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Jacy Sheldon.,30,17,2,268,1468,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils, Official TV Timeout,30,17,2,268,1468,,tv timeout,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Three Point Jumper. Assisted by Emma Koabel.,30,20,2,250,1450,Duke Blue Devils,three point jumper,True,True,True,Reigan Richardson,True,Emma Koabel,45.0,13.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon made Layup.,32,20,2,225,1425,Ohio State Buckeyes,layup,True,True,False,Jacy Sheldon,False,,22.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson missed Jumper.,32,20,2,199,1399,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,34.0,13.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rikki Harris Defensive Rebound.,32,20,2,199,1399,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Layup.,34,20,2,188,1388,Ohio State Buckeyes,layup,True,True,False,Cotie McMahon,False,,22.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Emma Koabel.,34,20,2,188,1388,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon missed Free Throw.,34,20,2,188,1388,Ohio State Buckeyes,free throw,True,False,False,Cotie McMahon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas Defensive Rebound.,34,20,2,188,1388,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Celeste Taylor.,34,20,2,167,1367,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Three Point Jumper. Assisted by Delaney Thomas.,34,23,2,165,1365,Duke Blue Devils,three point jumper,True,True,True,Reigan Richardson,True,Delaney Thomas,40.0,20.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Layup.,36,23,2,148,1348,Ohio State Buckeyes,layup,True,True,False,Cotie McMahon,False,,23.0,3.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson made Layup.,36,25,2,113,1313,Duke Blue Devils,layup,True,True,False,Ashlon Jackson,False,,23.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Cotie McMahon.,36,25,2,113,1313,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson made Free Throw.,36,26,2,113,1313,Duke Blue Devils,free throw,True,True,False,Ashlon Jackson,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor Turnover.,36,26,2,111,1311,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown Steal.,36,26,2,111,1311,Duke Blue Devils,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown made Layup.,36,28,2,107,1307,Duke Blue Devils,layup,True,True,False,Kennedy Brown,False,,25.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State  Timeout,36,28,2,104,1304,Ohio State Buckeyes,timeout,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor missed Jumper.,36,28,2,82,1282,Ohio State Buckeyes,jumper,True,False,False,Celeste Taylor,False,,19.0,15.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson Defensive Rebound.,36,28,2,82,1282,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson missed Jumper.,36,28,2,63,1263,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,20.0,4.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas Offensive Rebound.,36,28,2,63,1263,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Rebeka Mikulasikova.,36,28,2,63,1263,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas made Free Throw.,36,29,2,63,1263,Duke Blue Devils,free throw,True,True,False,Delaney Thomas,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas made Free Throw.,36,30,2,63,1263,Duke Blue Devils,free throw,True,True,False,Delaney Thomas,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon Turnover.,36,30,2,51,1251,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Jumper.,36,32,2,31,1231,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,False,,39.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taylor Thierry missed Jumper.,36,32,2,1,1201,Ohio State Buckeyes,jumper,True,False,False,Taylor Thierry,False,,25.0,8.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas Defensive Rebound.,36,32,2,1,1201,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,End of 2nd Quarter,36,32,2,0,1200,,end,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jump Ball won by Ohio State,36,32,3,600,1200,Ohio State Buckeyes,jump ball,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor missed Jumper.,36,32,3,587,1187,Ohio State Buckeyes,jumper,True,False,False,Celeste Taylor,False,,26.0,5.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taylor Thierry Offensive Rebound.,36,32,3,587,1187,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taylor Thierry missed Layup.,36,32,3,583,1183,Ohio State Buckeyes,layup,True,False,False,Taylor Thierry,False,,25.0,3.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jadyn Donovan Defensive Rebound.,36,32,3,583,1183,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson Turnover.,36,32,3,563,1163,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor missed Three Point Jumper.,36,32,3,546,1146,Ohio State Buckeyes,three point jumper,True,False,True,Celeste Taylor,False,,5.0,16.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson Defensive Rebound.,36,32,3,546,1146,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown Turnover.,36,32,3,538,1138,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor missed Three Point Jumper.,36,32,3,516,1116,Ohio State Buckeyes,three point jumper,True,False,True,Celeste Taylor,False,,5.0,14.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jadyn Donovan Defensive Rebound.,36,32,3,516,1116,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown made Layup.,36,34,3,490,1090,Duke Blue Devils,layup,True,True,False,Kennedy Brown,False,,23.0,4.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Layup. Assisted by Rebeka Mikulasikova.,38,34,3,486,1086,Ohio State Buckeyes,layup,True,True,False,Cotie McMahon,True,Rebeka Mikulasikova,23.0,3.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jadyn Donovan Turnover.,38,34,3,480,1080,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taylor Thierry Steal.,38,34,3,480,1080,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Jumper. Assisted by Rebeka Mikulasikova.,40,34,3,465,1065,Ohio State Buckeyes,jumper,True,True,False,Cotie McMahon,True,Rebeka Mikulasikova,24.0,6.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Jumper. Assisted by Taina Mair.,40,36,3,449,1049,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,True,Taina Mair,19.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor missed Jumper.,40,36,3,440,1040,Ohio State Buckeyes,jumper,True,False,False,Celeste Taylor,False,,21.0,4.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor Offensive Rebound.,40,36,3,440,1040,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Jadyn Donovan.,40,36,3,431,1031,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Free Throw.,41,36,3,431,1031,Ohio State Buckeyes,free throw,True,True,False,Cotie McMahon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Free Throw.,42,36,3,431,1031,Ohio State Buckeyes,free throw,True,True,False,Cotie McMahon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair made Three Point Jumper. Assisted by Kennedy Brown.,42,39,3,410,1010,Duke Blue Devils,three point jumper,True,True,True,Taina Mair,True,Kennedy Brown,31.0,24.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon made Layup.,44,39,3,386,986,Ohio State Buckeyes,layup,True,True,False,Jacy Sheldon,False,,23.0,1.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson missed Jumper.,44,39,3,372,972,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,14.0,9.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon Defensive Rebound.,44,39,3,372,972,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon Turnover.,44,39,3,368,968,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson Steal.,44,39,3,368,968,Duke Blue Devils,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson missed Three Point Jumper.,44,39,3,361,961,Duke Blue Devils,three point jumper,True,False,True,Ashlon Jackson,False,,12.0,20.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Kennedy Brown.,44,39,3,361,961,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State Defensive Rebound.,44,39,3,361,961,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon missed Layup.,44,39,3,354,954,Ohio State Buckeyes,layup,True,False,False,Cotie McMahon,False,,22.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson Defensive Rebound.,44,39,3,354,954,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown made Layup. Assisted by Reigan Richardson.,44,41,3,332,932,Duke Blue Devils,layup,True,True,False,Kennedy Brown,True,Reigan Richardson,24.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon Turnover.,44,41,3,313,913,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson Steal.,44,41,3,313,913,Duke Blue Devils,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Celeste Taylor.,44,41,3,306,906,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Free Throw.,44,42,3,306,906,Duke Blue Devils,free throw,True,True,False,Reigan Richardson,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Free Throw.,44,43,3,306,906,Duke Blue Devils,free throw,True,True,False,Reigan Richardson,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Layup. Assisted by Celeste Taylor.,46,43,3,282,882,Ohio State Buckeyes,layup,True,True,False,Cotie McMahon,True,Celeste Taylor,23.0,3.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Oluchi Okananwa.,46,43,3,282,882,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils, Official TV Timeout,46,43,3,282,882,,tv timeout,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon missed Free Throw.,46,43,3,282,882,Ohio State Buckeyes,free throw,True,False,False,Cotie McMahon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas Defensive Rebound.,46,43,3,282,882,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown Turnover.,46,43,3,257,857,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taylor Thierry Steal.,46,43,3,257,857,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova Turnover.,46,43,3,230,830,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Emma Koabel Steal.,46,43,3,230,830,Duke Blue Devils,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Celeste Taylor.,46,43,3,230,830,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Emma Koabel missed Three Point Jumper.,46,43,3,213,813,Duke Blue Devils,three point jumper,True,False,True,Emma Koabel,False,,44.0,17.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rikki Harris Defensive Rebound.,46,43,3,213,813,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova Turnover.,46,43,3,196,796,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson made Jumper.,46,45,3,176,776,Duke Blue Devils,jumper,True,True,False,Ashlon Jackson,False,,24.0,20.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taylor Thierry missed Three Point Jumper.,46,45,3,156,756,Ohio State Buckeyes,three point jumper,True,False,True,Taylor Thierry,False,,45.0,14.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson Defensive Rebound.,46,45,3,156,756,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Ashlon Jackson.,46,45,3,143,743,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson Turnover.,46,45,3,143,743,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Delaney Thomas.,46,45,3,127,727,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rikki Harris made Free Throw.,47,45,3,127,727,Ohio State Buckeyes,free throw,True,True,False,Rikki Harris,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rikki Harris missed Free Throw.,47,45,3,127,727,Ohio State Buckeyes,free throw,True,False,False,Rikki Harris,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas Defensive Rebound.,47,45,3,127,727,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Layup.,47,47,3,113,713,Duke Blue Devils,layup,True,True,False,Reigan Richardson,False,,22.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rikki Harris missed Jumper.,47,47,3,94,694,Ohio State Buckeyes,jumper,True,False,False,Rikki Harris,False,,20.0,4.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Camilla Emsbo Defensive Rebound.,47,47,3,94,694,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas made Layup. Assisted by Ashlon Jackson.,47,49,3,88,688,Duke Blue Devils,layup,True,True,False,Delaney Thomas,True,Ashlon Jackson,27.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State  Timeout,47,49,3,82,682,Ohio State Buckeyes,timeout,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rikki Harris missed Three Point Jumper.,47,49,3,53,653,Ohio State Buckeyes,three point jumper,True,False,True,Rikki Harris,False,,48.0,0.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State Deadball Team Rebound.,47,49,3,53,653,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Camilla Emsbo.,47,49,3,53,653,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Free Throw.,48,49,3,53,653,Ohio State Buckeyes,free throw,True,True,False,Cotie McMahon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon missed Free Throw.,48,49,3,53,653,Ohio State Buckeyes,free throw,True,False,False,Cotie McMahon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas Defensive Rebound.,48,49,3,53,653,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson Turnover.,48,49,3,43,643,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rikki Harris Steal.,48,49,3,43,643,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon missed Layup.,48,49,3,14,614,Ohio State Buckeyes,layup,True,False,False,Cotie McMahon,False,,22.0,3.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Camilla Emsbo Block.,48,49,3,14,614,Duke Blue Devils,block,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson Defensive Rebound.,48,49,3,14,614,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Camilla Emsbo made Layup. Assisted by Ashlon Jackson.,48,51,3,7,607,Duke Blue Devils,layup,True,True,False,Camilla Emsbo,True,Ashlon Jackson,22.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Emma Koabel.,48,51,3,1,601,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rikki Harris made Free Throw.,49,51,3,1,601,Ohio State Buckeyes,free throw,True,True,False,Rikki Harris,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rikki Harris made Free Throw.,50,51,3,1,601,Ohio State Buckeyes,free throw,True,True,False,Rikki Harris,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,End of 3rd Quarter,50,51,3,0,600,,end,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jump Ball won by Duke,50,51,4,600,600,Duke Blue Devils,jump ball,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson missed Jumper.,50,51,4,586,586,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,21.0,3.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jadyn Donovan Offensive Rebound.,50,51,4,586,586,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair Turnover.,50,51,4,571,571,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Celeste Taylor Steal.,50,51,4,571,571,Ohio State Buckeyes,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon missed Jumper.,50,51,4,551,551,Ohio State Buckeyes,jumper,True,False,False,Jacy Sheldon,False,,35.0,14.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon Offensive Rebound.,50,51,4,551,551,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Jadyn Donovan.,50,51,4,542,542,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Free Throw.,51,51,4,542,542,Ohio State Buckeyes,free throw,True,True,False,Cotie McMahon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Free Throw.,52,51,4,542,542,Ohio State Buckeyes,free throw,True,True,False,Cotie McMahon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown made Layup. Assisted by Taina Mair.,52,53,4,515,515,Duke Blue Devils,layup,True,True,False,Kennedy Brown,True,Taina Mair,23.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Rebeka Mikulasikova.,52,53,4,515,515,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown made Free Throw.,52,54,4,515,515,Duke Blue Devils,free throw,True,True,False,Kennedy Brown,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon made Jumper. Assisted by Jacy Sheldon.,54,54,4,501,501,Ohio State Buckeyes,jumper,True,True,False,Cotie McMahon,True,Jacy Sheldon,32.0,14.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown missed Jumper.,54,54,4,488,488,Duke Blue Devils,jumper,True,False,False,Kennedy Brown,False,,25.0,5.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon Defensive Rebound.,54,54,4,488,488,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova missed Jumper.,54,54,4,457,457,Ohio State Buckeyes,jumper,True,False,False,Rebeka Mikulasikova,False,,3.0,1.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair Defensive Rebound.,54,54,4,457,457,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Rebeka Mikulasikova.,54,54,4,429,429,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown missed Jumper.,54,54,4,421,421,Duke Blue Devils,jumper,True,False,False,Kennedy Brown,False,,20.0,3.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova Defensive Rebound.,54,54,4,421,421,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova Turnover.,54,54,4,418,418,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson Steal.,54,54,4,418,418,Duke Blue Devils,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Celeste Taylor.,54,54,4,398,398,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas made Free Throw.,54,55,4,398,398,Duke Blue Devils,free throw,True,True,False,Delaney Thomas,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas made Free Throw.,54,56,4,398,398,Duke Blue Devils,free throw,True,True,False,Delaney Thomas,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taylor Thierry made Layup.,56,56,4,387,387,Ohio State Buckeyes,layup,True,True,False,Taylor Thierry,False,,22.0,1.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Kennedy Brown.,56,56,4,363,363,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown Turnover.,56,56,4,363,363,Duke Blue Devils,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Kennedy Brown.,56,56,4,336,336,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rikki Harris missed Free Throw.,56,56,4,336,336,Ohio State Buckeyes,free throw,True,False,False,Rikki Harris,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State Deadball Team Rebound.,56,56,4,336,336,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rikki Harris made Free Throw.,57,56,4,336,336,Ohio State Buckeyes,free throw,True,True,False,Rikki Harris,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Three Point Jumper. Assisted by Oluchi Okananwa.,57,59,4,322,322,Duke Blue Devils,three point jumper,True,True,True,Reigan Richardson,True,Oluchi Okananwa,3.0,8.0
+401637577,Ohio State Buckeyes,Duke Blue Devils, Official TV Timeout,57,59,4,298,298,,tv timeout,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taylor Thierry Turnover.,57,59,4,295,295,Ohio State Buckeyes,turnover,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair Steal.,57,59,4,295,295,Duke Blue Devils,steal,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Taylor Thierry.,57,59,4,282,282,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Jumper. Assisted by Taina Mair.,57,61,4,280,280,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,True,Taina Mair,42.0,3.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon missed Layup.,57,61,4,251,251,Ohio State Buckeyes,layup,True,False,False,Cotie McMahon,False,,22.0,1.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Camilla Emsbo Block.,57,61,4,251,251,Duke Blue Devils,block,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Delaney Thomas Defensive Rebound.,57,61,4,251,251,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State  Timeout,57,61,4,224,224,Ohio State Buckeyes,timeout,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Jumper.,57,63,4,224,224,Duke Blue Devils,jumper,True,True,False,Reigan Richardson,False,,30.0,12.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taylor Thierry made Jumper. Assisted by Madison Greene.,59,63,4,191,191,Ohio State Buckeyes,jumper,True,True,False,Taylor Thierry,True,Madison Greene,18.0,5.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson missed Jumper.,59,63,4,168,168,Duke Blue Devils,jumper,True,False,False,Reigan Richardson,False,,20.0,3.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson Offensive Rebound.,59,63,4,168,168,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Rebeka Mikulasikova.,59,63,4,167,167,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Free Throw.,59,64,4,167,167,Duke Blue Devils,free throw,True,True,False,Reigan Richardson,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson missed Free Throw.,59,64,4,167,167,Duke Blue Devils,free throw,True,False,False,Reigan Richardson,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova Defensive Rebound.,59,64,4,167,167,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon missed Layup.,59,64,4,154,154,Ohio State Buckeyes,layup,True,False,False,Cotie McMahon,False,,21.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson Defensive Rebound.,59,64,4,154,154,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair missed Layup.,59,64,4,147,147,Duke Blue Devils,layup,True,False,False,Taina Mair,False,,25.0,4.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova Defensive Rebound.,59,64,4,147,147,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Rebeka Mikulasikova missed Jumper.,59,64,4,136,136,Ohio State Buckeyes,jumper,True,False,False,Rebeka Mikulasikova,False,,11.0,1.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Camilla Emsbo Block.,59,64,4,136,136,Duke Blue Devils,block,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson Defensive Rebound.,59,64,4,136,136,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson made Layup.,59,66,4,111,111,Duke Blue Devils,layup,True,True,False,Reigan Richardson,False,,24.0,2.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Cotie McMahon missed Jumper.,59,66,4,91,91,Ohio State Buckeyes,jumper,True,False,False,Cotie McMahon,False,,26.0,14.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Reigan Richardson Defensive Rebound.,59,66,4,91,91,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Rebeka Mikulasikova.,59,66,4,63,63,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair made Free Throw.,59,67,4,63,63,Duke Blue Devils,free throw,True,True,False,Taina Mair,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair made Free Throw.,59,68,4,63,63,Duke Blue Devils,free throw,True,True,False,Taina Mair,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State  Timeout,59,68,4,60,60,Ohio State Buckeyes,timeout,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Delaney Thomas.,59,68,4,58,58,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon missed Three Point Jumper.,59,68,4,55,55,Ohio State Buckeyes,three point jumper,True,False,True,Jacy Sheldon,False,,3.0,14.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Kennedy Brown Defensive Rebound.,59,68,4,55,55,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Taylor Thierry.,59,68,4,47,47,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson missed Free Throw.,59,68,4,47,47,Duke Blue Devils,free throw,True,False,False,Ashlon Jackson,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Duke Deadball Team Rebound.,59,68,4,47,47,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson made Free Throw.,59,69,4,47,47,Duke Blue Devils,free throw,True,True,False,Ashlon Jackson,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Ashlon Jackson.,59,69,4,33,33,Duke Blue Devils,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon missed Free Throw.,59,69,4,33,33,Ohio State Buckeyes,free throw,True,False,False,Jacy Sheldon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ohio State Deadball Team Rebound.,59,69,4,33,33,Ohio State Buckeyes,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon made Free Throw.,60,69,4,33,33,Ohio State Buckeyes,free throw,True,True,False,Jacy Sheldon,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Duke  Timeout,60,69,4,33,33,Duke Blue Devils,timeout,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Cotie McMahon.,60,69,4,31,31,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Oluchi Okananwa made Free Throw.,60,70,4,31,31,Duke Blue Devils,free throw,True,True,False,Oluchi Okananwa,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Oluchi Okananwa made Free Throw.,60,71,4,31,31,Duke Blue Devils,free throw,True,True,False,Oluchi Okananwa,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon missed Jumper.,60,71,4,20,20,Ohio State Buckeyes,jumper,True,False,False,Jacy Sheldon,False,,19.0,4.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair Defensive Rebound.,60,71,4,20,20,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Duke  Timeout,60,71,4,20,20,Duke Blue Devils,timeout,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jump Ball won by Duke,60,71,4,20,20,Duke Blue Devils,jump ball,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Jacy Sheldon.,60,71,4,19,19,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair made Free Throw.,60,72,4,19,19,Duke Blue Devils,free throw,True,True,False,Taina Mair,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair made Free Throw.,60,73,4,19,19,Duke Blue Devils,free throw,True,True,False,Taina Mair,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon made Three Point Jumper. Assisted by Madison Greene.,63,73,4,13,13,Ohio State Buckeyes,three point jumper,True,True,True,Jacy Sheldon,True,Madison Greene,4.0,15.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Duke  Timeout,63,73,4,13,13,Duke Blue Devils,timeout,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Foul on Taylor Thierry.,63,73,4,11,11,Ohio State Buckeyes,foul,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson made Free Throw.,63,74,4,11,11,Duke Blue Devils,free throw,True,True,False,Ashlon Jackson,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Ashlon Jackson made Free Throw.,63,75,4,11,11,Duke Blue Devils,free throw,True,True,False,Ashlon Jackson,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,Jacy Sheldon missed Three Point Jumper.,63,75,4,5,5,Ohio State Buckeyes,three point jumper,True,False,True,Jacy Sheldon,False,,11.0,21.0
+401637577,Ohio State Buckeyes,Duke Blue Devils,Taina Mair Defensive Rebound.,63,75,4,5,5,Duke Blue Devils,rebound,False,False,False,,False,,,
+401637577,Ohio State Buckeyes,Duke Blue Devils,End of Game,63,75,4,0,0,,end,False,False,False,,False,,,

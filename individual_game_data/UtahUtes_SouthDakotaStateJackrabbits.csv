@@ -1,0 +1,331 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637562,Utah Utes,South Dakota State Jackrabbits,Jump Ball won by South Dakota State,0,0,1,600,2400,South Dakota State Jackrabbits,jump ball,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Brooklyn Meyer.,0,0,1,586,2386,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Turnover.,0,0,1,586,2386,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili missed Layup.,0,0,1,573,2373,Utah Utes,layup,True,False,False,Alissa Pili,False,,23.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,South Dakota State Defensive Rebound.,0,0,1,573,2373,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Ines Vieira.,0,0,1,561,2361,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer made Free Throw.,0,1,1,561,2361,South Dakota State Jackrabbits,free throw,True,True,False,Paige Meyer,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer missed Free Throw.,0,1,1,561,2361,South Dakota State Jackrabbits,free throw,True,False,False,Paige Meyer,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen Defensive Rebound.,0,1,1,561,2361,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen made Layup.,2,1,1,553,2353,Utah Utes,layup,True,True,False,Kennady McQueen,False,,28.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Madison Mathiowetz missed Three Point Jumper.,2,1,1,540,2340,South Dakota State Jackrabbits,three point jumper,True,False,True,Madison Mathiowetz,False,,37.0,21.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Offensive Rebound.,2,1,1,540,2340,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Turnover.,2,1,1,536,2336,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke Steal.,2,1,1,536,2336,Utah Utes,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jump Ball won by Utah,2,1,1,536,2336,Utah Utes,jump ball,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili made Layup. Assisted by Ines Vieira.,4,1,1,524,2324,Utah Utes,layup,True,True,False,Alissa Pili,True,Ines Vieira,23.0,3.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer missed Three Point Jumper.,4,1,1,506,2306,South Dakota State Jackrabbits,three point jumper,True,False,True,Paige Meyer,False,,27.0,24.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson Defensive Rebound.,4,1,1,506,2306,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili missed Three Point Jumper.,4,1,1,488,2288,Utah Utes,three point jumper,True,False,True,Alissa Pili,False,,24.0,25.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer Defensive Rebound.,4,1,1,488,2288,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom missed Three Point Jumper.,4,1,1,477,2277,South Dakota State Jackrabbits,three point jumper,True,False,True,Mesa Byom,False,,3.0,0.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen Defensive Rebound.,4,1,1,477,2277,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili made Three Point Jumper. Assisted by Jenna Johnson.,7,1,1,460,2260,Utah Utes,three point jumper,True,True,True,Alissa Pili,True,Jenna Johnson,39.0,20.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Brooklyn Meyer.,7,1,1,446,2246,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Turnover.,7,1,1,446,2246,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson made Layup. Assisted by Alissa Pili.,9,1,1,436,2236,Utah Utes,layup,True,True,False,Jenna Johnson,True,Alissa Pili,23.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom missed Layup.,9,1,1,409,2209,South Dakota State Jackrabbits,layup,True,False,False,Mesa Byom,False,,22.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Block.,9,1,1,409,2209,Utah Utes,block,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson Defensive Rebound.,9,1,1,409,2209,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen missed Layup.,9,1,1,402,2202,Utah Utes,layup,True,False,False,Kennady McQueen,False,,23.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson Defensive Rebound.,9,1,1,402,2202,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Ines Vieira.,9,1,1,386,2186,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Madison Mathiowetz Turnover.,9,1,1,382,2182,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen made Three Point Jumper. Assisted by Jenna Johnson.,12,1,1,370,2170,Utah Utes,three point jumper,True,True,True,Kennady McQueen,True,Jenna Johnson,8.0,17.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer Turnover.,12,1,1,348,2148,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Reese Ross Steal.,12,1,1,348,2148,Utah Utes,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson missed Three Point Jumper.,12,1,1,341,2141,Utah Utes,three point jumper,True,False,True,Jenna Johnson,False,,20.0,25.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Defensive Rebound.,12,1,1,341,2141,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer missed Three Point Jumper.,12,1,1,326,2126,South Dakota State Jackrabbits,three point jumper,True,False,True,Paige Meyer,False,,22.0,24.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Reese Ross Defensive Rebound.,12,1,1,326,2126,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Dasia Young missed Three Point Jumper.,12,1,1,310,2110,Utah Utes,three point jumper,True,False,True,Dasia Young,False,,40.0,18.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer Defensive Rebound.,12,1,1,310,2110,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom missed Layup.,12,1,1,298,2098,South Dakota State Jackrabbits,layup,True,False,False,Mesa Byom,False,,26.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson Defensive Rebound.,12,1,1,298,2098,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Reese Ross Turnover.,12,1,1,287,2087,Utah Utes,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits, Official TV Timeout,12,1,1,287,2087,,tv timeout,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Hopp made Layup.,12,3,1,265,2065,South Dakota State Jackrabbits,layup,True,True,False,Jenna Hopp,False,,26.0,3.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Reese Ross.,12,3,1,265,2065,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Hopp missed Free Throw.,12,3,1,265,2065,South Dakota State Jackrabbits,free throw,True,False,False,Jenna Hopp,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Defensive Rebound.,12,3,1,265,2065,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Dasia Young missed Layup.,12,3,1,254,2054,Utah Utes,layup,True,False,False,Dasia Young,False,,22.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Block.,12,3,1,254,2054,South Dakota State Jackrabbits,block,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Offensive Rebound.,12,3,1,254,2054,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Dasia Young.,12,3,1,234,2034,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Dasia Young Turnover.,12,3,1,234,2034,Utah Utes,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom missed Jumper.,12,3,1,217,2017,South Dakota State Jackrabbits,jumper,True,False,False,Mesa Byom,False,,29.0,8.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Defensive Rebound.,12,3,1,217,2017,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke missed Jumper.,12,3,1,195,1995,Utah Utes,jumper,True,False,False,Matyson Wilke,False,,25.0,8.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Defensive Rebound.,12,3,1,195,1995,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Hopp Turnover.,12,3,1,180,1980,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Madison Mathiowetz.,12,3,1,166,1966,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili missed Free Throw.,12,3,1,166,1966,Utah Utes,free throw,True,False,False,Alissa Pili,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Utah Deadball Team Rebound.,12,3,1,166,1966,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili made Free Throw.,13,3,1,166,1966,Utah Utes,free throw,True,True,False,Alissa Pili,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer missed Jumper.,13,3,1,153,1953,South Dakota State Jackrabbits,jumper,True,False,False,Brooklyn Meyer,False,,19.0,6.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson Defensive Rebound.,13,3,1,153,1953,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Dasia Young made Layup.,15,3,1,135,1935,Utah Utes,layup,True,True,False,Dasia Young,False,,27.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Hopp Turnover.,15,3,1,126,1926,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Dasia Young Steal.,15,3,1,126,1926,Utah Utes,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson made Jumper. Assisted by Alissa Pili.,17,3,1,114,1914,Utah Utes,jumper,True,True,False,Jenna Johnson,True,Alissa Pili,19.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Madison Mathiowetz missed Jumper.,17,3,1,100,1900,South Dakota State Jackrabbits,jumper,True,False,False,Madison Mathiowetz,False,,17.0,11.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Dasia Young Defensive Rebound.,17,3,1,100,1900,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke missed Three Point Jumper.,17,3,1,82,1882,Utah Utes,three point jumper,True,False,True,Matyson Wilke,False,,10.0,18.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson Defensive Rebound.,17,3,1,82,1882,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson missed Layup.,17,3,1,62,1862,South Dakota State Jackrabbits,layup,True,False,False,Tori Nelson,False,,22.0,3.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Lani White Block.,17,3,1,62,1862,Utah Utes,block,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Utah Offensive Rebound.,17,3,1,62,1862,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Kennady McQueen.,17,3,1,57,1857,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson missed Free Throw.,17,3,1,57,1857,South Dakota State Jackrabbits,free throw,True,False,False,Tori Nelson,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,South Dakota State Deadball Team Rebound.,17,3,1,57,1857,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson missed Free Throw.,17,3,1,57,1857,South Dakota State Jackrabbits,free throw,True,False,False,Tori Nelson,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Defensive Rebound.,17,3,1,57,1857,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili missed Three Point Jumper.,17,3,1,43,1843,Utah Utes,three point jumper,True,False,True,Alissa Pili,False,,42.0,17.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Defensive Rebound.,17,3,1,43,1843,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Ellie Colbeck missed Three Point Jumper.,17,3,1,32,1832,South Dakota State Jackrabbits,three point jumper,True,False,True,Ellie Colbeck,False,,30.0,24.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen Defensive Rebound.,17,3,1,32,1832,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen made Three Point Jumper.,20,3,1,1,1801,Utah Utes,three point jumper,True,True,True,Kennady McQueen,False,,42.0,19.0
+401637562,Utah Utes,South Dakota State Jackrabbits,End of 1st Quarter,20,3,1,0,1800,,end,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jump Ball won by South Dakota State,20,3,2,600,1800,South Dakota State Jackrabbits,jump ball,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer made Jumper. Assisted by Madison Mathiowetz.,20,5,2,588,1788,South Dakota State Jackrabbits,jumper,True,True,False,Brooklyn Meyer,True,Madison Mathiowetz,24.0,6.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jump Ball won by Utah,20,5,2,569,1769,Utah Utes,jump ball,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili made Layup.,22,5,2,569,1769,Utah Utes,layup,True,True,False,Alissa Pili,False,,27.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Jenna Johnson.,22,5,2,556,1756,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer missed Jumper.,22,5,2,549,1749,South Dakota State Jackrabbits,jumper,True,False,False,Brooklyn Meyer,False,,23.0,6.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson Block.,22,5,2,549,1749,Utah Utes,block,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke Defensive Rebound.,22,5,2,549,1749,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Ines Vieira Turnover.,22,5,2,535,1735,Utah Utes,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Madison Mathiowetz Steal.,22,5,2,535,1735,South Dakota State Jackrabbits,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer missed Jumper.,22,5,2,527,1727,South Dakota State Jackrabbits,jumper,True,False,False,Paige Meyer,False,,21.0,4.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen Defensive Rebound.,22,5,2,527,1727,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili missed Layup.,22,5,2,518,1718,Utah Utes,layup,True,False,False,Alissa Pili,False,,29.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson Block.,22,5,2,518,1718,South Dakota State Jackrabbits,block,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson Defensive Rebound.,22,5,2,518,1718,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer missed Layup.,22,5,2,501,1701,South Dakota State Jackrabbits,layup,True,False,False,Brooklyn Meyer,False,,28.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Defensive Rebound.,22,5,2,501,1701,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Ines Vieira made Three Point Jumper. Assisted by Kennady McQueen.,25,5,2,476,1676,Utah Utes,three point jumper,True,True,True,Ines Vieira,True,Kennady McQueen,48.0,0.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson made Jumper. Assisted by Mesa Byom.,25,7,2,454,1654,South Dakota State Jackrabbits,jumper,True,True,False,Tori Nelson,True,Mesa Byom,31.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili made Layup. Assisted by Jenna Johnson.,27,7,2,440,1640,Utah Utes,layup,True,True,False,Alissa Pili,True,Jenna Johnson,22.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer missed Jumper.,27,7,2,425,1625,South Dakota State Jackrabbits,jumper,True,False,False,Brooklyn Meyer,False,,20.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Defensive Rebound.,27,7,2,425,1625,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Turnover.,27,7,2,416,1616,Utah Utes,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Madison Mathiowetz Steal.,27,7,2,416,1616,South Dakota State Jackrabbits,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson made Three Point Jumper. Assisted by Brooklyn Meyer.,27,10,2,402,1602,South Dakota State Jackrabbits,three point jumper,True,True,True,Tori Nelson,True,Brooklyn Meyer,3.0,8.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Paige Meyer.,27,10,2,391,1591,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke missed Three Point Jumper.,27,10,2,378,1578,Utah Utes,three point jumper,True,False,True,Matyson Wilke,False,,48.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer Defensive Rebound.,27,10,2,378,1578,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Kennady McQueen.,27,10,2,375,1575,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson made Three Point Jumper. Assisted by Jenna Hopp.,27,13,2,361,1561,South Dakota State Jackrabbits,three point jumper,True,True,True,Tori Nelson,True,Jenna Hopp,48.0,3.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson missed Layup.,27,13,2,343,1543,Utah Utes,layup,True,False,False,Jenna Johnson,False,,24.0,3.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Hopp Block.,27,13,2,343,1543,South Dakota State Jackrabbits,block,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson Defensive Rebound.,27,13,2,343,1543,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Hopp missed Jumper.,27,13,2,309,1509,South Dakota State Jackrabbits,jumper,True,False,False,Jenna Hopp,False,,18.0,6.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson Defensive Rebound.,27,13,2,309,1509,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson missed Layup.,27,13,2,297,1497,Utah Utes,layup,True,False,False,Jenna Johnson,False,,28.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Defensive Rebound.,27,13,2,297,1497,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Samantha Crispe.,27,13,2,290,1490,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits, Official TV Timeout,27,13,2,290,1490,,tv timeout,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer made Free Throw.,27,14,2,290,1490,South Dakota State Jackrabbits,free throw,True,True,False,Paige Meyer,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer made Free Throw.,27,15,2,290,1490,South Dakota State Jackrabbits,free throw,True,True,False,Paige Meyer,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Dasia Young Turnover.,27,15,2,268,1468,Utah Utes,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer missed Jumper.,27,15,2,255,1455,South Dakota State Jackrabbits,jumper,True,False,False,Paige Meyer,False,,34.0,12.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Utah Defensive Rebound.,27,15,2,255,1455,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke missed Three Point Jumper.,27,15,2,247,1447,Utah Utes,three point jumper,True,False,True,Matyson Wilke,False,,27.0,25.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer Defensive Rebound.,27,15,2,247,1447,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom missed Jumper.,27,15,2,226,1426,South Dakota State Jackrabbits,jumper,True,False,False,Mesa Byom,False,,26.0,8.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Utah Defensive Rebound.,27,15,2,226,1426,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Ines Vieira Turnover.,27,15,2,206,1406,Utah Utes,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Dasia Young.,27,15,2,189,1389,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Lani White.,27,15,2,186,1386,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson missed Free Throw.,27,15,2,186,1386,South Dakota State Jackrabbits,free throw,True,False,False,Tori Nelson,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,South Dakota State Deadball Team Rebound.,27,15,2,186,1386,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson made Free Throw.,27,16,2,186,1386,South Dakota State Jackrabbits,free throw,True,True,False,Tori Nelson,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Ines Vieira missed Three Point Jumper.,27,16,2,171,1371,Utah Utes,three point jumper,True,False,True,Ines Vieira,False,,45.0,12.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Defensive Rebound.,27,16,2,171,1371,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Alissa Pili.,27,16,2,171,1371,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom made Free Throw.,27,17,2,171,1371,South Dakota State Jackrabbits,free throw,True,True,False,Mesa Byom,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom missed Free Throw.,27,17,2,171,1371,South Dakota State Jackrabbits,free throw,True,False,False,Mesa Byom,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Defensive Rebound.,27,17,2,171,1371,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili missed Layup.,27,17,2,158,1358,Utah Utes,layup,True,False,False,Alissa Pili,False,,24.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Block.,27,17,2,158,1358,South Dakota State Jackrabbits,block,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer Defensive Rebound.,27,17,2,158,1358,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson Turnover.,27,17,2,143,1343,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jump Ball won by South Dakota State,27,17,2,130,1330,South Dakota State Jackrabbits,jump ball,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Turnover.,27,17,2,130,1330,Utah Utes,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Hopp Steal.,27,17,2,130,1330,South Dakota State Jackrabbits,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer made Jumper.,27,19,2,107,1307,South Dakota State Jackrabbits,jumper,True,True,False,Brooklyn Meyer,False,,22.0,8.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Lani White missed Three Point Jumper.,27,19,2,88,1288,Utah Utes,three point jumper,True,False,True,Lani White,False,,26.0,24.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer Defensive Rebound.,27,19,2,88,1288,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Lani White.,27,19,2,84,1284,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson made Free Throw.,27,20,2,84,1284,South Dakota State Jackrabbits,free throw,True,True,False,Tori Nelson,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson made Free Throw.,27,21,2,84,1284,South Dakota State Jackrabbits,free throw,True,True,False,Tori Nelson,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Utah  Turnover.,27,21,2,54,1254,Utah Utes,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Matyson Wilke.,27,21,2,30,1230,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer made Free Throw.,27,22,2,30,1230,South Dakota State Jackrabbits,free throw,True,True,False,Paige Meyer,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer missed Free Throw.,27,22,2,30,1230,South Dakota State Jackrabbits,free throw,True,False,False,Paige Meyer,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Madison Mathiowetz made Free Throw.,27,23,2,30,1230,South Dakota State Jackrabbits,free throw,True,True,False,Madison Mathiowetz,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Madison Mathiowetz made Free Throw.,27,24,2,30,1230,South Dakota State Jackrabbits,free throw,True,True,False,Madison Mathiowetz,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Technical Foul on Utah.,27,24,2,22,1222,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Turnover.,27,24,2,5,1205,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke Steal.,27,24,2,5,1205,Utah Utes,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,End of 2nd Quarter,27,24,2,0,1200,,end,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jump Ball won by Utah,27,24,3,600,1200,Utah Utes,jump ball,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili missed Three Point Jumper.,27,24,3,589,1189,Utah Utes,three point jumper,True,False,True,Alissa Pili,False,,11.0,19.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Madison Mathiowetz Defensive Rebound.,27,24,3,589,1189,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Turnover.,27,24,3,569,1169,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Steal.,27,24,3,569,1169,Utah Utes,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili missed Layup.,27,24,3,551,1151,Utah Utes,layup,True,False,False,Alissa Pili,False,,21.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Defensive Rebound.,27,24,3,551,1151,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Turnover.,27,24,3,534,1134,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Ines Vieira missed Three Point Jumper.,27,24,3,522,1122,Utah Utes,three point jumper,True,False,True,Ines Vieira,False,,11.0,19.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Defensive Rebound.,27,24,3,522,1122,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Matyson Wilke.,27,24,3,518,1118,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer missed Jumper.,27,24,3,503,1103,South Dakota State Jackrabbits,jumper,True,False,False,Brooklyn Meyer,False,,28.0,6.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson Defensive Rebound.,27,24,3,503,1103,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Mesa Byom.,27,24,3,489,1089,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili made Layup. Assisted by Jenna Johnson.,29,24,3,487,1087,Utah Utes,layup,True,True,False,Alissa Pili,True,Jenna Johnson,22.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Madison Mathiowetz missed Three Point Jumper.,29,24,3,476,1076,South Dakota State Jackrabbits,three point jumper,True,False,True,Madison Mathiowetz,False,,30.0,24.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Offensive Rebound.,29,24,3,476,1076,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom missed Two Point Tip Shot.,29,24,3,476,1076,South Dakota State Jackrabbits,two point tip shot,True,False,False,Mesa Byom,False,,25.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson Defensive Rebound.,29,24,3,476,1076,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke made Layup.,31,24,3,458,1058,Utah Utes,layup,True,True,False,Matyson Wilke,False,,23.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Alissa Pili.,31,24,3,438,1038,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson missed Free Throw.,31,24,3,438,1038,South Dakota State Jackrabbits,free throw,True,False,False,Tori Nelson,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,South Dakota State Deadball Team Rebound.,31,24,3,438,1038,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson made Free Throw.,31,25,3,438,1038,South Dakota State Jackrabbits,free throw,True,True,False,Tori Nelson,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Madison Mathiowetz.,31,25,3,431,1031,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili missed Jumper.,31,25,3,422,1022,Utah Utes,jumper,True,False,False,Alissa Pili,False,,30.0,5.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Defensive Rebound.,31,25,3,422,1022,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer missed Layup.,31,25,3,404,1004,South Dakota State Jackrabbits,layup,True,False,False,Paige Meyer,False,,22.0,3.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson Defensive Rebound.,31,25,3,404,1004,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Tori Nelson.,31,25,3,390,990,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili made Three Point Jumper. Assisted by Kennady McQueen.,34,25,3,383,983,Utah Utes,three point jumper,True,True,True,Alissa Pili,True,Kennady McQueen,9.0,17.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Madison Mathiowetz Turnover.,34,25,3,367,967,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke Steal.,34,25,3,367,967,Utah Utes,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke made Layup.,36,25,3,362,962,Utah Utes,layup,True,True,False,Matyson Wilke,False,,23.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,South Dakota State  Timeout,36,25,3,347,947,South Dakota State Jackrabbits,timeout,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom missed Jumper.,36,25,3,339,939,South Dakota State Jackrabbits,jumper,True,False,False,Mesa Byom,False,,29.0,17.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Ines Vieira Defensive Rebound.,36,25,3,339,939,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson made Layup. Assisted by Alissa Pili.,38,25,3,328,928,Utah Utes,layup,True,True,False,Jenna Johnson,True,Alissa Pili,23.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer made Layup. Assisted by Mesa Byom.,38,27,3,306,906,South Dakota State Jackrabbits,layup,True,True,False,Brooklyn Meyer,True,Mesa Byom,24.0,3.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Jenna Johnson.,38,27,3,306,906,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer made Free Throw.,38,28,3,306,906,South Dakota State Jackrabbits,free throw,True,True,False,Brooklyn Meyer,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Paige Meyer.,38,28,3,283,883,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits, Official TV Timeout,38,28,3,283,883,,tv timeout,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Ines Vieira made Three Point Jumper. Assisted by Kennady McQueen.,41,28,3,278,878,Utah Utes,three point jumper,True,True,True,Ines Vieira,True,Kennady McQueen,48.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer made Layup.,41,30,3,250,850,South Dakota State Jackrabbits,layup,True,True,False,Brooklyn Meyer,False,,23.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Jenna Johnson.,41,30,3,250,850,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer made Free Throw.,41,31,3,250,850,South Dakota State Jackrabbits,free throw,True,True,False,Brooklyn Meyer,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili made Layup. Assisted by Ines Vieira.,43,31,3,234,834,Utah Utes,layup,True,True,False,Alissa Pili,True,Ines Vieira,22.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson made Layup. Assisted by Brooklyn Meyer.,43,33,3,219,819,South Dakota State Jackrabbits,layup,True,True,False,Tori Nelson,True,Brooklyn Meyer,24.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Ellie Colbeck.,43,33,3,199,799,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke made Free Throw.,44,33,3,199,799,Utah Utes,free throw,True,True,False,Matyson Wilke,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke made Free Throw.,45,33,3,199,799,Utah Utes,free throw,True,True,False,Matyson Wilke,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer missed Layup.,45,33,3,183,783,South Dakota State Jackrabbits,layup,True,False,False,Paige Meyer,False,,29.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Offensive Rebound.,45,33,3,183,783,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Dasia Young.,45,33,3,183,783,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer made Free Throw.,45,34,3,183,783,South Dakota State Jackrabbits,free throw,True,True,False,Brooklyn Meyer,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer made Free Throw.,45,35,3,183,783,South Dakota State Jackrabbits,free throw,True,True,False,Brooklyn Meyer,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke Turnover.,45,35,3,162,762,Utah Utes,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Hopp Steal.,45,35,3,162,762,South Dakota State Jackrabbits,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer made Layup.,45,37,3,154,754,South Dakota State Jackrabbits,layup,True,True,False,Paige Meyer,False,,26.0,0.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen made Layup.,47,37,3,134,734,Utah Utes,layup,True,True,False,Kennady McQueen,False,,22.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson Turnover.,47,37,3,126,726,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen Steal.,47,37,3,126,726,Utah Utes,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili made Layup. Assisted by Kennady McQueen.,49,37,3,120,720,Utah Utes,layup,True,True,False,Alissa Pili,True,Kennady McQueen,22.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer missed Layup.,49,37,3,101,701,South Dakota State Jackrabbits,layup,True,False,False,Paige Meyer,False,,22.0,3.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Ines Vieira Defensive Rebound.,49,37,3,101,701,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen missed Three Point Jumper.,49,37,3,94,694,Utah Utes,three point jumper,True,False,True,Kennady McQueen,False,,2.0,5.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Ellie Colbeck Defensive Rebound.,49,37,3,94,694,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Ellie Colbeck missed Jumper.,49,37,3,70,670,South Dakota State Jackrabbits,jumper,True,False,False,Ellie Colbeck,False,,31.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke Defensive Rebound.,49,37,3,70,670,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen made Layup. Assisted by Matyson Wilke.,51,37,3,65,665,Utah Utes,layup,True,True,False,Kennady McQueen,True,Matyson Wilke,23.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer made Jumper.,51,39,3,42,642,South Dakota State Jackrabbits,jumper,True,True,False,Paige Meyer,False,,30.0,3.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Mesa Byom.,51,39,3,17,617,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Dasia Young made Free Throw.,52,39,3,17,617,Utah Utes,free throw,True,True,False,Dasia Young,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Dasia Young made Free Throw.,53,39,3,17,617,Utah Utes,free throw,True,True,False,Dasia Young,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Hopp made Layup. Assisted by Paige Meyer.,53,41,3,5,605,South Dakota State Jackrabbits,layup,True,True,False,Jenna Hopp,True,Paige Meyer,24.0,3.0
+401637562,Utah Utes,South Dakota State Jackrabbits,End of 3rd Quarter,53,41,3,0,600,,end,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jump Ball won by South Dakota State,53,41,4,600,600,South Dakota State Jackrabbits,jump ball,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer made Jumper.,53,43,4,587,587,South Dakota State Jackrabbits,jumper,True,True,False,Paige Meyer,False,,22.0,5.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Ines Vieira missed Three Point Jumper.,53,43,4,567,567,Utah Utes,three point jumper,True,False,True,Ines Vieira,False,,11.0,20.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Defensive Rebound.,53,43,4,567,567,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Mesa Byom.,53,43,4,565,565,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Turnover.,53,43,4,564,564,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson made Layup. Assisted by Ines Vieira.,55,43,4,558,558,Utah Utes,layup,True,True,False,Jenna Johnson,True,Ines Vieira,26.0,3.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom missed Jumper.,55,43,4,547,547,South Dakota State Jackrabbits,jumper,True,False,False,Mesa Byom,False,,24.0,8.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson Defensive Rebound.,55,43,4,547,547,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Dasia Young missed Three Point Jumper.,55,43,4,532,532,Utah Utes,three point jumper,True,False,True,Dasia Young,False,,46.0,10.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Defensive Rebound.,55,43,4,532,532,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,South Dakota State  Timeout,55,43,4,517,517,South Dakota State Jackrabbits,timeout,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson Turnover.,55,43,4,510,510,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Dasia Young Steal.,55,43,4,510,510,Utah Utes,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Dasia Young.,55,43,4,497,497,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Dasia Young Turnover.,55,43,4,497,497,Utah Utes,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Madison Mathiowetz made Three Point Jumper. Assisted by Paige Meyer.,55,46,4,482,482,South Dakota State Jackrabbits,three point jumper,True,True,True,Madison Mathiowetz,True,Paige Meyer,41.0,18.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Lani White Turnover.,55,46,4,462,462,Utah Utes,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Jenna Johnson.,55,46,4,452,452,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Ellie Colbeck missed Three Point Jumper.,55,46,4,445,445,South Dakota State Jackrabbits,three point jumper,True,False,True,Ellie Colbeck,False,,25.0,24.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Utah Defensive Rebound.,55,46,4,445,445,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen made Three Point Jumper. Assisted by Ines Vieira.,58,46,4,427,427,Utah Utes,three point jumper,True,True,True,Kennady McQueen,True,Ines Vieira,15.0,21.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson missed Three Point Jumper.,58,46,4,414,414,South Dakota State Jackrabbits,three point jumper,True,False,True,Tori Nelson,False,,47.0,6.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Offensive Rebound.,58,46,4,414,414,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer missed Layup.,58,46,4,408,408,South Dakota State Jackrabbits,layup,True,False,False,Paige Meyer,False,,28.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer Offensive Rebound.,58,46,4,408,408,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer Turnover.,58,46,4,399,399,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Steal.,58,46,4,399,399,Utah Utes,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Turnover.,58,46,4,389,389,Utah Utes,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson Steal.,58,46,4,389,389,South Dakota State Jackrabbits,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Tori Nelson missed Layup.,58,46,4,381,381,South Dakota State Jackrabbits,layup,True,False,False,Tori Nelson,False,,27.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson Defensive Rebound.,58,46,4,381,381,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili made Layup. Assisted by Kennady McQueen.,60,46,4,360,360,Utah Utes,layup,True,True,False,Alissa Pili,True,Kennady McQueen,22.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Brooklyn Meyer.,60,46,4,336,336,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Turnover.,60,46,4,336,336,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson missed Three Point Jumper.,60,46,4,321,321,Utah Utes,three point jumper,True,False,True,Jenna Johnson,False,,39.0,19.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Defensive Rebound.,60,46,4,321,321,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer made Layup.,60,48,4,309,309,South Dakota State Jackrabbits,layup,True,True,False,Paige Meyer,False,,28.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Lani White missed Jumper.,60,48,4,296,296,Utah Utes,jumper,True,False,False,Lani White,False,,17.0,2.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Block.,60,48,4,296,296,South Dakota State Jackrabbits,block,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Utah Offensive Rebound.,60,48,4,296,296,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili made Jumper. Assisted by Kennady McQueen.,62,48,4,293,293,Utah Utes,jumper,True,True,False,Alissa Pili,True,Kennady McQueen,18.0,3.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Alissa Pili.,62,48,4,268,268,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer missed Free Throw.,62,48,4,268,268,South Dakota State Jackrabbits,free throw,True,False,False,Brooklyn Meyer,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,South Dakota State Deadball Team Rebound.,62,48,4,268,268,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer made Free Throw.,62,49,4,268,268,South Dakota State Jackrabbits,free throw,True,True,False,Brooklyn Meyer,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Mesa Byom.,62,49,4,254,254,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen made Layup. Assisted by Matyson Wilke.,64,49,4,249,249,Utah Utes,layup,True,True,False,Kennady McQueen,True,Matyson Wilke,26.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Turnover.,64,49,4,227,227,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen Steal.,64,49,4,227,227,Utah Utes,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Jenna Hopp.,64,49,4,225,225,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Alissa Pili.,64,49,4,219,219,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Turnover.,64,49,4,219,219,Utah Utes,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom made Jumper. Assisted by Brooklyn Meyer.,64,51,4,211,211,South Dakota State Jackrabbits,jumper,True,True,False,Mesa Byom,True,Brooklyn Meyer,26.0,6.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili made Three Point Jumper. Assisted by Ines Vieira.,67,51,4,170,170,Utah Utes,three point jumper,True,True,True,Alissa Pili,True,Ines Vieira,45.0,13.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Brooklyn Meyer Turnover.,67,51,4,159,159,South Dakota State Jackrabbits,turnover,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili Steal.,67,51,4,159,159,Utah Utes,steal,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alissa Pili missed Three Point Jumper.,67,51,4,137,137,Utah Utes,three point jumper,True,False,True,Alissa Pili,False,,24.0,26.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke Offensive Rebound.,67,51,4,137,137,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen missed Three Point Jumper.,67,51,4,114,114,Utah Utes,three point jumper,True,False,True,Kennady McQueen,False,,2.0,-1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke Offensive Rebound.,67,51,4,114,114,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Jenna Hopp.,67,51,4,112,112,South Dakota State Jackrabbits,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke missed Free Throw.,67,51,4,112,112,Utah Utes,free throw,True,False,False,Matyson Wilke,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Utah Deadball Team Rebound.,67,51,4,112,112,Utah Utes,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Matyson Wilke made Free Throw.,68,51,4,112,112,Utah Utes,free throw,True,True,False,Matyson Wilke,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Madison Mathiowetz missed Three Point Jumper.,68,51,4,93,93,South Dakota State Jackrabbits,three point jumper,True,False,True,Madison Mathiowetz,False,,11.0,20.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer Offensive Rebound.,68,51,4,93,93,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Paige Meyer missed Two Point Tip Shot.,68,51,4,93,93,South Dakota State Jackrabbits,two point tip shot,True,False,False,Paige Meyer,False,,25.0,1.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Jenna Johnson Block.,68,51,4,93,93,Utah Utes,block,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Offensive Rebound.,68,51,4,93,93,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Matyson Wilke.,68,51,4,86,86,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom missed Free Throw.,68,51,4,86,86,South Dakota State Jackrabbits,free throw,True,False,False,Mesa Byom,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,South Dakota State Deadball Team Rebound.,68,51,4,86,86,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom made Free Throw.,68,52,4,86,86,South Dakota State Jackrabbits,free throw,True,True,False,Mesa Byom,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Kennady McQueen missed Three Point Jumper.,68,52,4,79,79,Utah Utes,three point jumper,True,False,True,Kennady McQueen,False,,46.0,9.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom Defensive Rebound.,68,52,4,79,79,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Foul on Ines Vieira.,68,52,4,55,55,Utah Utes,foul,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom made Free Throw.,68,53,4,55,55,South Dakota State Jackrabbits,free throw,True,True,False,Mesa Byom,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Mesa Byom made Free Throw.,68,54,4,55,55,South Dakota State Jackrabbits,free throw,True,True,False,Mesa Byom,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,Alyssa Blanck missed Three Point Jumper.,68,54,4,29,29,Utah Utes,three point jumper,True,False,True,Alyssa Blanck,False,,48.0,5.0
+401637562,Utah Utes,South Dakota State Jackrabbits,Isabel Aesoph Defensive Rebound.,68,54,4,29,29,South Dakota State Jackrabbits,rebound,False,False,False,,False,,,
+401637562,Utah Utes,South Dakota State Jackrabbits,End of Game,68,54,4,0,0,,end,False,False,False,,False,,,

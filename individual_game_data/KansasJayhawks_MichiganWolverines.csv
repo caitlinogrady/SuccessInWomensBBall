@@ -1,0 +1,319 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637561,Kansas Jayhawks,Michigan Wolverines,Jump Ball won by Michigan,0,0,1,600,2400,Michigan Wolverines,jump ball,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams missed Jumper.,0,0,1,575,2375,Michigan Wolverines,jumper,True,False,False,Cameron Williams,False,,23.0,5.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Kansas Defensive Rebound.,0,0,1,575,2375,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry Turnover.,0,0,1,547,2347,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams missed Jumper.,0,0,1,533,2333,Michigan Wolverines,jumper,True,False,False,Cameron Williams,False,,22.0,6.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson Defensive Rebound.,0,0,1,533,2333,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry Turnover.,0,0,1,524,2324,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams Steal.,0,0,1,524,2324,Michigan Wolverines,steal,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs missed Three Point Jumper.,0,0,1,518,2318,Michigan Wolverines,three point jumper,True,False,True,Jordan Hobbs,False,,48.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry Defensive Rebound.,0,0,1,518,2318,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry missed Layup.,0,0,1,510,2310,Kansas Jayhawks,layup,True,False,False,Wyvette Mayberry,False,,26.0,3.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia Defensive Rebound.,0,0,1,510,2310,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia made Jumper. Assisted by Elissa Brett.,0,2,1,480,2280,Michigan Wolverines,jumper,True,True,False,Laila Phelia,True,Elissa Brett,17.0,13.0
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols missed Layup.,0,2,1,459,2259,Kansas Jayhawks,layup,True,False,False,S'Mya Nichols,False,,26.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols Offensive Rebound.,0,2,1,459,2259,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin made Three Point Jumper. Assisted by Holly Kersgieter.,3,2,1,449,2249,Kansas Jayhawks,three point jumper,True,True,True,Zakiyah Franklin,True,Holly Kersgieter,47.0,6.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs missed Three Point Jumper.,3,2,1,433,2233,Michigan Wolverines,three point jumper,True,False,True,Jordan Hobbs,False,,30.0,24.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry Defensive Rebound.,3,2,1,433,2233,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter made Layup. Assisted by Wyvette Mayberry.,5,2,1,423,2223,Kansas Jayhawks,layup,True,True,False,Holly Kersgieter,True,Wyvette Mayberry,26.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams missed Layup.,5,2,1,395,2195,Michigan Wolverines,layup,True,False,False,Cameron Williams,False,,22.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Defensive Rebound.,5,2,1,395,2195,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter missed Three Point Jumper.,5,2,1,382,2182,Kansas Jayhawks,three point jumper,True,False,True,Holly Kersgieter,False,,2.0,9.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs Defensive Rebound.,5,2,1,382,2182,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Elissa Brett made Three Point Jumper. Assisted by Lauren Hansen.,5,5,1,374,2174,Michigan Wolverines,three point jumper,True,True,True,Elissa Brett,True,Lauren Hansen,48.0,-3.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry missed Three Point Jumper.,5,5,1,352,2152,Kansas Jayhawks,three point jumper,True,False,True,Wyvette Mayberry,False,,2.0,0.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs Defensive Rebound.,5,5,1,352,2152,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs Turnover.,5,5,1,338,2138,Michigan Wolverines,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin made Layup. Assisted by Holly Kersgieter.,7,5,1,315,2115,Kansas Jayhawks,layup,True,True,False,Zakiyah Franklin,True,Holly Kersgieter,23.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on S'Mya Nichols.,7,5,1,298,2098,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines, Official TV Timeout,7,5,1,298,2098,,tv timeout,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Chyra Evans Turnover.,7,5,1,278,2078,Michigan Wolverines,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Chyra Evans.,7,5,1,264,2064,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter missed Three Point Jumper.,7,5,1,264,2064,Kansas Jayhawks,three point jumper,True,False,True,Holly Kersgieter,False,,2.0,5.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia Defensive Rebound.,7,5,1,264,2064,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Taiyanna Jackson.,7,5,1,255,2055,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia made Free Throw.,7,6,1,255,2055,Michigan Wolverines,free throw,True,True,False,Laila Phelia,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia made Free Throw.,7,7,1,255,2055,Michigan Wolverines,free throw,True,True,False,Laila Phelia,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter missed Jumper.,7,7,1,245,2045,Kansas Jayhawks,jumper,True,False,False,Holly Kersgieter,False,,41.0,0.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Taylor Woodson Defensive Rebound.,7,7,1,245,2045,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Elissa Brett missed Three Point Jumper.,7,7,1,236,2036,Michigan Wolverines,three point jumper,True,False,True,Elissa Brett,False,,47.0,11.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin Defensive Rebound.,7,7,1,236,2036,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Ryan Cobbins.,7,7,1,212,2012,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Ryan Cobbins Turnover.,7,7,1,212,2012,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia made Layup.,7,9,1,204,2004,Michigan Wolverines,layup,True,True,False,Laila Phelia,False,,27.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin made Jumper. Assisted by Wyvette Mayberry.,9,9,1,173,1973,Kansas Jayhawks,jumper,True,True,False,Zakiyah Franklin,True,Wyvette Mayberry,21.0,6.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Elissa Brett missed Three Point Jumper.,9,9,1,146,1946,Michigan Wolverines,three point jumper,True,False,True,Elissa Brett,False,,14.0,22.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Michigan Offensive Rebound.,9,9,1,146,1946,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taylor Woodson missed Jumper.,9,9,1,121,1921,Michigan Wolverines,jumper,True,False,False,Taylor Woodson,False,,22.0,7.0
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols Defensive Rebound.,9,9,1,121,1921,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson missed Layup.,9,9,1,105,1905,Kansas Jayhawks,layup,True,False,False,Taiyanna Jackson,False,,27.0,3.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Taylor Woodson Defensive Rebound.,9,9,1,105,1905,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Elissa Brett missed Layup.,9,9,1,80,1880,Michigan Wolverines,layup,True,False,False,Elissa Brett,False,,26.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Chyra Evans Offensive Rebound.,9,9,1,80,1880,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Chyra Evans made Layup.,9,11,1,76,1876,Michigan Wolverines,layup,True,True,False,Chyra Evans,False,,23.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Elissa Brett.,9,11,1,56,1856,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson missed Free Throw.,9,11,1,56,1856,Kansas Jayhawks,free throw,True,False,False,Taiyanna Jackson,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Kansas Deadball Team Rebound.,9,11,1,56,1856,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson made Free Throw.,10,11,1,56,1856,Kansas Jayhawks,free throw,True,True,False,Taiyanna Jackson,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia missed Layup.,10,11,1,51,1851,Michigan Wolverines,layup,True,False,False,Laila Phelia,False,,23.0,3.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Michigan Offensive Rebound.,10,11,1,51,1851,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia Turnover.,10,11,1,37,1837,Michigan Wolverines,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Steal.,10,11,1,37,1837,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson missed Jumper.,10,11,1,24,1824,Kansas Jayhawks,jumper,True,False,False,Taiyanna Jackson,False,,24.0,7.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Elissa Brett Defensive Rebound.,10,11,1,24,1824,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia missed Layup.,10,11,1,3,1803,Michigan Wolverines,layup,True,False,False,Laila Phelia,False,,26.0,0.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson Defensive Rebound.,10,11,1,3,1803,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,End of 1st Quarter,10,11,1,0,1800,,end,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jump Ball won by Kansas,10,11,2,600,1800,Kansas Jayhawks,jump ball,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin missed Three Point Jumper.,10,11,2,579,1779,Kansas Jayhawks,three point jumper,True,False,True,Zakiyah Franklin,False,,2.0,0.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs Defensive Rebound.,10,11,2,579,1779,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen missed Jumper.,10,11,2,567,1767,Michigan Wolverines,jumper,True,False,False,Lauren Hansen,False,,28.0,15.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Defensive Rebound.,10,11,2,567,1767,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry made Three Point Jumper. Assisted by Holly Kersgieter.,13,11,2,550,1750,Kansas Jayhawks,three point jumper,True,True,True,Wyvette Mayberry,True,Holly Kersgieter,48.0,-1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen made Three Point Jumper. Assisted by Laila Phelia.,13,14,2,528,1728,Michigan Wolverines,three point jumper,True,True,True,Lauren Hansen,True,Laila Phelia,33.0,23.0
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols made Layup. Assisted by Zakiyah Franklin.,15,14,2,501,1701,Kansas Jayhawks,layup,True,True,False,S'Mya Nichols,True,Zakiyah Franklin,28.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Laila Phelia.,15,14,2,501,1701,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols made Free Throw.,16,14,2,501,1701,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taylor Woodson Turnover.,16,14,2,492,1692,Michigan Wolverines,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Steal.,16,14,2,492,1692,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols missed Layup.,16,14,2,488,1688,Kansas Jayhawks,layup,True,False,False,S'Mya Nichols,False,,26.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Taylor Woodson Defensive Rebound.,16,14,2,488,1688,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on S'Mya Nichols.,16,14,2,481,1681,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams missed Jumper.,16,14,2,466,1666,Michigan Wolverines,jumper,True,False,False,Cameron Williams,False,,30.0,3.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Kansas Defensive Rebound.,16,14,2,466,1666,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry made Three Point Jumper. Assisted by Zakiyah Franklin.,19,14,2,454,1654,Kansas Jayhawks,three point jumper,True,True,True,Wyvette Mayberry,True,Zakiyah Franklin,48.0,8.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams missed Jumper.,19,14,2,426,1626,Michigan Wolverines,jumper,True,False,False,Cameron Williams,False,,21.0,6.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Defensive Rebound.,19,14,2,426,1626,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Kansas  Turnover.,19,14,2,393,1593,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Danai Papadopoulou.,19,14,2,373,1573,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams made Free Throw.,19,15,2,373,1573,Michigan Wolverines,free throw,True,True,False,Cameron Williams,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams made Free Throw.,19,16,2,373,1573,Michigan Wolverines,free throw,True,True,False,Cameron Williams,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Ryan Cobbins made Three Point Jumper. Assisted by Taiyanna Jackson.,22,16,2,367,1567,Kansas Jayhawks,three point jumper,True,True,True,Ryan Cobbins,True,Taiyanna Jackson,2.0,-1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia missed Three Point Jumper.,22,16,2,337,1537,Michigan Wolverines,three point jumper,True,False,True,Laila Phelia,False,,45.0,12.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Michigan Offensive Rebound.,22,16,2,337,1537,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Taiyanna Jackson.,22,16,2,329,1529,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams made Layup. Assisted by Jordan Hobbs.,22,18,2,328,1528,Michigan Wolverines,layup,True,True,False,Cameron Williams,True,Jordan Hobbs,27.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry made Layup. Assisted by Zakiyah Franklin.,24,18,2,300,1500,Kansas Jayhawks,layup,True,True,False,Wyvette Mayberry,True,Zakiyah Franklin,22.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Chyra Evans made Layup. Assisted by Laila Phelia.,24,20,2,280,1480,Michigan Wolverines,layup,True,True,False,Chyra Evans,True,Laila Phelia,27.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin Turnover.,24,20,2,257,1457,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines, Official TV Timeout,24,20,2,257,1457,,tv timeout,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs made Three Point Jumper. Assisted by Chyra Evans.,24,23,2,248,1448,Michigan Wolverines,three point jumper,True,True,True,Jordan Hobbs,True,Chyra Evans,22.0,25.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin missed Three Point Jumper.,24,23,2,225,1425,Kansas Jayhawks,three point jumper,True,False,True,Zakiyah Franklin,False,,19.0,25.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Chyra Evans Defensive Rebound.,24,23,2,225,1425,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Elissa Brett made Three Point Jumper. Assisted by Laila Phelia.,24,26,2,215,1415,Michigan Wolverines,three point jumper,True,True,True,Elissa Brett,True,Laila Phelia,29.0,24.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter missed Three Point Jumper.,24,26,2,193,1393,Kansas Jayhawks,three point jumper,True,False,True,Holly Kersgieter,False,,2.0,0.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Elissa Brett Defensive Rebound.,24,26,2,193,1393,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams Turnover.,24,26,2,171,1371,Michigan Wolverines,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Laila Phelia.,24,26,2,163,1363,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin made Jumper.,26,26,2,150,1350,Kansas Jayhawks,jumper,True,True,False,Zakiyah Franklin,False,,29.0,5.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams made Layup. Assisted by Jordan Hobbs.,26,28,2,139,1339,Michigan Wolverines,layup,True,True,False,Cameron Williams,True,Jordan Hobbs,23.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry missed Jumper.,26,28,2,125,1325,Kansas Jayhawks,jumper,True,False,False,Wyvette Mayberry,False,,42.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Chyra Evans Defensive Rebound.,26,28,2,125,1325,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia made Jumper. Assisted by Elissa Brett.,26,30,2,107,1307,Michigan Wolverines,jumper,True,True,False,Laila Phelia,True,Elissa Brett,30.0,16.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Ryan Cobbins missed Three Point Jumper.,26,30,2,86,1286,Kansas Jayhawks,three point jumper,True,False,True,Ryan Cobbins,False,,22.0,25.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Danai Papadopoulou Offensive Rebound.,26,30,2,86,1286,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin missed Layup.,26,30,2,80,1280,Kansas Jayhawks,layup,True,False,False,Zakiyah Franklin,False,,28.0,3.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs Defensive Rebound.,26,30,2,80,1280,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Elissa Brett missed Three Point Jumper.,26,30,2,71,1271,Michigan Wolverines,three point jumper,True,False,True,Elissa Brett,False,,2.0,7.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Kansas Defensive Rebound.,26,30,2,71,1271,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Ryan Cobbins made Three Point Jumper. Assisted by Wyvette Mayberry.,29,30,2,61,1261,Kansas Jayhawks,three point jumper,True,True,True,Ryan Cobbins,True,Wyvette Mayberry,3.0,9.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen missed Jumper.,29,30,2,50,1250,Michigan Wolverines,jumper,True,False,False,Lauren Hansen,False,,14.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Chyra Evans Offensive Rebound.,29,30,2,50,1250,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Danai Papadopoulou.,29,30,2,42,1242,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams made Free Throw.,29,31,2,42,1242,Michigan Wolverines,free throw,True,True,False,Cameron Williams,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams made Free Throw.,29,32,2,42,1242,Michigan Wolverines,free throw,True,True,False,Cameron Williams,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin missed Jumper.,29,32,2,22,1222,Kansas Jayhawks,jumper,True,False,False,Zakiyah Franklin,False,,26.0,9.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin Offensive Rebound.,29,32,2,22,1222,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Danai Papadopoulou.,29,32,2,3,1203,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Danai Papadopoulou Turnover.,29,32,2,3,1203,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,End of 2nd Quarter,29,32,2,0,1200,,end,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jump Ball won by Michigan,29,32,3,600,1200,Michigan Wolverines,jump ball,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen made Three Point Jumper. Assisted by Jordan Hobbs.,29,35,3,581,1181,Michigan Wolverines,three point jumper,True,True,True,Lauren Hansen,True,Jordan Hobbs,29.0,26.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin made Layup. Assisted by Taiyanna Jackson.,31,35,3,568,1168,Kansas Jayhawks,layup,True,True,False,Zakiyah Franklin,True,Taiyanna Jackson,27.0,3.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen Turnover.,31,35,3,560,1160,Michigan Wolverines,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Steal.,31,35,3,560,1160,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Holly Kersgieter.,31,35,3,556,1156,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Turnover.,31,35,3,556,1156,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams missed Jumper.,31,35,3,538,1138,Michigan Wolverines,jumper,True,False,False,Cameron Williams,False,,22.0,6.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Defensive Rebound.,31,35,3,538,1138,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson missed Layup.,31,35,3,515,1115,Kansas Jayhawks,layup,True,False,False,Taiyanna Jackson,False,,24.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs Defensive Rebound.,31,35,3,515,1115,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs made Jumper.,31,37,3,503,1103,Michigan Wolverines,jumper,True,True,False,Jordan Hobbs,False,,30.0,5.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry missed Three Point Jumper.,31,37,3,486,1086,Kansas Jayhawks,three point jumper,True,False,True,Wyvette Mayberry,False,,48.0,-3.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson Offensive Rebound.,31,37,3,486,1086,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson made Layup.,33,37,3,482,1082,Kansas Jayhawks,layup,True,True,False,Taiyanna Jackson,False,,26.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams made Layup. Assisted by Lauren Hansen.,33,39,3,460,1060,Michigan Wolverines,layup,True,True,False,Cameron Williams,True,Lauren Hansen,24.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Elissa Brett.,33,39,3,441,1041,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry made Layup.,35,39,3,431,1031,Kansas Jayhawks,layup,True,True,False,Wyvette Mayberry,False,,23.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams made Layup. Assisted by Laila Phelia.,35,41,3,406,1006,Michigan Wolverines,layup,True,True,False,Cameron Williams,True,Laila Phelia,23.0,4.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on S'Mya Nichols.,35,41,3,383,983,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols Turnover.,35,41,3,383,983,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs Turnover.,35,41,3,368,968,Michigan Wolverines,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson Steal.,35,41,3,368,968,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Jordan Hobbs.,35,41,3,360,960,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin made Free Throw.,36,41,3,360,960,Kansas Jayhawks,free throw,True,True,False,Zakiyah Franklin,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin made Free Throw.,37,41,3,360,960,Kansas Jayhawks,free throw,True,True,False,Zakiyah Franklin,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs missed Jumper.,37,41,3,350,950,Michigan Wolverines,jumper,True,False,False,Jordan Hobbs,False,,21.0,5.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson Defensive Rebound.,37,41,3,350,950,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Cameron Williams.,37,41,3,340,940,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin made Jumper. Assisted by Taiyanna Jackson.,39,41,3,333,933,Kansas Jayhawks,jumper,True,True,False,Zakiyah Franklin,True,Taiyanna Jackson,30.0,3.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen missed Jumper.,39,41,3,311,911,Michigan Wolverines,jumper,True,False,False,Lauren Hansen,False,,22.0,10.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Kansas Defensive Rebound.,39,41,3,311,911,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols missed Three Point Jumper.,39,41,3,300,900,Kansas Jayhawks,three point jumper,True,False,True,S'Mya Nichols,False,,28.0,25.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams Defensive Rebound.,39,41,3,300,900,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines, Official TV Timeout,39,41,3,280,880,,tv timeout,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen missed Three Point Jumper.,39,41,3,273,873,Michigan Wolverines,three point jumper,True,False,True,Lauren Hansen,False,,30.0,28.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Defensive Rebound.,39,41,3,273,873,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry missed Three Point Jumper.,39,41,3,261,861,Kansas Jayhawks,three point jumper,True,False,True,Wyvette Mayberry,False,,48.0,-3.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen Defensive Rebound.,39,41,3,261,861,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen missed Three Point Jumper.,39,41,3,251,851,Michigan Wolverines,three point jumper,True,False,True,Lauren Hansen,False,,19.0,24.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Defensive Rebound.,39,41,3,251,851,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson missed Layup.,39,41,3,233,833,Kansas Jayhawks,layup,True,False,False,Taiyanna Jackson,False,,26.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams Defensive Rebound.,39,41,3,233,833,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Elissa Brett missed Three Point Jumper.,39,41,3,225,825,Michigan Wolverines,three point jumper,True,False,True,Elissa Brett,False,,48.0,-1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams Offensive Rebound.,39,41,3,225,825,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams made Layup. Assisted by Chyra Evans.,39,43,3,204,804,Michigan Wolverines,layup,True,True,False,Cameron Williams,True,Chyra Evans,26.0,4.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter missed Jumper.,39,43,3,180,780,Kansas Jayhawks,jumper,True,False,False,Holly Kersgieter,False,,22.0,17.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia Defensive Rebound.,39,43,3,180,780,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Chyra Evans made Three Point Jumper. Assisted by Lauren Hansen.,39,46,3,166,766,Michigan Wolverines,three point jumper,True,True,True,Chyra Evans,True,Lauren Hansen,48.0,0.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Kansas  Timeout,39,46,3,160,760,Kansas Jayhawks,timeout,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter made Three Point Jumper. Assisted by S'Mya Nichols.,42,46,3,148,748,Kansas Jayhawks,three point jumper,True,True,True,Holly Kersgieter,True,S'Mya Nichols,48.0,0.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams made Layup. Assisted by Elissa Brett.,42,48,3,115,715,Michigan Wolverines,layup,True,True,False,Cameron Williams,True,Elissa Brett,21.0,0.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin missed Three Point Jumper.,42,48,3,94,694,Kansas Jayhawks,three point jumper,True,False,True,Zakiyah Franklin,False,,2.0,0.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Michigan Defensive Rebound.,42,48,3,94,694,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Ryan Cobbins.,42,48,3,74,674,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia made Free Throw.,42,49,3,74,674,Michigan Wolverines,free throw,True,True,False,Laila Phelia,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia missed Free Throw.,42,49,3,74,674,Michigan Wolverines,free throw,True,False,False,Laila Phelia,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin Defensive Rebound.,42,49,3,74,674,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Ryan Cobbins.,42,49,3,50,650,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Ryan Cobbins Turnover.,42,49,3,50,650,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams made Jumper. Assisted by Jordan Hobbs.,42,51,3,40,640,Michigan Wolverines,jumper,True,True,False,Cameron Williams,True,Jordan Hobbs,26.0,6.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Cameron Williams.,42,51,3,15,615,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson made Free Throw.,43,51,3,15,615,Kansas Jayhawks,free throw,True,True,False,Taiyanna Jackson,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson made Free Throw.,44,51,3,15,615,Kansas Jayhawks,free throw,True,True,False,Taiyanna Jackson,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia made Jumper. Assisted by Jordan Hobbs.,44,53,3,5,605,Michigan Wolverines,jumper,True,True,False,Laila Phelia,True,Jordan Hobbs,23.0,7.0
+401637561,Kansas Jayhawks,Michigan Wolverines,End of 3rd Quarter,44,53,3,0,600,,end,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jump Ball won by Kansas,44,53,4,600,600,Kansas Jayhawks,jump ball,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols made Layup.,46,53,4,584,584,Kansas Jayhawks,layup,True,True,False,S'Mya Nichols,False,,27.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia missed Jumper.,46,53,4,569,569,Michigan Wolverines,jumper,True,False,False,Laila Phelia,False,,18.0,6.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Ryan Cobbins Defensive Rebound.,46,53,4,569,569,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin missed Three Point Jumper.,46,53,4,552,552,Kansas Jayhawks,three point jumper,True,False,True,Zakiyah Franklin,False,,48.0,-3.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Chyra Evans Defensive Rebound.,46,53,4,552,552,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen made Layup.,46,55,4,543,543,Michigan Wolverines,layup,True,True,False,Lauren Hansen,False,,26.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols missed Layup.,46,55,4,533,533,Kansas Jayhawks,layup,True,False,False,S'Mya Nichols,False,,27.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs Defensive Rebound.,46,55,4,533,533,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen missed Three Point Jumper.,46,55,4,526,526,Michigan Wolverines,three point jumper,True,False,True,Lauren Hansen,False,,44.0,14.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Kansas Deadball Team Rebound.,46,55,4,526,526,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Cameron Williams.,46,55,4,522,522,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson missed Layup.,46,55,4,498,498,Kansas Jayhawks,layup,True,False,False,Taiyanna Jackson,False,,27.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Elissa Brett Defensive Rebound.,46,55,4,498,498,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia Turnover.,46,55,4,490,490,Michigan Wolverines,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Steal.,46,55,4,490,490,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter made Layup.,48,55,4,485,485,Kansas Jayhawks,layup,True,True,False,Holly Kersgieter,False,,25.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs made Jumper.,48,57,4,451,451,Michigan Wolverines,jumper,True,True,False,Jordan Hobbs,False,,15.0,0.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Cameron Williams.,48,57,4,435,435,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols missed Layup.,48,57,4,423,423,Kansas Jayhawks,layup,True,False,False,S'Mya Nichols,False,,23.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols Offensive Rebound.,48,57,4,423,423,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols Turnover.,48,57,4,420,420,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Ryan Cobbins.,48,57,4,401,401,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia made Free Throw.,48,58,4,401,401,Michigan Wolverines,free throw,True,True,False,Laila Phelia,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia missed Free Throw.,48,58,4,401,401,Michigan Wolverines,free throw,True,False,False,Laila Phelia,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Defensive Rebound.,48,58,4,401,401,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin made Layup.,50,58,4,386,386,Kansas Jayhawks,layup,True,True,False,Zakiyah Franklin,False,,27.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Chyra Evans made Layup. Assisted by Lauren Hansen.,50,60,4,367,367,Michigan Wolverines,layup,True,True,False,Chyra Evans,True,Lauren Hansen,24.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Chyra Evans.,50,60,4,347,347,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols made Free Throw.,51,60,4,347,347,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols made Free Throw.,52,60,4,347,347,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia Turnover.,52,60,4,335,335,Michigan Wolverines,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Michigan  Timeout,52,60,4,335,335,Michigan Wolverines,timeout,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson made Layup. Assisted by S'Mya Nichols.,54,60,4,329,329,Kansas Jayhawks,layup,True,True,False,Taiyanna Jackson,True,S'Mya Nichols,25.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs missed Jumper.,54,60,4,304,304,Michigan Wolverines,jumper,True,False,False,Jordan Hobbs,False,,33.0,5.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin Defensive Rebound.,54,60,4,304,304,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Chyra Evans.,54,60,4,284,284,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry made Free Throw.,55,60,4,284,284,Kansas Jayhawks,free throw,True,True,False,Wyvette Mayberry,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry made Free Throw.,56,60,4,284,284,Kansas Jayhawks,free throw,True,True,False,Wyvette Mayberry,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia made Layup.,56,62,4,272,272,Michigan Wolverines,layup,True,True,False,Laila Phelia,False,,26.0,0.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry made Three Point Jumper. Assisted by Zakiyah Franklin.,59,62,4,239,239,Kansas Jayhawks,three point jumper,True,True,True,Wyvette Mayberry,True,Zakiyah Franklin,20.0,24.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Elissa Brett made Three Point Jumper. Assisted by Chyra Evans.,59,65,4,217,217,Michigan Wolverines,three point jumper,True,True,True,Elissa Brett,True,Chyra Evans,22.0,25.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Elissa Brett.,59,65,4,198,198,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols made Free Throw.,60,65,4,198,198,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols made Free Throw.,61,65,4,198,198,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia missed Jumper.,61,65,4,177,177,Michigan Wolverines,jumper,True,False,False,Laila Phelia,False,,24.0,8.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Defensive Rebound.,61,65,4,177,177,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter missed Layup.,61,65,4,156,156,Kansas Jayhawks,layup,True,False,False,Holly Kersgieter,False,,27.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson Offensive Rebound.,61,65,4,156,156,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Elissa Brett.,61,65,4,153,153,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson made Free Throw.,62,65,4,153,153,Kansas Jayhawks,free throw,True,True,False,Taiyanna Jackson,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson missed Free Throw.,62,65,4,153,153,Kansas Jayhawks,free throw,True,False,False,Taiyanna Jackson,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams Defensive Rebound.,62,65,4,153,153,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Michigan  Timeout,62,65,4,135,135,Michigan Wolverines,timeout,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia made Layup. Assisted by Elissa Brett.,62,67,4,127,127,Michigan Wolverines,layup,True,True,False,Laila Phelia,True,Elissa Brett,25.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Kansas  Timeout,62,67,4,117,117,Kansas Jayhawks,timeout,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson made Layup. Assisted by S'Mya Nichols.,64,67,4,115,115,Kansas Jayhawks,layup,True,True,False,Taiyanna Jackson,True,S'Mya Nichols,23.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Laila Phelia.,64,67,4,75,75,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia Turnover.,64,67,4,75,75,Michigan Wolverines,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on S'Mya Nichols.,64,67,4,56,56,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols Turnover.,64,67,4,56,56,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Michigan  Timeout,64,67,4,56,56,Michigan Wolverines,timeout,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Wyvette Mayberry.,64,67,4,39,39,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia missed Jumper.,64,67,4,17,17,Michigan Wolverines,jumper,True,False,False,Laila Phelia,False,,27.0,8.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Michigan Deadball Team Rebound.,64,67,4,17,17,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Michigan  Turnover.,64,67,4,17,17,Michigan Wolverines,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Kansas  Timeout,64,67,4,17,17,Kansas Jayhawks,timeout,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin made Three Point Jumper. Assisted by S'Mya Nichols.,67,67,4,12,12,Kansas Jayhawks,three point jumper,True,True,True,Zakiyah Franklin,True,S'Mya Nichols,46.0,10.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Michigan  Timeout,67,67,4,12,12,Michigan Wolverines,timeout,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Taiyanna Jackson.,67,67,4,7,7,Kansas Jayhawks,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen missed Three Point Jumper.,67,67,4,2,2,Michigan Wolverines,three point jumper,True,False,True,Lauren Hansen,False,,19.0,24.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Michigan Deadball Team Rebound.,67,67,4,2,2,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,End of 4th Quarter,67,67,4,0,0,,end,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jump Ball won by Kansas,67,67,5,300,300,Kansas Jayhawks,jump ball,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson made Layup. Assisted by Wyvette Mayberry.,69,67,5,290,290,Kansas Jayhawks,layup,True,True,False,Taiyanna Jackson,True,Wyvette Mayberry,25.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Cameron Williams missed Layup.,69,67,5,274,274,Michigan Wolverines,layup,True,False,False,Cameron Williams,False,,21.0,0.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson Defensive Rebound.,69,67,5,274,274,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter made Layup. Assisted by Wyvette Mayberry.,71,67,5,264,264,Kansas Jayhawks,layup,True,True,False,Holly Kersgieter,True,Wyvette Mayberry,25.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia missed Jumper.,71,67,5,236,236,Michigan Wolverines,jumper,True,False,False,Laila Phelia,False,,22.0,10.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin Defensive Rebound.,71,67,5,236,236,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Cameron Williams.,71,67,5,209,209,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson missed Free Throw.,71,67,5,209,209,Kansas Jayhawks,free throw,True,False,False,Taiyanna Jackson,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Kansas Deadball Team Rebound.,71,67,5,209,209,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson made Free Throw.,72,67,5,209,209,Kansas Jayhawks,free throw,True,True,False,Taiyanna Jackson,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen made Jumper.,72,69,5,188,188,Michigan Wolverines,jumper,True,True,False,Lauren Hansen,False,,43.0,6.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin made Layup.,74,69,5,166,166,Kansas Jayhawks,layup,True,True,False,Zakiyah Franklin,False,,27.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Elissa Brett missed Three Point Jumper.,74,69,5,148,148,Michigan Wolverines,three point jumper,True,False,True,Elissa Brett,False,,48.0,-1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter Defensive Rebound.,74,69,5,148,148,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols Turnover.,74,69,5,120,120,Kansas Jayhawks,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs Turnover.,74,69,5,111,111,Michigan Wolverines,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Holly Kersgieter missed Three Point Jumper.,74,69,5,107,107,Kansas Jayhawks,three point jumper,True,False,True,Holly Kersgieter,False,,48.0,-3.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs Defensive Rebound.,74,69,5,107,107,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia missed Layup.,74,69,5,95,95,Michigan Wolverines,layup,True,False,False,Laila Phelia,False,,22.0,2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson Block.,74,69,5,95,95,Kansas Jayhawks,block,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson Defensive Rebound.,74,69,5,95,95,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Chyra Evans.,74,69,5,91,91,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson missed Free Throw.,74,69,5,91,91,Kansas Jayhawks,free throw,True,False,False,Taiyanna Jackson,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Kansas Deadball Team Rebound.,74,69,5,91,91,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson made Free Throw.,75,69,5,91,91,Kansas Jayhawks,free throw,True,True,False,Taiyanna Jackson,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Elissa Brett missed Three Point Jumper.,75,69,5,85,85,Michigan Wolverines,three point jumper,True,False,True,Elissa Brett,False,,33.0,25.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Laila Phelia Offensive Rebound.,75,69,5,85,85,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen made Three Point Jumper. Assisted by Laila Phelia.,75,72,5,81,81,Michigan Wolverines,three point jumper,True,True,True,Lauren Hansen,True,Laila Phelia,48.0,-2.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Zakiyah Franklin missed Jumper.,75,72,5,50,50,Kansas Jayhawks,jumper,True,False,False,Zakiyah Franklin,False,,28.0,6.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Taiyanna Jackson Offensive Rebound.,75,72,5,50,50,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols made Layup.,77,72,5,25,25,Kansas Jayhawks,layup,True,True,False,S'Mya Nichols,False,,23.0,1.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Chyra Evans.,77,72,5,25,25,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols made Free Throw.,78,72,5,25,25,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Michigan  Timeout,78,72,5,25,25,Michigan Wolverines,timeout,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs Turnover.,78,72,5,23,23,Michigan Wolverines,turnover,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Wyvette Mayberry Steal.,78,72,5,23,23,Kansas Jayhawks,steal,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Elise Stuck.,78,72,5,19,19,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols made Free Throw.,79,72,5,19,19,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols missed Free Throw.,79,72,5,19,19,Kansas Jayhawks,free throw,True,False,False,S'Mya Nichols,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs Defensive Rebound.,79,72,5,19,19,Michigan Wolverines,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Jordan Hobbs missed Three Point Jumper.,79,72,5,17,17,Michigan Wolverines,three point jumper,True,False,True,Jordan Hobbs,False,,23.0,25.0
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols Defensive Rebound.,79,72,5,17,17,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Foul on Jordan Hobbs.,79,72,5,11,11,Michigan Wolverines,foul,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols made Free Throw.,80,72,5,11,11,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,S'Mya Nichols made Free Throw.,81,72,5,11,11,Kansas Jayhawks,free throw,True,True,False,S'Mya Nichols,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,Lauren Hansen missed Three Point Jumper.,81,72,5,6,6,Michigan Wolverines,three point jumper,True,False,True,Lauren Hansen,False,,48.0,5.0
+401637561,Kansas Jayhawks,Michigan Wolverines,Kansas Defensive Rebound.,81,72,5,6,6,Kansas Jayhawks,rebound,False,False,False,,False,,,
+401637561,Kansas Jayhawks,Michigan Wolverines,End of Game,81,72,5,0,0,,end,False,False,False,,False,,,

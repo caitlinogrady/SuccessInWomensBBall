@@ -1,0 +1,372 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Jump Ball won by South Carolina,0,0,1,600,2400,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Indya Nivar.,0,0,1,596,2396,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins missed Free Throw.,0,0,1,596,2396,South Carolina Gamecocks,free throw,True,False,False,Ashlyn Watkins,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina Deadball Team Rebound.,0,0,1,596,2396,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins made Free Throw.,1,0,1,596,2396,South Carolina Gamecocks,free throw,True,True,False,Ashlyn Watkins,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Turnover.,1,0,1,582,2382,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson Steal.,1,0,1,582,2382,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins Turnover.,1,0,1,571,2371,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Deja Kelly.,1,0,1,551,2351,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly Turnover.,1,0,1,551,2351,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Bree Hall Turnover.,1,0,1,532,2332,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Jumper.,1,0,1,514,2314,North Carolina Tar Heels,jumper,True,False,False,Alyssa Ustby,False,,19.0,7.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng Offensive Rebound.,1,0,1,514,2314,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar made Jumper.,1,2,1,497,2297,North Carolina Tar Heels,jumper,True,True,False,Indya Nivar,False,,36.0,8.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Maria Gakdeng.,1,2,1,487,2287,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao missed Three Point Jumper.,1,2,1,483,2283,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,48.0,0.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso Offensive Rebound.,1,2,1,483,2283,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso made Layup.,3,2,1,477,2277,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,False,,23.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Raven Johnson.,3,2,1,463,2263,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Jumper.,3,2,1,459,2259,North Carolina Tar Heels,jumper,True,False,False,Alyssa Ustby,False,,20.0,5.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins Defensive Rebound.,3,2,1,459,2259,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso missed Layup.,3,2,1,446,2246,South Carolina Gamecocks,layup,True,False,False,Kamilla Cardoso,False,,28.0,3.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,North Carolina Defensive Rebound.,3,2,1,446,2246,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar missed Three Point Jumper.,3,2,1,420,2220,North Carolina Tar Heels,three point jumper,True,False,True,Indya Nivar,False,,13.0,25.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng Offensive Rebound.,3,2,1,420,2220,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Three Point Jumper.,3,2,1,414,2214,North Carolina Tar Heels,three point jumper,True,False,True,Lexi Donarski,False,,44.0,18.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Bree Hall Defensive Rebound.,3,2,1,414,2214,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson missed Jumper.,3,2,1,397,2197,South Carolina Gamecocks,jumper,True,False,False,Raven Johnson,False,,22.0,13.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng Block.,3,2,1,397,2197,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson Offensive Rebound.,3,2,1,397,2197,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson missed Layup.,3,2,1,391,2191,South Carolina Gamecocks,layup,True,False,False,Raven Johnson,False,,23.0,2.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso Offensive Rebound.,3,2,1,391,2191,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins made Two Point Tip Shot.,5,2,1,391,2191,South Carolina Gamecocks,two point tip shot,True,True,False,Ashlyn Watkins,False,,25.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly Turnover.,5,2,1,377,2177,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson Steal.,5,2,1,377,2177,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso made Layup. Assisted by Raven Johnson.,7,2,1,371,2171,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Raven Johnson,23.0,3.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng made Jumper.,7,4,1,353,2153,North Carolina Tar Heels,jumper,True,True,False,Maria Gakdeng,False,,24.0,5.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins missed Jumper.,7,4,1,335,2135,South Carolina Gamecocks,jumper,True,False,False,Ashlyn Watkins,False,,31.0,3.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski Defensive Rebound.,7,4,1,335,2135,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar missed Layup.,7,4,1,328,2128,North Carolina Tar Heels,layup,True,False,False,Indya Nivar,False,,23.0,3.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Bree Hall Block.,7,4,1,328,2128,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina Defensive Rebound.,7,4,1,328,2128,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Chloe Kitts made Jumper.,9,4,1,301,2101,South Carolina Gamecocks,jumper,True,True,False,Chloe Kitts,False,,33.0,13.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Turnover.,9,4,1,294,2094,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso Steal.,9,4,1,294,2094,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Chloe Kitts.,9,4,1,286,2086,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Chloe Kitts Turnover.,9,4,1,286,2086,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels, Official TV Timeout,9,4,1,286,2086,,tv timeout,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Layup.,9,4,1,271,2071,North Carolina Tar Heels,layup,True,False,False,Alyssa Ustby,False,,28.0,0.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Offensive Rebound.,9,4,1,271,2071,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly Turnover.,9,4,1,263,2063,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Steal.,9,4,1,263,2063,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley made Layup.,11,4,1,257,2057,South Carolina Gamecocks,layup,True,True,False,MiLaysia Fulwiley,False,,27.0,2.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly missed Jumper.,11,4,1,249,2049,North Carolina Tar Heels,jumper,True,False,False,Deja Kelly,False,,28.0,13.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso Defensive Rebound.,11,4,1,249,2049,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Chloe Kitts missed Layup.,11,4,1,230,2030,South Carolina Gamecocks,layup,True,False,False,Chloe Kitts,False,,20.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Block.,11,4,1,230,2030,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng Defensive Rebound.,11,4,1,230,2030,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby made Jumper.,11,6,1,213,2013,North Carolina Tar Heels,jumper,True,True,False,Alyssa Ustby,False,,28.0,9.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Maria Gakdeng.,11,6,1,195,1995,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso made Free Throw.,12,6,1,195,1995,South Carolina Gamecocks,free throw,True,True,False,Kamilla Cardoso,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso made Free Throw.,13,6,1,195,1995,South Carolina Gamecocks,free throw,True,True,False,Kamilla Cardoso,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly made Jumper.,13,8,1,180,1980,North Carolina Tar Heels,jumper,True,True,False,Deja Kelly,False,,29.0,18.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Chloe Kitts made Layup. Assisted by Sania Feagin.,15,8,1,163,1963,South Carolina Gamecocks,layup,True,True,False,Chloe Kitts,True,Sania Feagin,22.0,0.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on MiLaysia Fulwiley.,15,8,1,157,1957,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Jumper.,15,8,1,152,1952,North Carolina Tar Heels,jumper,True,False,False,Lexi Donarski,False,,19.0,9.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao Defensive Rebound.,15,8,1,152,1952,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Tessa Johnson made Three Point Jumper. Assisted by Chloe Kitts.,18,8,1,136,1936,South Carolina Gamecocks,three point jumper,True,True,True,Tessa Johnson,True,Chloe Kitts,11.0,20.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Teonni Key missed Three Point Jumper.,18,8,1,121,1921,North Carolina Tar Heels,three point jumper,True,False,True,Teonni Key,False,,34.0,22.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Chloe Kitts Defensive Rebound.,18,8,1,121,1921,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Tessa Johnson made Three Point Jumper. Assisted by Te-Hina Paopao.,21,8,1,106,1906,South Carolina Gamecocks,three point jumper,True,True,True,Tessa Johnson,True,Te-Hina Paopao,4.0,10.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Jumper.,21,8,1,85,1885,North Carolina Tar Heels,jumper,True,False,False,Alyssa Ustby,False,,15.0,4.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,North Carolina Offensive Rebound.,21,8,1,85,1885,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly missed Jumper.,21,8,1,82,1882,North Carolina Tar Heels,jumper,True,False,False,Deja Kelly,False,,39.0,2.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Block.,21,8,1,82,1882,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Defensive Rebound.,21,8,1,82,1882,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley missed Layup.,21,8,1,74,1874,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,26.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alexandra Zelaya Block.,21,8,1,74,1874,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Offensive Rebound.,21,8,1,74,1874,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley made Three Point Jumper. Assisted by Bree Hall.,24,8,1,70,1870,South Carolina Gamecocks,three point jumper,True,True,True,MiLaysia Fulwiley,True,Bree Hall,48.0,0.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,North Carolina  Timeout,24,8,1,69,1869,North Carolina Tar Heels,timeout,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels, Official TV Timeout,24,8,1,69,1869,,tv timeout,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Jumper.,24,8,1,56,1856,North Carolina Tar Heels,jumper,True,False,False,Lexi Donarski,False,,21.0,11.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin Defensive Rebound.,24,8,1,56,1856,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Lexi Donarski.,24,8,1,49,1849,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Chloe Kitts made Free Throw.,25,8,1,49,1849,South Carolina Gamecocks,free throw,True,True,False,Chloe Kitts,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Chloe Kitts made Free Throw.,26,8,1,49,1849,South Carolina Gamecocks,free throw,True,True,False,Chloe Kitts,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly Turnover.,26,8,1,31,1831,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Steal.,26,8,1,31,1831,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Bree Hall made Layup. Assisted by MiLaysia Fulwiley.,28,8,1,25,1825,South Carolina Gamecocks,layup,True,True,False,Bree Hall,True,MiLaysia Fulwiley,22.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alexandra Zelaya missed Jumper.,28,8,1,0,1800,North Carolina Tar Heels,jumper,True,False,False,Alexandra Zelaya,False,,35.0,20.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Chloe Kitts Block.,28,8,1,0,1800,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,North Carolina Deadball Team Rebound.,28,8,1,0,1800,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,End of 1st Quarter,28,8,1,0,1800,,end,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Jump Ball won by North Carolina,28,8,2,600,1800,North Carolina Tar Heels,jump ball,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Alexandra Zelaya.,28,8,2,586,1786,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alexandra Zelaya Turnover.,28,8,2,586,1786,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins missed Layup.,28,8,2,569,1769,South Carolina Gamecocks,layup,True,False,False,Ashlyn Watkins,False,,24.0,2.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly Defensive Rebound.,28,8,2,569,1769,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Turnover.,28,8,2,560,1760,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins Steal.,28,8,2,560,1760,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Tessa Johnson made Three Point Jumper. Assisted by Bree Hall.,31,8,2,554,1754,South Carolina Gamecocks,three point jumper,True,True,True,Tessa Johnson,True,Bree Hall,6.0,15.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Sania Feagin.,31,8,2,529,1729,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly missed Jumper.,31,8,2,522,1722,North Carolina Tar Heels,jumper,True,False,False,Deja Kelly,False,,16.0,10.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng Offensive Rebound.,31,8,2,522,1722,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly missed Three Point Jumper.,31,8,2,513,1713,North Carolina Tar Heels,three point jumper,True,False,True,Deja Kelly,False,,7.0,18.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Offensive Rebound.,31,8,2,513,1713,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly missed Jumper.,31,8,2,503,1703,North Carolina Tar Heels,jumper,True,False,False,Deja Kelly,False,,20.0,3.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Tessa Johnson Defensive Rebound.,31,8,2,503,1703,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Bree Hall missed Three Point Jumper.,31,8,2,485,1685,South Carolina Gamecocks,three point jumper,True,False,True,Bree Hall,False,,21.0,24.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,North Carolina Defensive Rebound.,31,8,2,485,1685,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Ashlyn Watkins.,31,8,2,464,1664,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby made Free Throw.,31,9,2,464,1664,North Carolina Tar Heels,free throw,True,True,False,Alyssa Ustby,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Free Throw.,31,9,2,464,1664,North Carolina Tar Heels,free throw,True,False,False,Alyssa Ustby,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso Defensive Rebound.,31,9,2,464,1664,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Deja Kelly.,31,9,2,445,1645,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Bree Hall missed Free Throw.,31,9,2,445,1645,South Carolina Gamecocks,free throw,True,False,False,Bree Hall,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina Deadball Team Rebound.,31,9,2,445,1645,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Bree Hall made Free Throw.,32,9,2,445,1645,South Carolina Gamecocks,free throw,True,True,False,Bree Hall,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Kamilla Cardoso.,32,9,2,422,1622,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski made Free Throw.,32,10,2,422,1622,North Carolina Tar Heels,free throw,True,True,False,Lexi Donarski,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Free Throw.,32,10,2,422,1622,North Carolina Tar Heels,free throw,True,False,False,Lexi Donarski,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins Defensive Rebound.,32,10,2,422,1622,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao Turnover.,32,10,2,413,1613,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Steal.,32,10,2,413,1613,North Carolina Tar Heels,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Turnover.,32,10,2,408,1608,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins Steal.,32,10,2,408,1608,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Maria Gakdeng.,32,10,2,393,1593,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Tessa Johnson made Free Throw.,33,10,2,393,1593,South Carolina Gamecocks,free throw,True,True,False,Tessa Johnson,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Tessa Johnson made Free Throw.,34,10,2,393,1593,South Carolina Gamecocks,free throw,True,True,False,Tessa Johnson,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar missed Jumper.,34,10,2,379,1579,North Carolina Tar Heels,jumper,True,False,False,Indya Nivar,False,,8.0,2.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso Defensive Rebound.,34,10,2,379,1579,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso made Layup. Assisted by Te-Hina Paopao.,36,10,2,361,1561,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Te-Hina Paopao,27.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Jumper.,36,10,2,346,1546,North Carolina Tar Heels,jumper,True,False,False,Alyssa Ustby,False,,20.0,7.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins Defensive Rebound.,36,10,2,346,1546,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins made Layup. Assisted by Te-Hina Paopao.,38,10,2,330,1530,South Carolina Gamecocks,layup,True,True,False,Ashlyn Watkins,True,Te-Hina Paopao,22.0,0.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Jumper.,38,10,2,304,1504,North Carolina Tar Heels,jumper,True,False,False,Alyssa Ustby,False,,21.0,4.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso Defensive Rebound.,38,10,2,304,1504,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao made Three Point Jumper. Assisted by Ashlyn Watkins.,41,10,2,290,1490,South Carolina Gamecocks,three point jumper,True,True,True,Te-Hina Paopao,True,Ashlyn Watkins,15.0,23.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Teonni Key missed Layup.,41,10,2,271,1471,North Carolina Tar Heels,layup,True,False,False,Teonni Key,False,,27.0,3.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins Block.,41,10,2,271,1471,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Defensive Rebound.,41,10,2,271,1471,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao missed Layup.,41,10,2,261,1461,South Carolina Gamecocks,layup,True,False,False,Te-Hina Paopao,False,,25.0,2.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins Offensive Rebound.,41,10,2,261,1461,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins missed Two Point Tip Shot.,41,10,2,261,1461,South Carolina Gamecocks,two point tip shot,True,False,False,Ashlyn Watkins,False,,25.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson Offensive Rebound.,41,10,2,261,1461,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson made Two Point Tip Shot.,43,10,2,261,1461,South Carolina Gamecocks,two point tip shot,True,True,False,Raven Johnson,False,,25.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar made Three Point Jumper.,43,13,2,245,1445,North Carolina Tar Heels,three point jumper,True,True,True,Indya Nivar,False,,41.0,18.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao missed Jumper.,43,13,2,238,1438,South Carolina Gamecocks,jumper,True,False,False,Te-Hina Paopao,False,,16.0,10.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Anya Poole Defensive Rebound.,43,13,2,238,1438,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Ashlyn Watkins.,43,13,2,238,1438,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels, Official TV Timeout,43,13,2,238,1438,,tv timeout,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Three Point Jumper.,43,13,2,226,1426,North Carolina Tar Heels,three point jumper,True,False,True,Lexi Donarski,False,,11.0,21.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Defensive Rebound.,43,13,2,226,1426,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Anya Poole.,43,13,2,215,1415,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Chloe Kitts made Free Throw.,44,13,2,215,1415,South Carolina Gamecocks,free throw,True,True,False,Chloe Kitts,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Chloe Kitts made Free Throw.,45,13,2,215,1415,South Carolina Gamecocks,free throw,True,True,False,Chloe Kitts,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly Turnover.,45,13,2,204,1404,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Bree Hall Steal.,45,13,2,204,1404,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Chloe Kitts made Jumper. Assisted by Te-Hina Paopao.,47,13,2,191,1391,South Carolina Gamecocks,jumper,True,True,False,Chloe Kitts,True,Te-Hina Paopao,24.0,15.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar missed Layup.,47,13,2,180,1380,North Carolina Tar Heels,layup,True,False,False,Indya Nivar,False,,22.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Bree Hall Defensive Rebound.,47,13,2,180,1380,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley made Three Point Jumper. Assisted by Bree Hall.,50,13,2,172,1372,South Carolina Gamecocks,three point jumper,True,True,True,MiLaysia Fulwiley,True,Bree Hall,45.0,14.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Jumper.,50,13,2,160,1360,North Carolina Tar Heels,jumper,True,False,False,Lexi Donarski,False,,28.0,17.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina Defensive Rebound.,50,13,2,160,1360,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao made Three Point Jumper. Assisted by Bree Hall.,53,13,2,137,1337,South Carolina Gamecocks,three point jumper,True,True,True,Te-Hina Paopao,True,Bree Hall,46.0,17.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Bree Hall.,53,13,2,120,1320,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Free Throw.,53,13,2,120,1320,North Carolina Tar Heels,free throw,True,False,False,Alyssa Ustby,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,North Carolina Deadball Team Rebound.,53,13,2,120,1320,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby made Free Throw.,53,14,2,120,1320,North Carolina Tar Heels,free throw,True,True,False,Alyssa Ustby,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley made Three Point Jumper. Assisted by Te-Hina Paopao.,56,14,2,113,1313,South Carolina Gamecocks,three point jumper,True,True,True,MiLaysia Fulwiley,True,Te-Hina Paopao,3.0,10.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on MiLaysia Fulwiley.,56,14,2,100,1300,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly missed Free Throw.,56,14,2,100,1300,North Carolina Tar Heels,free throw,True,False,False,Deja Kelly,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,North Carolina Deadball Team Rebound.,56,14,2,100,1300,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly made Free Throw.,56,15,2,100,1300,North Carolina Tar Heels,free throw,True,True,False,Deja Kelly,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao Turnover.,56,15,2,83,1283,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng made Layup. Assisted by Teonni Key.,56,17,2,71,1271,North Carolina Tar Heels,layup,True,True,False,Maria Gakdeng,True,Teonni Key,23.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin missed Jumper.,56,17,2,53,1253,South Carolina Gamecocks,jumper,True,False,False,Sania Feagin,False,,19.0,14.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Defensive Rebound.,56,17,2,53,1253,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Three Point Jumper.,56,17,2,46,1246,North Carolina Tar Heels,three point jumper,True,False,True,Lexi Donarski,False,,47.0,10.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Offensive Rebound.,56,17,2,46,1246,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng Turnover.,56,17,2,37,1237,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Bree Hall Turnover.,56,17,2,17,1217,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Steal.,56,17,2,17,1217,North Carolina Tar Heels,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby made Jumper.,56,19,2,7,1207,North Carolina Tar Heels,jumper,True,True,False,Alyssa Ustby,False,,23.0,8.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,End of 2nd Quarter,56,19,2,0,1200,,end,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Jump Ball won by North Carolina,56,19,3,600,1200,North Carolina Tar Heels,jump ball,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng made Jumper. Assisted by Lexi Donarski.,56,21,3,590,1190,North Carolina Tar Heels,jumper,True,True,False,Maria Gakdeng,True,Lexi Donarski,24.0,6.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins missed Jumper.,56,21,3,561,1161,South Carolina Gamecocks,jumper,True,False,False,Ashlyn Watkins,False,,19.0,3.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson Offensive Rebound.,56,21,3,561,1161,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson missed Jumper.,56,21,3,556,1156,South Carolina Gamecocks,jumper,True,False,False,Raven Johnson,False,,27.0,4.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina Offensive Rebound.,56,21,3,556,1156,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins made Layup.,58,21,3,542,1142,South Carolina Gamecocks,layup,True,True,False,Ashlyn Watkins,False,,26.0,4.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby made Jumper.,58,23,3,514,1114,North Carolina Tar Heels,jumper,True,True,False,Alyssa Ustby,False,,22.0,5.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Alyssa Ustby.,58,23,3,502,1102,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso made Free Throw.,59,23,3,502,1102,South Carolina Gamecocks,free throw,True,True,False,Kamilla Cardoso,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso made Free Throw.,60,23,3,502,1102,South Carolina Gamecocks,free throw,True,True,False,Kamilla Cardoso,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar Turnover.,60,23,3,484,1084,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao Steal.,60,23,3,484,1084,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins missed Jumper.,60,23,3,476,1076,South Carolina Gamecocks,jumper,True,False,False,Ashlyn Watkins,False,,19.0,3.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso Offensive Rebound.,60,23,3,476,1076,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins missed Layup.,60,23,3,473,1073,South Carolina Gamecocks,layup,True,False,False,Ashlyn Watkins,False,,23.0,2.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski Defensive Rebound.,60,23,3,473,1073,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby made Layup. Assisted by Indya Nivar.,60,25,3,446,1046,North Carolina Tar Heels,layup,True,True,False,Alyssa Ustby,True,Indya Nivar,22.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Bree Hall missed Three Point Jumper.,60,25,3,441,1041,South Carolina Gamecocks,three point jumper,True,False,True,Bree Hall,False,,49.0,3.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar Defensive Rebound.,60,25,3,441,1041,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly missed Three Point Jumper.,60,25,3,430,1030,North Carolina Tar Heels,three point jumper,True,False,True,Deja Kelly,False,,3.0,8.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski Offensive Rebound.,60,25,3,430,1030,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Jumper.,60,25,3,419,1019,North Carolina Tar Heels,jumper,True,False,False,Alyssa Ustby,False,,30.0,5.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins Block.,60,25,3,419,1019,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Offensive Rebound.,60,25,3,419,1019,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Layup.,60,25,3,413,1013,North Carolina Tar Heels,layup,True,False,False,Alyssa Ustby,False,,27.0,3.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson Defensive Rebound.,60,25,3,413,1013,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Lexi Donarski.,60,25,3,410,1010,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Bree Hall missed Free Throw.,60,25,3,410,1010,South Carolina Gamecocks,free throw,True,False,False,Bree Hall,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina Deadball Team Rebound.,60,25,3,410,1010,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Bree Hall made Free Throw.,61,25,3,410,1010,South Carolina Gamecocks,free throw,True,True,False,Bree Hall,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Jumper.,61,25,3,392,992,North Carolina Tar Heels,jumper,True,False,False,Alyssa Ustby,False,,31.0,6.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao Defensive Rebound.,61,25,3,392,992,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso missed Layup.,61,25,3,387,987,South Carolina Gamecocks,layup,True,False,False,Kamilla Cardoso,False,,28.0,0.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng Block.,61,25,3,387,987,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar Defensive Rebound.,61,25,3,387,987,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Three Point Jumper.,61,25,3,381,981,North Carolina Tar Heels,three point jumper,True,False,True,Lexi Donarski,False,,2.0,6.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng Offensive Rebound.,61,25,3,381,981,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly missed Three Point Jumper.,61,25,3,376,976,North Carolina Tar Heels,three point jumper,True,False,True,Deja Kelly,False,,29.0,24.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson Defensive Rebound.,61,25,3,376,976,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins made Layup. Assisted by Kamilla Cardoso.,63,25,3,353,953,South Carolina Gamecocks,layup,True,True,False,Ashlyn Watkins,True,Kamilla Cardoso,23.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar Turnover.,63,25,3,343,943,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso Steal.,63,25,3,343,943,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson Turnover.,63,25,3,339,939,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Chloe Kitts.,63,25,3,329,929,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski made Three Point Jumper. Assisted by Deja Kelly.,63,28,3,314,914,North Carolina Tar Heels,three point jumper,True,True,True,Lexi Donarski,True,Deja Kelly,7.0,18.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin missed Layup.,63,28,3,295,895,South Carolina Gamecocks,layup,True,False,False,Sania Feagin,False,,22.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng Defensive Rebound.,63,28,3,295,895,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar made Layup.,63,30,3,283,883,North Carolina Tar Heels,layup,True,True,False,Indya Nivar,False,,29.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao made Jumper.,65,30,3,267,867,South Carolina Gamecocks,jumper,True,True,False,Te-Hina Paopao,False,,39.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar Turnover.,65,30,3,247,847,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels, Official TV Timeout,65,30,3,247,847,,tv timeout,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin missed Layup.,65,30,3,228,828,South Carolina Gamecocks,layup,True,False,False,Sania Feagin,False,,30.0,0.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng Block.,65,30,3,228,828,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina Offensive Rebound.,65,30,3,228,828,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Tessa Johnson missed Jumper.,65,30,3,224,824,South Carolina Gamecocks,jumper,True,False,False,Tessa Johnson,False,,38.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Teonni Key Defensive Rebound.,65,30,3,224,824,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Jumper.,65,30,3,212,812,North Carolina Tar Heels,jumper,True,False,False,Lexi Donarski,False,,19.0,16.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Teonni Key Offensive Rebound.,65,30,3,212,812,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Three Point Jumper.,65,30,3,207,807,North Carolina Tar Heels,three point jumper,True,False,True,Lexi Donarski,False,,30.0,26.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Block.,65,30,3,207,807,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly Offensive Rebound.,65,30,3,207,807,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski made Three Point Jumper. Assisted by Deja Kelly.,65,33,3,198,798,North Carolina Tar Heels,three point jumper,True,True,True,Lexi Donarski,True,Deja Kelly,23.0,24.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Teonni Key.,65,33,3,193,793,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson Turnover.,65,33,3,188,788,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng Steal.,65,33,3,188,788,North Carolina Tar Heels,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on MiLaysia Fulwiley.,65,33,3,182,782,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Free Throw.,65,33,3,182,782,North Carolina Tar Heels,free throw,True,False,False,Alyssa Ustby,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,North Carolina Deadball Team Rebound.,65,33,3,182,782,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby made Free Throw.,65,34,3,182,782,North Carolina Tar Heels,free throw,True,True,False,Alyssa Ustby,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley missed Layup.,65,34,3,166,766,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,30.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Defensive Rebound.,65,34,3,166,766,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Chloe Kitts.,65,34,3,149,749,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Jumper.,65,34,3,133,733,North Carolina Tar Heels,jumper,True,False,False,Alyssa Ustby,False,,26.0,8.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina Defensive Rebound.,65,34,3,133,733,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley missed Three Point Jumper.,65,34,3,121,721,South Carolina Gamecocks,three point jumper,True,False,True,MiLaysia Fulwiley,False,,2.0,4.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso Offensive Rebound.,65,34,3,121,721,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso missed Layup.,65,34,3,111,711,South Carolina Gamecocks,layup,True,False,False,Kamilla Cardoso,False,,29.0,3.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Teonni Key Defensive Rebound.,65,34,3,111,711,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng missed Jumper.,65,34,3,83,683,North Carolina Tar Heels,jumper,True,False,False,Maria Gakdeng,False,,19.0,13.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin Defensive Rebound.,65,34,3,83,683,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley made Three Point Jumper.,68,34,3,75,675,South Carolina Gamecocks,three point jumper,True,True,True,MiLaysia Fulwiley,False,,38.0,20.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar missed Jumper.,68,34,3,54,654,North Carolina Tar Heels,jumper,True,False,False,Indya Nivar,False,,31.0,8.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson Defensive Rebound.,68,34,3,54,654,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley made Layup. Assisted by Raven Johnson.,70,34,3,46,646,South Carolina Gamecocks,layup,True,True,False,MiLaysia Fulwiley,True,Raven Johnson,27.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Three Point Jumper.,70,34,3,41,641,North Carolina Tar Heels,three point jumper,True,False,True,Lexi Donarski,False,,47.0,11.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,North Carolina Offensive Rebound.,70,34,3,41,641,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Three Point Jumper.,70,34,3,29,629,North Carolina Tar Heels,three point jumper,True,False,True,Lexi Donarski,False,,5.0,11.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Defensive Rebound.,70,34,3,29,629,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Turnover.,70,34,3,22,622,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Teonni Key Turnover.,70,34,3,1,601,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Raven Johnson Steal.,70,34,3,1,601,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,End of 3rd Quarter,70,34,3,0,600,,end,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Jump Ball won by South Carolina,70,34,4,600,600,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin missed Jumper.,70,34,4,581,581,South Carolina Gamecocks,jumper,True,False,False,Sania Feagin,False,,30.0,3.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin Offensive Rebound.,70,34,4,581,581,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin made Layup.,72,34,4,578,578,South Carolina Gamecocks,layup,True,True,False,Sania Feagin,False,,28.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby Turnover.,72,34,4,557,557,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin Steal.,72,34,4,557,557,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Indya Nivar.,72,34,4,554,554,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso made Layup. Assisted by Te-Hina Paopao.,74,34,4,539,539,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Te-Hina Paopao,23.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly missed Three Point Jumper.,74,34,4,526,526,North Carolina Tar Heels,three point jumper,True,False,True,Deja Kelly,False,,15.0,21.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso Defensive Rebound.,74,34,4,526,526,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Tessa Johnson missed Layup.,74,34,4,509,509,South Carolina Gamecocks,layup,True,False,False,Tessa Johnson,False,,29.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Offensive Rebound.,74,34,4,509,509,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao missed Three Point Jumper.,74,34,4,500,500,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,37.0,20.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,North Carolina Deadball Team Rebound.,74,34,4,500,500,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Alyssa Ustby.,74,34,4,498,498,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley missed Three Point Jumper.,74,34,4,497,497,South Carolina Gamecocks,three point jumper,True,False,True,MiLaysia Fulwiley,False,,12.0,21.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Tessa Johnson Offensive Rebound.,74,34,4,497,497,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin made Layup.,76,34,4,475,475,South Carolina Gamecocks,layup,True,True,False,Sania Feagin,False,,24.0,2.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly missed Jumper.,76,34,4,462,462,North Carolina Tar Heels,jumper,True,False,False,Deja Kelly,False,,32.0,5.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao Defensive Rebound.,76,34,4,462,462,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao Turnover.,76,34,4,453,453,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Three Point Jumper.,76,34,4,441,441,North Carolina Tar Heels,three point jumper,True,False,True,Alyssa Ustby,False,,41.0,18.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Defensive Rebound.,76,34,4,441,441,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley made Layup.,78,34,4,431,431,South Carolina Gamecocks,layup,True,True,False,MiLaysia Fulwiley,False,,24.0,2.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Alyssa Ustby.,78,34,4,431,431,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley missed Free Throw.,78,34,4,431,431,South Carolina Gamecocks,free throw,True,False,False,MiLaysia Fulwiley,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Kamilla Cardoso Offensive Rebound.,78,34,4,431,431,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Alyssa Ustby.,78,34,4,424,424,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins made Free Throw.,79,34,4,424,424,South Carolina Gamecocks,free throw,True,True,False,Ashlyn Watkins,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins made Free Throw.,80,34,4,424,424,South Carolina Gamecocks,free throw,True,True,False,Ashlyn Watkins,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Deja Kelly.,80,34,4,416,416,North Carolina Tar Heels,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly Turnover.,80,34,4,416,416,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Ashlyn Watkins missed Layup.,80,34,4,402,402,South Carolina Gamecocks,layup,True,False,False,Ashlyn Watkins,False,,29.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar Defensive Rebound.,80,34,4,402,402,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Jumper.,80,34,4,377,377,North Carolina Tar Heels,jumper,True,False,False,Alyssa Ustby,False,,13.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao Defensive Rebound.,80,34,4,377,377,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Tessa Johnson missed Three Point Jumper.,80,34,4,356,356,South Carolina Gamecocks,three point jumper,True,False,True,Tessa Johnson,False,,2.0,0.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar Defensive Rebound.,80,34,4,356,356,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Indya Nivar missed Three Point Jumper.,80,34,4,345,345,North Carolina Tar Heels,three point jumper,True,False,True,Indya Nivar,False,,36.0,21.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Te-Hina Paopao Defensive Rebound.,80,34,4,345,345,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley missed Three Point Jumper.,80,34,4,328,328,South Carolina Gamecocks,three point jumper,True,False,True,MiLaysia Fulwiley,False,,37.0,23.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,North Carolina Defensive Rebound.,80,34,4,328,328,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly made Jumper. Assisted by Teonni Key.,80,36,4,311,311,North Carolina Tar Heels,jumper,True,True,False,Deja Kelly,True,Teonni Key,24.0,15.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Chloe Kitts Turnover.,80,36,4,287,287,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski Steal.,80,36,4,287,287,North Carolina Tar Heels,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Jumper.,80,36,4,281,281,North Carolina Tar Heels,jumper,True,False,False,Lexi Donarski,False,,20.0,9.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin Defensive Rebound.,80,36,4,281,281,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley missed Layup.,80,36,4,275,275,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,22.0,2.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng Block.,80,36,4,275,275,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina Offensive Rebound.,80,36,4,275,275,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels, Official TV Timeout,80,36,4,275,275,,tv timeout,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Tessa Johnson missed Three Point Jumper.,80,36,4,273,273,South Carolina Gamecocks,three point jumper,True,False,True,Tessa Johnson,False,,2.0,0.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin Offensive Rebound.,80,36,4,273,273,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin made Layup.,82,36,4,268,268,South Carolina Gamecocks,layup,True,True,False,Sania Feagin,False,,22.0,0.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly missed Jumper.,82,36,4,255,255,North Carolina Tar Heels,jumper,True,False,False,Deja Kelly,False,,23.0,10.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Block.,82,36,4,255,255,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Tessa Johnson Defensive Rebound.,82,36,4,255,255,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin missed Three Point Jumper.,82,36,4,231,231,South Carolina Gamecocks,three point jumper,True,False,True,Sania Feagin,False,,47.0,8.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly Defensive Rebound.,82,36,4,231,231,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Chloe Kitts.,82,36,4,211,211,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby missed Free Throw.,82,36,4,211,211,North Carolina Tar Heels,free throw,True,False,False,Alyssa Ustby,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,North Carolina Deadball Team Rebound.,82,36,4,211,211,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Alyssa Ustby made Free Throw.,82,37,4,211,211,North Carolina Tar Heels,free throw,True,True,False,Alyssa Ustby,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin missed Layup.,82,37,4,195,195,South Carolina Gamecocks,layup,True,False,False,Sania Feagin,False,,22.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Teonni Key Block.,82,37,4,195,195,North Carolina Tar Heels,block,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina Offensive Rebound.,82,37,4,195,195,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin made Layup.,84,37,4,188,188,South Carolina Gamecocks,layup,True,True,False,Sania Feagin,False,,29.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski Turnover.,84,37,4,176,176,North Carolina Tar Heels,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Steal.,84,37,4,176,176,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley made Layup.,86,37,4,171,171,South Carolina Gamecocks,layup,True,True,False,MiLaysia Fulwiley,False,,23.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly missed Jumper.,86,37,4,156,156,North Carolina Tar Heels,jumper,True,False,False,Deja Kelly,False,,25.0,17.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Teonni Key Offensive Rebound.,86,37,4,156,156,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Layup.,86,37,4,146,146,North Carolina Tar Heels,layup,True,False,False,Lexi Donarski,False,,20.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Defensive Rebound.,86,37,4,146,146,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin missed Layup.,86,37,4,135,135,South Carolina Gamecocks,layup,True,False,False,Sania Feagin,False,,28.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly Defensive Rebound.,86,37,4,135,135,North Carolina Tar Heels,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Jumper.,86,37,4,130,130,North Carolina Tar Heels,jumper,True,False,False,Lexi Donarski,False,,35.0,8.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin Defensive Rebound.,86,37,4,130,130,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Chloe Kitts made Jumper.,88,37,4,108,108,South Carolina Gamecocks,jumper,True,True,False,Chloe Kitts,False,,33.0,15.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Lexi Donarski missed Jumper.,88,37,4,85,85,North Carolina Tar Heels,jumper,True,False,False,Lexi Donarski,False,,26.0,19.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley Defensive Rebound.,88,37,4,85,85,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,MiLaysia Fulwiley missed Layup.,88,37,4,80,80,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,28.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina Offensive Rebound.,88,37,4,80,80,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina  Turnover.,88,37,4,56,56,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Foul on Tessa Johnson.,88,37,4,46,46,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly made Free Throw.,88,38,4,46,46,North Carolina Tar Heels,free throw,True,True,False,Deja Kelly,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Deja Kelly made Free Throw.,88,39,4,46,46,North Carolina Tar Heels,free throw,True,True,False,Deja Kelly,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Sania Feagin missed Three Point Jumper.,88,39,4,16,16,South Carolina Gamecocks,three point jumper,True,False,True,Sania Feagin,False,,48.0,7.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina Deadball Team Rebound.,88,39,4,16,16,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,South Carolina  Turnover.,88,39,4,14,14,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,Maria Gakdeng made Two Point Tip Shot.,88,41,4,12,12,North Carolina Tar Heels,two point tip shot,True,True,False,Maria Gakdeng,False,,25.0,1.0
+401637582,South Carolina Gamecocks,North Carolina Tar Heels,End of Game,88,41,4,0,0,,end,False,False,False,,False,,,

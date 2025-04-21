@@ -1,0 +1,373 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637548,Baylor Bears,Vanderbilt Commodores,Jump Ball won by Vanderbilt,0,0,1,600,2400,Vanderbilt Commodores,jump ball,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre made Layup. Assisted by Jordyn Cambridge.,0,2,1,585,2385,Vanderbilt Commodores,layup,True,True,False,Khamil Pierre,True,Jordyn Cambridge,22.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs Turnover.,0,2,1,573,2373,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington Steal.,0,2,1,573,2373,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore Turnover.,0,2,1,565,2365,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews Steal.,0,2,1,565,2365,Baylor Bears,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy missed Layup.,0,2,1,561,2361,Baylor Bears,layup,True,False,False,Bella Fontleroy,False,,28.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Defensive Rebound.,0,2,1,561,2361,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge Turnover.,0,2,1,539,2339,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell Steal.,0,2,1,539,2339,Baylor Bears,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs made Layup. Assisted by Sarah Andrews.,2,2,1,533,2333,Baylor Bears,layup,True,True,False,Darianna Littlepage-Buggs,True,Sarah Andrews,23.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Justine Pissott.,2,2,1,533,2333,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs made Free Throw.,3,2,1,533,2333,Baylor Bears,free throw,True,True,False,Darianna Littlepage-Buggs,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Justine Pissott Turnover.,3,2,1,520,2320,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker missed Layup.,3,2,1,512,2312,Baylor Bears,layup,True,False,False,Jada Walker,False,,26.0,2.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge Block.,3,2,1,512,2312,Vanderbilt Commodores,block,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Baylor Offensive Rebound.,3,2,1,512,2312,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews made Jumper. Assisted by Aijha Blackwell.,5,2,1,504,2304,Baylor Bears,jumper,True,True,False,Sarah Andrews,True,Aijha Blackwell,15.0,4.0
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Sarah Andrews.,5,2,1,491,2291,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore made Free Throw.,5,3,1,491,2291,Vanderbilt Commodores,free throw,True,True,False,Iyana Moore,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore made Free Throw.,5,4,1,491,2291,Vanderbilt Commodores,free throw,True,True,False,Iyana Moore,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews missed Three Point Jumper.,5,4,1,479,2279,Baylor Bears,three point jumper,True,False,True,Sarah Andrews,False,,4.0,18.0
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell Offensive Rebound.,5,4,1,479,2279,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker made Layup.,7,4,1,472,2272,Baylor Bears,layup,True,True,False,Jada Walker,False,,27.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Aijha Blackwell.,7,4,1,445,2245,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre missed Jumper.,7,4,1,440,2240,Vanderbilt Commodores,jumper,True,False,False,Khamil Pierre,False,,31.0,7.0
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell Defensive Rebound.,7,4,1,440,2240,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker made Layup.,9,4,1,430,2230,Baylor Bears,layup,True,True,False,Jada Walker,False,,23.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Jada Walker.,9,4,1,418,2218,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge missed Free Throw.,9,4,1,418,2218,Vanderbilt Commodores,free throw,True,False,False,Jordyn Cambridge,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt Deadball Team Rebound.,9,4,1,418,2218,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge missed Free Throw.,9,4,1,418,2218,Vanderbilt Commodores,free throw,True,False,False,Jordyn Cambridge,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs Defensive Rebound.,9,4,1,418,2218,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs missed Layup.,9,4,1,411,2211,Baylor Bears,layup,True,False,False,Darianna Littlepage-Buggs,False,,28.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt Defensive Rebound.,9,4,1,411,2211,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Justine Pissott missed Three Point Jumper.,9,4,1,386,2186,Vanderbilt Commodores,three point jumper,True,False,True,Justine Pissott,False,,48.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Baylor Deadball Team Rebound.,9,4,1,386,2186,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Sacha Washington.,9,4,1,383,2183,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy made Three Point Jumper. Assisted by Sarah Andrews.,12,4,1,373,2173,Baylor Bears,three point jumper,True,True,True,Bella Fontleroy,True,Sarah Andrews,48.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Turnover.,12,4,1,352,2152,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker made Jumper.,14,4,1,340,2140,Baylor Bears,jumper,True,True,False,Jada Walker,False,,21.0,18.0
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt  Timeout,14,4,1,337,2137,Vanderbilt Commodores,timeout,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores, Official TV Timeout,14,4,1,337,2137,,tv timeout,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Justine Pissott Turnover.,14,4,1,317,2117,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs Steal.,14,4,1,317,2117,Baylor Bears,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker missed Layup.,14,4,1,308,2108,Baylor Bears,layup,True,False,False,Jada Walker,False,,27.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell Offensive Rebound.,14,4,1,308,2108,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews missed Jumper.,14,4,1,297,2097,Baylor Bears,jumper,True,False,False,Sarah Andrews,False,,39.0,13.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge Defensive Rebound.,14,4,1,297,2097,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington Turnover.,14,4,1,292,2092,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores, Official TV Timeout,14,4,1,292,2092,,tv timeout,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell made Layup. Assisted by Sarah Andrews.,16,4,1,283,2083,Baylor Bears,layup,True,True,False,Aijha Blackwell,True,Sarah Andrews,28.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington Turnover.,16,4,1,270,2070,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews missed Jumper.,16,4,1,250,2050,Baylor Bears,jumper,True,False,False,Sarah Andrews,False,,19.0,19.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver Defensive Rebound.,16,4,1,250,2050,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore made Jumper.,16,6,1,233,2033,Vanderbilt Commodores,jumper,True,True,False,Iyana Moore,False,,19.0,4.0
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy missed Three Point Jumper.,16,6,1,206,2006,Baylor Bears,three point jumper,True,False,True,Bella Fontleroy,False,,2.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell Offensive Rebound.,16,6,1,206,2006,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell Turnover.,16,6,1,199,1999,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre made Jumper. Assisted by Iyana Moore.,16,8,1,187,1987,Vanderbilt Commodores,jumper,True,True,False,Khamil Pierre,True,Iyana Moore,28.0,15.0
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy made Three Point Jumper. Assisted by Darianna Littlepage-Buggs.,19,8,1,177,1977,Baylor Bears,three point jumper,True,True,True,Bella Fontleroy,True,Darianna Littlepage-Buggs,49.0,2.0
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre missed Jumper.,19,8,1,153,1953,Vanderbilt Commodores,jumper,True,False,False,Khamil Pierre,False,,17.0,5.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker Defensive Rebound.,19,8,1,153,1953,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker missed Layup.,19,8,1,143,1943,Baylor Bears,layup,True,False,False,Jada Walker,False,,28.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Block.,19,8,1,143,1943,Vanderbilt Commodores,block,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Baylor Offensive Rebound.,19,8,1,143,1943,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Dre'Una Edwards made Layup.,21,8,1,141,1941,Baylor Bears,layup,True,True,False,Dre'Una Edwards,False,,23.0,3.0
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore Turnover.,21,8,1,118,1918,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker Steal.,21,8,1,118,1918,Baylor Bears,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Iyana Moore.,21,8,1,118,1918,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Dre'Una Edwards missed Jumper.,21,8,1,107,1907,Baylor Bears,jumper,True,False,False,Dre'Una Edwards,False,,18.0,3.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge Defensive Rebound.,21,8,1,107,1907,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Three Point Jumper.,21,8,1,94,1894,Vanderbilt Commodores,three point jumper,True,False,True,Iyana Moore,False,,6.0,15.0
+401637548,Baylor Bears,Vanderbilt Commodores,Baylor Defensive Rebound.,21,8,1,94,1894,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Dre'Una Edwards made Three Point Jumper. Assisted by Yaya Felder.,24,8,1,77,1877,Baylor Bears,three point jumper,True,True,True,Dre'Una Edwards,True,Yaya Felder,48.0,4.0
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington made Jumper. Assisted by Aga Makurat.,24,10,1,57,1857,Vanderbilt Commodores,jumper,True,True,False,Sacha Washington,True,Aga Makurat,26.0,5.0
+401637548,Baylor Bears,Vanderbilt Commodores,Yaya Felder missed Three Point Jumper.,24,10,1,41,1841,Baylor Bears,three point jumper,True,False,True,Yaya Felder,False,,42.0,17.0
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore Defensive Rebound.,24,10,1,41,1841,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore Turnover.,24,10,1,34,1834,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker Steal.,24,10,1,34,1834,Baylor Bears,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy missed Layup.,24,10,1,7,1807,Baylor Bears,layup,True,False,False,Bella Fontleroy,False,,23.0,2.0
+401637548,Baylor Bears,Vanderbilt Commodores,Baylor Offensive Rebound.,24,10,1,7,1807,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jana Van Gytenbeek Turnover.,24,10,1,4,1804,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge Steal.,24,10,1,4,1804,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver made Layup. Assisted by Jordyn Cambridge.,24,12,1,2,1802,Vanderbilt Commodores,layup,True,True,False,Jordyn Oliver,True,Jordyn Cambridge,22.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,End of 1st Quarter,24,12,1,0,1800,,end,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jump Ball won by Vanderbilt,24,12,2,600,1800,Vanderbilt Commodores,jump ball,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Three Point Jumper.,24,12,2,583,1783,Vanderbilt Commodores,three point jumper,True,False,True,Iyana Moore,False,,22.0,24.0
+401637548,Baylor Bears,Vanderbilt Commodores,Justine Pissott Offensive Rebound.,24,12,2,583,1783,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge missed Three Point Jumper.,24,12,2,571,1771,Vanderbilt Commodores,three point jumper,True,False,True,Jordyn Cambridge,False,,34.0,22.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver Offensive Rebound.,24,12,2,571,1771,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Justine Pissott missed Three Point Jumper.,24,12,2,562,1762,Vanderbilt Commodores,three point jumper,True,False,True,Justine Pissott,False,,11.0,20.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver Offensive Rebound.,24,12,2,562,1762,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Justine Pissott made Jumper. Assisted by Jordyn Oliver.,24,14,2,553,1753,Vanderbilt Commodores,jumper,True,True,False,Justine Pissott,True,Jordyn Oliver,37.0,6.0
+401637548,Baylor Bears,Vanderbilt Commodores,Dre'Una Edwards Turnover.,24,14,2,544,1744,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington Steal.,24,14,2,544,1744,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver Turnover.,24,14,2,539,1739,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Yaya Felder Steal.,24,14,2,539,1739,Baylor Bears,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Yaya Felder made Layup.,26,14,2,533,1733,Baylor Bears,layup,True,True,False,Yaya Felder,False,,26.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Yaya Felder.,26,14,2,528,1728,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Dre'Una Edwards.,26,14,2,521,1721,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore made Free Throw.,26,15,2,521,1721,Vanderbilt Commodores,free throw,True,True,False,Iyana Moore,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore made Free Throw.,26,16,2,521,1721,Vanderbilt Commodores,free throw,True,True,False,Iyana Moore,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Yaya Felder missed Layup.,26,16,2,504,1704,Baylor Bears,layup,True,False,False,Yaya Felder,False,,30.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Baylor Offensive Rebound.,26,16,2,504,1704,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Sacha Washington.,26,16,2,495,1695,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews missed Free Throw.,26,16,2,495,1695,Baylor Bears,free throw,True,False,False,Sarah Andrews,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Baylor Deadball Team Rebound.,26,16,2,495,1695,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews made Free Throw.,27,16,2,495,1695,Baylor Bears,free throw,True,True,False,Sarah Andrews,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews missed Free Throw.,27,16,2,495,1695,Baylor Bears,free throw,True,False,False,Sarah Andrews,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt Defensive Rebound.,27,16,2,495,1695,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Three Point Jumper.,27,16,2,467,1667,Vanderbilt Commodores,three point jumper,True,False,True,Iyana Moore,False,,2.0,7.0
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Defensive Rebound.,27,16,2,467,1667,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy made Three Point Jumper. Assisted by Sarah Andrews.,30,16,2,456,1656,Baylor Bears,three point jumper,True,True,True,Bella Fontleroy,True,Sarah Andrews,28.0,27.0
+401637548,Baylor Bears,Vanderbilt Commodores,Justine Pissott missed Three Point Jumper.,30,16,2,428,1628,Vanderbilt Commodores,three point jumper,True,False,True,Justine Pissott,False,,39.0,23.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge Offensive Rebound.,30,16,2,428,1628,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Khamil Pierre.,30,16,2,422,1622,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Turnover.,30,16,2,422,1622,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Yaya Felder Turnover.,30,16,2,410,1610,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge Steal.,30,16,2,410,1610,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Justine Pissott Turnover.,30,16,2,403,1603,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Turnover.,30,16,2,398,1598,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore Steal.,30,16,2,398,1598,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Yaya Felder.,30,16,2,398,1598,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre missed Free Throw.,30,16,2,398,1598,Vanderbilt Commodores,free throw,True,False,False,Khamil Pierre,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt Deadball Team Rebound.,30,16,2,398,1598,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre missed Free Throw.,30,16,2,398,1598,Vanderbilt Commodores,free throw,True,False,False,Khamil Pierre,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Defensive Rebound.,30,16,2,398,1598,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker missed Jumper.,30,16,2,391,1591,Baylor Bears,jumper,True,False,False,Jada Walker,False,,25.0,17.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge Defensive Rebound.,30,16,2,391,1591,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge Turnover.,30,16,2,380,1580,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Steal.,30,16,2,380,1580,Baylor Bears,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Sarah Andrews.,30,16,2,370,1570,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews Turnover.,30,16,2,370,1570,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Jana Van Gytenbeek.,30,16,2,353,1553,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge made Free Throw.,30,17,2,353,1553,Vanderbilt Commodores,free throw,True,True,False,Jordyn Cambridge,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge made Free Throw.,30,18,2,353,1553,Vanderbilt Commodores,free throw,True,True,False,Jordyn Cambridge,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker missed Layup.,30,18,2,342,1542,Baylor Bears,layup,True,False,False,Jada Walker,False,,28.0,2.0
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell Offensive Rebound.,30,18,2,342,1542,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell missed Two Point Tip Shot.,30,18,2,342,1542,Baylor Bears,two point tip shot,True,False,False,Aijha Blackwell,False,,25.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver Defensive Rebound.,30,18,2,342,1542,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore made Three Point Jumper. Assisted by Justine Pissott.,30,21,2,330,1530,Vanderbilt Commodores,three point jumper,True,True,True,Iyana Moore,True,Justine Pissott,6.0,14.0
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs Turnover.,30,21,2,308,1508,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore Steal.,30,21,2,308,1508,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge made Layup. Assisted by Jordyn Oliver.,30,23,2,299,1499,Vanderbilt Commodores,layup,True,True,False,Jordyn Cambridge,True,Jordyn Oliver,28.0,2.0
+401637548,Baylor Bears,Vanderbilt Commodores,Baylor  Timeout,30,23,2,299,1499,Baylor Bears,timeout,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores, Official TV Timeout,30,23,2,299,1499,,tv timeout,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs Turnover.,30,23,2,276,1476,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Jada Walker.,30,23,2,259,1459,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore made Free Throw.,30,24,2,259,1459,Vanderbilt Commodores,free throw,True,True,False,Iyana Moore,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore made Free Throw.,30,25,2,259,1459,Vanderbilt Commodores,free throw,True,True,False,Iyana Moore,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker Turnover.,30,25,2,245,1445,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Steal.,30,25,2,245,1445,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre made Layup.,30,27,2,241,1441,Vanderbilt Commodores,layup,True,True,False,Khamil Pierre,False,,22.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs made Jumper. Assisted by Jana Van Gytenbeek.,32,27,2,217,1417,Baylor Bears,jumper,True,True,False,Darianna Littlepage-Buggs,True,Jana Van Gytenbeek,38.0,6.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver made Layup. Assisted by Iyana Moore.,32,29,2,188,1388,Vanderbilt Commodores,layup,True,True,False,Jordyn Oliver,True,Iyana Moore,27.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jana Van Gytenbeek missed Three Point Jumper.,32,29,2,176,1376,Baylor Bears,three point jumper,True,False,True,Jana Van Gytenbeek,False,,41.0,19.0
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs Offensive Rebound.,32,29,2,176,1376,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jana Van Gytenbeek made Three Point Jumper. Assisted by Darianna Littlepage-Buggs.,35,29,2,161,1361,Baylor Bears,three point jumper,True,True,True,Jana Van Gytenbeek,True,Darianna Littlepage-Buggs,34.0,23.0
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Jumper.,35,29,2,135,1335,Vanderbilt Commodores,jumper,True,False,False,Iyana Moore,False,,14.0,11.0
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Defensive Rebound.,35,29,2,135,1335,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Iyana Moore.,35,29,2,127,1327,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Jordyn Cambridge.,35,29,2,120,1320,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs Turnover.,35,29,2,114,1314,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Darianna Littlepage-Buggs.,35,29,2,102,1302,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre missed Free Throw.,35,29,2,102,1302,Vanderbilt Commodores,free throw,True,False,False,Khamil Pierre,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt Deadball Team Rebound.,35,29,2,102,1302,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre made Free Throw.,35,30,2,102,1302,Vanderbilt Commodores,free throw,True,True,False,Khamil Pierre,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy missed Three Point Jumper.,35,30,2,93,1293,Baylor Bears,three point jumper,True,False,True,Bella Fontleroy,False,,43.0,18.0
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Defensive Rebound.,35,30,2,93,1293,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Justine Pissott missed Three Point Jumper.,35,30,2,79,1279,Vanderbilt Commodores,three point jumper,True,False,True,Justine Pissott,False,,2.0,6.0
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs Defensive Rebound.,35,30,2,79,1279,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Justine Pissott.,35,30,2,71,1271,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy made Free Throw.,36,30,2,71,1271,Baylor Bears,free throw,True,True,False,Bella Fontleroy,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy made Free Throw.,37,30,2,71,1271,Baylor Bears,free throw,True,True,False,Bella Fontleroy,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Jana Van Gytenbeek.,37,30,2,59,1259,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Ryanne Allen made Free Throw.,37,31,2,59,1259,Vanderbilt Commodores,free throw,True,True,False,Ryanne Allen,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Ryanne Allen made Free Throw.,37,32,2,59,1259,Vanderbilt Commodores,free throw,True,True,False,Ryanne Allen,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Khamil Pierre.,37,32,2,54,1254,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jana Van Gytenbeek made Free Throw.,38,32,2,54,1254,Baylor Bears,free throw,True,True,False,Jana Van Gytenbeek,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jana Van Gytenbeek made Free Throw.,39,32,2,54,1254,Baylor Bears,free throw,True,True,False,Jana Van Gytenbeek,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Turnover.,39,32,2,41,1241,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Dre'Una Edwards Steal.,39,32,2,41,1241,Baylor Bears,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs made Layup. Assisted by Bella Fontleroy.,41,32,2,10,1210,Baylor Bears,layup,True,True,False,Darianna Littlepage-Buggs,True,Bella Fontleroy,27.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge made Layup.,41,34,2,1,1201,Vanderbilt Commodores,layup,True,True,False,Jordyn Cambridge,False,,27.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,End of 2nd Quarter,41,34,2,0,1200,,end,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jump Ball won by Baylor,41,34,3,600,1200,Baylor Bears,jump ball,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews missed Three Point Jumper.,41,34,3,592,1192,Baylor Bears,three point jumper,True,False,True,Sarah Andrews,False,,29.0,25.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker Offensive Rebound.,41,34,3,592,1192,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell made Layup. Assisted by Jada Walker.,43,34,3,579,1179,Baylor Bears,layup,True,True,False,Aijha Blackwell,True,Jada Walker,26.0,2.0
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre made Layup. Assisted by Jordyn Cambridge.,43,36,3,570,1170,Vanderbilt Commodores,layup,True,True,False,Khamil Pierre,True,Jordyn Cambridge,28.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker missed Jumper.,43,36,3,545,1145,Baylor Bears,jumper,True,False,False,Jada Walker,False,,24.0,15.0
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore Defensive Rebound.,43,36,3,545,1145,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Jumper.,43,36,3,535,1135,Vanderbilt Commodores,jumper,True,False,False,Iyana Moore,False,,4.0,5.0
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Defensive Rebound.,43,36,3,535,1135,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy made Layup.,45,36,3,525,1125,Baylor Bears,layup,True,True,False,Bella Fontleroy,False,,23.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Turnover.,45,36,3,508,1108,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker Steal.,45,36,3,508,1108,Baylor Bears,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell made Layup. Assisted by Jada Walker.,47,36,3,495,1095,Baylor Bears,layup,True,True,False,Aijha Blackwell,True,Jada Walker,22.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Justine Pissott made Jumper.,47,38,3,462,1062,Vanderbilt Commodores,jumper,True,True,False,Justine Pissott,False,,36.0,15.0
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs missed Jumper.,47,38,3,434,1034,Baylor Bears,jumper,True,False,False,Darianna Littlepage-Buggs,False,,27.0,20.0
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Defensive Rebound.,47,38,3,434,1034,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington made Layup. Assisted by Iyana Moore.,47,40,3,418,1018,Vanderbilt Commodores,layup,True,True,False,Sacha Washington,True,Iyana Moore,25.0,2.0
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews made Three Point Jumper.,50,40,3,412,1012,Baylor Bears,three point jumper,True,True,True,Sarah Andrews,False,,15.0,22.0
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington made Layup. Assisted by Jordyn Cambridge.,50,42,3,393,993,Vanderbilt Commodores,layup,True,True,False,Sacha Washington,True,Jordyn Cambridge,27.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker missed Jumper.,50,42,3,381,981,Baylor Bears,jumper,True,False,False,Jada Walker,False,,17.0,16.0
+401637548,Baylor Bears,Vanderbilt Commodores,Baylor Offensive Rebound.,50,42,3,381,981,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs made Jumper. Assisted by Bella Fontleroy.,52,42,3,370,970,Baylor Bears,jumper,True,True,False,Darianna Littlepage-Buggs,True,Bella Fontleroy,12.0,2.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver missed Jumper.,52,42,3,350,950,Vanderbilt Commodores,jumper,True,False,False,Jordyn Oliver,False,,26.0,5.0
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Block.,52,42,3,350,950,Baylor Bears,block,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver Offensive Rebound.,52,42,3,350,950,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver Turnover.,52,42,3,338,938,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews made Layup.,54,42,3,332,932,Baylor Bears,layup,True,True,False,Sarah Andrews,False,,27.0,2.0
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Dre'Una Edwards.,54,42,3,319,919,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Dre'Una Edwards.,54,42,3,318,918,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge made Free Throw.,54,43,3,318,918,Vanderbilt Commodores,free throw,True,True,False,Jordyn Cambridge,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge missed Free Throw.,54,43,3,318,918,Vanderbilt Commodores,free throw,True,False,False,Jordyn Cambridge,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Dre'Una Edwards Defensive Rebound.,54,43,3,318,918,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy made Layup. Assisted by Jana Van Gytenbeek.,56,43,3,309,909,Baylor Bears,layup,True,True,False,Bella Fontleroy,True,Jana Van Gytenbeek,22.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Sacha Washington.,56,43,3,309,909,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt  Timeout,56,43,3,309,909,Vanderbilt Commodores,timeout,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores, Official TV Timeout,56,43,3,309,909,,tv timeout,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy made Free Throw.,57,43,3,309,909,Baylor Bears,free throw,True,True,False,Bella Fontleroy,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre missed Jumper.,57,43,3,289,889,Vanderbilt Commodores,jumper,True,False,False,Khamil Pierre,False,,32.0,4.0
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Offensive Rebound.,57,43,3,289,889,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre missed Jumper.,57,43,3,282,882,Vanderbilt Commodores,jumper,True,False,False,Khamil Pierre,False,,20.0,2.0
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs Defensive Rebound.,57,43,3,282,882,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker Turnover.,57,43,3,273,873,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver Steal.,57,43,3,273,873,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Bella Fontleroy.,57,43,3,268,868,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores, Official TV Timeout,57,43,3,268,868,,tv timeout,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver made Free Throw.,57,44,3,268,868,Vanderbilt Commodores,free throw,True,True,False,Jordyn Oliver,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver missed Free Throw.,57,44,3,268,868,Vanderbilt Commodores,free throw,True,False,False,Jordyn Oliver,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Defensive Rebound.,57,44,3,268,868,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Jordyn Cambridge.,57,44,3,248,848,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews missed Free Throw.,57,44,3,248,848,Baylor Bears,free throw,True,False,False,Sarah Andrews,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Baylor Deadball Team Rebound.,57,44,3,248,848,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews missed Free Throw.,57,44,3,248,848,Baylor Bears,free throw,True,False,False,Sarah Andrews,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Defensive Rebound.,57,44,3,248,848,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver Turnover.,57,44,3,233,833,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell Steal.,57,44,3,233,833,Baylor Bears,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell missed Layup.,57,44,3,212,812,Baylor Bears,layup,True,False,False,Aijha Blackwell,False,,23.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell Offensive Rebound.,57,44,3,212,812,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs missed Jumper.,57,44,3,207,807,Baylor Bears,jumper,True,False,False,Darianna Littlepage-Buggs,False,,26.0,11.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge Defensive Rebound.,57,44,3,207,807,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Turnover.,57,44,3,197,797,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell Steal.,57,44,3,197,797,Baylor Bears,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker made Jumper.,59,44,3,174,774,Baylor Bears,jumper,True,True,False,Jada Walker,False,,27.0,7.0
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Turnover.,59,44,3,157,757,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker Steal.,59,44,3,157,757,Baylor Bears,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell missed Layup.,59,44,3,151,751,Baylor Bears,layup,True,False,False,Aijha Blackwell,False,,30.0,2.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver Block.,59,44,3,151,751,Vanderbilt Commodores,block,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Baylor Offensive Rebound.,59,44,3,151,751,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy made Three Point Jumper. Assisted by Darianna Littlepage-Buggs.,62,44,3,141,741,Baylor Bears,three point jumper,True,True,True,Bella Fontleroy,True,Darianna Littlepage-Buggs,1.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Sarah Andrews.,62,44,3,118,718,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore made Three Point Jumper. Assisted by Jordyn Cambridge.,62,47,3,115,715,Vanderbilt Commodores,three point jumper,True,True,True,Iyana Moore,True,Jordyn Cambridge,8.0,20.0
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Sacha Washington.,62,47,3,108,708,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell made Free Throw.,63,47,3,108,708,Baylor Bears,free throw,True,True,False,Aijha Blackwell,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell made Free Throw.,64,47,3,108,708,Baylor Bears,free throw,True,True,False,Aijha Blackwell,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Brown missed Three Point Jumper.,64,47,3,98,698,Vanderbilt Commodores,three point jumper,True,False,True,Jada Brown,False,,3.0,7.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver Offensive Rebound.,64,47,3,98,698,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Layup.,64,47,3,81,681,Vanderbilt Commodores,layup,True,False,False,Iyana Moore,False,,29.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore Offensive Rebound.,64,47,3,81,681,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Bella Fontleroy.,64,47,3,64,664,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre made Free Throw.,64,48,3,64,664,Vanderbilt Commodores,free throw,True,True,False,Khamil Pierre,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre made Free Throw.,64,49,3,64,664,Vanderbilt Commodores,free throw,True,True,False,Khamil Pierre,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jana Van Gytenbeek made Three Point Jumper. Assisted by Darianna Littlepage-Buggs.,67,49,3,43,643,Baylor Bears,three point jumper,True,True,True,Jana Van Gytenbeek,True,Darianna Littlepage-Buggs,8.0,17.0
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Three Point Jumper.,67,49,3,11,611,Vanderbilt Commodores,three point jumper,True,False,True,Iyana Moore,False,,16.0,22.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker Defensive Rebound.,67,49,3,11,611,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Iyana Moore.,67,49,3,8,608,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs made Layup. Assisted by Jada Walker.,69,49,3,1,601,Baylor Bears,layup,True,True,False,Darianna Littlepage-Buggs,True,Jada Walker,27.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,End of 3rd Quarter,69,49,3,0,600,,end,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jump Ball won by Vanderbilt,69,49,4,600,600,Vanderbilt Commodores,jump ball,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aga Makurat missed Three Point Jumper.,69,49,4,577,577,Vanderbilt Commodores,three point jumper,True,False,True,Aga Makurat,False,,7.0,15.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver Offensive Rebound.,69,49,4,577,577,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver missed Layup.,69,49,4,564,564,Vanderbilt Commodores,layup,True,False,False,Jordyn Oliver,False,,27.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs Defensive Rebound.,69,49,4,564,564,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs Turnover.,69,49,4,559,559,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Steal.,69,49,4,559,559,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aga Makurat missed Jumper.,69,49,4,555,555,Vanderbilt Commodores,jumper,True,False,False,Aga Makurat,False,,15.0,5.0
+401637548,Baylor Bears,Vanderbilt Commodores,Darianna Littlepage-Buggs Block.,69,49,4,555,555,Baylor Bears,block,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker Defensive Rebound.,69,49,4,555,555,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Yaya Felder missed Three Point Jumper.,69,49,4,542,542,Baylor Bears,three point jumper,True,False,True,Yaya Felder,False,,48.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore Defensive Rebound.,69,49,4,542,542,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Darianna Littlepage-Buggs.,69,49,4,539,539,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Yaya Felder.,69,49,4,532,532,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge made Layup.,69,51,4,522,522,Vanderbilt Commodores,layup,True,True,False,Jordyn Cambridge,False,,29.0,2.0
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Aga Makurat.,69,51,4,510,510,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Yaya Felder made Free Throw.,70,51,4,510,510,Baylor Bears,free throw,True,True,False,Yaya Felder,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Yaya Felder made Free Throw.,71,51,4,510,510,Baylor Bears,free throw,True,True,False,Yaya Felder,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aga Makurat missed Three Point Jumper.,71,51,4,499,499,Vanderbilt Commodores,three point jumper,True,False,True,Aga Makurat,False,,48.0,-1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Defensive Rebound.,71,51,4,499,499,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Yaya Felder missed Three Point Jumper.,71,51,4,485,485,Baylor Bears,three point jumper,True,False,True,Yaya Felder,False,,48.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Khamil Pierre Defensive Rebound.,71,51,4,485,485,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver made Layup. Assisted by Jordyn Cambridge.,71,53,4,475,475,Vanderbilt Commodores,layup,True,True,False,Jordyn Oliver,True,Jordyn Cambridge,27.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews made Three Point Jumper.,74,53,4,457,457,Baylor Bears,three point jumper,True,True,True,Sarah Andrews,False,,32.0,24.0
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt  Timeout,74,53,4,448,448,Vanderbilt Commodores,timeout,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores, Official TV Timeout,74,53,4,448,448,,tv timeout,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Jumper.,74,53,4,443,443,Vanderbilt Commodores,jumper,True,False,False,Iyana Moore,False,,11.0,13.0
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Defensive Rebound.,74,53,4,443,443,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Dre'Una Edwards made Layup. Assisted by Sarah Andrews.,76,53,4,435,435,Baylor Bears,layup,True,True,False,Dre'Una Edwards,True,Sarah Andrews,22.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington missed Jumper.,76,53,4,414,414,Vanderbilt Commodores,jumper,True,False,False,Sacha Washington,False,,27.0,17.0
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Defensive Rebound.,76,53,4,414,414,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Yaya Felder missed Three Point Jumper.,76,53,4,387,387,Baylor Bears,three point jumper,True,False,True,Yaya Felder,False,,42.0,19.0
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews Offensive Rebound.,76,53,4,387,387,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews made Layup.,78,53,4,379,379,Baylor Bears,layup,True,True,False,Sarah Andrews,False,,23.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Layup.,78,53,4,365,365,Vanderbilt Commodores,layup,True,False,False,Iyana Moore,False,,26.0,2.0
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Block.,78,53,4,365,365,Baylor Bears,block,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Defensive Rebound.,78,53,4,365,365,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Sarah Andrews.,78,53,4,365,365,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sarah Andrews Turnover.,78,53,4,365,365,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge made Three Point Jumper. Assisted by Iyana Moore.,78,56,4,350,350,Vanderbilt Commodores,three point jumper,True,True,True,Jordyn Cambridge,True,Iyana Moore,12.0,20.0
+401637548,Baylor Bears,Vanderbilt Commodores,Yaya Felder missed Layup.,78,56,4,333,333,Baylor Bears,layup,True,False,False,Yaya Felder,False,,22.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Justine Pissott Defensive Rebound.,78,56,4,333,333,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver missed Layup.,78,56,4,326,326,Vanderbilt Commodores,layup,True,False,False,Jordyn Oliver,False,,28.0,3.0
+401637548,Baylor Bears,Vanderbilt Commodores,Dre'Una Edwards Defensive Rebound.,78,56,4,326,326,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Dre'Una Edwards missed Layup.,78,56,4,316,316,Baylor Bears,layup,True,False,False,Dre'Una Edwards,False,,22.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington Defensive Rebound.,78,56,4,316,316,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Three Point Jumper.,78,56,4,307,307,Vanderbilt Commodores,three point jumper,True,False,True,Iyana Moore,False,,41.0,18.0
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington Offensive Rebound.,78,56,4,307,307,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington made Layup.,78,58,4,301,301,Vanderbilt Commodores,layup,True,True,False,Sacha Washington,False,,27.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Dre'Una Edwards missed Three Point Jumper.,78,58,4,287,287,Baylor Bears,three point jumper,True,False,True,Dre'Una Edwards,False,,27.0,24.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge Defensive Rebound.,78,58,4,287,287,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge made Layup.,78,60,4,279,279,Vanderbilt Commodores,layup,True,True,False,Jordyn Cambridge,False,,20.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Yaya Felder missed Jumper.,78,60,4,260,260,Baylor Bears,jumper,True,False,False,Yaya Felder,False,,38.0,-3.0
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt Defensive Rebound.,78,60,4,260,260,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge missed Three Point Jumper.,78,60,4,248,248,Vanderbilt Commodores,three point jumper,True,False,True,Jordyn Cambridge,False,,46.0,10.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jana Van Gytenbeek Defensive Rebound.,78,60,4,248,248,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jana Van Gytenbeek made Layup.,80,60,4,237,237,Baylor Bears,layup,True,True,False,Jana Van Gytenbeek,False,,29.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore Turnover.,80,60,4,219,219,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Iyana Moore.,80,60,4,210,210,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy missed Layup.,80,60,4,199,199,Baylor Bears,layup,True,False,False,Bella Fontleroy,False,,26.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore Defensive Rebound.,80,60,4,199,199,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Denae Fritz.,80,60,4,192,192,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver missed Free Throw.,80,60,4,192,192,Vanderbilt Commodores,free throw,True,False,False,Jordyn Oliver,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt Deadball Team Rebound.,80,60,4,192,192,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt Deadball Team Rebound.,80,60,4,192,192,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore Turnover.,80,60,4,192,192,Vanderbilt Commodores,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jana Van Gytenbeek Turnover.,80,60,4,183,183,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge Steal.,80,60,4,183,183,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Jana Van Gytenbeek.,80,60,4,176,176,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Free Throw.,80,60,4,176,176,Vanderbilt Commodores,free throw,True,False,False,Iyana Moore,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt Deadball Team Rebound.,80,60,4,176,176,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore made Free Throw.,80,61,4,176,176,Vanderbilt Commodores,free throw,True,True,False,Iyana Moore,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jana Van Gytenbeek Turnover.,80,61,4,164,164,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington Steal.,80,61,4,164,164,Vanderbilt Commodores,steal,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington missed Layup.,80,61,4,155,155,Vanderbilt Commodores,layup,True,False,False,Sacha Washington,False,,28.0,0.0
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington Offensive Rebound.,80,61,4,155,155,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Jana Van Gytenbeek.,80,61,4,147,147,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington missed Free Throw.,80,61,4,147,147,Vanderbilt Commodores,free throw,True,False,False,Sacha Washington,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt Deadball Team Rebound.,80,61,4,147,147,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Sacha Washington missed Free Throw.,80,61,4,147,147,Vanderbilt Commodores,free throw,True,False,False,Sacha Washington,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell Defensive Rebound.,80,61,4,147,147,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Aijha Blackwell Turnover.,80,61,4,145,145,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver made Jumper.,80,63,4,141,141,Vanderbilt Commodores,jumper,True,True,False,Jordyn Oliver,False,,21.0,12.0
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Sacha Washington.,80,63,4,129,129,Vanderbilt Commodores,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker Turnover.,80,63,4,119,119,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Oliver missed Jumper.,80,63,4,109,109,Vanderbilt Commodores,jumper,True,False,False,Jordyn Oliver,False,,25.0,7.0
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Defensive Rebound.,80,63,4,109,109,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Denae Fritz missed Three Point Jumper.,80,63,4,98,98,Baylor Bears,three point jumper,True,False,True,Denae Fritz,False,,48.0,1.0
+401637548,Baylor Bears,Vanderbilt Commodores,Jordyn Cambridge Defensive Rebound.,80,63,4,98,98,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Foul on Jada Walker.,80,63,4,83,83,Baylor Bears,foul,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Free Throw.,80,63,4,83,83,Vanderbilt Commodores,free throw,True,False,False,Iyana Moore,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt Deadball Team Rebound.,80,63,4,83,83,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Free Throw.,80,63,4,83,83,Vanderbilt Commodores,free throw,True,False,False,Iyana Moore,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy Defensive Rebound.,80,63,4,83,83,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Jada Walker Turnover.,80,63,4,62,62,Baylor Bears,turnover,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Iyana Moore missed Jumper.,80,63,4,52,52,Vanderbilt Commodores,jumper,True,False,False,Iyana Moore,False,,13.0,14.0
+401637548,Baylor Bears,Vanderbilt Commodores,Denae Fritz Defensive Rebound.,80,63,4,52,52,Baylor Bears,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,Bella Fontleroy missed Three Point Jumper.,80,63,4,20,20,Baylor Bears,three point jumper,True,False,True,Bella Fontleroy,False,,46.0,13.0
+401637548,Baylor Bears,Vanderbilt Commodores,Vanderbilt Defensive Rebound.,80,63,4,20,20,Vanderbilt Commodores,rebound,False,False,False,,False,,,
+401637548,Baylor Bears,Vanderbilt Commodores,End of Game,80,63,4,0,0,,end,False,False,False,,False,,,

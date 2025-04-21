@@ -1,0 +1,386 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Jump Ball won by Iowa,0,0,1,600,2400,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Turnover.,0,0,1,589,2389,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy Steal.,0,0,1,589,2389,Holy Cross Crusaders,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright missed Jumper.,0,0,1,580,2380,Holy Cross Crusaders,jumper,True,False,False,Callie Wright,False,,10.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Defensive Rebound.,0,0,1,580,2380,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin missed Layup.,0,0,1,561,2361,Iowa Hawkeyes,layup,True,False,False,Kate Martin,False,,28.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright Block.,0,0,1,561,2361,Holy Cross Crusaders,block,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Offensive Rebound.,0,0,1,561,2361,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall made Three Point Jumper. Assisted by Caitlin Clark.,3,0,1,554,2354,Iowa Hawkeyes,three point jumper,True,True,True,Gabbie Marshall,True,Caitlin Clark,6.0,15.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kaitlyn Flanagan missed Three Point Jumper.,3,0,1,537,2337,Holy Cross Crusaders,three point jumper,True,False,True,Kaitlyn Flanagan,False,,35.0,23.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter Defensive Rebound.,3,0,1,537,2337,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Janelle Allen.,3,0,1,528,2328,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Free Throw.,4,0,1,528,2328,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Free Throw.,5,0,1,528,2328,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen made Jumper.,5,2,1,507,2307,Holy Cross Crusaders,jumper,True,True,False,Janelle Allen,False,,22.0,5.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin missed Layup.,5,2,1,492,2292,Iowa Hawkeyes,layup,True,False,False,Kate Martin,False,,23.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright Block.,5,2,1,492,2292,Holy Cross Crusaders,block,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen Defensive Rebound.,5,2,1,492,2292,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen missed Jumper.,5,2,1,476,2276,Holy Cross Crusaders,jumper,True,False,False,Janelle Allen,False,,33.0,18.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Defensive Rebound.,5,2,1,476,2276,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Hannah Stuelke missed Layup.,5,2,1,466,2266,Iowa Hawkeyes,layup,True,False,False,Hannah Stuelke,False,,28.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen Defensive Rebound.,5,2,1,466,2266,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Hannah Stuelke.,5,2,1,447,2247,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman made Jumper. Assisted by Lindsay Berger.,5,4,1,436,2236,Holy Cross Crusaders,jumper,True,True,False,Simone Foreman,True,Lindsay Berger,17.0,17.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Lindsay Berger.,5,4,1,419,2219,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Turnover.,5,4,1,419,2219,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen made Jumper.,5,6,1,405,2205,Holy Cross Crusaders,jumper,True,True,False,Janelle Allen,False,,30.0,4.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Turnover.,5,6,1,389,2189,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack Steal.,5,6,1,389,2189,Holy Cross Crusaders,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Jump Ball won by Holy Cross,5,6,1,389,2189,Holy Cross Crusaders,jump ball,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen missed Jumper.,5,6,1,383,2183,Holy Cross Crusaders,jumper,True,False,False,Janelle Allen,False,,30.0,17.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Defensive Rebound.,5,6,1,383,2183,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark missed Three Point Jumper.,5,6,1,374,2174,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,9.0,27.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack Defensive Rebound.,5,6,1,374,2174,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack missed Three Point Jumper.,5,6,1,367,2167,Holy Cross Crusaders,three point jumper,True,False,True,Cara McCormack,False,,39.0,20.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kylie Feuerbach Defensive Rebound.,5,6,1,367,2167,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall made Three Point Jumper. Assisted by Caitlin Clark.,8,6,1,359,2159,Iowa Hawkeyes,three point jumper,True,True,True,Gabbie Marshall,True,Caitlin Clark,2.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack missed Three Point Jumper.,8,6,1,347,2147,Holy Cross Crusaders,three point jumper,True,False,True,Cara McCormack,False,,19.0,24.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Defensive Rebound.,8,6,1,347,2147,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Turnover.,8,6,1,343,2143,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman Steal.,8,6,1,343,2143,Holy Cross Crusaders,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy missed Three Point Jumper.,8,6,1,334,2134,Holy Cross Crusaders,three point jumper,True,False,True,Bronagh Power-Cassidy,False,,40.0,18.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Lindsay Berger Offensive Rebound.,8,6,1,334,2134,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Lindsay Berger made Layup.,8,8,1,330,2130,Holy Cross Crusaders,layup,True,True,False,Lindsay Berger,False,,23.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Lindsay Berger.,8,8,1,317,2117,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter made Free Throw.,9,8,1,317,2117,Iowa Hawkeyes,free throw,True,True,False,Sydney Affolter,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter made Free Throw.,10,8,1,317,2117,Iowa Hawkeyes,free throw,True,True,False,Sydney Affolter,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy made Three Point Jumper. Assisted by Kaitlyn Flanagan.,10,11,1,308,2108,Holy Cross Crusaders,three point jumper,True,True,True,Bronagh Power-Cassidy,True,Kaitlyn Flanagan,45.0,14.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady missed Layup.,10,11,1,298,2098,Iowa Hawkeyes,layup,True,False,False,Addison O'Grady,False,,27.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright Defensive Rebound.,10,11,1,298,2098,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Grace Munt Turnover.,10,11,1,278,2078,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall Steal.,10,11,1,278,2078,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders, Official TV Timeout,10,11,1,278,2078,,tv timeout,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Callie Wright.,10,11,1,259,2059,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kylie Feuerbach missed Free Throw.,10,11,1,259,2059,Iowa Hawkeyes,free throw,True,False,False,Kylie Feuerbach,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Iowa Deadball Team Rebound.,10,11,1,259,2059,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kylie Feuerbach made Free Throw.,11,11,1,259,2059,Iowa Hawkeyes,free throw,True,True,False,Kylie Feuerbach,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy missed Three Point Jumper.,11,11,1,244,2044,Holy Cross Crusaders,three point jumper,True,False,True,Bronagh Power-Cassidy,False,,48.0,3.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Taylor McCabe Defensive Rebound.,11,11,1,244,2044,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin made Three Point Jumper. Assisted by Taylor McCabe.,14,11,1,234,2034,Iowa Hawkeyes,three point jumper,True,True,True,Kate Martin,True,Taylor McCabe,16.0,24.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen missed Jumper.,14,11,1,221,2021,Holy Cross Crusaders,jumper,True,False,False,Janelle Allen,False,,30.0,13.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Taylor McCabe Defensive Rebound.,14,11,1,221,2021,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady made Layup. Assisted by Gabbie Marshall.,16,11,1,211,2011,Iowa Hawkeyes,layup,True,True,False,Addison O'Grady,True,Gabbie Marshall,28.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen missed Jumper.,16,11,1,180,1980,Holy Cross Crusaders,jumper,True,False,False,Janelle Allen,False,,17.0,4.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall Defensive Rebound.,16,11,1,180,1980,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady made Layup. Assisted by Gabbie Marshall.,18,11,1,172,1972,Iowa Hawkeyes,layup,True,True,False,Addison O'Grady,True,Gabbie Marshall,23.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Holy Cross  Timeout,18,11,1,171,1971,Holy Cross Crusaders,timeout,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack missed Jumper.,18,11,1,156,1956,Holy Cross Crusaders,jumper,True,False,False,Cara McCormack,False,,22.0,16.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Defensive Rebound.,18,11,1,156,1956,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Janelle Allen.,18,11,1,152,1952,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin made Free Throw.,19,11,1,152,1952,Iowa Hawkeyes,free throw,True,True,False,Kate Martin,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin made Free Throw.,20,11,1,152,1952,Iowa Hawkeyes,free throw,True,True,False,Kate Martin,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright missed Layup.,20,11,1,131,1931,Holy Cross Crusaders,layup,True,False,False,Callie Wright,False,,24.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Block.,20,11,1,131,1931,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright Offensive Rebound.,20,11,1,131,1931,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Taylor McCabe.,20,11,1,128,1928,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright missed Free Throw.,20,11,1,128,1928,Holy Cross Crusaders,free throw,True,False,False,Callie Wright,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Holy Cross Deadball Team Rebound.,20,11,1,128,1928,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright made Free Throw.,20,12,1,128,1928,Holy Cross Crusaders,free throw,True,True,False,Callie Wright,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Turnover.,20,12,1,122,1922,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kaitlyn Flanagan Steal.,20,12,1,122,1922,Holy Cross Crusaders,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack missed Three Point Jumper.,20,12,1,111,1911,Holy Cross Crusaders,three point jumper,True,False,True,Cara McCormack,False,,42.0,21.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Defensive Rebound.,20,12,1,111,1911,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Hannah Stuelke missed Layup.,20,12,1,103,1903,Iowa Hawkeyes,layup,True,False,False,Hannah Stuelke,False,,21.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Hannah Stuelke Offensive Rebound.,20,12,1,103,1903,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Hannah Stuelke Turnover.,20,12,1,98,1898,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy Steal.,20,12,1,98,1898,Holy Cross Crusaders,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy made Three Point Jumper. Assisted by Simone Foreman.,20,15,1,88,1888,Holy Cross Crusaders,three point jumper,True,True,True,Bronagh Power-Cassidy,True,Simone Foreman,14.0,22.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark missed Three Point Jumper.,20,15,1,78,1878,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,35.0,22.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack Defensive Rebound.,20,15,1,78,1878,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman missed Three Point Jumper.,20,15,1,62,1862,Holy Cross Crusaders,three point jumper,True,False,True,Simone Foreman,False,,13.0,21.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Holy Cross Offensive Rebound.,20,15,1,62,1862,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy made Three Point Jumper. Assisted by Lindsay Berger.,20,18,1,52,1852,Holy Cross Crusaders,three point jumper,True,True,True,Bronagh Power-Cassidy,True,Lindsay Berger,29.0,25.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Jumper.,22,18,1,22,1822,Iowa Hawkeyes,jumper,True,True,False,Caitlin Clark,False,,22.0,9.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Cara McCormack.,22,18,1,22,1822,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Free Throw.,23,18,1,22,1822,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy made Three Point Jumper. Assisted by Lindsay Berger.,23,21,1,4,1804,Holy Cross Crusaders,three point jumper,True,True,True,Bronagh Power-Cassidy,True,Lindsay Berger,6.0,13.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,End of 1st Quarter,23,21,1,0,1800,,end,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Jump Ball won by Holy Cross,23,21,2,600,1800,Holy Cross Crusaders,jump ball,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy missed Three Point Jumper.,23,21,2,590,1790,Holy Cross Crusaders,three point jumper,True,False,True,Bronagh Power-Cassidy,False,,40.0,20.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Iowa Defensive Rebound.,23,21,2,590,1790,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin made Three Point Jumper. Assisted by Caitlin Clark.,26,21,2,580,1780,Iowa Hawkeyes,three point jumper,True,True,True,Kate Martin,True,Caitlin Clark,2.0,-1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen Turnover.,26,21,2,560,1760,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark missed Layup.,26,21,2,551,1751,Iowa Hawkeyes,layup,True,False,False,Caitlin Clark,False,,21.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kaitlyn Flanagan Defensive Rebound.,26,21,2,551,1751,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy Turnover.,26,21,2,530,1730,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Bronagh Power-Cassidy.,26,21,2,530,1730,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Free Throw.,27,21,2,530,1730,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Free Throw.,28,21,2,530,1730,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark missed Three Point Jumper.,28,21,2,519,1719,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,41.0,19.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman Defensive Rebound.,28,21,2,519,1719,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack missed Three Point Jumper.,28,21,2,496,1696,Holy Cross Crusaders,three point jumper,True,False,True,Cara McCormack,False,,23.0,25.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Defensive Rebound.,28,21,2,496,1696,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Jump Ball won by Iowa,28,21,2,489,1689,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Turnover.,28,21,2,477,1677,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy missed Layup.,28,21,2,469,1669,Holy Cross Crusaders,layup,True,False,False,Bronagh Power-Cassidy,False,,22.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy Offensive Rebound.,28,21,2,469,1669,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman Turnover.,28,21,2,448,1648,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kylie Feuerbach Steal.,28,21,2,448,1648,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall missed Three Point Jumper.,28,21,2,442,1642,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,44.0,14.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter Offensive Rebound.,28,21,2,442,1642,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Simone Foreman.,28,21,2,436,1636,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark missed Jumper.,28,21,2,433,1633,Iowa Hawkeyes,jumper,True,False,False,Caitlin Clark,False,,30.0,20.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Hannah Stuelke Offensive Rebound.,28,21,2,433,1633,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall made Three Point Jumper. Assisted by Caitlin Clark.,31,21,2,428,1628,Iowa Hawkeyes,three point jumper,True,True,True,Gabbie Marshall,True,Caitlin Clark,4.0,10.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Hannah Stuelke.,31,21,2,401,1601,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen missed Free Throw.,31,21,2,401,1601,Holy Cross Crusaders,free throw,True,False,False,Janelle Allen,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Holy Cross Deadball Team Rebound.,31,21,2,401,1601,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen made Free Throw.,31,22,2,401,1601,Holy Cross Crusaders,free throw,True,True,False,Janelle Allen,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Bronagh Power-Cassidy.,31,22,2,395,1595,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady missed Free Throw.,31,22,2,395,1595,Iowa Hawkeyes,free throw,True,False,False,Addison O'Grady,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Iowa Deadball Team Rebound.,31,22,2,395,1595,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady missed Free Throw.,31,22,2,395,1595,Iowa Hawkeyes,free throw,True,False,False,Addison O'Grady,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright Defensive Rebound.,31,22,2,395,1595,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Caitlin Clark.,31,22,2,374,1574,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy made Free Throw.,31,23,2,374,1574,Holy Cross Crusaders,free throw,True,True,False,Bronagh Power-Cassidy,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy made Free Throw.,31,24,2,374,1574,Holy Cross Crusaders,free throw,True,True,False,Bronagh Power-Cassidy,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kylie Feuerbach missed Three Point Jumper.,31,24,2,363,1563,Iowa Hawkeyes,three point jumper,True,False,True,Kylie Feuerbach,False,,40.0,19.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady Offensive Rebound.,31,24,2,363,1563,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kylie Feuerbach missed Jumper.,31,24,2,357,1557,Iowa Hawkeyes,jumper,True,False,False,Kylie Feuerbach,False,,25.0,6.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright Defensive Rebound.,31,24,2,357,1557,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Addison O'Grady.,31,24,2,348,1548,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen missed Free Throw.,31,24,2,348,1548,Holy Cross Crusaders,free throw,True,False,False,Janelle Allen,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Holy Cross Deadball Team Rebound.,31,24,2,348,1548,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen missed Free Throw.,31,24,2,348,1548,Holy Cross Crusaders,free throw,True,False,False,Janelle Allen,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Defensive Rebound.,31,24,2,348,1548,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Janelle Allen.,31,24,2,340,1540,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Free Throw.,32,24,2,340,1540,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Free Throw.,33,24,2,340,1540,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy missed Layup.,33,24,2,317,1517,Holy Cross Crusaders,layup,True,False,False,Bronagh Power-Cassidy,False,,29.0,2.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady Defensive Rebound.,33,24,2,317,1517,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter made Three Point Jumper. Assisted by Kate Martin.,36,24,2,307,1507,Iowa Hawkeyes,three point jumper,True,True,True,Sydney Affolter,True,Kate Martin,2.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright missed Jumper.,36,24,2,284,1484,Holy Cross Crusaders,jumper,True,False,False,Callie Wright,False,,35.0,19.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Defensive Rebound.,36,24,2,284,1484,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady made Layup. Assisted by Caitlin Clark.,38,24,2,273,1473,Iowa Hawkeyes,layup,True,True,False,Addison O'Grady,True,Caitlin Clark,23.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Holy Cross  Timeout,38,24,2,269,1469,Holy Cross Crusaders,timeout,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy made Jumper.,38,26,2,249,1449,Holy Cross Crusaders,jumper,True,True,False,Bronagh Power-Cassidy,False,,21.0,4.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Addison O'Grady.,38,26,2,249,1449,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy made Free Throw.,38,27,2,249,1449,Holy Cross Crusaders,free throw,True,True,False,Bronagh Power-Cassidy,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Turnover.,38,27,2,244,1444,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman Steal.,38,27,2,244,1444,Holy Cross Crusaders,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack missed Three Point Jumper.,38,27,2,233,1433,Holy Cross Crusaders,three point jumper,True,False,True,Cara McCormack,False,,48.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman Offensive Rebound.,38,27,2,233,1433,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Meg Cahalan missed Three Point Jumper.,38,27,2,227,1427,Holy Cross Crusaders,three point jumper,True,False,True,Meg Cahalan,False,,27.0,25.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Defensive Rebound.,38,27,2,227,1427,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Taylor McCabe missed Three Point Jumper.,38,27,2,221,1421,Iowa Hawkeyes,three point jumper,True,False,True,Taylor McCabe,False,,13.0,22.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,AJ Ediger Offensive Rebound.,38,27,2,221,1421,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Three Point Jumper.,41,27,2,207,1407,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,False,,44.0,19.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman missed Layup.,41,27,2,182,1382,Holy Cross Crusaders,layup,True,False,False,Simone Foreman,False,,22.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Defensive Rebound.,41,27,2,182,1382,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Taylor McCabe made Three Point Jumper. Assisted by Caitlin Clark.,44,27,2,173,1373,Iowa Hawkeyes,three point jumper,True,True,True,Taylor McCabe,True,Caitlin Clark,10.0,19.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack missed Jumper.,44,27,2,150,1350,Holy Cross Crusaders,jumper,True,False,False,Cara McCormack,False,,34.0,3.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kylie Feuerbach Block.,44,27,2,150,1350,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Defensive Rebound.,44,27,2,150,1350,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Bronagh Power-Cassidy.,44,27,2,137,1337,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin made Free Throw.,45,27,2,137,1337,Iowa Hawkeyes,free throw,True,True,False,Kate Martin,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin missed Free Throw.,45,27,2,137,1337,Iowa Hawkeyes,free throw,True,False,False,Kate Martin,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy Defensive Rebound.,45,27,2,137,1337,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Meg Cahalan missed Three Point Jumper.,45,27,2,116,1316,Holy Cross Crusaders,three point jumper,True,False,True,Meg Cahalan,False,,10.0,18.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Defensive Rebound.,45,27,2,116,1316,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark missed Three Point Jumper.,45,27,2,111,1311,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,44.0,20.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Lindsay Berger Defensive Rebound.,45,27,2,111,1311,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kaitlyn Flanagan missed Layup.,45,27,2,99,1299,Holy Cross Crusaders,layup,True,False,False,Kaitlyn Flanagan,False,,22.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Lindsay Berger Offensive Rebound.,45,27,2,99,1299,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on AJ Ediger.,45,27,2,96,1296,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Lindsay Berger made Free Throw.,45,28,2,96,1296,Holy Cross Crusaders,free throw,True,True,False,Lindsay Berger,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Lindsay Berger made Free Throw.,45,29,2,96,1296,Holy Cross Crusaders,free throw,True,True,False,Lindsay Berger,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin made Layup. Assisted by Caitlin Clark.,47,29,2,90,1290,Iowa Hawkeyes,layup,True,True,False,Kate Martin,True,Caitlin Clark,28.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack Turnover.,47,29,2,73,1273,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall Steal.,47,29,2,73,1273,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Kaitlyn Flanagan.,47,29,2,64,1264,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark missed Free Throw.,47,29,2,64,1264,Iowa Hawkeyes,free throw,True,False,False,Caitlin Clark,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Iowa Deadball Team Rebound.,47,29,2,64,1264,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Free Throw.,48,29,2,64,1264,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Kate Martin.,48,29,2,50,1250,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kaitlyn Flanagan made Free Throw.,48,30,2,50,1250,Holy Cross Crusaders,free throw,True,True,False,Kaitlyn Flanagan,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kaitlyn Flanagan missed Free Throw.,48,30,2,50,1250,Holy Cross Crusaders,free throw,True,False,False,Kaitlyn Flanagan,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kylie Feuerbach Defensive Rebound.,48,30,2,50,1250,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Caitlin Clark.,48,30,2,41,1241,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Turnover.,48,30,2,41,1241,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kaitlyn Flanagan Turnover.,48,30,2,25,1225,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Steal.,48,30,2,25,1225,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall missed Three Point Jumper.,48,30,2,2,1202,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,2.0,2.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Lindsay Berger Defensive Rebound.,48,30,2,2,1202,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,End of 2nd Quarter,48,30,2,0,1200,,end,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Jump Ball won by Holy Cross,48,30,3,600,1200,Holy Cross Crusaders,jump ball,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack made Jumper. Assisted by Bronagh Power-Cassidy.,48,32,3,589,1189,Holy Cross Crusaders,jumper,True,True,False,Cara McCormack,True,Bronagh Power-Cassidy,15.0,12.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin missed Three Point Jumper.,48,32,3,573,1173,Iowa Hawkeyes,three point jumper,True,False,True,Kate Martin,False,,8.0,16.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady Offensive Rebound.,48,32,3,573,1173,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark missed Layup.,48,32,3,565,1165,Iowa Hawkeyes,layup,True,False,False,Caitlin Clark,False,,22.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Offensive Rebound.,48,32,3,565,1165,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark missed Jumper.,48,32,3,560,1160,Iowa Hawkeyes,jumper,True,False,False,Caitlin Clark,False,,30.0,11.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright Defensive Rebound.,48,32,3,560,1160,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen made Jumper. Assisted by Kaitlyn Flanagan.,48,34,3,546,1146,Holy Cross Crusaders,jumper,True,True,False,Janelle Allen,True,Kaitlyn Flanagan,20.0,3.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin made Layup. Assisted by Caitlin Clark.,50,34,3,533,1133,Iowa Hawkeyes,layup,True,True,False,Kate Martin,True,Caitlin Clark,27.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Callie Wright.,50,34,3,533,1133,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin made Free Throw.,51,34,3,533,1133,Iowa Hawkeyes,free throw,True,True,False,Kate Martin,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack missed Three Point Jumper.,51,34,3,522,1122,Holy Cross Crusaders,three point jumper,True,False,True,Cara McCormack,False,,17.0,23.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Iowa Defensive Rebound.,51,34,3,522,1122,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter missed Three Point Jumper.,51,34,3,513,1113,Iowa Hawkeyes,three point jumper,True,False,True,Sydney Affolter,False,,48.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Lindsay Berger Defensive Rebound.,51,34,3,513,1113,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Lindsay Berger missed Jumper.,51,34,3,503,1103,Holy Cross Crusaders,jumper,True,False,False,Lindsay Berger,False,,7.0,9.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Defensive Rebound.,51,34,3,503,1103,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark missed Jumper.,51,34,3,494,1094,Iowa Hawkeyes,jumper,True,False,False,Caitlin Clark,False,,19.0,5.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack Defensive Rebound.,51,34,3,494,1094,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen made Layup. Assisted by Kaitlyn Flanagan.,51,36,3,478,1078,Holy Cross Crusaders,layup,True,True,False,Janelle Allen,True,Kaitlyn Flanagan,20.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Kaitlyn Flanagan.,51,36,3,463,1063,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin missed Three Point Jumper.,51,36,3,462,1062,Iowa Hawkeyes,three point jumper,True,False,True,Kate Martin,False,,9.0,18.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter Offensive Rebound.,51,36,3,462,1062,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter made Layup.,53,36,3,455,1055,Iowa Hawkeyes,layup,True,True,False,Sydney Affolter,False,,27.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Lindsay Berger missed Jumper.,53,36,3,441,1041,Holy Cross Crusaders,jumper,True,False,False,Lindsay Berger,False,,7.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter Defensive Rebound.,53,36,3,441,1041,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Lindsay Berger.,53,36,3,433,1033,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Cara McCormack.,53,36,3,432,1032,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall made Free Throw.,54,36,3,432,1032,Iowa Hawkeyes,free throw,True,True,False,Gabbie Marshall,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall missed Free Throw.,54,36,3,432,1032,Iowa Hawkeyes,free throw,True,False,False,Gabbie Marshall,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Offensive Rebound.,54,36,3,432,1032,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady made Layup. Assisted by Kate Martin.,56,36,3,427,1027,Iowa Hawkeyes,layup,True,True,False,Addison O'Grady,True,Kate Martin,27.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen made Jumper. Assisted by Bronagh Power-Cassidy.,56,38,3,410,1010,Holy Cross Crusaders,jumper,True,True,False,Janelle Allen,True,Bronagh Power-Cassidy,26.0,19.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady made Layup. Assisted by Caitlin Clark.,58,38,3,393,993,Iowa Hawkeyes,layup,True,True,False,Addison O'Grady,True,Caitlin Clark,22.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman made Layup. Assisted by Janelle Allen.,58,40,3,378,978,Holy Cross Crusaders,layup,True,True,False,Simone Foreman,True,Janelle Allen,29.0,2.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Caitlin Clark.,58,40,3,378,978,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman made Free Throw.,58,41,3,378,978,Holy Cross Crusaders,free throw,True,True,False,Simone Foreman,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,AJ Ediger made Jumper. Assisted by Sydney Affolter.,60,41,3,370,970,Iowa Hawkeyes,jumper,True,True,False,AJ Ediger,True,Sydney Affolter,14.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen missed Three Point Jumper.,60,41,3,358,958,Holy Cross Crusaders,three point jumper,True,False,True,Janelle Allen,False,,8.0,17.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter Defensive Rebound.,60,41,3,358,958,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Three Point Jumper.,63,41,3,348,948,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,False,,35.0,24.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack Turnover.,63,41,3,331,931,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Steal.,63,41,3,331,931,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Iowa  Timeout,63,41,3,322,922,Iowa Hawkeyes,timeout,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kylie Feuerbach missed Three Point Jumper.,63,41,3,312,912,Iowa Hawkeyes,three point jumper,True,False,True,Kylie Feuerbach,False,,33.0,24.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman Defensive Rebound.,63,41,3,312,912,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kaitlyn Flanagan made Layup.,63,43,3,293,893,Holy Cross Crusaders,layup,True,True,False,Kaitlyn Flanagan,False,,29.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin missed Three Point Jumper.,63,43,3,279,879,Iowa Hawkeyes,three point jumper,True,False,True,Kate Martin,False,,8.0,16.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman Defensive Rebound.,63,43,3,279,879,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack made Three Point Jumper. Assisted by Simone Foreman.,63,46,3,270,870,Holy Cross Crusaders,three point jumper,True,True,True,Cara McCormack,True,Simone Foreman,6.0,15.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Three Point Jumper.,66,46,3,255,855,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,False,,9.0,17.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman missed Three Point Jumper.,66,46,3,233,833,Holy Cross Crusaders,three point jumper,True,False,True,Simone Foreman,False,,39.0,21.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall Defensive Rebound.,66,46,3,233,833,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Layup.,68,46,3,221,821,Iowa Hawkeyes,layup,True,True,False,Caitlin Clark,False,,27.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman missed Three Point Jumper.,68,46,3,204,804,Holy Cross Crusaders,three point jumper,True,False,True,Simone Foreman,False,,45.0,13.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Defensive Rebound.,68,46,3,204,804,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall missed Three Point Jumper.,68,46,3,192,792,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,34.0,24.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy Defensive Rebound.,68,46,3,192,792,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack missed Layup.,68,46,3,182,782,Holy Cross Crusaders,layup,True,False,False,Cara McCormack,False,,23.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Block.,68,46,3,182,782,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Holy Cross Offensive Rebound.,68,46,3,182,782,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders, Official TV Timeout,68,46,3,182,782,,tv timeout,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Mary-Elizabeth Donnelly missed Layup.,68,46,3,177,777,Holy Cross Crusaders,layup,True,False,False,Mary-Elizabeth Donnelly,False,,29.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Defensive Rebound.,68,46,3,177,777,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady Turnover.,68,46,3,165,765,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Addison O'Grady.,68,46,3,148,748,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen made Free Throw.,68,47,3,148,748,Holy Cross Crusaders,free throw,True,True,False,Janelle Allen,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen made Free Throw.,68,48,3,148,748,Holy Cross Crusaders,free throw,True,True,False,Janelle Allen,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady made Layup. Assisted by Gabbie Marshall.,70,48,3,133,733,Iowa Hawkeyes,layup,True,True,False,Addison O'Grady,True,Gabbie Marshall,27.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen missed Layup.,70,48,3,112,712,Holy Cross Crusaders,layup,True,False,False,Janelle Allen,False,,23.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady Block.,70,48,3,112,712,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Holy Cross Offensive Rebound.,70,48,3,112,712,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kaitlyn Flanagan Turnover.,70,48,3,102,702,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter Steal.,70,48,3,102,702,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Jump Ball won by Iowa,70,48,3,102,702,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady missed Layup.,70,48,3,97,697,Iowa Hawkeyes,layup,True,False,False,Addison O'Grady,False,,22.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman Block.,70,48,3,97,697,Holy Cross Crusaders,block,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Iowa Offensive Rebound.,70,48,3,97,697,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Addison O'Grady.,70,48,3,96,696,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady Turnover.,70,48,3,96,696,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman missed Three Point Jumper.,70,48,3,81,681,Holy Cross Crusaders,three point jumper,True,False,True,Simone Foreman,False,,21.0,24.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Defensive Rebound.,70,48,3,81,681,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Taylor McCabe missed Three Point Jumper.,70,48,3,72,672,Iowa Hawkeyes,three point jumper,True,False,True,Taylor McCabe,False,,16.0,23.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Taylor McCabe Offensive Rebound.,70,48,3,72,672,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter missed Layup.,70,48,3,56,656,Iowa Hawkeyes,layup,True,False,False,Sydney Affolter,False,,28.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,AJ Ediger Offensive Rebound.,70,48,3,56,656,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter missed Three Point Jumper.,70,48,3,48,648,Iowa Hawkeyes,three point jumper,True,False,True,Sydney Affolter,False,,48.0,-2.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Offensive Rebound.,70,48,3,48,648,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Janelle Allen.,70,48,3,44,644,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin missed Free Throw.,70,48,3,44,644,Iowa Hawkeyes,free throw,True,False,False,Kate Martin,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Iowa Deadball Team Rebound.,70,48,3,44,644,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin made Free Throw.,71,48,3,44,644,Iowa Hawkeyes,free throw,True,True,False,Kate Martin,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy made Layup. Assisted by Cara McCormack.,71,50,3,33,633,Holy Cross Crusaders,layup,True,True,False,Bronagh Power-Cassidy,True,Cara McCormack,25.0,4.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall missed Three Point Jumper.,71,50,3,3,603,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,48.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kaitlyn Flanagan Defensive Rebound.,71,50,3,3,603,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,End of 3rd Quarter,71,50,3,0,600,,end,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Jump Ball won by Holy Cross,71,50,4,600,600,Holy Cross Crusaders,jump ball,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kaitlyn Flanagan missed Three Point Jumper.,71,50,4,594,594,Holy Cross Crusaders,three point jumper,True,False,True,Kaitlyn Flanagan,False,,41.0,17.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter Defensive Rebound.,71,50,4,594,594,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark missed Three Point Jumper.,71,50,4,571,571,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,45.0,21.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Lindsay Berger Defensive Rebound.,71,50,4,571,571,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy Turnover.,71,50,4,552,552,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Steal.,71,50,4,552,552,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Layup.,73,50,4,548,548,Iowa Hawkeyes,layup,True,True,False,Caitlin Clark,False,,23.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack missed Three Point Jumper.,73,50,4,527,527,Holy Cross Crusaders,three point jumper,True,False,True,Cara McCormack,False,,22.0,24.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy Offensive Rebound.,73,50,4,527,527,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kaitlyn Flanagan Turnover.,73,50,4,519,519,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Steal.,73,50,4,519,519,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Layup.,75,50,4,512,512,Iowa Hawkeyes,layup,True,True,False,Caitlin Clark,False,,22.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy missed Three Point Jumper.,75,50,4,501,501,Holy Cross Crusaders,three point jumper,True,False,True,Bronagh Power-Cassidy,False,,2.0,3.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Iowa Defensive Rebound.,75,50,4,501,501,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,AJ Ediger made Layup. Assisted by Sydney Affolter.,77,50,4,487,487,Iowa Hawkeyes,layup,True,True,False,AJ Ediger,True,Sydney Affolter,22.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Holy Cross  Timeout,77,50,4,478,478,Holy Cross Crusaders,timeout,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Sydney Affolter.,77,50,4,462,462,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on AJ Ediger.,77,50,4,447,447,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen made Free Throw.,77,51,4,447,447,Holy Cross Crusaders,free throw,True,True,False,Janelle Allen,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen made Free Throw.,77,52,4,447,447,Holy Cross Crusaders,free throw,True,True,False,Janelle Allen,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kylie Feuerbach missed Three Point Jumper.,77,52,4,428,428,Iowa Hawkeyes,three point jumper,True,False,True,Kylie Feuerbach,False,,48.0,-1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,AJ Ediger Offensive Rebound.,77,52,4,428,428,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark missed Three Point Jumper.,77,52,4,417,417,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,8.0,16.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kaitlyn Flanagan Defensive Rebound.,77,52,4,417,417,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack missed Three Point Jumper.,77,52,4,409,409,Holy Cross Crusaders,three point jumper,True,False,True,Cara McCormack,False,,6.0,17.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kate Martin Defensive Rebound.,77,52,4,409,409,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark made Layup.,79,52,4,402,402,Iowa Hawkeyes,layup,True,True,False,Caitlin Clark,False,,21.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack Turnover.,79,52,4,387,387,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,AJ Ediger Steal.,79,52,4,387,387,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Cara McCormack.,79,52,4,382,382,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall missed Free Throw.,79,52,4,382,382,Iowa Hawkeyes,free throw,True,False,False,Gabbie Marshall,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Iowa Deadball Team Rebound.,79,52,4,382,382,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall made Free Throw.,80,52,4,382,382,Iowa Hawkeyes,free throw,True,True,False,Gabbie Marshall,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack missed Three Point Jumper.,80,52,4,370,370,Holy Cross Crusaders,three point jumper,True,False,True,Cara McCormack,False,,43.0,16.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright Offensive Rebound.,80,52,4,370,370,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy missed Three Point Jumper.,80,52,4,357,357,Holy Cross Crusaders,three point jumper,True,False,True,Bronagh Power-Cassidy,False,,6.0,19.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Caitlin Clark Block.,80,52,4,357,357,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady Defensive Rebound.,80,52,4,357,357,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady Turnover.,80,52,4,341,341,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy Steal.,80,52,4,341,341,Holy Cross Crusaders,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen missed Jumper.,80,52,4,332,332,Holy Cross Crusaders,jumper,True,False,False,Janelle Allen,False,,25.0,20.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Callie Wright Offensive Rebound.,80,52,4,332,332,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen missed Three Point Jumper.,80,52,4,326,326,Holy Cross Crusaders,three point jumper,True,False,True,Janelle Allen,False,,27.0,24.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack Offensive Rebound.,80,52,4,326,326,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Bronagh Power-Cassidy missed Three Point Jumper.,80,52,4,319,319,Holy Cross Crusaders,three point jumper,True,False,True,Bronagh Power-Cassidy,False,,41.0,17.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady Defensive Rebound.,80,52,4,319,319,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Addison O'Grady made Layup. Assisted by Caitlin Clark.,82,52,4,311,311,Iowa Hawkeyes,layup,True,True,False,Addison O'Grady,True,Caitlin Clark,27.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Foreman missed Three Point Jumper.,82,52,4,293,293,Holy Cross Crusaders,three point jumper,True,False,True,Simone Foreman,False,,2.0,2.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen Offensive Rebound.,82,52,4,293,293,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Sydney Affolter.,82,52,4,289,289,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen missed Free Throw.,82,52,4,289,289,Holy Cross Crusaders,free throw,True,False,False,Janelle Allen,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Holy Cross Deadball Team Rebound.,82,52,4,289,289,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen made Free Throw.,82,53,4,289,289,Holy Cross Crusaders,free throw,True,True,False,Janelle Allen,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Taylor McCabe missed Three Point Jumper.,82,53,4,279,279,Iowa Hawkeyes,three point jumper,True,False,True,Taylor McCabe,False,,29.0,26.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter Offensive Rebound.,82,53,4,279,279,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter made Layup. Assisted by Kylie Feuerbach.,84,53,4,263,263,Iowa Hawkeyes,layup,True,True,False,Sydney Affolter,True,Kylie Feuerbach,22.0,0.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack made Three Point Jumper. Assisted by Janelle Allen.,84,56,4,248,248,Holy Cross Crusaders,three point jumper,True,True,True,Cara McCormack,True,Janelle Allen,11.0,21.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Gabbie Marshall Turnover.,84,56,4,235,235,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack Steal.,84,56,4,235,235,Holy Cross Crusaders,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack made Three Point Jumper. Assisted by Bronagh Power-Cassidy.,84,59,4,229,229,Holy Cross Crusaders,three point jumper,True,True,True,Cara McCormack,True,Bronagh Power-Cassidy,1.0,3.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Taylor McCabe missed Three Point Jumper.,84,59,4,216,216,Iowa Hawkeyes,three point jumper,True,False,True,Taylor McCabe,False,,9.0,18.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Cara McCormack Defensive Rebound.,84,59,4,216,216,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janelle Allen made Layup.,84,61,4,196,196,Holy Cross Crusaders,layup,True,True,False,Janelle Allen,False,,22.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sharon Goodman made Layup. Assisted by Taylor McCabe.,86,61,4,181,181,Iowa Hawkeyes,layup,True,True,False,Sharon Goodman,True,Taylor McCabe,22.0,4.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Mary-Elizabeth Donnelly missed Three Point Jumper.,86,61,4,169,169,Holy Cross Crusaders,three point jumper,True,False,True,Mary-Elizabeth Donnelly,False,,25.0,24.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Lauren Huber Offensive Rebound.,86,61,4,169,169,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Hannah Griffin Turnover.,86,61,4,152,152,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kylie Feuerbach Steal.,86,61,4,152,152,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sharon Goodman missed Layup.,86,61,4,118,118,Iowa Hawkeyes,layup,True,False,False,Sharon Goodman,False,,27.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Janie Bachmann Defensive Rebound.,86,61,4,118,118,Holy Cross Crusaders,rebound,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Lewis made Jumper. Assisted by Hannah Griffin.,86,63,4,103,103,Holy Cross Crusaders,jumper,True,True,False,Simone Lewis,True,Hannah Griffin,15.0,17.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sharon Goodman made Jumper. Assisted by Sydney Affolter.,88,63,4,74,74,Iowa Hawkeyes,jumper,True,True,False,Sharon Goodman,True,Sydney Affolter,25.0,5.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Mary-Elizabeth Donnelly.,88,63,4,74,74,Holy Cross Crusaders,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sharon Goodman made Free Throw.,89,63,4,74,74,Iowa Hawkeyes,free throw,True,True,False,Sharon Goodman,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Foul on Jada Gyamfi.,89,63,4,60,60,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Mary-Elizabeth Donnelly made Jumper.,89,65,4,59,59,Holy Cross Crusaders,jumper,True,True,False,Mary-Elizabeth Donnelly,False,,14.0,15.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Jump Ball won by Iowa,89,65,4,47,47,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Kylie Feuerbach made Layup.,91,65,4,43,43,Iowa Hawkeyes,layup,True,True,False,Kylie Feuerbach,False,,23.0,1.0
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Simone Lewis Turnover.,91,65,4,28,28,Holy Cross Crusaders,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Sydney Affolter Steal.,91,65,4,28,28,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,Iowa  Turnover.,91,65,4,1,1,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637573,Iowa Hawkeyes,Holy Cross Crusaders,End of Game,91,65,4,0,0,,end,False,False,False,,False,,,

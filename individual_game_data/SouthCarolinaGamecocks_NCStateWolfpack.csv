@@ -1,0 +1,326 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637611,South Carolina Gamecocks,NC State Wolfpack,Jump Ball won by South Carolina,0,0,1,600,2400,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Chloe Kitts Turnover.,0,0,1,581,2381,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers Steal.,0,0,1,581,2381,NC State Wolfpack,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers missed Layup.,0,0,1,573,2373,NC State Wolfpack,layup,True,False,False,Saniya Rivers,False,,23.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Defensive Rebound.,0,0,1,573,2373,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Te-Hina Paopao made Jumper.,2,0,1,563,2363,South Carolina Gamecocks,jumper,True,True,False,Te-Hina Paopao,False,,28.0,7.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers Turnover.,2,0,1,549,2349,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Te-Hina Paopao Steal.,2,0,1,549,2349,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Raven Johnson made Three Point Jumper. Assisted by Te-Hina Paopao.,5,0,1,541,2341,South Carolina Gamecocks,three point jumper,True,True,True,Raven Johnson,True,Te-Hina Paopao,2.0,0.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James missed Layup.,5,0,1,521,2321,NC State Wolfpack,layup,True,False,False,Aziaha James,False,,29.0,2.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Offensive Rebound.,5,0,1,521,2321,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin made Layup.,5,2,1,516,2316,NC State Wolfpack,layup,True,True,False,River Baldwin,False,,21.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Te-Hina Paopao missed Three Point Jumper.,5,2,1,495,2295,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,29.0,24.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers Defensive Rebound.,5,2,1,495,2295,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins made Jumper.,5,4,1,474,2274,NC State Wolfpack,jumper,True,True,False,Mimi Collins,False,,27.0,15.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Chloe Kitts missed Layup.,5,4,1,444,2244,South Carolina Gamecocks,layup,True,False,False,Chloe Kitts,False,,22.0,0.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Offensive Rebound.,5,4,1,444,2244,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Jump Ball won by NC State,5,4,1,441,2241,NC State Wolfpack,jump ball,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Turnover.,5,4,1,441,2241,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Steal.,5,4,1,441,2241,NC State Wolfpack,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Turnover.,5,4,1,432,2232,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Raven Johnson Steal.,5,4,1,432,2232,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Raven Johnson missed Layup.,5,4,1,426,2226,South Carolina Gamecocks,layup,True,False,False,Raven Johnson,False,,27.0,2.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,NC State Defensive Rebound.,5,4,1,426,2226,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers Turnover.,5,4,1,407,2207,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Raven Johnson Steal.,5,4,1,407,2207,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Te-Hina Paopao.,5,4,1,390,2190,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Te-Hina Paopao Turnover.,5,4,1,390,2190,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James made Three Point Jumper.,5,7,1,379,2179,NC State Wolfpack,three point jumper,True,True,True,Aziaha James,False,,10.0,23.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso made Jumper. Assisted by Raven Johnson.,7,7,1,361,2161,South Carolina Gamecocks,jumper,True,True,False,Kamilla Cardoso,True,Raven Johnson,18.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin missed Layup.,7,7,1,348,2148,NC State Wolfpack,layup,True,False,False,River Baldwin,False,,28.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Block.,7,7,1,348,2148,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Chloe Kitts Defensive Rebound.,7,7,1,348,2148,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Aziaha James.,7,7,1,339,2139,NC State Wolfpack,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Madison Hayes Defensive Rebound.,7,7,1,332,2132,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Bree Hall missed Three Point Jumper.,7,7,1,332,2132,South Carolina Gamecocks,three point jumper,True,False,True,Bree Hall,False,,47.0,6.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James made Three Point Jumper.,7,10,1,322,2122,NC State Wolfpack,three point jumper,True,True,True,Aziaha James,False,,24.0,26.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Turnover.,7,10,1,303,2103,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins Steal.,7,10,1,303,2103,NC State Wolfpack,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Madison Hayes missed Three Point Jumper.,7,10,1,296,2096,NC State Wolfpack,three point jumper,True,False,True,Madison Hayes,False,,45.0,15.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,7,10,1,296,2096,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso made Jumper. Assisted by Te-Hina Paopao.,9,10,1,284,2084,South Carolina Gamecocks,jumper,True,True,False,Kamilla Cardoso,True,Te-Hina Paopao,26.0,3.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers made Layup.,9,12,1,271,2071,NC State Wolfpack,layup,True,True,False,Saniya Rivers,False,,27.0,0.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins missed Layup.,9,12,1,257,2057,South Carolina Gamecocks,layup,True,False,False,Ashlyn Watkins,False,,21.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Offensive Rebound.,9,12,1,257,2057,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Bree Hall missed Three Point Jumper.,9,12,1,244,2044,South Carolina Gamecocks,three point jumper,True,False,True,Bree Hall,False,,48.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James Defensive Rebound.,9,12,1,244,2044,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James missed Three Point Jumper.,9,12,1,237,2037,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,12.0,24.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,9,12,1,237,2037,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins missed Layup.,9,12,1,218,2018,South Carolina Gamecocks,layup,True,False,False,Ashlyn Watkins,False,,30.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins Defensive Rebound.,9,12,1,218,2018,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Madison Hayes Turnover.,9,12,1,191,1991,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Raven Johnson Steal.,9,12,1,191,1991,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack, Official TV Timeout,9,12,1,191,1991,,tv timeout,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Sania Feagin missed Jumper.,9,12,1,175,1975,South Carolina Gamecocks,jumper,True,False,False,Sania Feagin,False,,25.0,20.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Offensive Rebound.,9,12,1,175,1975,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins made Layup.,11,12,1,170,1970,South Carolina Gamecocks,layup,True,True,False,Ashlyn Watkins,False,,29.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers Turnover.,11,12,1,152,1952,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley Steal.,11,12,1,152,1952,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley missed Layup.,11,12,1,146,1946,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,28.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins Defensive Rebound.,11,12,1,146,1946,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers missed Layup.,11,12,1,141,1941,NC State Wolfpack,layup,True,False,False,Saniya Rivers,False,,28.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Sania Feagin Block.,11,12,1,141,1941,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,NC State Offensive Rebound.,11,12,1,141,1941,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Jump Ball won by South Carolina,11,12,1,136,1936,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins Turnover.,11,12,1,136,1936,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley Steal.,11,12,1,136,1936,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Sania Feagin made Jumper.,13,12,1,120,1920,South Carolina Gamecocks,jumper,True,True,False,Sania Feagin,False,,23.0,3.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks missed Three Point Jumper.,13,12,1,101,1901,NC State Wolfpack,three point jumper,True,False,True,Zoe Brooks,False,,5.0,14.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks Offensive Rebound.,13,12,1,101,1901,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks made Jumper.,13,14,1,85,1885,NC State Wolfpack,jumper,True,True,False,Zoe Brooks,False,,32.0,4.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Sania Feagin Turnover.,13,14,1,72,1872,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James made Layup. Assisted by Zoe Brooks.,13,16,1,61,1861,NC State Wolfpack,layup,True,True,False,Aziaha James,True,Zoe Brooks,23.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins missed Jumper.,13,16,1,44,1844,South Carolina Gamecocks,jumper,True,False,False,Ashlyn Watkins,False,,26.0,6.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Madison Hayes Defensive Rebound.,13,16,1,44,1844,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers missed Jumper.,13,16,1,34,1834,NC State Wolfpack,jumper,True,False,False,Saniya Rivers,False,,10.0,8.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,13,16,1,34,1834,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley made Three Point Jumper. Assisted by Raven Johnson.,16,16,1,26,1826,South Carolina Gamecocks,three point jumper,True,True,True,MiLaysia Fulwiley,True,Raven Johnson,42.0,20.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers missed Three Point Jumper.,16,16,1,3,1803,NC State Wolfpack,three point jumper,True,False,True,Saniya Rivers,False,,2.0,6.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,16,16,1,3,1803,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,End of 1st Quarter,16,16,1,0,1800,,end,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Jump Ball won by NC State,16,16,2,600,1800,NC State Wolfpack,jump ball,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James missed Jumper.,16,16,2,582,1782,NC State Wolfpack,jumper,True,False,False,Aziaha James,False,,23.0,11.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Defensive Rebound.,16,16,2,582,1782,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso made Layup. Assisted by Te-Hina Paopao.,18,16,2,569,1769,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Te-Hina Paopao,22.0,0.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James missed Three Point Jumper.,18,16,2,556,1756,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,3.0,12.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Madison Hayes Offensive Rebound.,18,16,2,556,1756,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Madison Hayes missed Three Point Jumper.,18,16,2,538,1738,NC State Wolfpack,three point jumper,True,False,True,Madison Hayes,False,,48.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Defensive Rebound.,18,16,2,538,1738,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley Turnover.,18,16,2,530,1730,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Steal.,18,16,2,530,1730,NC State Wolfpack,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks made Jumper.,18,18,2,517,1717,NC State Wolfpack,jumper,True,True,False,Zoe Brooks,False,,22.0,16.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Te-Hina Paopao missed Three Point Jumper.,18,18,2,500,1700,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,40.0,21.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Offensive Rebound.,18,18,2,500,1700,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Turnover.,18,18,2,489,1689,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Steal.,18,18,2,489,1689,NC State Wolfpack,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James Turnover.,18,18,2,486,1686,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley Steal.,18,18,2,486,1686,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Te-Hina Paopao Turnover.,18,18,2,483,1683,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks Steal.,18,18,2,483,1683,NC State Wolfpack,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James missed Three Point Jumper.,18,18,2,477,1677,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,47.0,9.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,18,18,2,477,1677,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Zoe Brooks.,18,18,2,461,1661,NC State Wolfpack,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso made Free Throw.,19,18,2,461,1661,South Carolina Gamecocks,free throw,True,True,False,Kamilla Cardoso,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso made Free Throw.,20,18,2,461,1661,South Carolina Gamecocks,free throw,True,True,False,Kamilla Cardoso,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin missed Layup.,20,18,2,435,1635,NC State Wolfpack,layup,True,False,False,River Baldwin,False,,28.0,2.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Offensive Rebound.,20,18,2,435,1635,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin missed Layup.,20,18,2,430,1630,NC State Wolfpack,layup,True,False,False,River Baldwin,False,,24.0,2.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Chloe Kitts Defensive Rebound.,20,18,2,430,1630,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso made Layup. Assisted by Tessa Johnson.,22,18,2,422,1622,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Tessa Johnson,23.0,0.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers missed Jumper.,22,18,2,403,1603,NC State Wolfpack,jumper,True,False,False,Saniya Rivers,False,,40.0,2.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Defensive Rebound.,22,18,2,403,1603,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso made Layup. Assisted by Bree Hall.,24,18,2,391,1591,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Bree Hall,23.0,0.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin made Layup.,24,20,2,365,1565,NC State Wolfpack,layup,True,True,False,River Baldwin,False,,21.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso made Layup. Assisted by Tessa Johnson.,26,20,2,352,1552,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Tessa Johnson,22.0,0.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks made Jumper.,26,22,2,338,1538,NC State Wolfpack,jumper,True,True,False,Zoe Brooks,False,,29.0,10.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Tessa Johnson.,26,22,2,311,1511,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Tessa Johnson Turnover.,26,22,2,311,1511,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin made Layup. Assisted by Saniya Rivers.,26,24,2,305,1505,NC State Wolfpack,layup,True,True,False,River Baldwin,True,Saniya Rivers,22.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Bree Hall Turnover.,26,24,2,289,1489,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James Steal.,26,24,2,289,1489,NC State Wolfpack,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Bree Hall.,26,24,2,282,1482,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack, Official TV Timeout,26,24,2,282,1482,,tv timeout,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin missed Jumper.,26,24,2,275,1475,NC State Wolfpack,jumper,True,False,False,River Baldwin,False,,25.0,14.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Defensive Rebound.,26,24,2,275,1475,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso missed Jumper.,26,24,2,259,1459,South Carolina Gamecocks,jumper,True,False,False,Kamilla Cardoso,False,,25.0,15.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins Defensive Rebound.,26,24,2,259,1459,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks missed Jumper.,26,24,2,248,1448,NC State Wolfpack,jumper,True,False,False,Zoe Brooks,False,,25.0,13.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Raven Johnson Defensive Rebound.,26,24,2,248,1448,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso made Layup. Assisted by Raven Johnson.,28,24,2,240,1440,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Raven Johnson,23.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin missed Jumper.,28,24,2,217,1417,NC State Wolfpack,jumper,True,False,False,River Baldwin,False,,39.0,0.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Raven Johnson Defensive Rebound.,28,24,2,217,1417,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins missed Jumper.,28,24,2,204,1404,South Carolina Gamecocks,jumper,True,False,False,Ashlyn Watkins,False,,24.0,4.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins Defensive Rebound.,28,24,2,204,1404,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks missed Jumper.,28,24,2,182,1382,NC State Wolfpack,jumper,True,False,False,Zoe Brooks,False,,22.0,10.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Block.,28,24,2,182,1382,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Defensive Rebound.,28,24,2,182,1382,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Tessa Johnson made Jumper.,30,24,2,166,1366,South Carolina Gamecocks,jumper,True,True,False,Tessa Johnson,False,,38.0,12.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Ashlyn Watkins.,30,24,2,142,1342,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins missed Free Throw.,30,24,2,142,1342,NC State Wolfpack,free throw,True,False,False,Mimi Collins,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,NC State Deadball Team Rebound.,30,24,2,142,1342,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins made Free Throw.,30,25,2,142,1342,NC State Wolfpack,free throw,True,True,False,Mimi Collins,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso missed Layup.,30,25,2,126,1326,South Carolina Gamecocks,layup,True,False,False,Kamilla Cardoso,False,,22.0,0.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Defensive Rebound.,30,25,2,126,1326,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers missed Layup.,30,25,2,118,1318,NC State Wolfpack,layup,True,False,False,Saniya Rivers,False,,28.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Sania Feagin Defensive Rebound.,30,25,2,118,1318,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Te-Hina Paopao missed Three Point Jumper.,30,25,2,109,1309,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,10.0,20.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Defensive Rebound.,30,25,2,109,1309,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Te-Hina Paopao.,30,25,2,99,1299,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James made Free Throw.,30,26,2,99,1299,NC State Wolfpack,free throw,True,True,False,Aziaha James,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James made Free Throw.,30,27,2,99,1299,NC State Wolfpack,free throw,True,True,False,Aziaha James,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Mimi Collins.,30,27,2,86,1286,NC State Wolfpack,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Sania Feagin missed Jumper.,30,27,2,75,1275,South Carolina Gamecocks,jumper,True,False,False,Sania Feagin,False,,24.0,3.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins Defensive Rebound.,30,27,2,75,1275,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins made Three Point Jumper. Assisted by Zoe Brooks.,30,30,2,65,1265,NC State Wolfpack,three point jumper,True,True,True,Mimi Collins,True,Zoe Brooks,10.0,21.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Raven Johnson missed Three Point Jumper.,30,30,2,45,1245,South Carolina Gamecocks,three point jumper,True,False,True,Raven Johnson,False,,48.0,9.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Bree Hall Offensive Rebound.,30,30,2,45,1245,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Bree Hall missed Three Point Jumper.,30,30,2,32,1232,South Carolina Gamecocks,three point jumper,True,False,True,Bree Hall,False,,2.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,South Carolina Offensive Rebound.,30,30,2,32,1232,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Sania Feagin made Layup.,32,30,2,21,1221,South Carolina Gamecocks,layup,True,True,False,Sania Feagin,False,,28.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Sania Feagin.,32,30,2,3,1203,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins missed Free Throw.,32,30,2,3,1203,NC State Wolfpack,free throw,True,False,False,Mimi Collins,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,NC State Deadball Team Rebound.,32,30,2,3,1203,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins made Free Throw.,32,31,2,3,1203,NC State Wolfpack,free throw,True,True,False,Mimi Collins,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,End of 2nd Quarter,32,31,2,0,1200,,end,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Jump Ball won by South Carolina,32,31,3,600,1200,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Raven Johnson made Jumper.,34,31,3,592,1192,South Carolina Gamecocks,jumper,True,True,False,Raven Johnson,False,,27.0,9.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James missed Three Point Jumper.,34,31,3,571,1171,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,41.0,19.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Defensive Rebound.,34,31,3,571,1171,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Te-Hina Paopao made Three Point Jumper.,37,31,3,562,1162,South Carolina Gamecocks,three point jumper,True,True,True,Te-Hina Paopao,False,,15.0,23.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Bree Hall.,37,31,3,544,1144,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James made Free Throw.,37,32,3,544,1144,NC State Wolfpack,free throw,True,True,False,Aziaha James,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James missed Free Throw.,37,32,3,544,1144,NC State Wolfpack,free throw,True,False,False,Aziaha James,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,37,32,3,544,1144,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins missed Layup.,37,32,3,519,1119,South Carolina Gamecocks,layup,True,False,False,Ashlyn Watkins,False,,24.0,2.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Offensive Rebound.,37,32,3,519,1119,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins made Two Point Tip Shot.,39,32,3,519,1119,South Carolina Gamecocks,two point tip shot,True,True,False,Ashlyn Watkins,False,,25.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers missed Jumper.,39,32,3,502,1102,NC State Wolfpack,jumper,True,False,False,Saniya Rivers,False,,36.0,7.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,39,32,3,502,1102,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Raven Johnson made Three Point Jumper. Assisted by Te-Hina Paopao.,42,32,3,482,1082,South Carolina Gamecocks,three point jumper,True,True,True,Raven Johnson,True,Te-Hina Paopao,11.0,21.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James made Jumper.,42,34,3,466,1066,NC State Wolfpack,jumper,True,True,False,Aziaha James,False,,27.0,8.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins made Layup. Assisted by Te-Hina Paopao.,44,34,3,454,1054,South Carolina Gamecocks,layup,True,True,False,Ashlyn Watkins,True,Te-Hina Paopao,27.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Madison Hayes missed Layup.,44,34,3,431,1031,NC State Wolfpack,layup,True,False,False,Madison Hayes,False,,28.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Offensive Rebound.,44,34,3,431,1031,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Kamilla Cardoso.,44,34,3,429,1029,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin made Free Throw.,44,35,3,429,1029,NC State Wolfpack,free throw,True,True,False,River Baldwin,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin made Free Throw.,44,36,3,429,1029,NC State Wolfpack,free throw,True,True,False,River Baldwin,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley missed Jumper.,44,36,3,416,1016,South Carolina Gamecocks,jumper,True,False,False,MiLaysia Fulwiley,False,,23.0,8.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Offensive Rebound.,44,36,3,416,1016,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso made Layup.,46,36,3,412,1012,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,False,,22.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Madison Hayes missed Three Point Jumper.,46,36,3,400,1000,NC State Wolfpack,three point jumper,True,False,True,Madison Hayes,False,,45.0,15.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,46,36,3,400,1000,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso made Layup. Assisted by Raven Johnson.,48,36,3,391,991,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Raven Johnson,28.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,NC State  Timeout,48,36,3,388,988,NC State Wolfpack,timeout,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Kamilla Cardoso.,48,36,3,377,977,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James missed Jumper.,48,36,3,370,970,NC State Wolfpack,jumper,True,False,False,Aziaha James,False,,31.0,3.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,48,36,3,370,970,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Mimi Collins.,48,36,3,351,951,NC State Wolfpack,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Te-Hina Paopao Turnover.,48,36,3,342,942,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James Turnover.,48,36,3,321,921,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley missed Three Point Jumper.,48,36,3,307,907,South Carolina Gamecocks,three point jumper,True,False,True,MiLaysia Fulwiley,False,,29.0,26.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,NC State Defensive Rebound.,48,36,3,307,907,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack, Official TV Timeout,48,36,3,288,888,,tv timeout,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James Turnover.,48,36,3,275,875,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Tessa Johnson made Three Point Jumper. Assisted by Raven Johnson.,51,36,3,267,867,South Carolina Gamecocks,three point jumper,True,True,True,Tessa Johnson,True,Raven Johnson,27.0,24.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers missed Jumper.,51,36,3,252,852,NC State Wolfpack,jumper,True,False,False,Saniya Rivers,False,,32.0,14.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley Defensive Rebound.,51,36,3,252,852,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Tessa Johnson missed Three Point Jumper.,51,36,3,242,842,South Carolina Gamecocks,three point jumper,True,False,True,Tessa Johnson,False,,48.0,-1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,NC State Defensive Rebound.,51,36,3,242,842,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James missed Layup.,51,36,3,231,831,NC State Wolfpack,layup,True,False,False,Aziaha James,False,,20.0,0.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Block.,51,36,3,231,831,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,51,36,3,231,831,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Tessa Johnson missed Layup.,51,36,3,224,824,South Carolina Gamecocks,layup,True,False,False,Tessa Johnson,False,,28.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,South Carolina Offensive Rebound.,51,36,3,224,824,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley missed Layup.,51,36,3,219,819,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,22.0,2.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James Defensive Rebound.,51,36,3,219,819,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Turnover.,51,36,3,204,804,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Tessa Johnson Steal.,51,36,3,204,804,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley made Layup.,53,36,3,198,798,South Carolina Gamecocks,layup,True,True,False,MiLaysia Fulwiley,False,,23.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins missed Three Point Jumper.,53,36,3,178,778,NC State Wolfpack,three point jumper,True,False,True,Mimi Collins,False,,40.0,21.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Defensive Rebound.,53,36,3,178,778,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley missed Three Point Jumper.,53,36,3,161,761,South Carolina Gamecocks,three point jumper,True,False,True,MiLaysia Fulwiley,False,,2.0,-1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso Offensive Rebound.,53,36,3,161,761,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Kamilla Cardoso made Layup.,55,36,3,156,756,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,False,,28.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers Turnover.,55,36,3,132,732,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley Steal.,55,36,3,132,732,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley Turnover.,55,36,3,128,728,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks Steal.,55,36,3,128,728,NC State Wolfpack,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Raven Johnson.,55,36,3,117,717,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mimi Collins missed Three Point Jumper.,55,36,3,111,711,NC State Wolfpack,three point jumper,True,False,True,Mimi Collins,False,,25.0,24.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,55,36,3,111,711,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Raven Johnson missed Three Point Jumper.,55,36,3,82,682,South Carolina Gamecocks,three point jumper,True,False,True,Raven Johnson,False,,2.0,0.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks Defensive Rebound.,55,36,3,82,682,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Raven Johnson.,55,36,3,71,671,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks made Free Throw.,55,37,3,71,671,NC State Wolfpack,free throw,True,True,False,Zoe Brooks,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks missed Free Throw.,55,37,3,71,671,NC State Wolfpack,free throw,True,False,False,Zoe Brooks,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,55,37,3,71,671,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Te-Hina Paopao made Three Point Jumper. Assisted by Bree Hall.,58,37,3,47,647,South Carolina Gamecocks,three point jumper,True,True,True,Te-Hina Paopao,True,Bree Hall,39.0,22.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin missed Layup.,58,37,3,31,631,NC State Wolfpack,layup,True,False,False,River Baldwin,False,,22.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Block.,58,37,3,31,631,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Bree Hall Defensive Rebound.,58,37,3,31,631,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Bree Hall made Three Point Jumper. Assisted by Te-Hina Paopao.,61,37,3,2,602,South Carolina Gamecocks,three point jumper,True,True,True,Bree Hall,True,Te-Hina Paopao,25.0,26.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,End of 3rd Quarter,61,37,3,0,600,,end,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Jump Ball won by NC State,61,37,4,600,600,NC State Wolfpack,jump ball,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers made Three Point Jumper. Assisted by Mimi Collins.,61,40,4,585,585,NC State Wolfpack,three point jumper,True,True,True,Saniya Rivers,True,Mimi Collins,19.0,24.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Mimi Collins.,61,40,4,570,570,NC State Wolfpack,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Sania Feagin missed Layup.,61,40,4,566,566,South Carolina Gamecocks,layup,True,False,False,Sania Feagin,False,,21.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Offensive Rebound.,61,40,4,566,566,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins missed Layup.,61,40,4,561,561,South Carolina Gamecocks,layup,True,False,False,Ashlyn Watkins,False,,25.0,2.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Sania Feagin Offensive Rebound.,61,40,4,561,561,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Jump Ball won by South Carolina,61,40,4,556,556,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Tessa Johnson made Jumper.,63,40,4,554,554,South Carolina Gamecocks,jumper,True,True,False,Tessa Johnson,False,,23.0,16.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin missed Jumper.,63,40,4,539,539,NC State Wolfpack,jumper,True,False,False,River Baldwin,False,,11.0,5.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,63,40,4,539,539,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Te-Hina Paopao made Jumper.,65,40,4,513,513,South Carolina Gamecocks,jumper,True,True,False,Te-Hina Paopao,False,,24.0,10.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James made Jumper.,65,42,4,498,498,NC State Wolfpack,jumper,True,True,False,Aziaha James,False,,28.0,4.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on River Baldwin.,65,42,4,481,481,NC State Wolfpack,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Bree Hall.,65,42,4,465,465,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Bree Hall Turnover.,65,42,4,465,465,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James missed Three Point Jumper.,65,42,4,452,452,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,4.0,10.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,65,42,4,452,452,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins made Jumper.,67,42,4,434,434,South Carolina Gamecocks,jumper,True,True,False,Ashlyn Watkins,False,,25.0,12.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Madison Hayes made Three Point Jumper. Assisted by Mimi Collins.,67,45,4,422,422,NC State Wolfpack,three point jumper,True,True,True,Madison Hayes,True,Mimi Collins,33.0,24.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,South Carolina  Timeout,67,45,4,412,412,South Carolina Gamecocks,timeout,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins missed Layup.,67,45,4,403,403,South Carolina Gamecocks,layup,True,False,False,Ashlyn Watkins,False,,23.0,2.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Defensive Rebound.,67,45,4,403,403,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin made Layup.,67,47,4,387,387,NC State Wolfpack,layup,True,True,False,River Baldwin,False,,26.0,2.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on MiLaysia Fulwiley.,67,47,4,375,375,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley Turnover.,67,47,4,375,375,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers missed Three Point Jumper.,67,47,4,371,371,NC State Wolfpack,three point jumper,True,False,True,Saniya Rivers,False,,30.0,25.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Sania Feagin Defensive Rebound.,67,47,4,371,371,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Raven Johnson made Three Point Jumper. Assisted by Ashlyn Watkins.,70,47,4,363,363,South Carolina Gamecocks,three point jumper,True,True,True,Raven Johnson,True,Ashlyn Watkins,48.0,-1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Saniya Rivers Turnover.,70,47,4,317,317,NC State Wolfpack,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Sania Feagin Steal.,70,47,4,317,317,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Raven Johnson made Layup. Assisted by MiLaysia Fulwiley.,72,47,4,311,311,South Carolina Gamecocks,layup,True,True,False,Raven Johnson,True,MiLaysia Fulwiley,27.0,0.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Sania Feagin.,72,47,4,297,297,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James made Free Throw.,72,48,4,297,297,NC State Wolfpack,free throw,True,True,False,Aziaha James,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James made Free Throw.,72,49,4,297,297,NC State Wolfpack,free throw,True,True,False,Aziaha James,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Sania Feagin missed Jumper.,72,49,4,281,281,South Carolina Gamecocks,jumper,True,False,False,Sania Feagin,False,,26.0,6.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Block.,72,49,4,281,281,NC State Wolfpack,block,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Madison Hayes Defensive Rebound.,72,49,4,281,281,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks missed Layup.,72,49,4,272,272,NC State Wolfpack,layup,True,False,False,Zoe Brooks,False,,26.0,3.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks Offensive Rebound.,72,49,4,272,272,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on MiLaysia Fulwiley.,72,49,4,267,267,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks made Free Throw.,72,50,4,267,267,NC State Wolfpack,free throw,True,True,False,Zoe Brooks,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks made Free Throw.,72,51,4,267,267,NC State Wolfpack,free throw,True,True,False,Zoe Brooks,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Zoe Brooks.,72,51,4,264,264,NC State Wolfpack,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Te-Hina Paopao Turnover.,72,51,4,251,251,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks Steal.,72,51,4,251,251,NC State Wolfpack,steal,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks missed Jumper.,72,51,4,246,246,NC State Wolfpack,jumper,True,False,False,Zoe Brooks,False,,19.0,13.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Ashlyn Watkins Defensive Rebound.,72,51,4,246,246,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Laci Steele.,72,51,4,218,218,NC State Wolfpack,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Tessa Johnson missed Layup.,72,51,4,207,207,South Carolina Gamecocks,layup,True,False,False,Tessa Johnson,False,,28.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Defensive Rebound.,72,51,4,207,207,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Te-Hina Paopao.,72,51,4,195,195,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks made Free Throw.,72,52,4,195,195,NC State Wolfpack,free throw,True,True,False,Zoe Brooks,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks missed Free Throw.,72,52,4,195,195,NC State Wolfpack,free throw,True,False,False,Zoe Brooks,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Chloe Kitts Defensive Rebound.,72,52,4,195,195,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Bree Hall missed Jumper.,72,52,4,170,170,South Carolina Gamecocks,jumper,True,False,False,Bree Hall,False,,13.0,0.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Defensive Rebound.,72,52,4,170,170,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James missed Three Point Jumper.,72,52,4,149,149,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,2.0,5.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Maddie Cox Offensive Rebound.,72,52,4,149,149,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks missed Jumper.,72,52,4,142,142,NC State Wolfpack,jumper,True,False,False,Zoe Brooks,False,,31.0,8.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks Offensive Rebound.,72,52,4,142,142,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks missed Layup.,72,52,4,131,131,NC State Wolfpack,layup,True,False,False,Zoe Brooks,False,,29.0,3.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin Offensive Rebound.,72,52,4,131,131,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,River Baldwin made Layup.,72,54,4,126,126,NC State Wolfpack,layup,True,True,False,River Baldwin,False,,23.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Sania Feagin made Layup. Assisted by Bree Hall.,74,54,4,120,120,South Carolina Gamecocks,layup,True,True,False,Sania Feagin,True,Bree Hall,23.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James made Three Point Jumper.,74,57,4,110,110,NC State Wolfpack,three point jumper,True,True,True,Aziaha James,False,,6.0,17.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,South Carolina  Timeout,74,57,4,96,96,South Carolina Gamecocks,timeout,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley made Layup.,76,57,4,87,87,South Carolina Gamecocks,layup,True,True,False,MiLaysia Fulwiley,False,,27.0,1.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Laci Steele missed Three Point Jumper.,76,57,4,77,77,NC State Wolfpack,three point jumper,True,False,True,Laci Steele,False,,43.0,18.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Chloe Kitts Defensive Rebound.,76,57,4,77,77,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,MiLaysia Fulwiley missed Jumper.,76,57,4,51,51,South Carolina Gamecocks,jumper,True,False,False,MiLaysia Fulwiley,False,,26.0,9.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Mallory Collier Defensive Rebound.,76,57,4,51,51,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Aziaha James missed Three Point Jumper.,76,57,4,38,38,NC State Wolfpack,three point jumper,True,False,True,Aziaha James,False,,38.0,22.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Bree Hall Block.,76,57,4,38,38,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Tessa Johnson Defensive Rebound.,76,57,4,38,38,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Foul on Aziaha James.,76,57,4,34,34,NC State Wolfpack,foul,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Tessa Johnson made Free Throw.,77,57,4,34,34,South Carolina Gamecocks,free throw,True,True,False,Tessa Johnson,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Tessa Johnson made Free Throw.,78,57,4,34,34,South Carolina Gamecocks,free throw,True,True,False,Tessa Johnson,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Laci Steele missed Three Point Jumper.,78,57,4,15,15,NC State Wolfpack,three point jumper,True,False,True,Laci Steele,False,,41.0,19.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks Offensive Rebound.,78,57,4,15,15,NC State Wolfpack,rebound,False,False,False,,False,,,
+401637611,South Carolina Gamecocks,NC State Wolfpack,Zoe Brooks made Jumper.,78,59,4,10,10,NC State Wolfpack,jumper,True,True,False,Zoe Brooks,False,,16.0,6.0
+401637611,South Carolina Gamecocks,NC State Wolfpack,End of Game,78,59,4,0,0,,end,False,False,False,,False,,,

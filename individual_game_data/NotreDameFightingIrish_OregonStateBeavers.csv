@@ -1,0 +1,311 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Jump Ball won by Oregon State,0,0,1,600,2400,Oregon State Beavers,jump ball,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen missed Layup.,0,0,1,574,2374,Oregon State Beavers,layup,True,False,False,Talia von Oelhoffen,False,,23.0,0.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen Offensive Rebound.,0,0,1,574,2374,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen Turnover.,0,0,1,568,2368,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers, Official TV Timeout,0,0,1,568,2368,,tv timeout,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Jumper.,0,0,1,561,2361,Notre Dame Fighting Irish,jumper,True,False,False,Sonia Citron,False,,19.0,11.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron Offensive Rebound.,0,0,1,561,2361,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo made Jumper.,2,0,1,543,2343,Notre Dame Fighting Irish,jumper,True,True,False,Hannah Hidalgo,False,,32.0,8.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner made Jumper. Assisted by Talia von Oelhoffen.,2,2,1,523,2323,Oregon State Beavers,jumper,True,True,False,Timea Gardiner,True,Talia von Oelhoffen,40.0,0.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall missed Jumper.,2,2,1,508,2308,Notre Dame Fighting Irish,jumper,True,False,False,Natalija Marshall,False,,18.0,17.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter Defensive Rebound.,2,2,1,508,2308,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,AJ Marotte missed Jumper.,2,2,1,493,2293,Oregon State Beavers,jumper,True,False,False,AJ Marotte,False,,27.0,13.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Offensive Rebound.,2,2,1,493,2293,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter missed Three Point Jumper.,2,2,1,473,2273,Oregon State Beavers,three point jumper,True,False,True,Donovyn Hunter,False,,5.0,11.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Offensive Rebound.,2,2,1,473,2273,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Maddy Westbeld.,2,2,1,467,2267,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner missed Three Point Jumper.,2,2,1,455,2255,Oregon State Beavers,three point jumper,True,False,True,Timea Gardiner,False,,45.0,14.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen Offensive Rebound.,2,2,1,455,2255,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen Turnover.,2,2,1,439,2239,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo missed Jumper.,2,2,1,429,2229,Notre Dame Fighting Irish,jumper,True,False,False,Hannah Hidalgo,False,,21.0,11.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Defensive Rebound.,2,2,1,429,2229,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers made Layup. Assisted by Talia von Oelhoffen.,2,4,1,404,2204,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Talia von Oelhoffen,23.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Anna DeWolfe.,2,4,1,404,2204,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers missed Free Throw.,2,4,1,404,2204,Oregon State Beavers,free throw,True,False,False,Raegan Beers,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Oregon State Offensive Rebound.,2,4,1,404,2204,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner missed Jumper.,2,4,1,392,2192,Oregon State Beavers,jumper,True,False,False,Timea Gardiner,False,,34.0,0.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo Defensive Rebound.,2,4,1,392,2192,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld made Jumper.,4,4,1,379,2179,Notre Dame Fighting Irish,jumper,True,True,False,Maddy Westbeld,False,,21.0,8.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers missed Layup.,4,4,1,356,2156,Oregon State Beavers,layup,True,False,False,Raegan Beers,False,,23.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld Block.,4,4,1,356,2156,Notre Dame Fighting Irish,block,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld Defensive Rebound.,4,4,1,356,2156,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Anna DeWolfe made Layup.,6,4,1,346,2146,Notre Dame Fighting Irish,layup,True,True,False,Anna DeWolfe,False,,27.0,0.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner made Jumper. Assisted by Talia von Oelhoffen.,6,6,1,327,2127,Oregon State Beavers,jumper,True,True,False,Timea Gardiner,True,Talia von Oelhoffen,30.0,7.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld missed Three Point Jumper.,6,6,1,319,2119,Notre Dame Fighting Irish,three point jumper,True,False,True,Maddy Westbeld,False,,33.0,23.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Defensive Rebound.,6,6,1,319,2119,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Anna DeWolfe.,6,6,1,303,2103,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen missed Jumper.,6,6,1,287,2087,Oregon State Beavers,jumper,True,False,False,Talia von Oelhoffen,False,,16.0,11.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall Defensive Rebound.,6,6,1,287,2087,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo made Layup.,8,6,1,261,2061,Notre Dame Fighting Irish,layup,True,True,False,Hannah Hidalgo,False,,20.0,0.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner missed Jumper.,8,6,1,249,2049,Oregon State Beavers,jumper,True,False,False,Timea Gardiner,False,,22.0,9.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Offensive Rebound.,8,6,1,249,2049,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner made Jumper. Assisted by Talia von Oelhoffen.,8,8,1,242,2042,Oregon State Beavers,jumper,True,True,False,Timea Gardiner,True,Talia von Oelhoffen,39.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld made Jumper. Assisted by KK Bransford.,10,8,1,214,2014,Notre Dame Fighting Irish,jumper,True,True,False,Maddy Westbeld,True,KK Bransford,15.0,10.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen Turnover.,10,8,1,197,1997,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld Steal.,10,8,1,197,1997,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Talia von Oelhoffen.,10,8,1,186,1986,Oregon State Beavers,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers, Official TV Timeout,10,8,1,186,1986,,tv timeout,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron made Free Throw.,11,8,1,186,1986,Notre Dame Fighting Irish,free throw,True,True,False,Sonia Citron,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron made Free Throw.,12,8,1,186,1986,Notre Dame Fighting Irish,free throw,True,True,False,Sonia Citron,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers made Layup. Assisted by Timea Gardiner.,12,10,1,163,1963,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Timea Gardiner,26.0,3.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,KK Bransford missed Three Point Jumper.,12,10,1,144,1944,Notre Dame Fighting Irish,three point jumper,True,False,True,KK Bransford,False,,39.0,19.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Oregon State Defensive Rebound.,12,10,1,144,1944,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers made Layup. Assisted by Talia von Oelhoffen.,12,12,1,132,1932,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Talia von Oelhoffen,23.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo missed Jumper.,12,12,1,117,1917,Notre Dame Fighting Irish,jumper,True,False,False,Hannah Hidalgo,False,,15.0,11.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Defensive Rebound.,12,12,1,117,1917,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers made Layup. Assisted by Dominika Paurova.,12,14,1,100,1900,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Dominika Paurova,27.0,0.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Dominika Paurova.,12,14,1,81,1881,Oregon State Beavers,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Three Point Jumper.,12,14,1,77,1877,Notre Dame Fighting Irish,three point jumper,True,False,True,Sonia Citron,False,,42.0,17.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Defensive Rebound.,12,14,1,77,1877,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Lily Hansford made Three Point Jumper. Assisted by Timea Gardiner.,12,17,1,54,1854,Oregon State Beavers,three point jumper,True,True,True,Lily Hansford,True,Timea Gardiner,48.0,0.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld made Three Point Jumper.,15,17,1,36,1836,Notre Dame Fighting Irish,three point jumper,True,True,True,Maddy Westbeld,False,,10.0,18.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Turnover.,15,17,1,16,1816,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall missed Jumper.,15,17,1,4,1804,Notre Dame Fighting Irish,jumper,True,False,False,Natalija Marshall,False,,40.0,-1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Lily Hansford Defensive Rebound.,15,17,1,4,1804,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Hannah Hidalgo.,15,17,1,1,1801,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,End of 1st Quarter,15,17,1,0,1800,,end,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Jump Ball won by Notre Dame,15,17,2,600,1800,Notre Dame Fighting Irish,jump ball,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld missed Jumper.,15,17,2,575,1775,Notre Dame Fighting Irish,jumper,True,False,False,Maddy Westbeld,False,,22.0,10.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall Offensive Rebound.,15,17,2,575,1775,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Anna DeWolfe missed Three Point Jumper.,15,17,2,570,1770,Notre Dame Fighting Irish,three point jumper,True,False,True,Anna DeWolfe,False,,8.0,19.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Oregon State Defensive Rebound.,15,17,2,570,1770,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Lily Hansford Turnover.,15,17,2,552,1752,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Jumper.,15,17,2,537,1737,Notre Dame Fighting Irish,jumper,True,False,False,Sonia Citron,False,,30.0,8.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Defensive Rebound.,15,17,2,537,1737,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter Turnover.,15,17,2,520,1720,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall Steal.,15,17,2,520,1720,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld made Layup. Assisted by KK Bransford.,17,17,2,510,1710,Notre Dame Fighting Irish,layup,True,True,False,Maddy Westbeld,True,KK Bransford,23.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Maddy Westbeld.,17,17,2,500,1700,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Dominika Paurova made Layup.,17,19,2,496,1696,Oregon State Beavers,layup,True,True,False,Dominika Paurova,False,,29.0,0.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall Turnover.,17,19,2,477,1677,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers made Layup.,17,21,2,470,1670,Oregon State Beavers,layup,True,True,False,Raegan Beers,False,,28.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Donovyn Hunter.,17,21,2,453,1653,Oregon State Beavers,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Anna DeWolfe missed Jumper.,17,21,2,443,1643,Notre Dame Fighting Irish,jumper,True,False,False,Anna DeWolfe,False,,23.0,12.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Dominika Paurova Block.,17,21,2,443,1643,Oregon State Beavers,block,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Dominika Paurova Defensive Rebound.,17,21,2,443,1643,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner missed Three Point Jumper.,17,21,2,432,1632,Oregon State Beavers,three point jumper,True,False,True,Timea Gardiner,False,,45.0,12.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,KK Bransford Defensive Rebound.,17,21,2,432,1632,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron made Three Point Jumper. Assisted by KK Bransford.,20,21,2,423,1623,Notre Dame Fighting Irish,three point jumper,True,True,True,Sonia Citron,True,KK Bransford,6.0,14.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Dominika Paurova Turnover.,20,21,2,401,1601,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall Steal.,20,21,2,401,1601,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron made Layup.,22,21,2,395,1595,Notre Dame Fighting Irish,layup,True,True,False,Sonia Citron,False,,23.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter made Jumper.,22,23,2,372,1572,Oregon State Beavers,jumper,True,True,False,Donovyn Hunter,False,,30.0,7.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,KK Bransford missed Layup.,22,23,2,364,1564,Notre Dame Fighting Irish,layup,True,False,False,KK Bransford,False,,21.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Defensive Rebound.,22,23,2,364,1564,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Dominika Paurova made Layup. Assisted by Donovyn Hunter.,22,25,2,356,1556,Oregon State Beavers,layup,True,True,False,Dominika Paurova,True,Donovyn Hunter,22.0,0.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Notre Dame  Timeout,22,25,2,351,1551,Notre Dame Fighting Irish,timeout,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers, Official TV Timeout,22,25,2,351,1551,,tv timeout,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo missed Layup.,22,25,2,324,1524,Notre Dame Fighting Irish,layup,True,False,False,Hannah Hidalgo,False,,29.0,2.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Notre Dame Offensive Rebound.,22,25,2,324,1524,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Jumper.,22,25,2,314,1514,Notre Dame Fighting Irish,jumper,True,False,False,Sonia Citron,False,,31.0,3.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Defensive Rebound.,22,25,2,314,1514,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Turnover.,22,25,2,291,1491,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Anna DeWolfe missed Jumper.,22,25,2,282,1482,Notre Dame Fighting Irish,jumper,True,False,False,Anna DeWolfe,False,,15.0,15.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Defensive Rebound.,22,25,2,282,1482,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Turnover.,22,25,2,267,1467,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo Steal.,22,25,2,267,1467,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Donovyn Hunter.,22,25,2,259,1459,Oregon State Beavers,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo made Free Throw.,23,25,2,259,1459,Notre Dame Fighting Irish,free throw,True,True,False,Hannah Hidalgo,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo made Free Throw.,24,25,2,259,1459,Notre Dame Fighting Irish,free throw,True,True,False,Hannah Hidalgo,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Maddy Westbeld.,24,25,2,240,1440,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,AJ Marotte Turnover.,24,25,2,235,1435,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo missed Jumper.,24,25,2,226,1426,Notre Dame Fighting Irish,jumper,True,False,False,Hannah Hidalgo,False,,23.0,10.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Oregon State Defensive Rebound.,24,25,2,226,1426,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Dominika Paurova Turnover.,24,25,2,211,1411,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron made Jumper.,26,25,2,196,1396,Notre Dame Fighting Irish,jumper,True,True,False,Sonia Citron,False,,29.0,15.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Lily Hansford missed Three Point Jumper.,26,25,2,176,1376,Oregon State Beavers,three point jumper,True,False,True,Lily Hansford,False,,48.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo Defensive Rebound.,26,25,2,176,1376,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Anna DeWolfe made Three Point Jumper. Assisted by Hannah Hidalgo.,29,25,2,167,1367,Notre Dame Fighting Irish,three point jumper,True,True,True,Anna DeWolfe,True,Hannah Hidalgo,44.0,13.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Oregon State  Timeout,29,25,2,165,1365,Oregon State Beavers,timeout,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers made Layup. Assisted by Talia von Oelhoffen.,29,27,2,149,1349,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Talia von Oelhoffen,27.0,0.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall missed Jumper.,29,27,2,136,1336,Notre Dame Fighting Irish,jumper,True,False,False,Natalija Marshall,False,,26.0,17.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Lily Hansford Defensive Rebound.,29,27,2,136,1336,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Turnover.,29,27,2,118,1318,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Anna DeWolfe Steal.,29,27,2,118,1318,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron made Layup. Assisted by Anna DeWolfe.,31,27,2,111,1311,Notre Dame Fighting Irish,layup,True,True,False,Sonia Citron,True,Anna DeWolfe,23.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Lily Hansford made Jumper. Assisted by Raegan Beers.,31,29,2,88,1288,Oregon State Beavers,jumper,True,True,False,Lily Hansford,True,Raegan Beers,12.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Jumper.,31,29,2,76,1276,Notre Dame Fighting Irish,jumper,True,False,False,Sonia Citron,False,,25.0,13.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter Defensive Rebound.,31,29,2,76,1276,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner made Three Point Jumper. Assisted by Donovyn Hunter.,31,32,2,59,1259,Oregon State Beavers,three point jumper,True,True,True,Timea Gardiner,True,Donovyn Hunter,13.0,21.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo missed Jumper.,31,32,2,43,1243,Notre Dame Fighting Irish,jumper,True,False,False,Hannah Hidalgo,False,,28.0,12.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Lily Hansford Defensive Rebound.,31,32,2,43,1243,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen missed Jumper.,31,32,2,12,1212,Oregon State Beavers,jumper,True,False,False,Talia von Oelhoffen,False,,15.0,11.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo Defensive Rebound.,31,32,2,12,1212,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo missed Three Point Jumper.,31,32,2,2,1202,Notre Dame Fighting Irish,three point jumper,True,False,True,Hannah Hidalgo,False,,15.0,23.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Oregon State Deadball Team Rebound.,31,32,2,2,1202,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,End of 2nd Quarter,31,32,2,0,1200,,end,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Jump Ball won by Oregon State,31,32,3,600,1200,Oregon State Beavers,jump ball,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers made Layup.,31,34,3,583,1183,Oregon State Beavers,layup,True,True,False,Raegan Beers,False,,27.0,2.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Hannah Hidalgo.,31,34,3,573,1173,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo Turnover.,31,34,3,573,1173,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner missed Jumper.,31,34,3,559,1159,Oregon State Beavers,jumper,True,False,False,Timea Gardiner,False,,24.0,7.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall Block.,31,34,3,559,1159,Notre Dame Fighting Irish,block,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Offensive Rebound.,31,34,3,559,1159,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen made Layup.,31,36,3,549,1149,Oregon State Beavers,layup,True,True,False,Talia von Oelhoffen,False,,23.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo missed Jumper.,31,36,3,531,1131,Notre Dame Fighting Irish,jumper,True,False,False,Hannah Hidalgo,False,,23.0,9.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Defensive Rebound.,31,36,3,531,1131,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter made Three Point Jumper. Assisted by Talia von Oelhoffen.,31,39,3,522,1122,Oregon State Beavers,three point jumper,True,True,True,Donovyn Hunter,True,Talia von Oelhoffen,48.0,-1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron made Jumper.,33,39,3,505,1105,Notre Dame Fighting Irish,jumper,True,True,False,Sonia Citron,False,,14.0,7.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner made Layup. Assisted by Donovyn Hunter.,33,41,3,487,1087,Oregon State Beavers,layup,True,True,False,Timea Gardiner,True,Donovyn Hunter,27.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall missed Jumper.,33,41,3,471,1071,Notre Dame Fighting Irish,jumper,True,False,False,Natalija Marshall,False,,23.0,16.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Defensive Rebound.,33,41,3,471,1071,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner made Layup.,33,43,3,442,1042,Oregon State Beavers,layup,True,True,False,Timea Gardiner,False,,29.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Notre Dame  Timeout,33,43,3,439,1039,Notre Dame Fighting Irish,timeout,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Jumper.,33,43,3,428,1028,Notre Dame Fighting Irish,jumper,True,False,False,Sonia Citron,False,,32.0,17.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Defensive Rebound.,33,43,3,428,1028,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Raegan Beers.,33,43,3,415,1015,Oregon State Beavers,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Turnover.,33,43,3,415,1015,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld missed Jumper.,33,43,3,401,1001,Notre Dame Fighting Irish,jumper,True,False,False,Maddy Westbeld,False,,30.0,9.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall Offensive Rebound.,33,43,3,401,1001,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron made Layup.,35,43,3,395,995,Notre Dame Fighting Irish,layup,True,True,False,Sonia Citron,False,,23.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen missed Three Point Jumper.,35,43,3,382,982,Oregon State Beavers,three point jumper,True,False,True,Talia von Oelhoffen,False,,23.0,24.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron Defensive Rebound.,35,43,3,382,982,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Layup.,35,43,3,372,972,Notre Dame Fighting Irish,layup,True,False,False,Sonia Citron,False,,29.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter Block.,35,43,3,372,972,Oregon State Beavers,block,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Notre Dame Offensive Rebound.,35,43,3,372,972,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Timea Gardiner.,35,43,3,364,964,Oregon State Beavers,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld made Free Throw.,36,43,3,364,964,Notre Dame Fighting Irish,free throw,True,True,False,Maddy Westbeld,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld made Free Throw.,37,43,3,364,964,Notre Dame Fighting Irish,free throw,True,True,False,Maddy Westbeld,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers missed Layup.,37,43,3,355,955,Oregon State Beavers,layup,True,False,False,Raegan Beers,False,,25.0,4.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall Defensive Rebound.,37,43,3,355,955,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Anna DeWolfe made Three Point Jumper. Assisted by Hannah Hidalgo.,40,43,3,346,946,Notre Dame Fighting Irish,three point jumper,True,True,True,Anna DeWolfe,True,Hannah Hidalgo,42.0,18.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter made Layup.,40,45,3,330,930,Oregon State Beavers,layup,True,True,False,Donovyn Hunter,False,,29.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Natalija Marshall.,40,45,3,330,930,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter made Free Throw.,40,46,3,330,930,Oregon State Beavers,free throw,True,True,False,Donovyn Hunter,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo missed Jumper.,40,46,3,316,916,Notre Dame Fighting Irish,jumper,True,False,False,Hannah Hidalgo,False,,33.0,11.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Defensive Rebound.,40,46,3,316,916,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Adlee Blacklock made Layup.,40,48,3,298,898,Oregon State Beavers,layup,True,True,False,Adlee Blacklock,False,,22.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld made Jumper. Assisted by Sonia Citron.,42,48,3,282,882,Notre Dame Fighting Irish,jumper,True,True,False,Maddy Westbeld,True,Sonia Citron,26.0,10.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Turnover.,42,48,3,260,860,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron Steal.,42,48,3,260,860,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo missed Layup.,42,48,3,253,853,Notre Dame Fighting Irish,layup,True,False,False,Hannah Hidalgo,False,,23.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Block.,42,48,3,253,853,Oregon State Beavers,block,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Notre Dame Offensive Rebound.,42,48,3,253,853,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers, Official TV Timeout,42,48,3,251,851,,tv timeout,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld missed Three Point Jumper.,42,48,3,247,847,Notre Dame Fighting Irish,three point jumper,True,False,True,Maddy Westbeld,False,,10.0,18.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall Offensive Rebound.,42,48,3,247,847,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Donovyn Hunter.,42,48,3,240,840,Oregon State Beavers,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo missed Jumper.,42,48,3,224,824,Notre Dame Fighting Irish,jumper,True,False,False,Hannah Hidalgo,False,,34.0,9.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Defensive Rebound.,42,48,3,224,824,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Turnover.,42,48,3,221,821,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron Steal.,42,48,3,221,821,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld missed Jumper.,42,48,3,212,812,Notre Dame Fighting Irish,jumper,True,False,False,Maddy Westbeld,False,,37.0,11.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Block.,42,48,3,212,812,Oregon State Beavers,block,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Defensive Rebound.,42,48,3,212,812,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Jump Ball won by Oregon State,42,48,3,207,807,Oregon State Beavers,jump ball,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Turnover.,42,48,3,201,801,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld Steal.,42,48,3,201,801,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron made Layup.,44,48,3,190,790,Notre Dame Fighting Irish,layup,True,True,False,Sonia Citron,False,,23.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen missed Three Point Jumper.,44,48,3,160,760,Oregon State Beavers,three point jumper,True,False,True,Talia von Oelhoffen,False,,11.0,25.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron Defensive Rebound.,44,48,3,160,760,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Talia von Oelhoffen.,44,48,3,146,746,Oregon State Beavers,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Anna DeWolfe made Jumper.,46,48,3,139,739,Notre Dame Fighting Irish,jumper,True,True,False,Anna DeWolfe,False,,32.0,17.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Dominika Paurova Turnover.,46,48,3,118,718,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld Steal.,46,48,3,118,718,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo missed Three Point Jumper.,46,48,3,116,716,Notre Dame Fighting Irish,three point jumper,True,False,True,Hannah Hidalgo,False,,2.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Defensive Rebound.,46,48,3,116,716,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Sonia Citron.,46,48,3,102,702,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Sonia Citron.,46,48,3,101,701,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers made Layup. Assisted by Timea Gardiner.,46,50,3,84,684,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Timea Gardiner,23.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld made Jumper. Assisted by KK Bransford.,48,50,3,69,669,Notre Dame Fighting Irish,jumper,True,True,False,Maddy Westbeld,True,KK Bransford,25.0,11.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner missed Three Point Jumper.,48,50,3,43,643,Oregon State Beavers,three point jumper,True,False,True,Timea Gardiner,False,,34.0,23.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron Defensive Rebound.,48,50,3,43,643,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld made Jumper.,50,50,3,33,633,Notre Dame Fighting Irish,jumper,True,True,False,Maddy Westbeld,False,,22.0,8.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner made Three Point Jumper. Assisted by Talia von Oelhoffen.,50,53,3,5,605,Oregon State Beavers,three point jumper,True,True,True,Timea Gardiner,True,Talia von Oelhoffen,40.0,19.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,End of 3rd Quarter,50,53,3,0,600,,end,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Jump Ball won by Notre Dame,50,53,4,600,600,Notre Dame Fighting Irish,jump ball,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Layup.,50,53,4,589,589,Notre Dame Fighting Irish,layup,True,False,False,Sonia Citron,False,,21.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Oregon State Defensive Rebound.,50,53,4,589,589,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Oregon State  Turnover.,50,53,4,575,575,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron made Layup. Assisted by Maddy Westbeld.,52,53,4,568,568,Notre Dame Fighting Irish,layup,True,True,False,Sonia Citron,True,Maddy Westbeld,23.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on KK Bransford.,52,53,4,548,548,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Dominika Paurova Turnover.,52,53,4,545,545,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld Steal.,52,53,4,545,545,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Three Point Jumper.,52,53,4,537,537,Notre Dame Fighting Irish,three point jumper,True,False,True,Sonia Citron,False,,9.0,17.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Oregon State Defensive Rebound.,52,53,4,537,537,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Turnover.,52,53,4,523,523,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall made Jumper. Assisted by Hannah Hidalgo.,54,53,4,503,503,Notre Dame Fighting Irish,jumper,True,True,False,Natalija Marshall,True,Hannah Hidalgo,22.0,17.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner made Jumper. Assisted by Lily Hansford.,54,55,4,478,478,Oregon State Beavers,jumper,True,True,False,Timea Gardiner,True,Lily Hansford,20.0,13.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Jumper.,54,55,4,460,460,Notre Dame Fighting Irish,jumper,True,False,False,Sonia Citron,False,,25.0,11.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Defensive Rebound.,54,55,4,460,460,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter Turnover.,54,55,4,433,433,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo Steal.,54,55,4,433,433,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Natalija Marshall.,54,55,4,422,422,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall Turnover.,54,55,4,422,422,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Lily Hansford missed Three Point Jumper.,54,55,4,412,412,Oregon State Beavers,three point jumper,True,False,True,Lily Hansford,False,,2.0,-2.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo Defensive Rebound.,54,55,4,412,412,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo missed Jumper.,54,55,4,404,404,Notre Dame Fighting Irish,jumper,True,False,False,Hannah Hidalgo,False,,19.0,18.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Lily Hansford Defensive Rebound.,54,55,4,404,404,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers Turnover.,54,55,4,382,382,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Raegan Beers.,54,55,4,382,382,Oregon State Beavers,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Anna DeWolfe missed Jumper.,54,55,4,376,376,Notre Dame Fighting Irish,jumper,True,False,False,Anna DeWolfe,False,,22.0,14.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Defensive Rebound.,54,55,4,376,376,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner made Layup. Assisted by Donovyn Hunter.,54,57,4,356,356,Oregon State Beavers,layup,True,True,False,Timea Gardiner,True,Donovyn Hunter,23.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld missed Jumper.,54,57,4,325,325,Notre Dame Fighting Irish,jumper,True,False,False,Maddy Westbeld,False,,33.0,18.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Oregon State Defensive Rebound.,54,57,4,325,325,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Turnover.,54,57,4,309,309,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron made Layup.,56,57,4,298,298,Notre Dame Fighting Irish,layup,True,True,False,Sonia Citron,False,,22.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Raegan Beers.,56,57,4,298,298,Oregon State Beavers,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers, Official TV Timeout,56,57,4,298,298,,tv timeout,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron made Free Throw.,57,57,4,298,298,Notre Dame Fighting Irish,free throw,True,True,False,Sonia Citron,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter Turnover.,57,57,4,297,297,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron Steal.,57,57,4,297,297,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Jumper.,57,57,4,291,291,Notre Dame Fighting Irish,jumper,True,False,False,Sonia Citron,False,,21.0,5.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron Offensive Rebound.,57,57,4,291,291,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Two Point Tip Shot.,57,57,4,291,291,Notre Dame Fighting Irish,two point tip shot,True,False,False,Sonia Citron,False,,25.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Notre Dame Offensive Rebound.,57,57,4,291,291,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Three Point Jumper.,57,57,4,281,281,Notre Dame Fighting Irish,three point jumper,True,False,True,Sonia Citron,False,,48.0,-2.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Defensive Rebound.,57,57,4,281,281,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Oregon State  Turnover.,57,57,4,269,269,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Anna DeWolfe made Jumper.,59,57,4,259,259,Notre Dame Fighting Irish,jumper,True,True,False,Anna DeWolfe,False,,33.0,13.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Maddy Westbeld.,59,57,4,237,237,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers missed Free Throw.,59,57,4,237,237,Oregon State Beavers,free throw,True,False,False,Raegan Beers,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Oregon State Deadball Team Rebound.,59,57,4,237,237,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers missed Free Throw.,59,57,4,237,237,Oregon State Beavers,free throw,True,False,False,Raegan Beers,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Natalija Marshall Defensive Rebound.,59,57,4,237,237,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Jumper.,59,57,4,219,219,Notre Dame Fighting Irish,jumper,True,False,False,Sonia Citron,False,,30.0,11.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Defensive Rebound.,59,57,4,219,219,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Natalija Marshall.,59,57,4,214,214,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter Turnover.,59,57,4,201,201,Oregon State Beavers,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo Steal.,59,57,4,201,201,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo missed Three Point Jumper.,59,57,4,191,191,Notre Dame Fighting Irish,three point jumper,True,False,True,Hannah Hidalgo,False,,7.0,14.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter Defensive Rebound.,59,57,4,191,191,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter made Three Point Jumper. Assisted by Talia von Oelhoffen.,59,60,4,171,171,Oregon State Beavers,three point jumper,True,True,True,Donovyn Hunter,True,Talia von Oelhoffen,47.0,7.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Layup.,59,60,4,154,154,Notre Dame Fighting Irish,layup,True,False,False,Sonia Citron,False,,22.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron Offensive Rebound.,59,60,4,154,154,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron Turnover.,59,60,4,151,151,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers missed Layup.,59,60,4,129,129,Oregon State Beavers,layup,True,False,False,Raegan Beers,False,,28.0,0.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Lily Hansford Offensive Rebound.,59,60,4,129,129,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Lily Hansford made Three Point Jumper.,59,63,4,116,116,Oregon State Beavers,three point jumper,True,True,True,Lily Hansford,False,,2.0,5.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld missed Jumper.,59,63,4,106,106,Notre Dame Fighting Irish,jumper,True,False,False,Maddy Westbeld,False,,24.0,9.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld Offensive Rebound.,59,63,4,106,106,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Timea Gardiner.,59,63,4,105,105,Oregon State Beavers,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld made Free Throw.,60,63,4,105,105,Notre Dame Fighting Irish,free throw,True,True,False,Maddy Westbeld,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld made Free Throw.,61,63,4,105,105,Notre Dame Fighting Irish,free throw,True,True,False,Maddy Westbeld,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen missed Layup.,61,63,4,80,80,Oregon State Beavers,layup,True,False,False,Talia von Oelhoffen,False,,21.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron Block.,61,63,4,80,80,Notre Dame Fighting Irish,block,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron Defensive Rebound.,61,63,4,80,80,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo Turnover.,61,63,4,75,75,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Donovyn Hunter Steal.,61,63,4,75,75,Oregon State Beavers,steal,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Sonia Citron.,61,63,4,70,70,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen made Free Throw.,61,64,4,70,70,Oregon State Beavers,free throw,True,True,False,Talia von Oelhoffen,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen made Free Throw.,61,65,4,70,70,Oregon State Beavers,free throw,True,True,False,Talia von Oelhoffen,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo made Layup. Assisted by Natalija Marshall.,63,65,4,59,59,Notre Dame Fighting Irish,layup,True,True,False,Hannah Hidalgo,True,Natalija Marshall,21.0,1.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Raegan Beers made Layup. Assisted by Timea Gardiner.,63,67,4,29,29,Oregon State Beavers,layup,True,True,False,Raegan Beers,True,Timea Gardiner,23.0,0.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Notre Dame  Timeout,63,67,4,26,26,Notre Dame Fighting Irish,timeout,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Sonia Citron missed Three Point Jumper.,63,67,4,20,20,Notre Dame Fighting Irish,three point jumper,True,False,True,Sonia Citron,False,,8.0,17.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen Block.,63,67,4,20,20,Oregon State Beavers,block,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen Defensive Rebound.,63,67,4,20,20,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Hannah Hidalgo.,63,67,4,17,17,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen made Free Throw.,63,68,4,17,17,Oregon State Beavers,free throw,True,True,False,Talia von Oelhoffen,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Talia von Oelhoffen made Free Throw.,63,69,4,17,17,Oregon State Beavers,free throw,True,True,False,Talia von Oelhoffen,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Notre Dame  Timeout,63,69,4,17,17,Notre Dame Fighting Irish,timeout,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Maddy Westbeld missed Three Point Jumper.,63,69,4,14,14,Notre Dame Fighting Irish,three point jumper,True,False,True,Maddy Westbeld,False,,32.0,24.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner Defensive Rebound.,63,69,4,14,14,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Foul on Sonia Citron.,63,69,4,10,10,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner missed Free Throw.,63,69,4,10,10,Oregon State Beavers,free throw,True,False,False,Timea Gardiner,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Oregon State Deadball Team Rebound.,63,69,4,10,10,Oregon State Beavers,rebound,False,False,False,,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Timea Gardiner made Free Throw.,63,70,4,10,10,Oregon State Beavers,free throw,True,True,False,Timea Gardiner,False,,,
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,Hannah Hidalgo made Jumper.,65,70,4,3,3,Notre Dame Fighting Irish,jumper,True,True,False,Hannah Hidalgo,False,,35.0,6.0
+401637601,Notre Dame Fighting Irish,Oregon State Beavers,End of Game,65,70,4,0,0,,end,False,False,False,,False,,,

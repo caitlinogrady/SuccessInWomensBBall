@@ -1,0 +1,337 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637549,Texas Longhorns,Drexel Dragons,Jump Ball won by Texas,0,0,1,600,2400,Texas Longhorns,jump ball,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore made Layup. Assisted by Madison Booker.,2,0,1,587,2387,Texas Longhorns,layup,True,True,False,Aaliyah Moore,True,Madison Booker,22.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Brooke Mullin Turnover.,2,0,1,577,2377,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore Steal.,2,0,1,577,2377,Texas Longhorns,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones made Layup. Assisted by Shaylee Gonzales.,4,0,1,563,2363,Texas Longhorns,layup,True,True,False,Taylor Jones,True,Shaylee Gonzales,22.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Hetta Saatman missed Layup.,4,0,1,534,2334,Drexel Dragons,layup,True,False,False,Hetta Saatman,False,,23.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Defensive Rebound.,4,0,1,534,2334,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker Turnover.,4,0,1,528,2328,Texas Longhorns,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Brooke Mullin missed Three Point Jumper.,4,0,1,502,2302,Drexel Dragons,three point jumper,True,False,True,Brooke Mullin,False,,2.0,4.0
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker Defensive Rebound.,4,0,1,502,2302,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Brooke Mullin.,4,0,1,484,2284,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales made Three Point Jumper. Assisted by Madison Booker.,7,0,1,478,2278,Texas Longhorns,three point jumper,True,True,True,Shaylee Gonzales,True,Madison Booker,48.0,-1.0
+401637549,Texas Longhorns,Drexel Dragons,Brooke Mullin Turnover.,7,0,1,470,2270,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore Steal.,7,0,1,470,2270,Texas Longhorns,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker made Layup. Assisted by Aaliyah Moore.,9,0,1,466,2266,Texas Longhorns,layup,True,True,False,Madison Booker,True,Aaliyah Moore,22.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Drexel  Timeout,9,0,1,466,2266,Drexel Dragons,timeout,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons, Official TV Timeout,9,0,1,466,2266,,tv timeout,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker made Layup.,9,2,1,459,2259,Drexel Dragons,layup,True,True,False,Amaris Baker,False,,23.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore made Layup. Assisted by Shaylee Gonzales.,11,2,1,440,2240,Texas Longhorns,layup,True,True,False,Aaliyah Moore,True,Shaylee Gonzales,22.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges missed Jumper.,11,2,1,422,2222,Drexel Dragons,jumper,True,False,False,Chloe Hodges,False,,29.0,14.0
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore Defensive Rebound.,11,2,1,422,2222,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones made Layup. Assisted by Madison Booker.,13,2,1,411,2211,Texas Longhorns,layup,True,True,False,Taylor Jones,True,Madison Booker,22.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Erin Sweeney missed Jumper.,13,2,1,386,2186,Drexel Dragons,jumper,True,False,False,Erin Sweeney,False,,37.0,6.0
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill Offensive Rebound.,13,2,1,386,2186,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill missed Three Point Jumper.,13,2,1,374,2174,Drexel Dragons,three point jumper,True,False,True,Grace O'Neill,False,,35.0,24.0
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Defensive Rebound.,13,2,1,374,2174,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones missed Jumper.,13,2,1,362,2162,Texas Longhorns,jumper,True,False,False,Taylor Jones,False,,27.0,5.0
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges Defensive Rebound.,13,2,1,362,2162,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Hetta Saatman missed Three Point Jumper.,13,2,1,349,2149,Drexel Dragons,three point jumper,True,False,True,Hetta Saatman,False,,24.0,24.0
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore Defensive Rebound.,13,2,1,349,2149,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle missed Jumper.,13,2,1,337,2137,Texas Longhorns,jumper,True,False,False,Shay Holle,False,,38.0,10.0
+401637549,Texas Longhorns,Drexel Dragons,Hetta Saatman Defensive Rebound.,13,2,1,337,2137,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker made Layup. Assisted by Hetta Saatman.,13,4,1,327,2127,Drexel Dragons,layup,True,True,False,Amaris Baker,True,Hetta Saatman,28.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore missed Jumper.,13,4,1,312,2112,Texas Longhorns,jumper,True,False,False,Aaliyah Moore,False,,32.0,4.0
+401637549,Texas Longhorns,Drexel Dragons,Hetta Saatman Defensive Rebound.,13,4,1,312,2112,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges made Layup. Assisted by Grace O'Neill.,13,6,1,300,2100,Drexel Dragons,layup,True,True,False,Chloe Hodges,True,Grace O'Neill,23.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones Turnover.,13,6,1,288,2088,Texas Longhorns,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons, Official TV Timeout,13,6,1,287,2087,,tv timeout,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Brooke Mullin Turnover.,13,6,1,270,2070,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker missed Jumper.,13,6,1,250,2050,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,32.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston Offensive Rebound.,13,6,1,250,2050,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston Turnover.,13,6,1,246,2046,Texas Longhorns,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Shaylee Gonzales.,13,6,1,233,2033,Texas Longhorns,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Brooke Mullin Turnover.,13,6,1,214,2014,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Steal.,13,6,1,214,2014,Texas Longhorns,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle missed Jumper.,13,6,1,202,2002,Texas Longhorns,jumper,True,False,False,Shay Holle,False,,30.0,9.0
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston Offensive Rebound.,13,6,1,202,2002,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston made Layup.,15,6,1,195,1995,Texas Longhorns,layup,True,True,False,DeYona Gaston,False,,23.0,3.0
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker made Jumper.,15,8,1,171,1971,Drexel Dragons,jumper,True,True,False,Amaris Baker,False,,30.0,14.0
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker missed Jumper.,15,8,1,150,1950,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,32.0,7.0
+401637549,Texas Longhorns,Drexel Dragons,Amina Muhammad Offensive Rebound.,15,8,1,150,1950,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker missed Jumper.,15,8,1,148,1948,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,17.0,5.0
+401637549,Texas Longhorns,Drexel Dragons,Amina Muhammad Offensive Rebound.,15,8,1,148,1948,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amina Muhammad missed Layup.,15,8,1,133,1933,Texas Longhorns,layup,True,False,False,Amina Muhammad,False,,21.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston Offensive Rebound.,15,8,1,133,1933,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston made Layup. Assisted by Madison Booker.,17,8,1,127,1927,Texas Longhorns,layup,True,True,False,DeYona Gaston,True,Madison Booker,23.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Erin Sweeney made Layup. Assisted by Brooke Mullin.,17,10,1,108,1908,Drexel Dragons,layup,True,True,False,Erin Sweeney,True,Brooke Mullin,23.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Foul on Madison Booker.,17,10,1,108,1908,Texas Longhorns,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Erin Sweeney missed Free Throw.,17,10,1,108,1908,Drexel Dragons,free throw,True,False,False,Erin Sweeney,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amina Muhammad Defensive Rebound.,17,10,1,108,1908,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amina Muhammad missed Jumper.,17,10,1,90,1890,Texas Longhorns,jumper,True,False,False,Amina Muhammad,False,,41.0,0.0
+401637549,Texas Longhorns,Drexel Dragons,Drexel Defensive Rebound.,17,10,1,90,1890,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker missed Layup.,17,10,1,79,1879,Drexel Dragons,layup,True,False,False,Amaris Baker,False,,28.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Block.,17,10,1,79,1879,Texas Longhorns,block,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore Defensive Rebound.,17,10,1,79,1879,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore made Jumper.,19,10,1,48,1848,Texas Longhorns,jumper,True,True,False,Aaliyah Moore,False,,22.0,11.0
+401637549,Texas Longhorns,Drexel Dragons,Erin Sweeney made Layup. Assisted by Chloe Hodges.,19,12,1,27,1827,Drexel Dragons,layup,True,True,False,Erin Sweeney,True,Chloe Hodges,28.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle missed Three Point Jumper.,19,12,1,3,1803,Texas Longhorns,three point jumper,True,False,True,Shay Holle,False,,48.0,6.0
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales Offensive Rebound.,19,12,1,2,1802,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales missed Jumper.,19,12,1,1,1801,Texas Longhorns,jumper,True,False,False,Shaylee Gonzales,False,,24.0,6.0
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill Defensive Rebound.,19,12,1,1,1801,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,End of 1st Quarter,19,12,1,0,1800,,end,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Jump Ball won by Drexel,19,12,2,600,1800,Drexel Dragons,jump ball,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker made Layup. Assisted by Chloe Hodges.,19,14,2,597,1797,Drexel Dragons,layup,True,True,False,Amaris Baker,True,Chloe Hodges,27.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore missed Jumper.,19,14,2,566,1766,Texas Longhorns,jumper,True,False,False,Aaliyah Moore,False,,19.0,11.0
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill Defensive Rebound.,19,14,2,566,1766,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges missed Layup.,19,14,2,559,1759,Drexel Dragons,layup,True,False,False,Chloe Hodges,False,,29.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Block.,19,14,2,559,1759,Texas Longhorns,block,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker Defensive Rebound.,19,14,2,559,1759,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker missed Jumper.,19,14,2,546,1746,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,17.0,10.0
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston Offensive Rebound.,19,14,2,546,1746,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales missed Three Point Jumper.,19,14,2,545,1745,Texas Longhorns,three point jumper,True,False,True,Shaylee Gonzales,False,,22.0,24.0
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston Offensive Rebound.,19,14,2,545,1745,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Hetta Saatman.,19,14,2,543,1743,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston made Free Throw.,20,14,2,543,1743,Texas Longhorns,free throw,True,True,False,DeYona Gaston,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston made Free Throw.,21,14,2,543,1743,Texas Longhorns,free throw,True,True,False,DeYona Gaston,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Ndjakalenga Mwenentanda.,21,14,2,541,1741,Texas Longhorns,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Erin Sweeney missed Jumper.,21,14,2,533,1733,Drexel Dragons,jumper,True,False,False,Erin Sweeney,False,,25.0,6.0
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Defensive Rebound.,21,14,2,533,1733,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones made Layup. Assisted by Madison Booker.,23,14,2,523,1723,Texas Longhorns,layup,True,True,False,Taylor Jones,True,Madison Booker,21.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Foul on Taylor Jones.,23,14,2,515,1715,Texas Longhorns,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker missed Layup.,23,14,2,507,1707,Drexel Dragons,layup,True,False,False,Amaris Baker,False,,27.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker Block.,23,14,2,507,1707,Texas Longhorns,block,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Drexel Offensive Rebound.,23,14,2,507,1707,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Hetta Saatman missed Three Point Jumper.,23,14,2,505,1705,Drexel Dragons,three point jumper,True,False,True,Hetta Saatman,False,,40.0,21.0
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker Defensive Rebound.,23,14,2,505,1705,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones missed Layup.,23,14,2,490,1690,Texas Longhorns,layup,True,False,False,Taylor Jones,False,,28.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Ndjakalenga Mwenentanda Offensive Rebound.,23,14,2,490,1690,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Hetta Saatman.,23,14,2,488,1688,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Ndjakalenga Mwenentanda missed Free Throw.,23,14,2,488,1688,Texas Longhorns,free throw,True,False,False,Ndjakalenga Mwenentanda,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Texas Deadball Team Rebound.,23,14,2,488,1688,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Ndjakalenga Mwenentanda missed Free Throw.,23,14,2,488,1688,Texas Longhorns,free throw,True,False,False,Ndjakalenga Mwenentanda,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Erin Sweeney Defensive Rebound.,23,14,2,488,1688,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges Turnover.,23,14,2,473,1673,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Steal.,23,14,2,473,1673,Texas Longhorns,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker made Jumper.,25,14,2,459,1659,Texas Longhorns,jumper,True,True,False,Madison Booker,False,,30.0,15.0
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker missed Jumper.,25,14,2,447,1647,Drexel Dragons,jumper,True,False,False,Amaris Baker,False,,32.0,12.0
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker Defensive Rebound.,25,14,2,447,1647,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amina Muhammad missed Layup.,25,14,2,436,1636,Texas Longhorns,layup,True,False,False,Amina Muhammad,False,,23.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Amina Muhammad Offensive Rebound.,25,14,2,436,1636,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amina Muhammad made Layup.,27,14,2,432,1632,Texas Longhorns,layup,True,True,False,Amina Muhammad,False,,22.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill missed Jumper.,27,14,2,417,1617,Drexel Dragons,jumper,True,False,False,Grace O'Neill,False,,21.0,12.0
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker Defensive Rebound.,27,14,2,417,1617,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amina Muhammad made Jumper. Assisted by Madison Booker.,29,14,2,405,1605,Texas Longhorns,jumper,True,True,False,Amina Muhammad,True,Madison Booker,21.0,4.0
+401637549,Texas Longhorns,Drexel Dragons,Erin Sweeney missed Jumper.,29,14,2,380,1580,Drexel Dragons,jumper,True,False,False,Erin Sweeney,False,,41.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Ndjakalenga Mwenentanda Defensive Rebound.,29,14,2,380,1580,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker missed Jumper.,29,14,2,355,1555,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,35.0,6.0
+401637549,Texas Longhorns,Drexel Dragons,Jasmine Valentine Defensive Rebound.,29,14,2,355,1555,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Jasmine Valentine missed Layup.,29,14,2,342,1542,Drexel Dragons,layup,True,False,False,Jasmine Valentine,False,,28.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Amina Muhammad Defensive Rebound.,29,14,2,342,1542,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones made Layup. Assisted by Amina Muhammad.,31,14,2,327,1527,Texas Longhorns,layup,True,True,False,Taylor Jones,True,Amina Muhammad,22.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Drexel  Timeout,31,14,2,326,1526,Drexel Dragons,timeout,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons, Official TV Timeout,31,14,2,326,1526,,tv timeout,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Amina Muhammad.,31,14,2,316,1516,Texas Longhorns,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill made Jumper. Assisted by Brooke Mullin.,31,16,2,312,1512,Drexel Dragons,jumper,True,True,False,Grace O'Neill,True,Brooke Mullin,12.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones missed Layup.,31,16,2,292,1492,Texas Longhorns,layup,True,False,False,Taylor Jones,False,,22.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones Offensive Rebound.,31,16,2,292,1492,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Jasmine Valentine.,31,16,2,289,1489,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones made Free Throw.,32,16,2,289,1489,Texas Longhorns,free throw,True,True,False,Taylor Jones,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones made Free Throw.,33,16,2,289,1489,Texas Longhorns,free throw,True,True,False,Taylor Jones,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Drexel  Turnover.,33,16,2,259,1459,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Amina Muhammad.,33,16,2,244,1444,Texas Longhorns,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amina Muhammad Turnover.,33,16,2,244,1444,Texas Longhorns,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill Turnover.,33,16,2,217,1417,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore Turnover.,33,16,2,195,1395,Texas Longhorns,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Brooke Mullin Steal.,33,16,2,195,1395,Drexel Dragons,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Jasmine Valentine Turnover.,33,16,2,177,1377,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales Steal.,33,16,2,177,1377,Texas Longhorns,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales missed Layup.,33,16,2,172,1372,Texas Longhorns,layup,True,False,False,Shaylee Gonzales,False,,22.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Texas Offensive Rebound.,33,16,2,172,1372,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore made Layup. Assisted by Madison Booker.,35,16,2,167,1367,Texas Longhorns,layup,True,True,False,Aaliyah Moore,True,Madison Booker,28.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Jump Ball won by Texas,35,16,2,156,1356,Texas Longhorns,jump ball,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker Turnover.,35,16,2,156,1356,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Steal.,35,16,2,156,1356,Texas Longhorns,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker Turnover.,35,16,2,147,1347,Texas Longhorns,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Jasmine Valentine made Layup.,35,18,2,126,1326,Drexel Dragons,layup,True,True,False,Jasmine Valentine,False,,28.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker made Jumper.,37,18,2,102,1302,Texas Longhorns,jumper,True,True,False,Madison Booker,False,,22.0,18.0
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill Turnover.,37,18,2,87,1287,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston missed Jumper.,37,18,2,73,1273,Texas Longhorns,jumper,True,False,False,DeYona Gaston,False,,20.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston Offensive Rebound.,37,18,2,73,1273,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Erin Sweeney.,37,18,2,70,1270,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston made Free Throw.,38,18,2,70,1270,Texas Longhorns,free throw,True,True,False,DeYona Gaston,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston made Free Throw.,39,18,2,70,1270,Texas Longhorns,free throw,True,True,False,DeYona Gaston,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill made Jumper.,39,20,2,47,1247,Drexel Dragons,jumper,True,True,False,Grace O'Neill,False,,12.0,12.0
+401637549,Texas Longhorns,Drexel Dragons,Foul on Jasmine Valentine.,39,20,2,29,1229,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston missed Free Throw.,39,20,2,29,1229,Texas Longhorns,free throw,True,False,False,DeYona Gaston,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Texas Deadball Team Rebound.,39,20,2,29,1229,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston made Free Throw.,40,20,2,29,1229,Texas Longhorns,free throw,True,True,False,DeYona Gaston,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill Turnover.,40,20,2,13,1213,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker missed Jumper.,40,20,2,1,1201,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,34.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Drexel Defensive Rebound.,40,20,2,1,1201,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,End of 2nd Quarter,40,20,2,0,1200,,end,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Jump Ball won by Drexel,40,20,3,600,1200,Drexel Dragons,jump ball,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker Turnover.,40,20,3,586,1186,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Brooke Mullin.,40,20,3,573,1173,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore missed Layup.,40,20,3,569,1169,Texas Longhorns,layup,True,False,False,Aaliyah Moore,False,,22.0,0.0
+401637549,Texas Longhorns,Drexel Dragons,Hetta Saatman Block.,40,20,3,569,1169,Drexel Dragons,block,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Texas Offensive Rebound.,40,20,3,569,1169,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore missed Layup.,40,20,3,566,1166,Texas Longhorns,layup,True,False,False,Aaliyah Moore,False,,23.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore Offensive Rebound.,40,20,3,566,1166,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Hetta Saatman.,40,20,3,565,1165,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones missed Jumper.,40,20,3,561,1161,Texas Longhorns,jumper,True,False,False,Taylor Jones,False,,25.0,5.0
+401637549,Texas Longhorns,Drexel Dragons,Hetta Saatman Block.,40,20,3,561,1161,Drexel Dragons,block,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Texas Offensive Rebound.,40,20,3,561,1161,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Aaliyah Moore made Layup. Assisted by Madison Booker.,42,20,3,559,1159,Texas Longhorns,layup,True,True,False,Aaliyah Moore,True,Madison Booker,27.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges missed Layup.,42,20,3,537,1137,Drexel Dragons,layup,True,False,False,Chloe Hodges,False,,22.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales Block.,42,20,3,537,1137,Texas Longhorns,block,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Defensive Rebound.,42,20,3,537,1137,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Chloe Hodges.,42,20,3,531,1131,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones missed Free Throw.,42,20,3,531,1131,Texas Longhorns,free throw,True,False,False,Taylor Jones,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Texas Deadball Team Rebound.,42,20,3,531,1131,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones made Free Throw.,43,20,3,531,1131,Texas Longhorns,free throw,True,True,False,Taylor Jones,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Madison Booker.,43,20,3,523,1123,Texas Longhorns,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Brooke Mullin missed Three Point Jumper.,43,20,3,505,1105,Drexel Dragons,three point jumper,True,False,True,Brooke Mullin,False,,17.0,30.0
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Defensive Rebound.,43,20,3,505,1105,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales made Layup. Assisted by Madison Booker.,45,20,3,499,1099,Texas Longhorns,layup,True,True,False,Shaylee Gonzales,True,Madison Booker,22.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges Turnover.,45,20,3,484,1084,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones made Layup. Assisted by Amina Muhammad.,47,20,3,469,1069,Texas Longhorns,layup,True,True,False,Taylor Jones,True,Amina Muhammad,22.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Hetta Saatman made Three Point Jumper. Assisted by Amaris Baker.,47,23,3,441,1041,Drexel Dragons,three point jumper,True,True,True,Hetta Saatman,True,Amaris Baker,47.0,12.0
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales made Three Point Jumper. Assisted by Taylor Jones.,50,23,3,418,1018,Texas Longhorns,three point jumper,True,True,True,Shaylee Gonzales,True,Taylor Jones,7.0,17.0
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker Turnover.,50,23,3,394,994,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales Steal.,50,23,3,394,994,Texas Longhorns,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker missed Jumper.,50,23,3,383,983,Texas Longhorns,jumper,True,False,False,Madison Booker,False,,28.0,15.0
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill Defensive Rebound.,50,23,3,383,983,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker missed Three Point Jumper.,50,23,3,367,967,Drexel Dragons,three point jumper,True,False,True,Amaris Baker,False,,46.0,13.0
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Defensive Rebound.,50,23,3,367,967,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones made Jumper. Assisted by Madison Booker.,52,23,3,352,952,Texas Longhorns,jumper,True,True,False,Taylor Jones,True,Madison Booker,25.0,5.0
+401637549,Texas Longhorns,Drexel Dragons,Foul on Erin Sweeney.,52,23,3,352,952,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones made Free Throw.,53,23,3,352,952,Texas Longhorns,free throw,True,True,False,Taylor Jones,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill missed Jumper.,53,23,3,337,937,Drexel Dragons,jumper,True,False,False,Grace O'Neill,False,,20.0,11.0
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones Defensive Rebound.,53,23,3,337,937,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Taylor Jones made Layup. Assisted by Amina Muhammad.,55,23,3,322,922,Texas Longhorns,layup,True,True,False,Taylor Jones,True,Amina Muhammad,28.0,0.0
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges Turnover.,55,23,3,304,904,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker Steal.,55,23,3,304,904,Texas Longhorns,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales made Three Point Jumper. Assisted by Madison Booker.,58,23,3,293,893,Texas Longhorns,three point jumper,True,True,True,Shaylee Gonzales,True,Madison Booker,3.0,8.0
+401637549,Texas Longhorns,Drexel Dragons,Drexel  Timeout,58,23,3,292,892,Drexel Dragons,timeout,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons, Official TV Timeout,58,23,3,292,892,,tv timeout,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges missed Layup.,58,23,3,283,883,Drexel Dragons,layup,True,False,False,Chloe Hodges,False,,22.0,0.0
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker Block.,58,23,3,283,883,Texas Longhorns,block,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston Defensive Rebound.,58,23,3,283,883,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales made Jumper. Assisted by Madison Booker.,60,23,3,275,875,Texas Longhorns,jumper,True,True,False,Shaylee Gonzales,True,Madison Booker,8.0,11.0
+401637549,Texas Longhorns,Drexel Dragons, Official TV Timeout,60,23,3,253,853,,tv timeout,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill missed Jumper.,60,23,3,251,851,Drexel Dragons,jumper,True,False,False,Grace O'Neill,False,,37.0,13.0
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges Offensive Rebound.,60,23,3,251,851,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on DeYona Gaston.,60,23,3,248,848,Texas Longhorns,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill missed Layup.,60,23,3,241,841,Drexel Dragons,layup,True,False,False,Grace O'Neill,False,,21.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye Block.,60,23,3,241,841,Texas Longhorns,block,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Drexel Offensive Rebound.,60,23,3,241,841,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Jasmine Valentine missed Jumper.,60,23,3,236,836,Drexel Dragons,jumper,True,False,False,Jasmine Valentine,False,,16.0,17.0
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges Offensive Rebound.,60,23,3,236,836,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges Turnover.,60,23,3,230,830,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker Steal.,60,23,3,230,830,Texas Longhorns,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales made Three Point Jumper. Assisted by Madison Booker.,63,23,3,223,823,Texas Longhorns,three point jumper,True,True,True,Shaylee Gonzales,True,Madison Booker,2.0,0.0
+401637549,Texas Longhorns,Drexel Dragons,Laine McGurk made Jumper. Assisted by Brooke Mullin.,63,25,3,208,808,Drexel Dragons,jumper,True,True,False,Laine McGurk,True,Brooke Mullin,8.0,0.0
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston missed Layup.,63,25,3,188,788,Texas Longhorns,layup,True,False,False,DeYona Gaston,False,,20.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston Offensive Rebound.,63,25,3,188,788,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston missed Layup.,63,25,3,184,784,Texas Longhorns,layup,True,False,False,DeYona Gaston,False,,25.0,3.0
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston Offensive Rebound.,63,25,3,184,784,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston made Layup.,65,25,3,180,780,Texas Longhorns,layup,True,True,False,DeYona Gaston,False,,27.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker missed Layup.,65,25,3,172,772,Drexel Dragons,layup,True,False,False,Amaris Baker,False,,22.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Block.,65,25,3,172,772,Texas Longhorns,block,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Drexel Offensive Rebound.,65,25,3,172,772,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Brooke Mullin Turnover.,65,25,3,165,765,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales Steal.,65,25,3,165,765,Texas Longhorns,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales made Layup.,67,25,3,163,763,Texas Longhorns,layup,True,True,False,Shaylee Gonzales,False,,28.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Laine McGurk made Jumper. Assisted by Hetta Saatman.,67,27,3,149,749,Drexel Dragons,jumper,True,True,False,Laine McGurk,True,Hetta Saatman,32.0,8.0
+401637549,Texas Longhorns,Drexel Dragons,Madison Booker made Jumper.,69,27,3,132,732,Texas Longhorns,jumper,True,True,False,Madison Booker,False,,15.0,12.0
+401637549,Texas Longhorns,Drexel Dragons,Foul on Ndjakalenga Mwenentanda.,69,27,3,118,718,Texas Longhorns,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Brooke Mullin made Three Point Jumper. Assisted by Erin Sweeney.,69,30,3,108,708,Drexel Dragons,three point jumper,True,True,True,Brooke Mullin,True,Erin Sweeney,44.0,21.0
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye made Layup. Assisted by Madison Booker.,71,30,3,91,691,Texas Longhorns,layup,True,True,False,Khadija Faye,True,Madison Booker,22.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker made Jumper.,71,32,3,74,674,Drexel Dragons,jumper,True,True,False,Amaris Baker,False,,33.0,12.0
+401637549,Texas Longhorns,Drexel Dragons,Foul on Brooke Mullin.,71,32,3,53,653,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye missed Free Throw.,71,32,3,53,653,Texas Longhorns,free throw,True,False,False,Khadija Faye,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Texas Deadball Team Rebound.,71,32,3,53,653,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye made Free Throw.,72,32,3,53,653,Texas Longhorns,free throw,True,True,False,Khadija Faye,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Brooke Mullin Turnover.,72,32,3,42,642,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye missed Layup.,72,32,3,19,619,Texas Longhorns,layup,True,False,False,Khadija Faye,False,,23.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye Offensive Rebound.,72,32,3,19,619,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Brooke Mullin.,72,32,3,18,618,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye made Free Throw.,73,32,3,18,618,Texas Longhorns,free throw,True,True,False,Khadija Faye,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye made Free Throw.,74,32,3,18,618,Texas Longhorns,free throw,True,True,False,Khadija Faye,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Ndjakalenga Mwenentanda.,74,32,3,2,602,Texas Longhorns,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Laine McGurk missed Jumper.,74,32,3,1,601,Drexel Dragons,jumper,True,False,False,Laine McGurk,False,,25.0,14.0
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston Defensive Rebound.,74,32,3,1,601,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,End of 3rd Quarter,74,32,3,0,600,,end,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Jump Ball won by Texas,74,32,4,600,600,Texas Longhorns,jump ball,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shaylee Gonzales made Three Point Jumper. Assisted by Ndjakalenga Mwenentanda.,77,32,4,584,584,Texas Longhorns,three point jumper,True,True,True,Shaylee Gonzales,True,Ndjakalenga Mwenentanda,46.0,10.0
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker missed Jumper.,77,32,4,549,549,Drexel Dragons,jumper,True,False,False,Amaris Baker,False,,25.0,20.0
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Block.,77,32,4,549,549,Texas Longhorns,block,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges Offensive Rebound.,77,32,4,549,549,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges made Jumper.,77,34,4,538,538,Drexel Dragons,jumper,True,True,False,Chloe Hodges,False,,35.0,3.0
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye made Jumper. Assisted by DeYona Gaston.,79,34,4,521,521,Texas Longhorns,jumper,True,True,False,Khadija Faye,True,DeYona Gaston,25.0,8.0
+401637549,Texas Longhorns,Drexel Dragons,Laine McGurk missed Three Point Jumper.,79,34,4,496,496,Drexel Dragons,three point jumper,True,False,True,Laine McGurk,False,,15.0,23.0
+401637549,Texas Longhorns,Drexel Dragons,Ndjakalenga Mwenentanda Defensive Rebound.,79,34,4,496,496,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,DeYona Gaston missed Layup.,79,34,4,473,473,Texas Longhorns,layup,True,False,False,DeYona Gaston,False,,28.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Laine McGurk Defensive Rebound.,79,34,4,473,473,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Erin Sweeney missed Three Point Jumper.,79,34,4,465,465,Drexel Dragons,three point jumper,True,False,True,Erin Sweeney,False,,36.0,22.0
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges Offensive Rebound.,79,34,4,465,465,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Shaylee Gonzales.,79,34,4,464,464,Texas Longhorns,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges missed Free Throw.,79,34,4,464,464,Drexel Dragons,free throw,True,False,False,Chloe Hodges,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Drexel Deadball Team Rebound.,79,34,4,464,464,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Gisella Maul.,79,34,4,463,463,Texas Longhorns,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill made Free Throw.,79,35,4,463,463,Drexel Dragons,free throw,True,True,False,Grace O'Neill,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill made Free Throw.,79,36,4,463,463,Drexel Dragons,free throw,True,True,False,Grace O'Neill,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye missed Layup.,79,36,4,442,442,Texas Longhorns,layup,True,False,False,Khadija Faye,False,,24.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Drexel Defensive Rebound.,79,36,4,442,442,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Laine McGurk Turnover.,79,36,4,433,433,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Ndjakalenga Mwenentanda Steal.,79,36,4,433,433,Texas Longhorns,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye missed Layup.,79,36,4,422,422,Texas Longhorns,layup,True,False,False,Khadija Faye,False,,28.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye Offensive Rebound.,79,36,4,422,422,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Laine McGurk.,79,36,4,419,419,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye made Free Throw.,80,36,4,419,419,Texas Longhorns,free throw,True,True,False,Khadija Faye,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye made Free Throw.,81,36,4,419,419,Texas Longhorns,free throw,True,True,False,Khadija Faye,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Jasmine Valentine Turnover.,81,36,4,396,396,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Gisella Maul Turnover.,81,36,4,380,380,Texas Longhorns,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker missed Three Point Jumper.,81,36,4,367,367,Drexel Dragons,three point jumper,True,False,True,Amaris Baker,False,,47.0,11.0
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye Defensive Rebound.,81,36,4,367,367,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Gisella Maul missed Jumper.,81,36,4,331,331,Texas Longhorns,jumper,True,False,False,Gisella Maul,False,,31.0,5.0
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle Offensive Rebound.,81,36,4,331,331,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Shay Holle missed Jumper.,81,36,4,329,329,Texas Longhorns,jumper,True,False,False,Shay Holle,False,,17.0,6.0
+401637549,Texas Longhorns,Drexel Dragons,Texas Deadball Team Rebound.,81,36,4,329,329,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Texas  Turnover.,81,36,4,329,329,Texas Longhorns,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Brooke Mullin made Three Point Jumper. Assisted by Grace O'Neill.,81,39,4,323,323,Drexel Dragons,three point jumper,True,True,True,Brooke Mullin,True,Grace O'Neill,25.0,29.0
+401637549,Texas Longhorns,Drexel Dragons,Ndjakalenga Mwenentanda Turnover.,81,39,4,292,292,Texas Longhorns,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker Steal.,81,39,4,292,292,Drexel Dragons,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons, Official TV Timeout,81,39,4,287,287,,tv timeout,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill missed Jumper.,81,39,4,282,282,Drexel Dragons,jumper,True,False,False,Grace O'Neill,False,,36.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges Offensive Rebound.,81,39,4,282,282,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Amaris Baker missed Jumper.,81,39,4,265,265,Drexel Dragons,jumper,True,False,False,Amaris Baker,False,,14.0,13.0
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges Offensive Rebound.,81,39,4,265,265,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges made Layup.,81,41,4,257,257,Drexel Dragons,layup,True,True,False,Chloe Hodges,False,,28.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Ndjakalenga Mwenentanda Turnover.,81,41,4,237,237,Texas Longhorns,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Hetta Saatman Steal.,81,41,4,237,237,Drexel Dragons,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill Turnover.,81,41,4,231,231,Drexel Dragons,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Ndjakalenga Mwenentanda Steal.,81,41,4,231,231,Texas Longhorns,steal,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Gisella Maul missed Three Point Jumper.,81,41,4,214,214,Texas Longhorns,three point jumper,True,False,True,Gisella Maul,False,,24.0,25.0
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye Offensive Rebound.,81,41,4,214,214,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye Turnover.,81,41,4,211,211,Texas Longhorns,turnover,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill missed Three Point Jumper.,81,41,4,189,189,Drexel Dragons,three point jumper,True,False,True,Grace O'Neill,False,,3.0,10.0
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye Defensive Rebound.,81,41,4,189,189,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye missed Layup.,81,41,4,176,176,Texas Longhorns,layup,True,False,False,Khadija Faye,False,,28.0,1.0
+401637549,Texas Longhorns,Drexel Dragons,Texas Offensive Rebound.,81,41,4,176,176,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Sarah Graves missed Three Point Jumper.,81,41,4,162,162,Texas Longhorns,three point jumper,True,False,True,Sarah Graves,False,,2.0,2.0
+401637549,Texas Longhorns,Drexel Dragons,Amina Muhammad Offensive Rebound.,81,41,4,162,162,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Gisella Maul missed Jumper.,81,41,4,147,147,Texas Longhorns,jumper,True,False,False,Gisella Maul,False,,24.0,6.0
+401637549,Texas Longhorns,Drexel Dragons,Gisella Maul Offensive Rebound.,81,41,4,147,147,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Ndjakalenga Mwenentanda missed Jumper.,81,41,4,131,131,Texas Longhorns,jumper,True,False,False,Ndjakalenga Mwenentanda,False,,9.0,9.0
+401637549,Texas Longhorns,Drexel Dragons,Grace O'Neill Defensive Rebound.,81,41,4,131,131,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Brooke Mullin missed Three Point Jumper.,81,41,4,99,99,Drexel Dragons,three point jumper,True,False,True,Brooke Mullin,False,,35.0,22.0
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye Defensive Rebound.,81,41,4,99,99,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Grace O'Neill.,81,41,4,88,88,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Drexel  Timeout,81,41,4,88,88,Drexel Dragons,timeout,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Ndjakalenga Mwenentanda missed Three Point Jumper.,81,41,4,82,82,Texas Longhorns,three point jumper,True,False,True,Ndjakalenga Mwenentanda,False,,48.0,-1.0
+401637549,Texas Longhorns,Drexel Dragons,Sarah Graves Offensive Rebound.,81,41,4,82,82,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Gisella Maul missed Jumper.,81,41,4,68,68,Texas Longhorns,jumper,True,False,False,Gisella Maul,False,,29.0,5.0
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges Block.,81,41,4,68,68,Drexel Dragons,block,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Chloe Hodges Defensive Rebound.,81,41,4,68,68,Drexel Dragons,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Sarah Graves.,81,41,4,48,48,Texas Longhorns,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Erin Doherty made Free Throw.,81,42,4,48,48,Drexel Dragons,free throw,True,True,False,Erin Doherty,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Erin Doherty missed Free Throw.,81,42,4,48,48,Drexel Dragons,free throw,True,False,False,Erin Doherty,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye Defensive Rebound.,81,42,4,48,48,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Foul on Chloe Hodges.,81,42,4,25,25,Drexel Dragons,foul,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye missed Free Throw.,81,42,4,25,25,Texas Longhorns,free throw,True,False,False,Khadija Faye,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Texas Deadball Team Rebound.,81,42,4,25,25,Texas Longhorns,rebound,False,False,False,,False,,,
+401637549,Texas Longhorns,Drexel Dragons,Khadija Faye made Free Throw.,82,42,4,25,25,Texas Longhorns,free throw,True,True,False,Khadija Faye,False,,,
+401637549,Texas Longhorns,Drexel Dragons,End of Game,82,42,4,0,0,,end,False,False,False,,False,,,

@@ -1,0 +1,319 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Jump Ball won by South Carolina,0,0,1,600,2400,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Bree Hall made Three Point Jumper.,3,0,1,592,2392,South Carolina Gamecocks,three point jumper,True,True,True,Bree Hall,False,,38.0,22.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes missed Three Point Jumper.,3,0,1,578,2378,Indiana Hoosiers,three point jumper,True,False,True,Mackenzie Holmes,False,,11.0,22.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish Offensive Rebound.,3,0,1,578,2378,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish made Layup.,3,2,1,572,2372,Indiana Hoosiers,layup,True,True,False,Sydney Parrish,False,,23.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Te-Hina Paopao made Three Point Jumper.,6,2,1,561,2361,South Carolina Gamecocks,three point jumper,True,True,True,Te-Hina Paopao,False,,11.0,19.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil Turnover.,6,2,1,531,2331,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson Steal.,6,2,1,531,2331,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso made Layup. Assisted by Bree Hall.,8,2,1,521,2321,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Bree Hall,27.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon Turnover.,8,2,1,508,2308,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Ashlyn Watkins Steal.,8,2,1,508,2308,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Mackenzie Holmes.,8,2,1,505,2305,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso missed Layup.,8,2,1,496,2296,South Carolina Gamecocks,layup,True,False,False,Kamilla Cardoso,False,,25.0,2.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso Offensive Rebound.,8,2,1,496,2296,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso made Layup.,10,2,1,491,2291,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,False,,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon made Three Point Jumper. Assisted by Mackenzie Holmes.,10,5,1,481,2281,Indiana Hoosiers,three point jumper,True,True,True,Yarden Garzon,True,Mackenzie Holmes,6.0,17.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Bree Hall missed Three Point Jumper.,10,5,1,468,2268,South Carolina Gamecocks,three point jumper,True,False,True,Bree Hall,False,,40.0,21.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Ashlyn Watkins Offensive Rebound.,10,5,1,468,2268,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Ashlyn Watkins Turnover.,10,5,1,465,2265,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes missed Three Point Jumper.,10,5,1,443,2243,Indiana Hoosiers,three point jumper,True,False,True,Mackenzie Holmes,False,,32.0,23.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon Offensive Rebound.,10,5,1,443,2243,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon missed Jumper.,10,5,1,436,2236,Indiana Hoosiers,jumper,True,False,False,Yarden Garzon,False,,33.0,10.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson Defensive Rebound.,10,5,1,436,2236,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Te-Hina Paopao missed Layup.,10,5,1,417,2217,South Carolina Gamecocks,layup,True,False,False,Te-Hina Paopao,False,,24.0,3.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon Defensive Rebound.,10,5,1,417,2217,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon missed Three Point Jumper.,10,5,1,409,2209,Indiana Hoosiers,three point jumper,True,False,True,Yarden Garzon,False,,41.0,19.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson Defensive Rebound.,10,5,1,409,2209,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson missed Layup.,10,5,1,402,2202,South Carolina Gamecocks,layup,True,False,False,Raven Johnson,False,,28.0,3.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil Defensive Rebound.,10,5,1,402,2202,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Ashlyn Watkins.,10,5,1,394,2194,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes made Free Throw.,10,6,1,394,2194,Indiana Hoosiers,free throw,True,True,False,Mackenzie Holmes,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes made Free Throw.,10,7,1,394,2194,Indiana Hoosiers,free throw,True,True,False,Mackenzie Holmes,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Kitts Turnover.,10,7,1,378,2178,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia Turnover.,10,7,1,360,2160,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Bree Hall Turnover.,10,7,1,350,2150,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil Steal.,10,7,1,350,2150,Indiana Hoosiers,steal,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish missed Layup.,10,7,1,343,2143,Indiana Hoosiers,layup,True,False,False,Sydney Parrish,False,,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Lilly Meister Offensive Rebound.,10,7,1,343,2143,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Lilly Meister Turnover.,10,7,1,340,2140,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Bree Hall missed Layup.,10,7,1,325,2125,South Carolina Gamecocks,layup,True,False,False,Bree Hall,False,,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon Defensive Rebound.,10,7,1,325,2125,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish missed Three Point Jumper.,10,7,1,318,2118,Indiana Hoosiers,three point jumper,True,False,True,Sydney Parrish,False,,20.0,26.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin Defensive Rebound.,10,7,1,314,2114,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin missed Jumper.,10,7,1,307,2107,South Carolina Gamecocks,jumper,True,False,False,Sania Feagin,False,,34.0,18.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil Defensive Rebound.,10,7,1,304,2104,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia made Jumper. Assisted by Sydney Parrish.,10,9,1,299,2099,Indiana Hoosiers,jumper,True,True,False,Sara Scalia,True,Sydney Parrish,12.0,5.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Lilly Meister.,10,9,1,278,2078,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers, Official TV Timeout,10,9,1,278,2078,,tv timeout,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin made Free Throw.,11,9,1,278,2078,South Carolina Gamecocks,free throw,True,True,False,Sania Feagin,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin made Free Throw.,12,9,1,278,2078,South Carolina Gamecocks,free throw,True,True,False,Sania Feagin,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish made Three Point Jumper. Assisted by Chloe Moore-McNeil.,12,12,1,268,2068,Indiana Hoosiers,three point jumper,True,True,True,Sydney Parrish,True,Chloe Moore-McNeil,4.0,15.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Bree Hall made Three Point Jumper. Assisted by Raven Johnson.,15,12,1,249,2049,South Carolina Gamecocks,three point jumper,True,True,True,Bree Hall,True,Raven Johnson,2.0,-1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia missed Layup.,15,12,1,238,2038,Indiana Hoosiers,layup,True,False,False,Sara Scalia,False,,21.0,0.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Kitts Defensive Rebound.,15,12,1,238,2038,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Kitts made Layup.,17,12,1,231,2031,South Carolina Gamecocks,layup,True,True,False,Chloe Kitts,False,,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil missed Layup.,17,12,1,220,2020,Indiana Hoosiers,layup,True,False,False,Chloe Moore-McNeil,False,,28.0,0.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Kitts Defensive Rebound.,17,12,1,220,2020,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson made Three Point Jumper. Assisted by MiLaysia Fulwiley.,20,12,1,201,2001,South Carolina Gamecocks,three point jumper,True,True,True,Raven Johnson,True,MiLaysia Fulwiley,49.0,2.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia made Three Point Jumper.,20,15,1,176,1976,Indiana Hoosiers,three point jumper,True,True,True,Sara Scalia,False,,9.0,22.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley missed Layup.,20,15,1,161,1961,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,29.0,0.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes Defensive Rebound.,20,15,1,161,1961,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon missed Three Point Jumper.,20,15,1,144,1944,Indiana Hoosiers,three point jumper,True,False,True,Yarden Garzon,False,,48.0,0.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin Defensive Rebound.,20,15,1,144,1944,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley missed Layup.,20,15,1,134,1934,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,28.0,2.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish Block.,20,15,1,134,1934,Indiana Hoosiers,block,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Kitts Offensive Rebound.,20,15,1,132,1932,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Kitts missed Layup.,20,15,1,132,1932,South Carolina Gamecocks,layup,True,False,False,Chloe Kitts,False,,24.0,2.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,South Carolina Offensive Rebound.,20,15,1,132,1932,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Mackenzie Holmes.,20,15,1,121,1921,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso missed Free Throw.,20,15,1,121,1921,South Carolina Gamecocks,free throw,True,False,False,Kamilla Cardoso,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,South Carolina Deadball Team Rebound.,20,15,1,121,1921,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso made Free Throw.,21,15,1,121,1921,South Carolina Gamecocks,free throw,True,True,False,Kamilla Cardoso,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish missed Three Point Jumper.,21,15,1,109,1909,Indiana Hoosiers,three point jumper,True,False,True,Sydney Parrish,False,,8.0,20.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley Defensive Rebound.,21,15,1,109,1909,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley Turnover.,21,15,1,103,1903,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil Steal.,21,15,1,103,1903,Indiana Hoosiers,steal,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia missed Three Point Jumper.,21,15,1,88,1888,Indiana Hoosiers,three point jumper,True,False,True,Sara Scalia,False,,11.0,24.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin Defensive Rebound.,21,15,1,88,1888,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Tessa Johnson missed Three Point Jumper.,21,15,1,76,1876,South Carolina Gamecocks,three point jumper,True,False,True,Tessa Johnson,False,,2.0,-1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso Offensive Rebound.,21,15,1,76,1876,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Tessa Johnson made Layup. Assisted by Kamilla Cardoso.,23,15,1,68,1868,South Carolina Gamecocks,layup,True,True,False,Tessa Johnson,True,Kamilla Cardoso,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish missed Three Point Jumper.,23,15,1,56,1856,Indiana Hoosiers,three point jumper,True,False,True,Sydney Parrish,False,,39.0,20.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Te-Hina Paopao Defensive Rebound.,23,15,1,56,1856,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley made Three Point Jumper. Assisted by Kamilla Cardoso.,26,15,1,41,1841,South Carolina Gamecocks,three point jumper,True,True,True,MiLaysia Fulwiley,True,Kamilla Cardoso,39.0,21.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Indiana  Timeout,26,15,1,39,1839,Indiana Hoosiers,timeout,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers, Official TV Timeout,26,15,1,39,1839,,tv timeout,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil missed Three Point Jumper.,26,15,1,11,1811,Indiana Hoosiers,three point jumper,True,False,True,Chloe Moore-McNeil,False,,25.0,27.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Lilly Meister Offensive Rebound.,26,15,1,11,1811,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon missed Layup.,26,15,1,2,1802,Indiana Hoosiers,layup,True,False,False,Yarden Garzon,False,,28.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin Block.,26,15,1,2,1802,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin Defensive Rebound.,26,15,1,2,1802,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,End of 1st Quarter,26,15,1,0,1800,,end,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Jump Ball won by South Carolina,26,15,2,600,1800,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Julianna LaMendola.,26,15,2,581,1781,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley made Free Throw.,27,15,2,581,1781,South Carolina Gamecocks,free throw,True,True,False,MiLaysia Fulwiley,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley made Free Throw.,28,15,2,581,1781,South Carolina Gamecocks,free throw,True,True,False,MiLaysia Fulwiley,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia missed Three Point Jumper.,28,15,2,560,1760,Indiana Hoosiers,three point jumper,True,False,True,Sara Scalia,False,,6.0,17.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Ashlyn Watkins Defensive Rebound.,28,15,2,560,1760,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Tessa Johnson missed Jumper.,28,15,2,551,1751,South Carolina Gamecocks,jumper,True,False,False,Tessa Johnson,False,,13.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,South Carolina Offensive Rebound.,28,15,2,551,1751,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Tessa Johnson missed Layup.,28,15,2,541,1741,South Carolina Gamecocks,layup,True,False,False,Tessa Johnson,False,,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon Defensive Rebound.,28,15,2,541,1741,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia missed Layup.,28,15,2,523,1723,Indiana Hoosiers,layup,True,False,False,Sara Scalia,False,,21.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin Block.,28,15,2,523,1723,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Indiana Offensive Rebound.,28,15,2,523,1723,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Julianna LaMendola made Jumper. Assisted by Chloe Moore-McNeil.,28,17,2,519,1719,Indiana Hoosiers,jumper,True,True,False,Julianna LaMendola,True,Chloe Moore-McNeil,29.0,2.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin missed Layup.,28,17,2,498,1698,South Carolina Gamecocks,layup,True,False,False,Sania Feagin,False,,25.0,4.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil Defensive Rebound.,28,17,2,498,1698,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia made Layup. Assisted by Chloe Moore-McNeil.,28,19,2,493,1693,Indiana Hoosiers,layup,True,True,False,Sara Scalia,True,Chloe Moore-McNeil,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley missed Three Point Jumper.,28,19,2,478,1678,South Carolina Gamecocks,three point jumper,True,False,True,MiLaysia Fulwiley,False,,46.0,14.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Indiana Deadball Team Rebound.,28,19,2,478,1678,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil made Three Point Jumper. Assisted by Yarden Garzon.,28,22,2,466,1666,Indiana Hoosiers,three point jumper,True,True,True,Chloe Moore-McNeil,True,Yarden Garzon,40.0,20.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Tessa Johnson made Jumper.,30,22,2,453,1653,South Carolina Gamecocks,jumper,True,True,False,Tessa Johnson,False,,21.0,13.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon Turnover.,30,22,2,438,1638,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso made Layup. Assisted by Raven Johnson.,32,22,2,427,1627,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Raven Johnson,22.0,0.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon made Three Point Jumper. Assisted by Sydney Parrish.,32,25,2,412,1612,Indiana Hoosiers,three point jumper,True,True,True,Yarden Garzon,True,Sydney Parrish,5.0,16.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Ashlyn Watkins made Jumper. Assisted by Tessa Johnson.,34,25,2,387,1587,South Carolina Gamecocks,jumper,True,True,False,Ashlyn Watkins,True,Tessa Johnson,28.0,5.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Ashlyn Watkins.,34,25,2,367,1567,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil made Three Point Jumper. Assisted by Sara Scalia.,34,28,2,357,1557,Indiana Hoosiers,three point jumper,True,True,True,Chloe Moore-McNeil,True,Sara Scalia,7.0,21.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Bree Hall missed Layup.,34,28,2,337,1537,South Carolina Gamecocks,layup,True,False,False,Bree Hall,False,,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes Block.,34,28,2,337,1537,Indiana Hoosiers,block,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon Defensive Rebound.,34,28,2,337,1537,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Raven Johnson.,34,28,2,330,1530,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon Turnover.,34,28,2,318,1518,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso made Layup. Assisted by Raven Johnson.,36,28,2,301,1501,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Raven Johnson,27.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia Turnover.,36,28,2,281,1481,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson Steal.,36,28,2,281,1481,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Yarden Garzon.,36,28,2,280,1480,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers, Official TV Timeout,36,28,2,280,1480,,tv timeout,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Lilly Meister.,36,28,2,271,1471,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Kitts made Layup.,38,28,2,261,1461,South Carolina Gamecocks,layup,True,True,False,Chloe Kitts,False,,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Sydney Parrish.,38,28,2,261,1461,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Kitts made Free Throw.,39,28,2,261,1461,South Carolina Gamecocks,free throw,True,True,False,Chloe Kitts,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes missed Layup.,39,28,2,243,1443,Indiana Hoosiers,layup,True,False,False,Mackenzie Holmes,False,,28.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Te-Hina Paopao Defensive Rebound.,39,28,2,243,1443,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson missed Jumper.,39,28,2,230,1430,South Carolina Gamecocks,jumper,True,False,False,Raven Johnson,False,,19.0,10.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Indiana Deadball Team Rebound.,39,28,2,230,1430,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Chloe Kitts.,39,28,2,229,1429,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes missed Layup.,39,28,2,205,1405,Indiana Hoosiers,layup,True,False,False,Mackenzie Holmes,False,,20.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso Block.,39,28,2,205,1405,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Kitts Defensive Rebound.,39,28,2,205,1405,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson made Jumper.,41,28,2,175,1375,South Carolina Gamecocks,jumper,True,True,False,Raven Johnson,False,,26.0,6.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon made Jumper.,41,30,2,158,1358,Indiana Hoosiers,jumper,True,True,False,Yarden Garzon,False,,19.0,13.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso made Layup. Assisted by Raven Johnson.,43,30,2,138,1338,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Raven Johnson,28.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Yarden Garzon.,43,30,2,118,1318,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon Turnover.,43,30,2,118,1318,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Bree Hall made Jumper.,45,30,2,104,1304,South Carolina Gamecocks,jumper,True,True,False,Bree Hall,False,,39.0,2.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes missed Three Point Jumper.,45,30,2,92,1292,Indiana Hoosiers,three point jumper,True,False,True,Mackenzie Holmes,False,,12.0,23.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Kitts Defensive Rebound.,45,30,2,92,1292,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley Turnover.,45,30,2,67,1267,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil Steal.,45,30,2,67,1267,Indiana Hoosiers,steal,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes made Layup.,45,32,2,59,1259,Indiana Hoosiers,layup,True,True,False,Mackenzie Holmes,False,,28.0,0.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Chloe Moore-McNeil.,45,32,2,49,1249,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley made Free Throw.,46,32,2,49,1249,South Carolina Gamecocks,free throw,True,True,False,MiLaysia Fulwiley,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley made Free Throw.,47,32,2,49,1249,South Carolina Gamecocks,free throw,True,True,False,MiLaysia Fulwiley,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Sydney Parrish.,47,32,2,35,1235,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish Turnover.,47,32,2,35,1235,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley missed Layup.,47,32,2,11,1211,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,22.0,0.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso Offensive Rebound.,47,32,2,11,1211,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso made Layup.,49,32,2,7,1207,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,False,,28.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil missed Jumper.,49,32,2,2,1202,Indiana Hoosiers,jumper,True,False,False,Chloe Moore-McNeil,False,,39.0,2.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso Block.,49,32,2,2,1202,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Indiana Offensive Rebound.,49,32,2,2,1202,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,End of 2nd Quarter,49,32,2,0,1200,,end,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Jump Ball won by South Carolina,49,32,3,600,1200,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Ashlyn Watkins made Layup.,51,32,3,580,1180,South Carolina Gamecocks,layup,True,True,False,Ashlyn Watkins,False,,21.0,0.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes missed Three Point Jumper.,51,32,3,560,1160,Indiana Hoosiers,three point jumper,True,False,True,Mackenzie Holmes,False,,21.0,24.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson Defensive Rebound.,51,32,3,560,1160,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Ashlyn Watkins Turnover.,51,32,3,545,1145,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes Steal.,51,32,3,545,1145,Indiana Hoosiers,steal,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon missed Three Point Jumper.,51,32,3,536,1136,Indiana Hoosiers,three point jumper,True,False,True,Yarden Garzon,False,,17.0,24.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson Defensive Rebound.,51,32,3,536,1136,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso made Layup. Assisted by Raven Johnson.,53,32,3,526,1126,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Raven Johnson,23.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia missed Three Point Jumper.,53,32,3,500,1100,Indiana Hoosiers,three point jumper,True,False,True,Sara Scalia,False,,6.0,16.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia Offensive Rebound.,53,32,3,500,1100,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia made Jumper.,53,34,3,493,1093,Indiana Hoosiers,jumper,True,True,False,Sara Scalia,False,,24.0,11.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Te-Hina Paopao missed Jumper.,53,34,3,475,1075,South Carolina Gamecocks,jumper,True,False,False,Te-Hina Paopao,False,,11.0,13.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia Defensive Rebound.,53,34,3,475,1075,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia Turnover.,53,34,3,468,1068,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson made Three Point Jumper. Assisted by Kamilla Cardoso.,56,34,3,448,1048,South Carolina Gamecocks,three point jumper,True,True,True,Raven Johnson,True,Kamilla Cardoso,41.0,18.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon made Three Point Jumper. Assisted by Mackenzie Holmes.,56,37,3,429,1029,Indiana Hoosiers,three point jumper,True,True,True,Yarden Garzon,True,Mackenzie Holmes,22.0,26.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Ashlyn Watkins.,56,37,3,429,1029,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon made Free Throw.,56,38,3,429,1029,Indiana Hoosiers,free throw,True,True,False,Yarden Garzon,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Te-Hina Paopao made Three Point Jumper. Assisted by Bree Hall.,59,38,3,412,1012,South Carolina Gamecocks,three point jumper,True,True,True,Te-Hina Paopao,True,Bree Hall,6.0,19.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes made Layup. Assisted by Yarden Garzon.,59,40,3,400,1000,Indiana Hoosiers,layup,True,True,False,Mackenzie Holmes,True,Yarden Garzon,21.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso made Layup. Assisted by Bree Hall.,61,40,3,386,986,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Bree Hall,21.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish made Three Point Jumper. Assisted by Yarden Garzon.,61,43,3,375,975,Indiana Hoosiers,three point jumper,True,True,True,Sydney Parrish,True,Yarden Garzon,31.0,26.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Te-Hina Paopao missed Three Point Jumper.,61,43,3,353,953,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,4.0,16.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish Defensive Rebound.,61,43,3,353,953,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil Turnover.,61,43,3,342,942,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Ashlyn Watkins Steal.,61,43,3,342,942,South Carolina Gamecocks,steal,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Ashlyn Watkins missed Layup.,61,43,3,318,918,South Carolina Gamecocks,layup,True,False,False,Ashlyn Watkins,False,,30.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes Defensive Rebound.,61,43,3,318,918,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish made Three Point Jumper. Assisted by Chloe Moore-McNeil.,61,46,3,304,904,Indiana Hoosiers,three point jumper,True,True,True,Sydney Parrish,True,Chloe Moore-McNeil,40.0,23.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Bree Hall missed Three Point Jumper.,61,46,3,279,879,South Carolina Gamecocks,three point jumper,True,False,True,Bree Hall,False,,3.0,12.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish Defensive Rebound.,61,46,3,279,879,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish made Layup.,61,48,3,271,871,Indiana Hoosiers,layup,True,True,False,Sydney Parrish,False,,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers, Official TV Timeout,61,48,3,269,869,,tv timeout,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin Turnover.,61,48,3,244,844,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish Steal.,61,48,3,244,844,Indiana Hoosiers,steal,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon made Layup.,61,50,3,232,832,Indiana Hoosiers,layup,True,True,False,Yarden Garzon,False,,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Sara Scalia.,61,50,3,219,819,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Kitts Turnover.,61,50,3,205,805,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish Steal.,61,50,3,205,805,Indiana Hoosiers,steal,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish missed Three Point Jumper.,61,50,3,196,796,Indiana Hoosiers,three point jumper,True,False,True,Sydney Parrish,False,,17.0,24.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin Defensive Rebound.,61,50,3,196,796,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Te-Hina Paopao made Layup.,63,50,3,183,783,South Carolina Gamecocks,layup,True,True,False,Te-Hina Paopao,False,,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish missed Layup.,63,50,3,161,761,Indiana Hoosiers,layup,True,False,False,Sydney Parrish,False,,27.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Te-Hina Paopao Block.,63,50,3,161,761,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin Defensive Rebound.,63,50,3,161,761,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley missed Layup.,63,50,3,154,754,South Carolina Gamecocks,layup,True,False,False,MiLaysia Fulwiley,False,,28.0,2.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon Defensive Rebound.,63,50,3,150,750,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Sania Feagin.,63,50,3,144,744,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon missed Three Point Jumper.,63,50,3,137,737,Indiana Hoosiers,three point jumper,True,False,True,Yarden Garzon,False,,6.0,14.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,South Carolina Defensive Rebound.,63,50,3,137,737,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin made Layup. Assisted by Te-Hina Paopao.,65,50,3,115,715,South Carolina Gamecocks,layup,True,True,False,Sania Feagin,True,Te-Hina Paopao,23.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Sydney Parrish.,65,50,3,115,715,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin missed Free Throw.,65,50,3,115,715,South Carolina Gamecocks,free throw,True,False,False,Sania Feagin,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil Defensive Rebound.,65,50,3,115,715,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil made Three Point Jumper.,65,53,3,90,690,Indiana Hoosiers,three point jumper,True,True,True,Chloe Moore-McNeil,False,,20.0,25.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso missed Layup.,65,53,3,73,673,South Carolina Gamecocks,layup,True,False,False,Kamilla Cardoso,False,,29.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes Block.,65,53,3,73,673,Indiana Hoosiers,block,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso Offensive Rebound.,65,53,3,73,673,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin missed Layup.,65,53,3,65,665,South Carolina Gamecocks,layup,True,False,False,Sania Feagin,False,,28.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Lexus Bargesser Defensive Rebound.,65,53,3,65,665,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Kamilla Cardoso.,65,53,3,65,665,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Bree Hall.,65,53,3,55,655,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil made Layup.,65,55,3,44,644,Indiana Hoosiers,layup,True,True,False,Chloe Moore-McNeil,False,,27.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,MiLaysia Fulwiley missed Three Point Jumper.,65,55,3,28,628,South Carolina Gamecocks,three point jumper,True,False,True,MiLaysia Fulwiley,False,,23.0,25.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes Defensive Rebound.,65,55,3,28,628,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon missed Layup.,65,55,3,3,603,Indiana Hoosiers,layup,True,False,False,Yarden Garzon,False,,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso Block.,65,55,3,3,603,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes Offensive Rebound.,65,55,3,3,603,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Bree Hall.,65,55,3,2,602,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes missed Free Throw.,65,55,3,2,602,Indiana Hoosiers,free throw,True,False,False,Mackenzie Holmes,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Indiana Deadball Team Rebound.,65,55,3,2,602,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes missed Free Throw.,65,55,3,2,602,Indiana Hoosiers,free throw,True,False,False,Mackenzie Holmes,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso Defensive Rebound.,65,55,3,2,602,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,End of 3rd Quarter,65,55,3,0,600,,end,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Jump Ball won by South Carolina,65,55,4,600,600,South Carolina Gamecocks,jump ball,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sania Feagin Turnover.,65,55,4,588,588,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Yarden Garzon.,65,55,4,563,563,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon Turnover.,65,55,4,563,563,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Bree Hall missed Jumper.,65,55,4,544,544,South Carolina Gamecocks,jumper,True,False,False,Bree Hall,False,,33.0,11.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil Defensive Rebound.,65,55,4,544,544,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes made Layup. Assisted by Sara Scalia.,65,57,4,534,534,Indiana Hoosiers,layup,True,True,False,Mackenzie Holmes,True,Sara Scalia,24.0,3.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Tessa Johnson missed Jumper.,65,57,4,510,510,South Carolina Gamecocks,jumper,True,False,False,Tessa Johnson,False,,23.0,16.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Indiana Deadball Team Rebound.,65,57,4,510,510,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Sania Feagin.,65,57,4,510,510,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Raven Johnson.,65,57,4,493,493,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes Turnover.,65,57,4,482,482,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Bree Hall missed Three Point Jumper.,65,57,4,471,471,South Carolina Gamecocks,three point jumper,True,False,True,Bree Hall,False,,2.0,8.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia Defensive Rebound.,65,57,4,471,471,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish made Three Point Jumper. Assisted by Chloe Moore-McNeil.,65,60,4,442,442,Indiana Hoosiers,three point jumper,True,True,True,Sydney Parrish,True,Chloe Moore-McNeil,47.0,11.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Jump Ball won by Indiana,65,60,4,420,420,Indiana Hoosiers,jump ball,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Ashlyn Watkins Turnover.,65,60,4,420,420,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon Steal.,65,60,4,420,420,Indiana Hoosiers,steal,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon missed Three Point Jumper.,65,60,4,410,410,Indiana Hoosiers,three point jumper,True,False,True,Yarden Garzon,False,,6.0,16.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso Defensive Rebound.,65,60,4,410,410,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,South Carolina  Timeout,65,60,4,396,396,South Carolina Gamecocks,timeout,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers, Official TV Timeout,65,60,4,396,396,,tv timeout,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso made Layup. Assisted by Te-Hina Paopao.,67,60,4,385,385,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Te-Hina Paopao,28.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon made Jumper.,67,62,4,370,370,Indiana Hoosiers,jumper,True,True,False,Yarden Garzon,False,,18.0,3.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Tessa Johnson made Layup.,69,62,4,348,348,South Carolina Gamecocks,layup,True,True,False,Tessa Johnson,False,,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia missed Jumper.,69,62,4,332,332,Indiana Hoosiers,jumper,True,False,False,Sara Scalia,False,,34.0,19.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Indiana Deadball Team Rebound.,69,62,4,332,332,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Tessa Johnson.,69,62,4,330,330,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes Turnover.,69,62,4,314,314,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Te-Hina Paopao missed Jumper.,69,62,4,298,298,South Carolina Gamecocks,jumper,True,False,False,Te-Hina Paopao,False,,22.0,5.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Ashlyn Watkins Offensive Rebound.,69,62,4,298,298,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Mackenzie Holmes.,69,62,4,290,290,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers, Official TV Timeout,69,62,4,290,290,,tv timeout,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso made Free Throw.,70,62,4,290,290,South Carolina Gamecocks,free throw,True,True,False,Kamilla Cardoso,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso missed Free Throw.,70,62,4,290,290,South Carolina Gamecocks,free throw,True,False,False,Kamilla Cardoso,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil Defensive Rebound.,70,62,4,290,290,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish missed Three Point Jumper.,70,62,4,273,273,Indiana Hoosiers,three point jumper,True,False,True,Sydney Parrish,False,,38.0,25.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso Defensive Rebound.,70,62,4,273,273,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Ashlyn Watkins Turnover.,70,62,4,243,243,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia Steal.,70,62,4,243,243,Indiana Hoosiers,steal,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish made Three Point Jumper. Assisted by Chloe Moore-McNeil.,70,65,4,234,234,Indiana Hoosiers,three point jumper,True,True,True,Sydney Parrish,True,Chloe Moore-McNeil,5.0,14.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,South Carolina  Turnover.,70,65,4,199,199,South Carolina Gamecocks,turnover,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes missed Jumper.,70,65,4,184,184,Indiana Hoosiers,jumper,True,False,False,Mackenzie Holmes,False,,30.0,16.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson Defensive Rebound.,70,65,4,184,184,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson made Jumper.,72,65,4,172,172,South Carolina Gamecocks,jumper,True,True,False,Raven Johnson,False,,25.0,6.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia made Three Point Jumper. Assisted by Chloe Moore-McNeil.,72,68,4,144,144,Indiana Hoosiers,three point jumper,True,True,True,Sara Scalia,True,Chloe Moore-McNeil,3.0,10.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Kamilla Cardoso made Layup. Assisted by Raven Johnson.,74,68,4,123,123,South Carolina Gamecocks,layup,True,True,False,Kamilla Cardoso,True,Raven Johnson,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Tessa Johnson.,74,68,4,102,102,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish made Free Throw.,74,69,4,102,102,Indiana Hoosiers,free throw,True,True,False,Sydney Parrish,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sydney Parrish made Free Throw.,74,70,4,102,102,Indiana Hoosiers,free throw,True,True,False,Sydney Parrish,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Te-Hina Paopao missed Three Point Jumper.,74,70,4,88,88,South Carolina Gamecocks,three point jumper,True,False,True,Te-Hina Paopao,False,,6.0,19.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia Defensive Rebound.,74,70,4,88,88,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes made Layup.,74,72,4,68,68,Indiana Hoosiers,layup,True,True,False,Mackenzie Holmes,False,,27.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,South Carolina  Timeout,74,72,4,58,58,South Carolina Gamecocks,timeout,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson made Three Point Jumper. Assisted by Kamilla Cardoso.,77,72,4,53,53,South Carolina Gamecocks,three point jumper,True,True,True,Raven Johnson,True,Kamilla Cardoso,5.0,15.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Mackenzie Holmes made Layup. Assisted by Chloe Moore-McNeil.,77,74,4,30,30,Indiana Hoosiers,layup,True,True,False,Mackenzie Holmes,True,Chloe Moore-McNeil,22.0,1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Chloe Moore-McNeil.,77,74,4,24,24,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Sara Scalia.,77,74,4,23,23,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Sydney Parrish.,77,74,4,21,21,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson missed Free Throw.,77,74,4,21,21,South Carolina Gamecocks,free throw,True,False,False,Raven Johnson,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,South Carolina Deadball Team Rebound.,77,74,4,21,21,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Raven Johnson made Free Throw.,78,74,4,21,21,South Carolina Gamecocks,free throw,True,True,False,Raven Johnson,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Indiana  Timeout,78,74,4,21,21,Indiana Hoosiers,timeout,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Raven Johnson.,78,74,4,16,16,South Carolina Gamecocks,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil missed Free Throw.,78,74,4,16,16,Indiana Hoosiers,free throw,True,False,False,Chloe Moore-McNeil,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Indiana Deadball Team Rebound.,78,74,4,16,16,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Chloe Moore-McNeil made Free Throw.,78,75,4,16,16,Indiana Hoosiers,free throw,True,True,False,Chloe Moore-McNeil,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,South Carolina  Timeout,78,75,4,16,16,South Carolina Gamecocks,timeout,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Foul on Lexus Bargesser.,78,75,4,14,14,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Tessa Johnson missed Free Throw.,78,75,4,14,14,South Carolina Gamecocks,free throw,True,False,False,Tessa Johnson,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,South Carolina Deadball Team Rebound.,78,75,4,14,14,South Carolina Gamecocks,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Tessa Johnson made Free Throw.,79,75,4,14,14,South Carolina Gamecocks,free throw,True,True,False,Tessa Johnson,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Indiana  Timeout,79,75,4,14,14,Indiana Hoosiers,timeout,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Yarden Garzon missed Three Point Jumper.,79,75,4,12,12,Indiana Hoosiers,three point jumper,True,False,True,Yarden Garzon,False,,1.0,-1.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Ashlyn Watkins Block.,79,75,4,12,12,South Carolina Gamecocks,block,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Indiana Offensive Rebound.,79,75,4,12,12,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia missed Three Point Jumper.,79,75,4,4,4,Indiana Hoosiers,three point jumper,True,False,True,Sara Scalia,False,,10.0,21.0
+401637602,South Carolina Gamecocks,Indiana Hoosiers,Sara Scalia Offensive Rebound.,79,75,4,4,4,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637602,South Carolina Gamecocks,Indiana Hoosiers,End of Game,79,75,4,0,0,,end,False,False,False,,False,,,

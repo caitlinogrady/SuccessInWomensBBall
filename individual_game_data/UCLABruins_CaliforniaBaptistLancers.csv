@@ -1,0 +1,368 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637565,UCLA Bruins,California Baptist Lancers,Jump Ball won by UCLA,0,0,1,600,2400,UCLA Bruins,jump ball,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic made Three Point Jumper. Assisted by Kiki Rice.,3,0,1,586,2386,UCLA Bruins,three point jumper,True,True,True,Angela Dugalic,True,Kiki Rice,46.0,11.0
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua missed Layup.,3,0,1,574,2374,California Baptist Lancers,layup,True,False,False,Anaiyah Tu'ua,False,,21.0,2.0
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Defensive Rebound.,3,0,1,574,2374,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones made Three Point Jumper. Assisted by Gabriela Jaquez.,6,0,1,558,2358,UCLA Bruins,three point jumper,True,True,True,Londynn Jones,True,Gabriela Jaquez,5.0,20.0
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb missed Jumper.,6,0,1,539,2339,California Baptist Lancers,jumper,True,False,False,Chloe Webb,False,,20.0,4.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Defensive Rebound.,6,0,1,539,2339,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice missed Three Point Jumper.,6,0,1,525,2325,UCLA Bruins,three point jumper,True,False,True,Kiki Rice,False,,43.0,17.0
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua Defensive Rebound.,6,0,1,525,2325,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun missed Three Point Jumper.,6,0,1,513,2313,California Baptist Lancers,three point jumper,True,False,True,Nae Nae Calhoun,False,,36.0,23.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Defensive Rebound.,6,0,1,513,2313,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez Turnover.,6,0,1,503,2303,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Steal.,6,0,1,503,2303,California Baptist Lancers,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington missed Layup.,6,0,1,495,2295,California Baptist Lancers,layup,True,False,False,Kinsley Barrington,False,,21.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones Block.,6,0,1,495,2295,UCLA Bruins,block,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,California Baptist Offensive Rebound.,6,0,1,495,2295,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nhug Bosch Duran missed Three Point Jumper.,6,0,1,494,2294,California Baptist Lancers,three point jumper,True,False,True,Nhug Bosch Duran,False,,9.0,17.0
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice Defensive Rebound.,6,0,1,494,2294,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones missed Three Point Jumper.,6,0,1,479,2279,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,43.0,15.0
+401637565,UCLA Bruins,California Baptist Lancers,California Baptist Defensive Rebound.,6,0,1,479,2279,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun missed Layup.,6,0,1,453,2253,California Baptist Lancers,layup,True,False,False,Nae Nae Calhoun,False,,22.0,1.0
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice Defensive Rebound.,6,0,1,453,2253,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Anaiyah Tu'ua.,6,0,1,446,2246,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Free Throw.,7,0,1,446,2246,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Free Throw.,8,0,1,446,2246,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington made Jumper.,8,2,1,438,2238,California Baptist Lancers,jumper,True,True,False,Kinsley Barrington,False,,28.0,2.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne missed Three Point Jumper.,8,2,1,413,2213,UCLA Bruins,three point jumper,True,False,True,Charisma Osborne,False,,30.0,24.0
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua Defensive Rebound.,8,2,1,413,2213,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb Turnover.,8,2,1,394,2194,California Baptist Lancers,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice missed Three Point Jumper.,8,2,1,385,2185,UCLA Bruins,three point jumper,True,False,True,Kiki Rice,False,,12.0,20.0
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez Offensive Rebound.,8,2,1,385,2185,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez made Layup.,10,2,1,380,2180,UCLA Bruins,layup,True,True,False,Gabriela Jaquez,False,,27.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Christeen Iwuala.,10,2,1,357,2157,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb made Free Throw.,10,3,1,357,2157,California Baptist Lancers,free throw,True,True,False,Chloe Webb,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb made Free Throw.,10,4,1,357,2157,California Baptist Lancers,free throw,True,True,False,Chloe Webb,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones missed Layup.,10,4,1,347,2147,UCLA Bruins,layup,True,False,False,Londynn Jones,False,,23.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala Offensive Rebound.,10,4,1,347,2147,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala missed Layup.,10,4,1,343,2143,UCLA Bruins,layup,True,False,False,Christeen Iwuala,False,,28.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Nhug Bosch Duran Defensive Rebound.,10,4,1,343,2143,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington made Layup.,10,6,1,330,2130,California Baptist Lancers,layup,True,True,False,Kinsley Barrington,False,,28.0,2.0
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones missed Three Point Jumper.,10,6,1,302,2102,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,31.0,23.0
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Defensive Rebound.,10,6,1,302,2102,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nhug Bosch Duran missed Three Point Jumper.,10,6,1,284,2084,California Baptist Lancers,three point jumper,True,False,True,Nhug Bosch Duran,False,,2.0,3.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Defensive Rebound.,10,6,1,284,2084,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Kinsley Barrington.,10,6,1,275,2075,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers, Official TV Timeout,10,6,1,275,2075,,tv timeout,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala missed Free Throw.,10,6,1,275,2075,UCLA Bruins,free throw,True,False,False,Christeen Iwuala,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,UCLA Deadball Team Rebound.,10,6,1,275,2075,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala missed Free Throw.,10,6,1,275,2075,UCLA Bruins,free throw,True,False,False,Christeen Iwuala,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua Defensive Rebound.,10,6,1,275,2075,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb missed Layup.,10,6,1,259,2059,California Baptist Lancers,layup,True,False,False,Chloe Webb,False,,27.0,1.0
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon Offensive Rebound.,10,6,1,259,2059,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon missed Layup.,10,6,1,254,2054,California Baptist Lancers,layup,True,False,False,Khloe Lemon,False,,24.0,2.0
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones Defensive Rebound.,10,6,1,254,2054,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Chloe Webb.,10,6,1,247,2047,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne missed Three Point Jumper.,10,6,1,242,2042,UCLA Bruins,three point jumper,True,False,True,Charisma Osborne,False,,46.0,11.0
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon Defensive Rebound.,10,6,1,242,2042,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun missed Three Point Jumper.,10,6,1,219,2019,California Baptist Lancers,three point jumper,True,False,True,Nae Nae Calhoun,False,,20.0,24.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Defensive Rebound.,10,6,1,219,2019,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic missed Three Point Jumper.,10,6,1,210,2010,UCLA Bruins,three point jumper,True,False,True,Angela Dugalic,False,,25.0,25.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Offensive Rebound.,10,6,1,210,2010,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez made Layup. Assisted by Angela Dugalic.,12,6,1,198,1998,UCLA Bruins,layup,True,True,False,Gabriela Jaquez,True,Angela Dugalic,23.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Emily Sewell Turnover.,12,6,1,178,1978,California Baptist Lancers,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez made Layup.,14,6,1,157,1957,UCLA Bruins,layup,True,True,False,Gabriela Jaquez,False,,26.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua missed Layup.,14,6,1,141,1941,California Baptist Lancers,layup,True,False,False,Anaiyah Tu'ua,False,,21.0,2.0
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua Offensive Rebound.,14,6,1,141,1941,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua Turnover.,14,6,1,124,1924,California Baptist Lancers,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne missed Jumper.,14,6,1,115,1915,UCLA Bruins,jumper,True,False,False,Charisma Osborne,False,,10.0,7.0
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon Defensive Rebound.,14,6,1,115,1915,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb made Jumper.,14,8,1,101,1901,California Baptist Lancers,jumper,True,True,False,Chloe Webb,False,,27.0,12.0
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Emily Sewell.,14,8,1,89,1889,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Camryn Brown Turnover.,14,8,1,89,1889,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Emily Sewell missed Jumper.,14,8,1,70,1870,California Baptist Lancers,jumper,True,False,False,Emily Sewell,False,,15.0,11.0
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Defensive Rebound.,14,8,1,70,1870,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic made Three Point Jumper. Assisted by Charisma Osborne.,17,8,1,62,1862,UCLA Bruins,three point jumper,True,True,True,Angela Dugalic,True,Charisma Osborne,23.0,25.0
+401637565,UCLA Bruins,California Baptist Lancers,Nhug Bosch Duran missed Layup.,17,8,1,40,1840,California Baptist Lancers,layup,True,False,False,Nhug Bosch Duran,False,,21.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Camryn Brown Block.,17,8,1,40,1840,UCLA Bruins,block,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,California Baptist Offensive Rebound.,17,8,1,40,1840,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Emily Sewell missed Jumper.,17,8,1,32,1832,California Baptist Lancers,jumper,True,False,False,Emily Sewell,False,,26.0,3.0
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Block.,17,8,1,32,1832,UCLA Bruins,block,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,California Baptist Offensive Rebound.,17,8,1,32,1832,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun missed Three Point Jumper.,17,8,1,27,1827,California Baptist Lancers,three point jumper,True,False,True,Nae Nae Calhoun,False,,44.0,23.0
+401637565,UCLA Bruins,California Baptist Lancers,UCLA Defensive Rebound.,17,8,1,27,1827,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,End of 1st Quarter,17,8,1,0,1800,,end,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Jump Ball won by California Baptist,17,8,2,600,1800,California Baptist Lancers,jump ball,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington missed Layup.,17,8,2,589,1789,California Baptist Lancers,layup,True,False,False,Kinsley Barrington,False,,28.0,2.0
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington Offensive Rebound.,17,8,2,589,1789,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington missed Jumper.,17,8,2,584,1784,California Baptist Lancers,jumper,True,False,False,Kinsley Barrington,False,,25.0,4.0
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Defensive Rebound.,17,8,2,584,1784,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic missed Three Point Jumper.,17,8,2,565,1765,UCLA Bruins,three point jumper,True,False,True,Angela Dugalic,False,,44.0,13.0
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon Defensive Rebound.,17,8,2,565,1765,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Kiki Rice.,17,8,2,555,1755,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon made Free Throw.,17,9,2,555,1755,California Baptist Lancers,free throw,True,True,False,Khloe Lemon,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon made Free Throw.,17,10,2,555,1755,California Baptist Lancers,free throw,True,True,False,Khloe Lemon,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Jumper.,19,10,2,534,1734,UCLA Bruins,jumper,True,True,False,Kiki Rice,False,,29.0,18.0
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Christeen Iwuala.,19,10,2,499,1699,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun missed Jumper.,19,10,2,487,1687,California Baptist Lancers,jumper,True,False,False,Nae Nae Calhoun,False,,24.0,4.0
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez Defensive Rebound.,19,10,2,487,1687,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Nhug Bosch Duran.,19,10,2,478,1678,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones missed Free Throw.,19,10,2,478,1678,UCLA Bruins,free throw,True,False,False,Londynn Jones,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,UCLA Deadball Team Rebound.,19,10,2,478,1678,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones made Free Throw.,20,10,2,478,1678,UCLA Bruins,free throw,True,True,False,Londynn Jones,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Kinsley Barrington.,20,10,2,469,1669,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington Turnover.,20,10,2,469,1669,California Baptist Lancers,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne missed Jumper.,20,10,2,460,1660,UCLA Bruins,jumper,True,False,False,Charisma Osborne,False,,20.0,20.0
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Defensive Rebound.,20,10,2,460,1660,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb Turnover.,20,10,2,447,1647,California Baptist Lancers,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala Turnover.,20,10,2,430,1630,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Steal.,20,10,2,430,1630,California Baptist Lancers,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nhug Bosch Duran made Layup. Assisted by Nae Nae Calhoun.,20,12,2,425,1625,California Baptist Lancers,layup,True,True,False,Nhug Bosch Duran,True,Nae Nae Calhoun,27.0,1.0
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Jumper.,22,12,2,409,1609,UCLA Bruins,jumper,True,True,False,Kiki Rice,False,,30.0,16.0
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua missed Layup.,22,12,2,386,1586,California Baptist Lancers,layup,True,False,False,Anaiyah Tu'ua,False,,28.0,2.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Defensive Rebound.,22,12,2,386,1586,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Nae Nae Calhoun.,22,12,2,378,1578,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Free Throw.,23,12,2,378,1578,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Free Throw.,24,12,2,378,1578,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington missed Three Point Jumper.,24,12,2,361,1561,California Baptist Lancers,three point jumper,True,False,True,Kinsley Barrington,False,,42.0,18.0
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice Defensive Rebound.,24,12,2,361,1561,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones missed Three Point Jumper.,24,12,2,350,1550,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,43.0,16.0
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua Defensive Rebound.,24,12,2,350,1550,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Londynn Jones.,24,12,2,331,1531,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington missed Free Throw.,24,12,2,331,1531,California Baptist Lancers,free throw,True,False,False,Kinsley Barrington,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,California Baptist Deadball Team Rebound.,24,12,2,331,1531,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington made Free Throw.,24,13,2,331,1531,California Baptist Lancers,free throw,True,True,False,Kinsley Barrington,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice missed Three Point Jumper.,24,13,2,322,1522,UCLA Bruins,three point jumper,True,False,True,Kiki Rice,False,,12.0,21.0
+401637565,UCLA Bruins,California Baptist Lancers,Camryn Brown Offensive Rebound.,24,13,2,322,1522,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic missed Jumper.,24,13,2,314,1514,UCLA Bruins,jumper,True,False,False,Angela Dugalic,False,,22.0,3.0
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb Defensive Rebound.,24,13,2,314,1514,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Gabriela Jaquez.,24,13,2,291,1491,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers, Official TV Timeout,24,13,2,291,1491,,tv timeout,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Kinsley Barrington.,24,13,2,285,1485,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington Turnover.,24,13,2,285,1485,California Baptist Lancers,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones missed Three Point Jumper.,24,13,2,272,1472,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,2.0,8.0
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb Defensive Rebound.,24,13,2,272,1472,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua made Three Point Jumper. Assisted by Chloe Webb.,24,16,2,261,1461,California Baptist Lancers,three point jumper,True,True,True,Anaiyah Tu'ua,True,Chloe Webb,35.0,22.0
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones Turnover.,24,16,2,242,1442,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Steal.,24,16,2,242,1442,California Baptist Lancers,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb missed Jumper.,24,16,2,232,1432,California Baptist Lancers,jumper,True,False,False,Chloe Webb,False,,21.0,6.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Defensive Rebound.,24,16,2,232,1432,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones missed Three Point Jumper.,24,16,2,224,1424,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,48.0,3.0
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Offensive Rebound.,24,16,2,224,1424,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic missed Layup.,24,16,2,220,1420,UCLA Bruins,layup,True,False,False,Angela Dugalic,False,,27.0,2.0
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Offensive Rebound.,24,16,2,220,1420,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic missed Layup.,24,16,2,215,1415,UCLA Bruins,layup,True,False,False,Angela Dugalic,False,,24.0,1.0
+401637565,UCLA Bruins,California Baptist Lancers,Camryn Brown Offensive Rebound.,24,16,2,215,1415,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Jump Ball won by UCLA,24,16,2,214,1414,UCLA Bruins,jump ball,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne missed Jumper.,24,16,2,213,1413,UCLA Bruins,jumper,True,False,False,Charisma Osborne,False,,39.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,California Baptist Deadball Team Rebound.,24,16,2,213,1413,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Camryn Brown.,24,16,2,211,1411,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua missed Free Throw.,24,16,2,211,1411,California Baptist Lancers,free throw,True,False,False,Anaiyah Tu'ua,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,California Baptist Deadball Team Rebound.,24,16,2,211,1411,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua made Free Throw.,24,17,2,211,1411,California Baptist Lancers,free throw,True,True,False,Anaiyah Tu'ua,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Camryn Brown.,24,17,2,203,1403,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Camryn Brown Turnover.,24,17,2,203,1403,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Angela Dugalic.,24,17,2,199,1399,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Emily Sewell made Free Throw.,24,18,2,199,1399,California Baptist Lancers,free throw,True,True,False,Emily Sewell,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Emily Sewell made Free Throw.,24,19,2,199,1399,California Baptist Lancers,free throw,True,True,False,Emily Sewell,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Lina Sontag missed Jumper.,24,19,2,190,1390,UCLA Bruins,jumper,True,False,False,Lina Sontag,False,,23.0,3.0
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua Defensive Rebound.,24,19,2,190,1390,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Jump Ball won by California Baptist,24,19,2,186,1386,California Baptist Lancers,jump ball,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Emily Sewell made Jumper. Assisted by Anaiyah Tu'ua.,24,21,2,174,1374,California Baptist Lancers,jumper,True,True,False,Emily Sewell,True,Anaiyah Tu'ua,12.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,UCLA  Timeout,24,21,2,167,1367,UCLA Bruins,timeout,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne missed Three Point Jumper.,24,21,2,149,1349,UCLA Bruins,three point jumper,True,False,True,Charisma Osborne,False,,32.0,23.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Offensive Rebound.,24,21,2,149,1349,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Khloe Lemon.,24,21,2,139,1339,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez made Free Throw.,25,21,2,139,1339,UCLA Bruins,free throw,True,True,False,Gabriela Jaquez,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez missed Free Throw.,25,21,2,139,1339,UCLA Bruins,free throw,True,False,False,Gabriela Jaquez,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Offensive Rebound.,25,21,2,139,1339,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Three Point Jumper. Assisted by Charisma Osborne.,28,21,2,135,1335,UCLA Bruins,three point jumper,True,True,True,Kiki Rice,True,Charisma Osborne,17.0,24.0
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon missed Three Point Jumper.,28,21,2,102,1302,California Baptist Lancers,three point jumper,True,False,True,Khloe Lemon,False,,9.0,18.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Defensive Rebound.,28,21,2,102,1302,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Turnover.,28,21,2,95,1295,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Steal.,28,21,2,95,1295,California Baptist Lancers,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Turnover.,28,21,2,87,1287,California Baptist Lancers,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Steal.,28,21,2,87,1287,UCLA Bruins,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Khloe Lemon.,28,21,2,61,1261,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne made Free Throw.,29,21,2,61,1261,UCLA Bruins,free throw,True,True,False,Charisma Osborne,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne made Free Throw.,30,21,2,61,1261,UCLA Bruins,free throw,True,True,False,Charisma Osborne,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb missed Three Point Jumper.,30,21,2,48,1248,California Baptist Lancers,three point jumper,True,False,True,Chloe Webb,False,,34.0,23.0
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice Defensive Rebound.,30,21,2,48,1248,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Chloe Webb.,30,21,2,39,1239,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Free Throw.,31,21,2,39,1239,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Free Throw.,32,21,2,39,1239,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Gabriela Jaquez.,32,21,2,16,1216,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua missed Free Throw.,32,21,2,16,1216,California Baptist Lancers,free throw,True,False,False,Anaiyah Tu'ua,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,California Baptist Deadball Team Rebound.,32,21,2,16,1216,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua made Free Throw.,32,22,2,16,1216,California Baptist Lancers,free throw,True,True,False,Anaiyah Tu'ua,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne made Layup.,34,22,2,7,1207,UCLA Bruins,layup,True,True,False,Charisma Osborne,False,,23.0,1.0
+401637565,UCLA Bruins,California Baptist Lancers,End of 2nd Quarter,34,22,2,0,1200,,end,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Jump Ball won by UCLA,34,22,3,600,1200,UCLA Bruins,jump ball,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez made Three Point Jumper. Assisted by Londynn Jones.,37,22,3,585,1185,UCLA Bruins,three point jumper,True,True,True,Gabriela Jaquez,True,Londynn Jones,43.0,18.0
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb missed Jumper.,37,22,3,564,1164,California Baptist Lancers,jumper,True,False,False,Chloe Webb,False,,24.0,3.0
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez Defensive Rebound.,37,22,3,564,1164,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne made Jumper.,39,22,3,559,1159,UCLA Bruins,jumper,True,True,False,Charisma Osborne,False,,35.0,11.0
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Turnover.,39,22,3,552,1152,California Baptist Lancers,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Steal.,39,22,3,552,1152,UCLA Bruins,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Layup. Assisted by Charisma Osborne.,41,22,3,549,1149,UCLA Bruins,layup,True,True,False,Kiki Rice,True,Charisma Osborne,28.0,2.0
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Anaiyah Tu'ua.,41,22,3,549,1149,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,California Baptist  Timeout,41,22,3,549,1149,California Baptist Lancers,timeout,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Free Throw.,42,22,3,549,1149,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Angela Dugalic.,42,22,3,540,1140,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb made Free Throw.,42,23,3,540,1140,California Baptist Lancers,free throw,True,True,False,Chloe Webb,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb made Free Throw.,42,24,3,540,1140,California Baptist Lancers,free throw,True,True,False,Chloe Webb,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez made Layup. Assisted by Angela Dugalic.,44,24,3,531,1131,UCLA Bruins,layup,True,True,False,Gabriela Jaquez,True,Angela Dugalic,27.0,2.0
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington made Layup.,44,26,3,513,1113,California Baptist Lancers,layup,True,True,False,Kinsley Barrington,False,,26.0,3.0
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez Turnover.,44,26,3,492,1092,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Steal.,44,26,3,492,1092,California Baptist Lancers,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington Turnover.,44,26,3,486,1086,California Baptist Lancers,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Steal.,44,26,3,486,1086,UCLA Bruins,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Turnover.,44,26,3,481,1081,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb Steal.,44,26,3,481,1081,California Baptist Lancers,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun made Layup. Assisted by Chloe Webb.,44,28,3,478,1078,California Baptist Lancers,layup,True,True,False,Nae Nae Calhoun,True,Chloe Webb,26.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Angela Dugalic.,44,28,3,463,1063,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Turnover.,44,28,3,463,1063,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington missed Three Point Jumper.,44,28,3,440,1040,California Baptist Lancers,three point jumper,True,False,True,Kinsley Barrington,False,,42.0,16.0
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala Defensive Rebound.,44,28,3,440,1040,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Nae Nae Calhoun.,44,28,3,430,1030,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez missed Three Point Jumper.,44,28,3,426,1026,UCLA Bruins,three point jumper,True,False,True,Gabriela Jaquez,False,,15.0,21.0
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua Defensive Rebound.,44,28,3,426,1026,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington made Layup. Assisted by Chloe Webb.,44,30,3,416,1016,California Baptist Lancers,layup,True,True,False,Kinsley Barrington,True,Chloe Webb,27.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones missed Jumper.,44,30,3,397,997,UCLA Bruins,jumper,True,False,False,Londynn Jones,False,,21.0,21.0
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua Defensive Rebound.,44,30,3,397,997,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Londynn Jones.,44,30,3,389,989,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb missed Three Point Jumper.,44,30,3,385,985,California Baptist Lancers,three point jumper,True,False,True,Chloe Webb,False,,28.0,24.0
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice Defensive Rebound.,44,30,3,385,985,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne missed Jumper.,44,30,3,373,973,UCLA Bruins,jumper,True,False,False,Charisma Osborne,False,,13.0,2.0
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington Defensive Rebound.,44,30,3,373,973,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Turnover.,44,30,3,360,960,California Baptist Lancers,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Steal.,44,30,3,360,960,UCLA Bruins,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice missed Three Point Jumper.,44,30,3,353,953,UCLA Bruins,three point jumper,True,False,True,Kiki Rice,False,,3.0,6.0
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez Offensive Rebound.,44,30,3,353,953,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez made Jumper.,46,30,3,348,948,UCLA Bruins,jumper,True,True,False,Gabriela Jaquez,False,,26.0,1.0
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Anaiyah Tu'ua.,46,30,3,348,948,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez made Free Throw.,47,30,3,348,948,UCLA Bruins,free throw,True,True,False,Gabriela Jaquez,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua missed Jumper.,47,30,3,332,932,California Baptist Lancers,jumper,True,False,False,Anaiyah Tu'ua,False,,21.0,10.0
+401637565,UCLA Bruins,California Baptist Lancers,UCLA Defensive Rebound.,47,30,3,332,932,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne made Jumper. Assisted by Lina Sontag.,49,30,3,317,917,UCLA Bruins,jumper,True,True,False,Charisma Osborne,True,Lina Sontag,17.0,13.0
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon missed Jumper.,49,30,3,308,908,California Baptist Lancers,jumper,True,False,False,Khloe Lemon,False,,26.0,3.0
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice Defensive Rebound.,49,30,3,308,908,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne missed Three Point Jumper.,49,30,3,299,899,UCLA Bruins,three point jumper,True,False,True,Charisma Osborne,False,,43.0,17.0
+401637565,UCLA Bruins,California Baptist Lancers,Lina Sontag Offensive Rebound.,49,30,3,299,899,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez missed Three Point Jumper.,49,30,3,293,893,UCLA Bruins,three point jumper,True,False,True,Gabriela Jaquez,False,,17.0,23.0
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Defensive Rebound.,49,30,3,293,893,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua missed Three Point Jumper.,49,30,3,286,886,California Baptist Lancers,three point jumper,True,False,True,Anaiyah Tu'ua,False,,10.0,20.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Defensive Rebound.,49,30,3,286,886,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Turnover.,49,30,3,277,877,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua Steal.,49,30,3,277,877,California Baptist Lancers,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon missed Layup.,49,30,3,268,868,California Baptist Lancers,layup,True,False,False,Khloe Lemon,False,,27.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Lina Sontag Block.,49,30,3,268,868,UCLA Bruins,block,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,UCLA Defensive Rebound.,49,30,3,268,868,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers, Official TV Timeout,49,30,3,268,868,,tv timeout,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Lina Sontag.,49,30,3,249,849,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Lina Sontag Turnover.,49,30,3,249,849,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Lina Sontag.,49,30,3,225,825,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun missed Free Throw.,49,30,3,225,825,California Baptist Lancers,free throw,True,False,False,Nae Nae Calhoun,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,California Baptist Deadball Team Rebound.,49,30,3,225,825,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun made Free Throw.,49,31,3,225,825,California Baptist Lancers,free throw,True,True,False,Nae Nae Calhoun,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones made Three Point Jumper. Assisted by Charisma Osborne.,52,31,3,214,814,UCLA Bruins,three point jumper,True,True,True,Londynn Jones,True,Charisma Osborne,39.0,21.0
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun made Layup.,52,33,3,197,797,California Baptist Lancers,layup,True,True,False,Nae Nae Calhoun,False,,27.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Anaiyah Tu'ua.,52,33,3,178,778,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Camryn Brown missed Free Throw.,52,33,3,178,778,UCLA Bruins,free throw,True,False,False,Camryn Brown,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,UCLA Deadball Team Rebound.,52,33,3,178,778,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Camryn Brown made Free Throw.,53,33,3,178,778,UCLA Bruins,free throw,True,True,False,Camryn Brown,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington missed Three Point Jumper.,53,33,3,153,753,California Baptist Lancers,three point jumper,True,False,True,Kinsley Barrington,False,,23.0,24.0
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones Defensive Rebound.,53,33,3,153,753,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Layup. Assisted by Londynn Jones.,55,33,3,144,744,UCLA Bruins,layup,True,True,False,Kiki Rice,True,Londynn Jones,26.0,2.0
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun made Layup.,55,35,3,116,716,California Baptist Lancers,layup,True,True,False,Nae Nae Calhoun,False,,23.0,1.0
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones missed Three Point Jumper.,55,35,3,92,692,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,38.0,22.0
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb Defensive Rebound.,55,35,3,92,692,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Camryn Brown.,55,35,3,81,681,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon made Free Throw.,55,36,3,81,681,California Baptist Lancers,free throw,True,True,False,Khloe Lemon,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon made Free Throw.,55,37,3,81,681,California Baptist Lancers,free throw,True,True,False,Khloe Lemon,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon made Free Throw.,55,38,3,81,681,California Baptist Lancers,free throw,True,True,False,Khloe Lemon,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic missed Three Point Jumper.,55,38,3,73,673,UCLA Bruins,three point jumper,True,False,True,Angela Dugalic,False,,5.0,12.0
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez Offensive Rebound.,55,38,3,73,673,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice Turnover.,55,38,3,50,650,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington Steal.,55,38,3,50,650,California Baptist Lancers,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun missed Three Point Jumper.,55,38,3,37,637,California Baptist Lancers,three point jumper,True,False,True,Nae Nae Calhoun,False,,9.0,20.0
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Block.,55,38,3,37,637,UCLA Bruins,block,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Offensive Rebound.,55,38,3,37,637,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun missed Jumper.,55,38,3,31,631,California Baptist Lancers,jumper,True,False,False,Nae Nae Calhoun,False,,24.0,4.0
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Defensive Rebound.,55,38,3,31,631,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne made Jumper.,57,38,3,5,605,UCLA Bruins,jumper,True,True,False,Charisma Osborne,False,,33.0,14.0
+401637565,UCLA Bruins,California Baptist Lancers,End of 3rd Quarter,57,38,3,0,600,,end,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Jump Ball won by California Baptist,57,38,4,600,600,California Baptist Lancers,jump ball,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington missed Layup.,57,38,4,588,588,California Baptist Lancers,layup,True,False,False,Kinsley Barrington,False,,27.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Defensive Rebound.,57,38,4,588,588,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic Turnover.,57,38,4,579,579,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington Steal.,57,38,4,579,579,California Baptist Lancers,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Khloe Lemon missed Layup.,57,38,4,565,565,California Baptist Lancers,layup,True,False,False,Khloe Lemon,False,,28.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Defensive Rebound.,57,38,4,565,565,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez made Layup. Assisted by Charisma Osborne.,59,38,4,559,559,UCLA Bruins,layup,True,True,False,Gabriela Jaquez,True,Charisma Osborne,23.0,1.0
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun made Jumper.,59,40,4,533,533,California Baptist Lancers,jumper,True,True,False,Nae Nae Calhoun,False,,23.0,8.0
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones Turnover.,59,40,4,510,510,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington Steal.,59,40,4,510,510,California Baptist Lancers,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb made Layup. Assisted by Nae Nae Calhoun.,59,42,4,504,504,California Baptist Lancers,layup,True,True,False,Chloe Webb,True,Nae Nae Calhoun,23.0,0.0
+401637565,UCLA Bruins,California Baptist Lancers,Angela Dugalic made Three Point Jumper. Assisted by Charisma Osborne.,62,42,4,474,474,UCLA Bruins,three point jumper,True,True,True,Angela Dugalic,True,Charisma Osborne,42.0,17.0
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington made Three Point Jumper. Assisted by Khloe Lemon.,62,45,4,454,454,California Baptist Lancers,three point jumper,True,True,True,Kinsley Barrington,True,Khloe Lemon,42.0,17.0
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones missed Jumper.,62,45,4,433,433,UCLA Bruins,jumper,True,False,False,Londynn Jones,False,,35.0,13.0
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington Defensive Rebound.,62,45,4,433,433,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun made Three Point Jumper. Assisted by Kinsley Barrington.,62,48,4,423,423,California Baptist Lancers,three point jumper,True,True,True,Nae Nae Calhoun,True,Kinsley Barrington,31.0,27.0
+401637565,UCLA Bruins,California Baptist Lancers,UCLA  Timeout,62,48,4,418,418,UCLA Bruins,timeout,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala made Layup. Assisted by Charisma Osborne.,64,48,4,408,408,UCLA Bruins,layup,True,True,False,Christeen Iwuala,True,Charisma Osborne,25.0,3.0
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Chloe Webb.,64,48,4,408,408,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala missed Free Throw.,64,48,4,408,408,UCLA Bruins,free throw,True,False,False,Christeen Iwuala,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Defensive Rebound.,64,48,4,408,408,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb missed Layup.,64,48,4,400,400,California Baptist Lancers,layup,True,False,False,Chloe Webb,False,,23.0,1.0
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez Defensive Rebound.,64,48,4,400,400,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala made Layup. Assisted by Charisma Osborne.,66,48,4,377,377,UCLA Bruins,layup,True,True,False,Christeen Iwuala,True,Charisma Osborne,27.0,3.0
+401637565,UCLA Bruins,California Baptist Lancers,Nhug Bosch Duran Turnover.,66,48,4,369,369,California Baptist Lancers,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala Steal.,66,48,4,369,369,UCLA Bruins,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez missed Layup.,66,48,4,361,361,UCLA Bruins,layup,True,False,False,Gabriela Jaquez,False,,23.0,2.0
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Block.,66,48,4,361,361,California Baptist Lancers,block,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala Offensive Rebound.,66,48,4,361,361,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Nhug Bosch Duran.,66,48,4,353,353,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Free Throw.,67,48,4,353,353,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice made Free Throw.,68,48,4,353,353,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nhug Bosch Duran made Three Point Jumper.,68,51,4,353,353,California Baptist Lancers,three point jumper,True,True,True,Nhug Bosch Duran,False,,8.0,19.0
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones Turnover.,68,51,4,314,314,UCLA Bruins,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Christeen Iwuala.,68,51,4,298,298,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington made Free Throw.,68,52,4,298,298,California Baptist Lancers,free throw,True,True,False,Kinsley Barrington,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington made Free Throw.,68,53,4,298,298,California Baptist Lancers,free throw,True,True,False,Kinsley Barrington,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez missed Three Point Jumper.,68,53,4,284,284,UCLA Bruins,three point jumper,True,False,True,Gabriela Jaquez,False,,44.0,15.0
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Defensive Rebound.,68,53,4,284,284,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Chloe Webb missed Three Point Jumper.,68,53,4,275,275,California Baptist Lancers,three point jumper,True,False,True,Chloe Webb,False,,7.0,17.0
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice Defensive Rebound.,68,53,4,275,275,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne made Jumper.,70,53,4,258,258,UCLA Bruins,jumper,True,True,False,Charisma Osborne,False,,25.0,16.0
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua missed Three Point Jumper.,70,53,4,248,248,California Baptist Lancers,three point jumper,True,False,True,Anaiyah Tu'ua,False,,9.0,20.0
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez Defensive Rebound.,70,53,4,248,248,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne missed Jumper.,70,53,4,227,227,UCLA Bruins,jumper,True,False,False,Charisma Osborne,False,,28.0,16.0
+401637565,UCLA Bruins,California Baptist Lancers,Camryn Brown Offensive Rebound.,70,53,4,227,227,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Jump Ball won by UCLA,70,53,4,222,222,UCLA Bruins,jump ball,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne made Three Point Jumper. Assisted by Kiki Rice.,73,53,4,218,218,UCLA Bruins,three point jumper,True,True,True,Charisma Osborne,True,Kiki Rice,2.0,3.0
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Camryn Brown.,73,53,4,203,203,UCLA Bruins,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington made Jumper.,73,55,4,197,197,California Baptist Lancers,jumper,True,True,False,Kinsley Barrington,False,,26.0,7.0
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala made Jumper.,75,55,4,174,174,UCLA Bruins,jumper,True,True,False,Christeen Iwuala,False,,26.0,4.0
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Nhug Bosch Duran.,75,55,4,174,174,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala made Free Throw.,76,55,4,174,174,UCLA Bruins,free throw,True,True,False,Christeen Iwuala,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Anaiyah Tu'ua Turnover.,76,55,4,168,168,California Baptist Lancers,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala Steal.,76,55,4,168,168,UCLA Bruins,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Kinsley Barrington.,76,55,4,163,163,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala missed Free Throw.,76,55,4,163,163,UCLA Bruins,free throw,True,False,False,Christeen Iwuala,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,UCLA Deadball Team Rebound.,76,55,4,163,163,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala made Free Throw.,77,55,4,163,163,UCLA Bruins,free throw,True,True,False,Christeen Iwuala,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kinsley Barrington missed Three Point Jumper.,77,55,4,155,155,California Baptist Lancers,three point jumper,True,False,True,Kinsley Barrington,False,,36.0,23.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Defensive Rebound.,77,55,4,155,155,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones missed Three Point Jumper.,77,55,4,136,136,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,2.0,-1.0
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala Offensive Rebound.,77,55,4,136,136,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Sydney White.,77,55,4,120,120,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez made Free Throw.,78,55,4,120,120,UCLA Bruins,free throw,True,True,False,Gabriela Jaquez,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Gabriela Jaquez made Free Throw.,79,55,4,120,120,UCLA Bruins,free throw,True,True,False,Gabriela Jaquez,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun Turnover.,79,55,4,110,110,California Baptist Lancers,turnover,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones Steal.,79,55,4,110,110,UCLA Bruins,steal,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Foul on Claudia Fiel.,79,55,4,104,104,California Baptist Lancers,foul,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones made Free Throw.,80,55,4,104,104,UCLA Bruins,free throw,True,True,False,Londynn Jones,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones made Free Throw.,81,55,4,104,104,UCLA Bruins,free throw,True,True,False,Londynn Jones,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun missed Three Point Jumper.,81,55,4,95,95,California Baptist Lancers,three point jumper,True,False,True,Nae Nae Calhoun,False,,19.0,25.0
+401637565,UCLA Bruins,California Baptist Lancers,Amanda Muse Block.,81,55,4,95,95,UCLA Bruins,block,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Defensive Rebound.,81,55,4,95,95,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Londynn Jones made Three Point Jumper. Assisted by Charisma Osborne.,84,55,4,77,77,UCLA Bruins,three point jumper,True,True,True,Londynn Jones,True,Charisma Osborne,2.0,1.0
+401637565,UCLA Bruins,California Baptist Lancers,Claudia Fiel missed Layup.,84,55,4,67,67,California Baptist Lancers,layup,True,False,False,Claudia Fiel,False,,22.0,1.0
+401637565,UCLA Bruins,California Baptist Lancers,Christeen Iwuala Defensive Rebound.,84,55,4,67,67,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Kiki Rice missed Three Point Jumper.,84,55,4,42,42,UCLA Bruins,three point jumper,True,False,True,Kiki Rice,False,,48.0,8.0
+401637565,UCLA Bruins,California Baptist Lancers,Sydney White Defensive Rebound.,84,55,4,42,42,California Baptist Lancers,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,Nae Nae Calhoun missed Layup.,84,55,4,28,28,California Baptist Lancers,layup,True,False,False,Nae Nae Calhoun,False,,23.0,3.0
+401637565,UCLA Bruins,California Baptist Lancers,Charisma Osborne Defensive Rebound.,84,55,4,28,28,UCLA Bruins,rebound,False,False,False,,False,,,
+401637565,UCLA Bruins,California Baptist Lancers,End of Game,84,55,4,0,0,,end,False,False,False,,False,,,

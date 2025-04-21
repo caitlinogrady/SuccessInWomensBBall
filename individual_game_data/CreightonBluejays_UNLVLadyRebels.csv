@@ -1,0 +1,299 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637559,Creighton Bluejays,UNLV Lady Rebels,Jump Ball won by UNLV,0,0,1,600,2400,UNLV Lady Rebels,jump ball,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Jumper. Assisted by Alyssa Brown.,0,2,1,590,2390,UNLV Lady Rebels,jumper,True,True,False,Desi-Rae Young,True,Alyssa Brown,29.0,6.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly missed Three Point Jumper.,0,2,1,568,2368,Creighton Bluejays,three point jumper,True,False,True,Morgan Maly,False,,38.0,22.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young Defensive Rebound.,0,2,1,568,2368,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown Turnover.,0,2,1,550,2350,UNLV Lady Rebels,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek missed Three Point Jumper.,0,2,1,539,2339,Creighton Bluejays,three point jumper,True,False,True,Emma Ronsiek,False,,38.0,22.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young Defensive Rebound.,0,2,1,539,2339,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson missed Jumper.,0,2,1,529,2329,UNLV Lady Rebels,jumper,True,False,False,Kiara Jackson,False,,28.0,7.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen Defensive Rebound.,0,2,1,529,2329,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen made Layup.,2,2,1,519,2319,Creighton Bluejays,layup,True,True,False,Molly Mogensen,False,,22.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown missed Layup.,2,2,1,505,2305,UNLV Lady Rebels,layup,True,False,False,Alyssa Brown,False,,23.0,4.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly Defensive Rebound.,2,2,1,505,2305,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake missed Layup.,2,2,1,492,2292,Creighton Bluejays,layup,True,False,False,Mallory Brake,False,,26.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown Block.,2,2,1,492,2292,UNLV Lady Rebels,block,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake Offensive Rebound.,2,2,1,492,2292,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake made Layup.,4,2,1,478,2278,Creighton Bluejays,layup,True,True,False,Mallory Brake,False,,26.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Layup.,4,4,1,470,2270,UNLV Lady Rebels,layup,True,True,False,Desi-Rae Young,False,,22.0,1.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek missed Three Point Jumper.,4,4,1,460,2260,Creighton Bluejays,three point jumper,True,False,True,Emma Ronsiek,False,,6.0,15.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young Defensive Rebound.,4,4,1,460,2260,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown made Layup. Assisted by Desi-Rae Young.,4,6,1,451,2251,UNLV Lady Rebels,layup,True,True,False,Alyssa Brown,True,Desi-Rae Young,28.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek missed Layup.,4,6,1,429,2229,Creighton Bluejays,layup,True,False,False,Emma Ronsiek,False,,21.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young Defensive Rebound.,4,6,1,429,2229,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young Turnover.,4,6,1,418,2218,UNLV Lady Rebels,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake Steal.,4,6,1,418,2218,Creighton Bluejays,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen made Three Point Jumper. Assisted by Molly Mogensen.,7,6,1,405,2205,Creighton Bluejays,three point jumper,True,True,True,Lauren Jensen,True,Molly Mogensen,46.0,12.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson made Jumper.,7,8,1,375,2175,UNLV Lady Rebels,jumper,True,True,False,Kiara Jackson,False,,22.0,8.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen missed Layup.,7,8,1,359,2159,Creighton Bluejays,layup,True,False,False,Lauren Jensen,False,,23.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly Offensive Rebound.,7,8,1,359,2159,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly Turnover.,7,8,1,352,2152,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Ashley Scoggin Steal.,7,8,1,352,2152,UNLV Lady Rebels,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Jumper.,7,10,1,337,2137,UNLV Lady Rebels,jumper,True,True,False,Desi-Rae Young,False,,16.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly missed Jumper.,7,10,1,310,2110,Creighton Bluejays,jumper,True,False,False,Morgan Maly,False,,32.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Creighton Offensive Rebound.,7,10,1,310,2110,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson missed Layup.,7,10,1,282,2082,UNLV Lady Rebels,layup,True,False,False,Amarachi Kimpson,False,,23.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake Defensive Rebound.,7,10,1,282,2082,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Ashley Scoggin.,7,10,1,282,2082,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels, Official TV Timeout,7,10,1,282,2082,,tv timeout,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kennedy Townsend made Free Throw.,8,10,1,282,2082,Creighton Bluejays,free throw,True,True,False,Kennedy Townsend,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kennedy Townsend made Free Throw.,9,10,1,282,2082,Creighton Bluejays,free throw,True,True,False,Kennedy Townsend,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson made Jumper.,9,12,1,263,2063,UNLV Lady Rebels,jumper,True,True,False,Kiara Jackson,False,,20.0,7.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Desi-Rae Young.,9,12,1,263,2063,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen missed Jumper.,9,12,1,252,2052,Creighton Bluejays,jumper,True,False,False,Molly Mogensen,False,,34.0,4.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake Offensive Rebound.,9,12,1,252,2052,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake made Layup.,11,12,1,247,2047,Creighton Bluejays,layup,True,True,False,Mallory Brake,False,,23.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson missed Three Point Jumper.,11,12,1,240,2040,UNLV Lady Rebels,three point jumper,True,False,True,Amarachi Kimpson,False,,46.0,12.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Jayme Horan Defensive Rebound.,11,12,1,240,2040,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Jayme Horan made Three Point Jumper. Assisted by Molly Mogensen.,14,12,1,232,2032,Creighton Bluejays,three point jumper,True,True,True,Jayme Horan,True,Molly Mogensen,14.0,22.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young missed Jumper.,14,12,1,212,2012,UNLV Lady Rebels,jumper,True,False,False,Desi-Rae Young,False,,22.0,10.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,UNLV Offensive Rebound.,14,12,1,212,2012,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Ashley Scoggin made Jumper. Assisted by Kiara Jackson.,14,14,1,208,2008,UNLV Lady Rebels,jumper,True,True,False,Ashley Scoggin,True,Kiara Jackson,41.0,-2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen made Three Point Jumper. Assisted by Mallory Brake.,17,14,1,185,1985,Creighton Bluejays,three point jumper,True,True,True,Lauren Jensen,True,Mallory Brake,24.0,25.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson made Jumper.,17,16,1,162,1962,UNLV Lady Rebels,jumper,True,True,False,Kiara Jackson,False,,20.0,8.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen missed Jumper.,17,16,1,148,1948,Creighton Bluejays,jumper,True,False,False,Molly Mogensen,False,,32.0,19.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown Defensive Rebound.,17,16,1,148,1948,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown missed Three Point Jumper.,17,16,1,132,1932,UNLV Lady Rebels,three point jumper,True,False,True,Alyssa Brown,False,,30.0,25.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen Defensive Rebound.,17,16,1,132,1932,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Jayme Horan made Three Point Jumper. Assisted by Mallory Brake.,20,16,1,123,1923,Creighton Bluejays,three point jumper,True,True,True,Jayme Horan,True,Mallory Brake,27.0,27.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Lauren Jensen.,20,16,1,89,1889,Creighton Bluejays,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson missed Three Point Jumper.,20,16,1,76,1876,UNLV Lady Rebels,three point jumper,True,False,True,Kiara Jackson,False,,7.0,18.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiani Lockett Defensive Rebound.,20,16,1,76,1876,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen made Three Point Jumper. Assisted by Kiani Lockett.,23,16,1,59,1859,Creighton Bluejays,three point jumper,True,True,True,Lauren Jensen,True,Kiani Lockett,3.0,10.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young missed Jumper.,23,16,1,43,1843,UNLV Lady Rebels,jumper,True,False,False,Desi-Rae Young,False,,32.0,17.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly Defensive Rebound.,23,16,1,43,1843,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Kiani Lockett.,23,16,1,23,1823,Creighton Bluejays,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiani Lockett Turnover.,23,16,1,23,1823,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson missed Layup.,23,16,1,3,1803,UNLV Lady Rebels,layup,True,False,False,Amarachi Kimpson,False,,24.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly Block.,23,16,1,3,1803,Creighton Bluejays,block,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,UNLV Offensive Rebound.,23,16,1,3,1803,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young missed Jumper.,23,16,1,1,1801,UNLV Lady Rebels,jumper,True,False,False,Desi-Rae Young,False,,33.0,11.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake Defensive Rebound.,23,16,1,1,1801,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,End of 1st Quarter,23,16,1,0,1800,,end,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Jump Ball won by Creighton,23,16,2,600,1800,Creighton Bluejays,jump ball,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen missed Three Point Jumper.,23,16,2,585,1785,Creighton Bluejays,three point jumper,True,False,True,Lauren Jensen,False,,3.0,8.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Creighton Offensive Rebound.,23,16,2,585,1785,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake missed Layup.,23,16,2,574,1774,Creighton Bluejays,layup,True,False,False,Mallory Brake,False,,21.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young Defensive Rebound.,23,16,2,574,1774,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson missed Jumper.,23,16,2,542,1742,UNLV Lady Rebels,jumper,True,False,False,Kiara Jackson,False,,32.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young Offensive Rebound.,23,16,2,542,1742,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Jumper.,23,18,2,537,1737,UNLV Lady Rebels,jumper,True,True,False,Desi-Rae Young,False,,24.0,4.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiani Lockett missed Jumper.,23,18,2,530,1730,Creighton Bluejays,jumper,True,False,False,Kiani Lockett,False,,35.0,7.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiani Lockett Offensive Rebound.,23,18,2,530,1730,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly made Three Point Jumper. Assisted by Lauren Jensen.,26,18,2,515,1715,Creighton Bluejays,three point jumper,True,True,True,Morgan Maly,True,Lauren Jensen,38.0,24.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Amarachi Kimpson.,26,18,2,513,1713,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly missed Jumper.,26,18,2,501,1701,Creighton Bluejays,jumper,True,False,False,Morgan Maly,False,,22.0,12.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson Defensive Rebound.,26,18,2,501,1701,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Jumper.,26,20,2,484,1684,UNLV Lady Rebels,jumper,True,True,False,Desi-Rae Young,False,,25.0,7.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen made Jumper.,28,20,2,472,1672,Creighton Bluejays,jumper,True,True,False,Lauren Jensen,False,,20.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young Turnover.,28,20,2,460,1660,UNLV Lady Rebels,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake Steal.,28,20,2,460,1660,Creighton Bluejays,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen missed Jumper.,28,20,2,449,1649,Creighton Bluejays,jumper,True,False,False,Lauren Jensen,False,,29.0,6.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown Defensive Rebound.,28,20,2,449,1649,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Ashley Scoggin made Three Point Jumper. Assisted by Kiara Jackson.,28,23,2,440,1640,UNLV Lady Rebels,three point jumper,True,True,True,Ashley Scoggin,True,Kiara Jackson,43.0,17.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen made Layup.,30,23,2,410,1610,Creighton Bluejays,layup,True,True,False,Lauren Jensen,False,,27.0,4.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Ashley Scoggin missed Three Point Jumper.,30,23,2,398,1598,UNLV Lady Rebels,three point jumper,True,False,True,Ashley Scoggin,False,,2.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly Defensive Rebound.,30,23,2,398,1598,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly made Three Point Jumper. Assisted by Kiani Lockett.,33,23,2,390,1590,Creighton Bluejays,three point jumper,True,True,True,Morgan Maly,True,Kiani Lockett,4.0,12.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,UNLV  Timeout,33,23,2,386,1586,UNLV Lady Rebels,timeout,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Nneka Obiazor missed Jumper.,33,23,2,369,1569,UNLV Lady Rebels,jumper,True,False,False,Nneka Obiazor,False,,25.0,4.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen Defensive Rebound.,33,23,2,369,1569,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek missed Jumper.,33,23,2,348,1548,Creighton Bluejays,jumper,True,False,False,Emma Ronsiek,False,,38.0,5.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson Defensive Rebound.,33,23,2,348,1548,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson made Layup. Assisted by Alyssa Brown.,33,25,2,333,1533,UNLV Lady Rebels,layup,True,True,False,Kiara Jackson,True,Alyssa Brown,23.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen missed Three Point Jumper.,33,25,2,316,1516,Creighton Bluejays,three point jumper,True,False,True,Molly Mogensen,False,,46.0,12.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown Defensive Rebound.,33,25,2,316,1516,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Ashley Scoggin missed Three Point Jumper.,33,25,2,308,1508,UNLV Lady Rebels,three point jumper,True,False,True,Ashley Scoggin,False,,48.0,-2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen Defensive Rebound.,33,25,2,308,1508,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Jump Ball won by UNLV,33,25,2,297,1497,UNLV Lady Rebels,jump ball,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen Turnover.,33,25,2,297,1497,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson Steal.,33,25,2,297,1497,UNLV Lady Rebels,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels, Official TV Timeout,33,25,2,297,1497,,tv timeout,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Nneka Obiazor Turnover.,33,25,2,287,1487,UNLV Lady Rebels,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen Steal.,33,25,2,287,1487,Creighton Bluejays,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Jayme Horan made Three Point Jumper. Assisted by Lauren Jensen.,36,25,2,277,1477,Creighton Bluejays,three point jumper,True,True,True,Jayme Horan,True,Lauren Jensen,13.0,21.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Jayme Horan.,36,25,2,263,1463,Creighton Bluejays,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Jumper. Assisted by Kiara Jackson.,36,27,2,253,1453,UNLV Lady Rebels,jumper,True,True,False,Desi-Rae Young,True,Kiara Jackson,20.0,4.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Amarachi Kimpson.,36,27,2,239,1439,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kennedy Townsend missed Three Point Jumper.,36,27,2,230,1430,Creighton Bluejays,three point jumper,True,False,True,Kennedy Townsend,False,,48.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young Defensive Rebound.,36,27,2,230,1430,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Jayme Horan.,36,27,2,217,1417,Creighton Bluejays,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Nneka Obiazor made Free Throw.,36,28,2,217,1417,UNLV Lady Rebels,free throw,True,True,False,Nneka Obiazor,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Nneka Obiazor missed Free Throw.,36,28,2,217,1417,UNLV Lady Rebels,free throw,True,False,False,Nneka Obiazor,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly Defensive Rebound.,36,28,2,217,1417,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek missed Three Point Jumper.,36,28,2,201,1401,Creighton Bluejays,three point jumper,True,False,True,Emma Ronsiek,False,,37.0,23.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson Defensive Rebound.,36,28,2,201,1401,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Emma Ronsiek.,36,28,2,191,1391,Creighton Bluejays,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young missed Free Throw.,36,28,2,191,1391,UNLV Lady Rebels,free throw,True,False,False,Desi-Rae Young,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,UNLV Deadball Team Rebound.,36,28,2,191,1391,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young missed Free Throw.,36,28,2,191,1391,UNLV Lady Rebels,free throw,True,False,False,Desi-Rae Young,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly Defensive Rebound.,36,28,2,191,1391,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kennedy Townsend missed Three Point Jumper.,36,28,2,176,1376,Creighton Bluejays,three point jumper,True,False,True,Kennedy Townsend,False,,20.0,24.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Creighton Deadball Team Rebound.,36,28,2,176,1376,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Kiara Jackson.,36,28,2,174,1374,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen Turnover.,36,28,2,165,1365,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson Steal.,36,28,2,165,1365,UNLV Lady Rebels,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson missed Jumper.,36,28,2,153,1353,UNLV Lady Rebels,jumper,True,False,False,Kiara Jackson,False,,24.0,5.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kennedy Townsend Block.,36,28,2,153,1353,Creighton Bluejays,block,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kennedy Townsend Defensive Rebound.,36,28,2,153,1353,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly missed Three Point Jumper.,36,28,2,145,1345,Creighton Bluejays,three point jumper,True,False,True,Morgan Maly,False,,40.0,20.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Durazo-Frescas Defensive Rebound.,36,28,2,145,1345,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson missed Jumper.,36,28,2,133,1333,UNLV Lady Rebels,jumper,True,False,False,Kiara Jackson,False,,16.0,12.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young Offensive Rebound.,36,28,2,133,1333,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Molly Mogensen.,36,28,2,123,1323,Creighton Bluejays,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Nneka Obiazor made Free Throw.,36,29,2,123,1323,UNLV Lady Rebels,free throw,True,True,False,Nneka Obiazor,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Nneka Obiazor made Free Throw.,36,30,2,123,1323,UNLV Lady Rebels,free throw,True,True,False,Nneka Obiazor,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly Turnover.,36,30,2,111,1311,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Ashley Scoggin Steal.,36,30,2,111,1311,UNLV Lady Rebels,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Nneka Obiazor made Jumper.,36,32,2,100,1300,UNLV Lady Rebels,jumper,True,True,False,Nneka Obiazor,False,,28.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly made Three Point Jumper. Assisted by Molly Mogensen.,39,32,2,82,1282,Creighton Bluejays,three point jumper,True,True,True,Morgan Maly,True,Molly Mogensen,8.0,18.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Nneka Obiazor missed Three Point Jumper.,39,32,2,63,1263,UNLV Lady Rebels,three point jumper,True,False,True,Nneka Obiazor,False,,15.0,22.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen Defensive Rebound.,39,32,2,63,1263,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly made Three Point Jumper. Assisted by Lauren Jensen.,42,32,2,55,1255,Creighton Bluejays,three point jumper,True,True,True,Morgan Maly,True,Lauren Jensen,41.0,21.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown Turnover.,42,32,2,34,1234,UNLV Lady Rebels,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiani Lockett Steal.,42,32,2,34,1234,Creighton Bluejays,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiani Lockett made Layup.,44,32,2,29,1229,Creighton Bluejays,layup,True,True,False,Kiani Lockett,False,,23.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson missed Jumper.,44,32,2,3,1203,UNLV Lady Rebels,jumper,True,False,False,Kiara Jackson,False,,20.0,4.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Creighton Deadball Team Rebound.,44,32,2,3,1203,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Alyssa Brown.,44,32,2,2,1202,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,End of 2nd Quarter,44,32,2,0,1200,,end,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Jump Ball won by Creighton,44,32,3,600,1200,Creighton Bluejays,jump ball,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly missed Three Point Jumper.,44,32,3,579,1179,Creighton Bluejays,three point jumper,True,False,True,Morgan Maly,False,,47.0,8.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,UNLV Defensive Rebound.,44,32,3,579,1179,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Layup. Assisted by Kiara Jackson.,44,34,3,559,1159,UNLV Lady Rebels,layup,True,True,False,Desi-Rae Young,True,Kiara Jackson,22.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen made Three Point Jumper. Assisted by Molly Mogensen.,47,34,3,537,1137,Creighton Bluejays,three point jumper,True,True,True,Lauren Jensen,True,Molly Mogensen,3.0,11.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Jumper. Assisted by Ashley Scoggin.,47,36,3,525,1125,UNLV Lady Rebels,jumper,True,True,False,Desi-Rae Young,True,Ashley Scoggin,27.0,4.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen Turnover.,47,36,3,501,1101,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Ashley Scoggin Steal.,47,36,3,501,1101,UNLV Lady Rebels,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson Turnover.,47,36,3,491,1091,UNLV Lady Rebels,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen Steal.,47,36,3,491,1091,Creighton Bluejays,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek made Three Point Jumper. Assisted by Molly Mogensen.,50,36,3,472,1072,Creighton Bluejays,three point jumper,True,True,True,Emma Ronsiek,True,Molly Mogensen,49.0,-2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Lauren Jensen.,50,36,3,460,1060,Creighton Bluejays,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown missed Three Point Jumper.,50,36,3,452,1052,UNLV Lady Rebels,three point jumper,True,False,True,Alyssa Brown,False,,48.0,4.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake Defensive Rebound.,50,36,3,452,1052,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek made Jumper. Assisted by Mallory Brake.,52,36,3,437,1037,Creighton Bluejays,jumper,True,True,False,Emma Ronsiek,True,Mallory Brake,18.0,7.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young Turnover.,52,36,3,427,1027,UNLV Lady Rebels,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek Steal.,52,36,3,427,1027,Creighton Bluejays,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly Turnover.,52,36,3,414,1014,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Durazo-Frescas Steal.,52,36,3,414,1014,UNLV Lady Rebels,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Jumper.,52,38,3,403,1003,UNLV Lady Rebels,jumper,True,True,False,Desi-Rae Young,False,,15.0,11.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Desi-Rae Young.,52,38,3,391,991,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen made Free Throw.,53,38,3,391,991,Creighton Bluejays,free throw,True,True,False,Lauren Jensen,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen made Free Throw.,54,38,3,391,991,Creighton Bluejays,free throw,True,True,False,Lauren Jensen,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Durazo-Frescas missed Three Point Jumper.,54,38,3,379,979,UNLV Lady Rebels,three point jumper,True,False,True,Alyssa Durazo-Frescas,False,,17.0,24.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen Defensive Rebound.,54,38,3,379,979,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek made Jumper. Assisted by Molly Mogensen.,56,38,3,364,964,Creighton Bluejays,jumper,True,True,False,Emma Ronsiek,True,Molly Mogensen,12.0,6.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown made Layup. Assisted by Alyssa Durazo-Frescas.,56,40,3,347,947,UNLV Lady Rebels,layup,True,True,False,Alyssa Brown,True,Alyssa Durazo-Frescas,27.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen missed Layup.,56,40,3,335,935,Creighton Bluejays,layup,True,False,False,Molly Mogensen,False,,27.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson Defensive Rebound.,56,40,3,335,935,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown missed Three Point Jumper.,56,40,3,322,922,UNLV Lady Rebels,three point jumper,True,False,True,Alyssa Brown,False,,14.0,23.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly Defensive Rebound.,56,40,3,322,922,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Amarachi Kimpson.,56,40,3,303,903,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek missed Three Point Jumper.,56,40,3,299,899,Creighton Bluejays,three point jumper,True,False,True,Emma Ronsiek,False,,11.0,21.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson Defensive Rebound.,56,40,3,299,899,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson made Three Point Jumper. Assisted by Desi-Rae Young.,56,43,3,282,882,UNLV Lady Rebels,three point jumper,True,True,True,Kiara Jackson,True,Desi-Rae Young,42.0,18.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Jayme Horan missed Three Point Jumper.,56,43,3,260,860,Creighton Bluejays,three point jumper,True,False,True,Jayme Horan,False,,2.0,1.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek Offensive Rebound.,56,43,3,259,859,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Ashley Scoggin.,56,43,3,255,855,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels, Official TV Timeout,56,43,3,255,855,,tv timeout,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek made Layup. Assisted by Jayme Horan.,58,43,3,240,840,Creighton Bluejays,layup,True,True,False,Emma Ronsiek,True,Jayme Horan,27.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Jumper. Assisted by Kiara Jackson.,58,45,3,221,821,UNLV Lady Rebels,jumper,True,True,False,Desi-Rae Young,True,Kiara Jackson,29.0,5.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek made Three Point Jumper. Assisted by Molly Mogensen.,61,45,3,203,803,Creighton Bluejays,three point jumper,True,True,True,Emma Ronsiek,True,Molly Mogensen,11.0,21.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Nneka Obiazor missed Three Point Jumper.,61,45,3,193,793,UNLV Lady Rebels,three point jumper,True,False,True,Nneka Obiazor,False,,36.0,23.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen Defensive Rebound.,61,45,3,193,793,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek made Layup. Assisted by Jayme Horan.,63,45,3,175,775,Creighton Bluejays,layup,True,True,False,Emma Ronsiek,True,Jayme Horan,22.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Lauren Jensen.,63,45,3,166,766,Creighton Bluejays,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson missed Free Throw.,63,45,3,166,766,UNLV Lady Rebels,free throw,True,False,False,Amarachi Kimpson,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,UNLV Deadball Team Rebound.,63,45,3,166,766,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson made Free Throw.,63,46,3,166,766,UNLV Lady Rebels,free throw,True,True,False,Amarachi Kimpson,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek missed Three Point Jumper.,63,46,3,155,755,Creighton Bluejays,three point jumper,True,False,True,Emma Ronsiek,False,,37.0,21.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kennedy Townsend Offensive Rebound.,63,46,3,155,755,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kennedy Townsend missed Layup.,63,46,3,149,749,Creighton Bluejays,layup,True,False,False,Kennedy Townsend,False,,28.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young Defensive Rebound.,63,46,3,149,749,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson made Jumper.,63,48,3,139,739,UNLV Lady Rebels,jumper,True,True,False,Kiara Jackson,False,,21.0,12.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Kennedy Townsend.,63,48,3,138,738,Creighton Bluejays,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Ashley Scoggin missed Three Point Jumper.,63,48,3,134,734,UNLV Lady Rebels,three point jumper,True,False,True,Ashley Scoggin,False,,48.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen Defensive Rebound.,63,48,3,134,734,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Desi-Rae Young.,63,48,3,116,716,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek made Jumper. Assisted by Morgan Maly.,65,48,3,109,709,Creighton Bluejays,jumper,True,True,False,Emma Ronsiek,True,Morgan Maly,35.0,-1.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Layup. Assisted by Amarachi Kimpson.,65,50,3,81,681,UNLV Lady Rebels,layup,True,True,False,Desi-Rae Young,True,Amarachi Kimpson,22.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen missed Three Point Jumper.,65,50,3,54,654,Creighton Bluejays,three point jumper,True,False,True,Lauren Jensen,False,,31.0,24.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,UNLV Defensive Rebound.,65,50,3,54,654,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson made Three Point Jumper. Assisted by Desi-Rae Young.,65,53,3,41,641,UNLV Lady Rebels,three point jumper,True,True,True,Amarachi Kimpson,True,Desi-Rae Young,2.0,5.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek missed Three Point Jumper.,65,53,3,2,602,Creighton Bluejays,three point jumper,True,False,True,Emma Ronsiek,False,,4.0,11.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Creighton Deadball Team Rebound.,65,53,3,2,602,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Creighton  Turnover.,65,53,3,2,602,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,End of 3rd Quarter,65,53,3,0,600,,end,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Jump Ball won by UNLV,65,53,4,600,600,UNLV Lady Rebels,jump ball,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Desi-Rae Young.,65,53,4,593,593,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young Turnover.,65,53,4,593,593,UNLV Lady Rebels,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels, Official TV Timeout,65,53,4,593,593,,tv timeout,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek made Three Point Jumper. Assisted by Morgan Maly.,68,53,4,577,577,Creighton Bluejays,three point jumper,True,True,True,Emma Ronsiek,True,Morgan Maly,34.0,22.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown made Three Point Jumper. Assisted by Kiara Jackson.,68,56,4,564,564,UNLV Lady Rebels,three point jumper,True,True,True,Alyssa Brown,True,Kiara Jackson,36.0,24.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek made Layup. Assisted by Morgan Maly.,70,56,4,543,543,Creighton Bluejays,layup,True,True,False,Emma Ronsiek,True,Morgan Maly,21.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Nneka Obiazor missed Layup.,70,56,4,531,531,UNLV Lady Rebels,layup,True,False,False,Nneka Obiazor,False,,28.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen Defensive Rebound.,70,56,4,531,531,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek missed Three Point Jumper.,70,56,4,520,520,Creighton Bluejays,three point jumper,True,False,True,Emma Ronsiek,False,,20.0,25.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Macie James Defensive Rebound.,70,56,4,520,520,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Kiani Lockett.,70,56,4,502,502,Creighton Bluejays,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young missed Jumper.,70,56,4,495,495,UNLV Lady Rebels,jumper,True,False,False,Desi-Rae Young,False,,27.0,10.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen Defensive Rebound.,70,56,4,495,495,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly missed Three Point Jumper.,70,56,4,472,472,Creighton Bluejays,three point jumper,True,False,True,Morgan Maly,False,,6.0,17.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson Defensive Rebound.,70,56,4,472,472,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown missed Three Point Jumper.,70,56,4,462,462,UNLV Lady Rebels,three point jumper,True,False,True,Alyssa Brown,False,,21.0,24.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Creighton Defensive Rebound.,70,56,4,462,462,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly made Layup. Assisted by Emma Ronsiek.,72,56,4,452,452,Creighton Bluejays,layup,True,True,False,Morgan Maly,True,Emma Ronsiek,23.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson made Three Point Jumper. Assisted by Alyssa Brown.,72,59,4,434,434,UNLV Lady Rebels,three point jumper,True,True,True,Kiara Jackson,True,Alyssa Brown,48.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,UNLV  Timeout,72,59,4,432,432,UNLV Lady Rebels,timeout,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Jayme Horan Turnover.,72,59,4,427,427,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Layup.,72,61,4,417,417,UNLV Lady Rebels,layup,True,True,False,Desi-Rae Young,False,,27.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly made Jumper.,74,61,4,391,391,Creighton Bluejays,jumper,True,True,False,Morgan Maly,False,,20.0,12.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Layup.,74,63,4,368,368,UNLV Lady Rebels,layup,True,True,False,Desi-Rae Young,False,,27.0,4.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Alyssa Brown.,74,63,4,355,355,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen made Free Throw.,75,63,4,355,355,Creighton Bluejays,free throw,True,True,False,Molly Mogensen,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen made Free Throw.,76,63,4,355,355,Creighton Bluejays,free throw,True,True,False,Molly Mogensen,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson made Layup.,76,65,4,335,335,UNLV Lady Rebels,layup,True,True,False,Amarachi Kimpson,False,,22.0,4.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake made Jumper. Assisted by Molly Mogensen.,78,65,4,302,302,Creighton Bluejays,jumper,True,True,False,Mallory Brake,True,Molly Mogensen,34.0,-2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Layup. Assisted by Alyssa Brown.,78,67,4,291,291,UNLV Lady Rebels,layup,True,True,False,Desi-Rae Young,True,Alyssa Brown,26.0,3.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Morgan Maly.,78,67,4,291,291,Creighton Bluejays,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young missed Free Throw.,78,67,4,291,291,UNLV Lady Rebels,free throw,True,False,False,Desi-Rae Young,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Morgan Maly Defensive Rebound.,78,67,4,291,291,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen made Jumper.,80,67,4,261,261,Creighton Bluejays,jumper,True,True,False,Lauren Jensen,False,,21.0,11.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Creighton  Timeout,80,67,4,260,260,Creighton Bluejays,timeout,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson missed Jumper.,80,67,4,251,251,UNLV Lady Rebels,jumper,True,False,False,Amarachi Kimpson,False,,27.0,7.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen Defensive Rebound.,80,67,4,251,251,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen made Three Point Jumper. Assisted by Molly Mogensen.,83,67,4,227,227,Creighton Bluejays,three point jumper,True,True,True,Lauren Jensen,True,Molly Mogensen,49.0,1.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Desi-Rae Young made Jumper.,83,69,4,213,213,UNLV Lady Rebels,jumper,True,True,False,Desi-Rae Young,False,,25.0,4.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,UNLV  Timeout,83,69,4,213,213,UNLV Lady Rebels,timeout,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Alyssa Brown.,83,69,4,194,194,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek made Free Throw.,84,69,4,194,194,Creighton Bluejays,free throw,True,True,False,Emma Ronsiek,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Emma Ronsiek made Free Throw.,85,69,4,194,194,Creighton Bluejays,free throw,True,True,False,Emma Ronsiek,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Ashley Scoggin missed Three Point Jumper.,85,69,4,182,182,UNLV Lady Rebels,three point jumper,True,False,True,Ashley Scoggin,False,,12.0,20.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson Offensive Rebound.,85,69,4,182,182,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson Turnover.,85,69,4,175,175,UNLV Lady Rebels,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake Steal.,85,69,4,175,175,Creighton Bluejays,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Alyssa Brown.,85,69,4,175,175,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Molly Mogensen Turnover.,85,69,4,172,172,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown Steal.,85,69,4,172,172,UNLV Lady Rebels,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Morgan Maly.,85,69,4,172,172,Creighton Bluejays,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Brown missed Three Point Jumper.,85,69,4,168,168,UNLV Lady Rebels,three point jumper,True,False,True,Alyssa Brown,False,,26.0,25.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen Defensive Rebound.,85,69,4,168,168,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Ashley Scoggin.,85,69,4,164,164,UNLV Lady Rebels,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen made Free Throw.,86,69,4,164,164,Creighton Bluejays,free throw,True,True,False,Lauren Jensen,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen made Free Throw.,87,69,4,164,164,Creighton Bluejays,free throw,True,True,False,Lauren Jensen,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kiara Jackson missed Jumper.,87,69,4,147,147,UNLV Lady Rebels,jumper,True,False,False,Kiara Jackson,False,,18.0,12.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake Defensive Rebound.,87,69,4,147,147,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Lauren Jensen Turnover.,87,69,4,121,121,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson Steal.,87,69,4,121,121,UNLV Lady Rebels,steal,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Foul on Morgan Maly.,87,69,4,105,105,Creighton Bluejays,foul,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Durazo-Frescas made Jumper.,87,71,4,101,101,UNLV Lady Rebels,jumper,True,True,False,Alyssa Durazo-Frescas,False,,21.0,9.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kennedy Townsend missed Layup.,87,71,4,72,72,Creighton Bluejays,layup,True,False,False,Kennedy Townsend,False,,27.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Erica Collins Defensive Rebound.,87,71,4,72,72,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Amarachi Kimpson missed Jumper.,87,71,4,61,61,UNLV Lady Rebels,jumper,True,False,False,Amarachi Kimpson,False,,18.0,2.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,McKinna Brackens Offensive Rebound.,87,71,4,61,61,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Alyssa Durazo-Frescas made Jumper.,87,73,4,54,54,UNLV Lady Rebels,jumper,True,True,False,Alyssa Durazo-Frescas,False,,26.0,13.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,McKayla Miller missed Three Point Jumper.,87,73,4,26,26,Creighton Bluejays,three point jumper,True,False,True,McKayla Miller,False,,34.0,23.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Kennedy Townsend Offensive Rebound.,87,73,4,26,26,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,Mallory Brake missed Three Point Jumper.,87,73,4,7,7,Creighton Bluejays,three point jumper,True,False,True,Mallory Brake,False,,33.0,23.0
+401637559,Creighton Bluejays,UNLV Lady Rebels,Erica Collins Defensive Rebound.,87,73,4,7,7,UNLV Lady Rebels,rebound,False,False,False,,False,,,
+401637559,Creighton Bluejays,UNLV Lady Rebels,End of Game,87,73,4,0,0,,end,False,False,False,,False,,,

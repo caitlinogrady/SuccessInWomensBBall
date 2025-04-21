@@ -1,0 +1,356 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jump Ball won by Louisville,0,0,1,600,2400,Louisville Cardinals,jump ball,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Savannah Wheeler.,0,0,1,582,2382,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Sydney Taylor made Free Throw.,1,0,1,582,2382,Louisville Cardinals,free throw,True,True,False,Sydney Taylor,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Sydney Taylor made Free Throw.,2,0,1,582,2382,Louisville Cardinals,free throw,True,True,False,Sydney Taylor,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler missed Layup.,2,0,1,570,2370,Middle Tennessee Blue Raiders,layup,True,False,False,Savannah Wheeler,False,,22.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran Defensive Rebound.,2,0,1,570,2370,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards missed Jumper.,2,0,1,560,2360,Louisville Cardinals,jumper,True,False,False,Nina Rickards,False,,14.0,9.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Kiki Jefferson Offensive Rebound.,2,0,1,560,2360,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Kiki Jefferson made Layup.,4,0,1,553,2353,Louisville Cardinals,layup,True,True,False,Kiki Jefferson,False,,27.0,2.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Layup.,4,0,1,537,2337,Middle Tennessee Blue Raiders,layup,True,False,False,Ta'Mia Scott,False,,22.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris Turnover.,4,0,1,537,2337,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott Steal.,4,0,1,537,2337,Middle Tennessee Blue Raiders,steal,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris Defensive Rebound.,4,0,1,537,2337,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Layup.,4,0,1,525,2325,Middle Tennessee Blue Raiders,layup,True,False,False,Ta'Mia Scott,False,,21.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris Defensive Rebound.,4,0,1,525,2325,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards made Layup.,6,0,1,511,2311,Louisville Cardinals,layup,True,True,False,Nina Rickards,False,,22.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Three Point Jumper.,6,0,1,493,2293,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Ta'Mia Scott,False,,48.0,-1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Offensive Rebound.,6,0,1,493,2293,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva made Layup.,6,2,1,489,2289,Middle Tennessee Blue Raiders,layup,True,True,False,Anastasiia Boldyreva,False,,22.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran missed Jumper.,6,2,1,478,2278,Louisville Cardinals,jumper,True,False,False,Olivia Cochran,False,,31.0,20.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Defensive Rebound.,6,2,1,478,2278,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva missed Three Point Jumper.,6,2,1,469,2269,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Anastasiia Boldyreva,False,,28.0,25.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Kiki Jefferson Defensive Rebound.,6,2,1,469,2269,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Kiki Jefferson missed Jumper.,6,2,1,456,2256,Louisville Cardinals,jumper,True,False,False,Kiki Jefferson,False,,38.0,15.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards Offensive Rebound.,6,2,1,456,2256,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Sydney Taylor missed Three Point Jumper.,6,2,1,451,2251,Louisville Cardinals,three point jumper,True,False,True,Sydney Taylor,False,,24.0,24.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory Defensive Rebound.,6,2,1,451,2251,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Three Point Jumper.,6,5,1,434,2234,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Jalynn Gregory,False,,7.0,24.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris made Layup. Assisted by Nina Rickards.,8,5,1,409,2209,Louisville Cardinals,layup,True,True,False,Nyla Harris,True,Nina Rickards,27.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Nyla Harris.,8,5,1,396,2196,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott Turnover.,8,5,1,392,2192,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris Steal.,8,5,1,392,2192,Louisville Cardinals,steal,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris missed Layup.,8,5,1,385,2185,Louisville Cardinals,layup,True,False,False,Nyla Harris,False,,21.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson Block.,8,5,1,385,2185,Middle Tennessee Blue Raiders,block,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville Offensive Rebound.,8,5,1,385,2185,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva made Layup. Assisted by Jalynn Gregory.,8,7,1,370,2170,Middle Tennessee Blue Raiders,layup,True,True,False,Anastasiia Boldyreva,True,Jalynn Gregory,22.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran made Layup. Assisted by Merissah Russell.,10,7,1,357,2157,Louisville Cardinals,layup,True,True,False,Olivia Cochran,True,Merissah Russell,27.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott Turnover.,10,7,1,337,2137,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris Steal.,10,7,1,337,2137,Louisville Cardinals,steal,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris missed Layup.,10,7,1,337,2137,Louisville Cardinals,layup,True,False,False,Nyla Harris,False,,22.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville Offensive Rebound.,10,7,1,337,2137,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran made Three Point Jumper. Assisted by Jayda Curry.,13,7,1,331,2131,Louisville Cardinals,three point jumper,True,True,True,Olivia Cochran,True,Jayda Curry,13.0,22.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Turnover.,13,7,1,308,2108,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Sydney Taylor made Layup.,15,7,1,296,2096,Louisville Cardinals,layup,True,True,False,Sydney Taylor,False,,21.0,2.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Jumper.,15,7,1,270,2070,Middle Tennessee Blue Raiders,jumper,True,False,False,Ta'Mia Scott,False,,13.0,5.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran Defensive Rebound.,15,7,1,270,2070,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris made Layup. Assisted by Olivia Cochran.,17,7,1,263,2063,Louisville Cardinals,layup,True,True,False,Nyla Harris,True,Olivia Cochran,22.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson missed Jumper.,17,7,1,248,2048,Middle Tennessee Blue Raiders,jumper,True,False,False,Courtney Whitson,False,,13.0,18.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran Defensive Rebound.,17,7,1,248,2048,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell Turnover.,17,7,1,234,2034,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders, Official TV Timeout,17,7,1,234,2034,,tv timeout,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Jalynn Gregory.,17,7,1,211,2011,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory Turnover.,17,7,1,211,2011,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry Turnover.,17,7,1,191,1991,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler missed Three Point Jumper.,17,7,1,180,1980,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Savannah Wheeler,False,,41.0,22.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran Defensive Rebound.,17,7,1,180,1980,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry made Three Point Jumper. Assisted by Olivia Cochran.,20,7,1,167,1967,Louisville Cardinals,three point jumper,True,True,True,Jayda Curry,True,Olivia Cochran,5.0,16.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler missed Jumper.,20,7,1,151,1951,Middle Tennessee Blue Raiders,jumper,True,False,False,Savannah Wheeler,False,,18.0,6.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott Offensive Rebound.,20,7,1,151,1951,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Layup.,20,7,1,147,1947,Middle Tennessee Blue Raiders,layup,True,False,False,Ta'Mia Scott,False,,29.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell Defensive Rebound.,20,7,1,147,1947,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Iullia Grabovskaia.,20,7,1,147,1947,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris missed Jumper.,20,7,1,128,1928,Louisville Cardinals,jumper,True,False,False,Nyla Harris,False,,35.0,13.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Defensive Rebound.,20,7,1,128,1928,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Elif Istanbulluoglu.,20,7,1,110,1910,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Free Throw.,20,8,1,110,1910,Middle Tennessee Blue Raiders,free throw,True,True,False,Jalynn Gregory,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Free Throw.,20,9,1,110,1910,Middle Tennessee Blue Raiders,free throw,True,True,False,Jalynn Gregory,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Free Throw.,20,10,1,110,1910,Middle Tennessee Blue Raiders,free throw,True,True,False,Jalynn Gregory,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry missed Jumper.,20,10,1,101,1901,Louisville Cardinals,jumper,True,False,False,Jayda Curry,False,,39.0,11.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson Defensive Rebound.,20,10,1,101,1901,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler Turnover.,20,10,1,91,1891,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Kiki Jefferson made Three Point Jumper. Assisted by Sydney Taylor.,23,10,1,68,1868,Louisville Cardinals,three point jumper,True,True,True,Kiki Jefferson,True,Sydney Taylor,3.0,10.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Layup.,23,12,1,45,1845,Middle Tennessee Blue Raiders,layup,True,True,False,Jalynn Gregory,False,,22.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Savannah Wheeler.,23,12,1,32,1832,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Elif Istanbulluoglu made Three Point Jumper. Assisted by Merissah Russell.,26,12,1,23,1823,Louisville Cardinals,three point jumper,True,True,True,Elif Istanbulluoglu,True,Merissah Russell,35.0,24.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Turnover.,26,12,1,3,1803,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell Steal.,26,12,1,3,1803,Louisville Cardinals,steal,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell made Layup.,28,12,1,1,1801,Louisville Cardinals,layup,True,True,False,Merissah Russell,False,,21.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,End of 1st Quarter,28,12,1,0,1800,,end,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jump Ball won by Middle Tennessee,28,12,2,600,1800,Middle Tennessee Blue Raiders,jump ball,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Nyla Harris.,28,12,2,594,1794,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Three Point Jumper. Assisted by Courtney Whitson.,28,15,2,577,1777,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Jalynn Gregory,True,Courtney Whitson,1.0,2.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran made Jumper.,30,15,2,541,1741,Louisville Cardinals,jumper,True,True,False,Olivia Cochran,False,,14.0,7.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory missed Three Point Jumper.,30,15,2,508,1708,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Jalynn Gregory,False,,9.0,29.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson Offensive Rebound.,30,15,2,508,1708,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Jayda Curry.,30,15,2,508,1708,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson made Layup. Assisted by Jalynn Gregory.,30,17,2,505,1705,Middle Tennessee Blue Raiders,layup,True,True,False,Courtney Whitson,True,Jalynn Gregory,21.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Olivia Cochran.,30,17,2,505,1705,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson made Free Throw.,30,18,2,505,1705,Middle Tennessee Blue Raiders,free throw,True,True,False,Courtney Whitson,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Kiki Jefferson Turnover.,30,18,2,484,1684,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Iullia Grabovskaia Steal.,30,18,2,484,1684,Middle Tennessee Blue Raiders,steal,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Iullia Grabovskaia Turnover.,30,18,2,480,1680,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Elif Istanbulluoglu missed Three Point Jumper.,30,18,2,466,1666,Louisville Cardinals,three point jumper,True,False,True,Elif Istanbulluoglu,False,,38.0,22.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran Offensive Rebound.,30,18,2,466,1666,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran made Layup.,32,18,2,460,1660,Louisville Cardinals,layup,True,True,False,Olivia Cochran,False,,22.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott made Jumper.,32,20,2,441,1641,Middle Tennessee Blue Raiders,jumper,True,True,False,Ta'Mia Scott,False,,25.0,7.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Iullia Grabovskaia.,32,20,2,425,1625,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Kiki Jefferson made Free Throw.,33,20,2,425,1625,Louisville Cardinals,free throw,True,True,False,Kiki Jefferson,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Kiki Jefferson missed Free Throw.,33,20,2,425,1625,Louisville Cardinals,free throw,True,False,False,Kiki Jefferson,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson Defensive Rebound.,33,20,2,425,1625,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Elif Istanbulluoglu.,33,20,2,424,1624,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler missed Three Point Jumper.,33,20,2,416,1616,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Savannah Wheeler,False,,29.0,24.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Sydney Taylor Defensive Rebound.,33,20,2,416,1616,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell made Jumper.,35,20,2,399,1599,Louisville Cardinals,jumper,True,True,False,Merissah Russell,False,,25.0,10.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Turnover.,35,20,2,380,1580,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran missed Jumper.,35,20,2,371,1571,Louisville Cardinals,jumper,True,False,False,Olivia Cochran,False,,21.0,16.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott Defensive Rebound.,35,20,2,371,1571,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler missed Jumper.,35,20,2,357,1557,Middle Tennessee Blue Raiders,jumper,True,False,False,Savannah Wheeler,False,,21.0,3.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Elif Istanbulluoglu Defensive Rebound.,35,20,2,357,1557,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell Turnover.,35,20,2,343,1543,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler Steal.,35,20,2,343,1543,Middle Tennessee Blue Raiders,steal,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Three Point Jumper.,35,20,2,341,1541,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Ta'Mia Scott,False,,41.0,19.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville Defensive Rebound.,35,20,2,341,1541,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Sydney Taylor missed Three Point Jumper.,35,20,2,317,1517,Louisville Cardinals,three point jumper,True,False,True,Sydney Taylor,False,,46.0,16.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Sydney Taylor Offensive Rebound.,35,20,2,317,1517,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Elif Istanbulluoglu missed Three Point Jumper.,35,20,2,306,1506,Louisville Cardinals,three point jumper,True,False,True,Elif Istanbulluoglu,False,,46.0,14.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Defensive Rebound.,35,20,2,306,1506,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler missed Jumper.,35,20,2,288,1488,Middle Tennessee Blue Raiders,jumper,True,False,False,Savannah Wheeler,False,,9.0,12.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson Offensive Rebound.,35,20,2,288,1488,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson missed Layup.,35,20,2,281,1481,Middle Tennessee Blue Raiders,layup,True,False,False,Courtney Whitson,False,,28.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran Block.,35,20,2,281,1481,Louisville Cardinals,block,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran Defensive Rebound.,35,20,2,281,1481,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders, Official TV Timeout,35,20,2,266,1466,,tv timeout,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell made Three Point Jumper. Assisted by Nina Rickards.,38,20,2,258,1458,Louisville Cardinals,three point jumper,True,True,True,Merissah Russell,True,Nina Rickards,30.0,26.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory missed Three Point Jumper.,38,20,2,231,1431,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Jalynn Gregory,False,,6.0,21.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry Defensive Rebound.,38,20,2,231,1431,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards Turnover.,38,20,2,224,1424,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott made Layup.,38,22,2,215,1415,Middle Tennessee Blue Raiders,layup,True,True,False,Ta'Mia Scott,False,,28.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran missed Layup.,38,22,2,192,1392,Louisville Cardinals,layup,True,False,False,Olivia Cochran,False,,27.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler Defensive Rebound.,38,22,2,192,1392,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Three Point Jumper. Assisted by Ta'Mia Scott.,38,25,2,173,1373,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Jalynn Gregory,True,Ta'Mia Scott,40.0,19.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville  Timeout,38,25,2,169,1369,Louisville Cardinals,timeout,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry missed Jumper.,38,25,2,161,1361,Louisville Cardinals,jumper,True,False,False,Jayda Curry,False,,25.0,8.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Defensive Rebound.,38,25,2,161,1361,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva missed Jumper.,38,25,2,134,1334,Middle Tennessee Blue Raiders,jumper,True,False,False,Anastasiia Boldyreva,False,,17.0,19.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards Defensive Rebound.,38,25,2,134,1334,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell missed Three Point Jumper.,38,25,2,107,1307,Louisville Cardinals,three point jumper,True,False,True,Merissah Russell,False,,17.0,26.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Defensive Rebound.,38,25,2,107,1307,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson missed Three Point Jumper.,38,25,2,84,1284,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Courtney Whitson,False,,4.0,13.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell Block.,38,25,2,84,1284,Louisville Cardinals,block,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Middle Tennessee Offensive Rebound.,38,25,2,84,1284,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler made Layup.,38,27,2,77,1277,Middle Tennessee Blue Raiders,layup,True,True,False,Savannah Wheeler,False,,28.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry missed Three Point Jumper.,38,27,2,58,1258,Louisville Cardinals,three point jumper,True,False,True,Jayda Curry,False,,10.0,21.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Iullia Grabovskaia Defensive Rebound.,38,27,2,58,1258,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Jayda Curry.,38,27,2,56,1256,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Iullia Grabovskaia missed Free Throw.,38,27,2,56,1256,Middle Tennessee Blue Raiders,free throw,True,False,False,Iullia Grabovskaia,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Middle Tennessee Deadball Team Rebound.,38,27,2,56,1256,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Iullia Grabovskaia missed Free Throw.,38,27,2,56,1256,Middle Tennessee Blue Raiders,free throw,True,False,False,Iullia Grabovskaia,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran Defensive Rebound.,38,27,2,53,1253,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell missed Three Point Jumper.,38,27,2,25,1225,Louisville Cardinals,three point jumper,True,False,True,Merissah Russell,False,,22.0,30.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville Deadball Team Rebound.,38,27,2,25,1225,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville  Turnover.,38,27,2,24,1224,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory missed Three Point Jumper.,38,27,2,5,1205,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Jalynn Gregory,False,,34.0,26.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville Defensive Rebound.,38,27,2,5,1205,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,End of 2nd Quarter,38,27,2,0,1200,,end,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jump Ball won by Louisville,38,27,3,600,1200,Louisville Cardinals,jump ball,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran made Layup. Assisted by Sydney Taylor.,40,27,3,587,1187,Louisville Cardinals,layup,True,True,False,Olivia Cochran,True,Sydney Taylor,28.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Olivia Cochran.,40,27,3,567,1167,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler Turnover.,40,27,3,557,1157,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris Steal.,40,27,3,557,1157,Louisville Cardinals,steal,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Kiki Jefferson missed Layup.,40,27,3,539,1139,Louisville Cardinals,layup,True,False,False,Kiki Jefferson,False,,29.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Defensive Rebound.,40,27,3,539,1139,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler missed Layup.,40,27,3,531,1131,Middle Tennessee Blue Raiders,layup,True,False,False,Savannah Wheeler,False,,27.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris Defensive Rebound.,40,27,3,531,1131,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jump Ball won by Middle Tennessee,40,27,3,531,1131,Middle Tennessee Blue Raiders,jump ball,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris Turnover.,40,27,3,531,1131,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson Steal.,40,27,3,531,1131,Middle Tennessee Blue Raiders,steal,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Sydney Taylor.,40,27,3,528,1128,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Free Throw.,40,28,3,528,1128,Middle Tennessee Blue Raiders,free throw,True,True,False,Jalynn Gregory,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Free Throw.,40,29,3,528,1128,Middle Tennessee Blue Raiders,free throw,True,True,False,Jalynn Gregory,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards Turnover.,40,29,3,514,1114,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory Steal.,40,29,3,514,1114,Middle Tennessee Blue Raiders,steal,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler made Three Point Jumper.,40,32,3,489,1089,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Savannah Wheeler,False,,30.0,25.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran missed Jumper.,40,32,3,464,1064,Louisville Cardinals,jumper,True,False,False,Olivia Cochran,False,,35.0,14.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory Defensive Rebound.,40,32,3,464,1064,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Olivia Cochran.,40,32,3,441,1041,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler made Free Throw.,40,33,3,441,1041,Middle Tennessee Blue Raiders,free throw,True,True,False,Savannah Wheeler,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler made Free Throw.,40,34,3,441,1041,Middle Tennessee Blue Raiders,free throw,True,True,False,Savannah Wheeler,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry made Layup.,42,34,3,419,1019,Louisville Cardinals,layup,True,True,False,Jayda Curry,False,,22.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Three Point Jumper. Assisted by Savannah Wheeler.,42,37,3,402,1002,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Jalynn Gregory,True,Savannah Wheeler,45.0,17.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry missed Jumper.,42,37,3,383,983,Louisville Cardinals,jumper,True,False,False,Jayda Curry,False,,14.0,16.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville Deadball Team Rebound.,42,37,3,383,983,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Courtney Whitson.,42,37,3,382,982,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran missed Jumper.,42,37,3,376,976,Louisville Cardinals,jumper,True,False,False,Olivia Cochran,False,,29.0,4.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Defensive Rebound.,42,37,3,376,976,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Olivia Cochran.,42,37,3,353,953,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott Turnover.,42,37,3,350,950,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell Steal.,42,37,3,350,950,Louisville Cardinals,steal,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville  Timeout,42,37,3,328,928,Louisville Cardinals,timeout,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards missed Jumper.,42,37,3,322,922,Louisville Cardinals,jumper,True,False,False,Nina Rickards,False,,28.0,9.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Middle Tennessee Defensive Rebound.,42,37,3,322,922,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Layup.,42,37,3,295,895,Middle Tennessee Blue Raiders,layup,True,False,False,Ta'Mia Scott,False,,28.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell Defensive Rebound.,42,37,3,295,895,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards made Layup.,44,37,3,278,878,Louisville Cardinals,layup,True,True,False,Nina Rickards,False,,28.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler made Three Point Jumper.,44,40,3,261,861,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Savannah Wheeler,False,,13.0,22.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards Turnover.,44,40,3,237,837,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler Steal.,44,40,3,237,837,Middle Tennessee Blue Raiders,steal,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders, Official TV Timeout,44,40,3,237,837,,tv timeout,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Nyla Harris.,44,40,3,212,812,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva made Free Throw.,44,41,3,212,812,Middle Tennessee Blue Raiders,free throw,True,True,False,Anastasiia Boldyreva,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva missed Free Throw.,44,41,3,212,812,Middle Tennessee Blue Raiders,free throw,True,False,False,Anastasiia Boldyreva,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville Defensive Rebound.,44,41,3,210,810,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Anastasiia Boldyreva.,44,41,3,202,802,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Jalynn Gregory.,44,41,3,195,795,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris missed Layup.,44,41,3,181,781,Louisville Cardinals,layup,True,False,False,Nyla Harris,False,,22.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris Offensive Rebound.,44,41,3,181,781,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Ta'Mia Scott.,44,41,3,175,775,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Elif Istanbulluoglu made Free Throw.,45,41,3,175,775,Louisville Cardinals,free throw,True,True,False,Elif Istanbulluoglu,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Elif Istanbulluoglu made Free Throw.,46,41,3,175,775,Louisville Cardinals,free throw,True,True,False,Elif Istanbulluoglu,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler Turnover.,46,41,3,164,764,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry missed Jumper.,46,41,3,144,744,Louisville Cardinals,jumper,True,False,False,Jayda Curry,False,,34.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson Block.,46,41,3,144,744,Middle Tennessee Blue Raiders,block,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson Defensive Rebound.,46,41,3,144,744,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Jayda Curry.,46,41,3,137,737,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson made Free Throw.,46,42,3,137,737,Middle Tennessee Blue Raiders,free throw,True,True,False,Courtney Whitson,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson missed Free Throw.,46,42,3,137,737,Middle Tennessee Blue Raiders,free throw,True,False,False,Courtney Whitson,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris Defensive Rebound.,46,42,3,134,734,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Elif Istanbulluoglu made Layup. Assisted by Nyla Harris.,48,42,3,126,726,Louisville Cardinals,layup,True,True,False,Elif Istanbulluoglu,True,Nyla Harris,22.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler made Three Point Jumper.,48,45,3,109,709,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Savannah Wheeler,False,,12.0,22.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards missed Layup.,48,45,3,97,697,Louisville Cardinals,layup,True,False,False,Nina Rickards,False,,28.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Defensive Rebound.,48,45,3,97,697,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Nina Rickards.,48,45,3,92,692,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott made Free Throw.,48,46,3,92,692,Middle Tennessee Blue Raiders,free throw,True,True,False,Ta'Mia Scott,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott made Free Throw.,48,47,3,92,692,Middle Tennessee Blue Raiders,free throw,True,True,False,Ta'Mia Scott,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott made Free Throw.,48,48,3,92,692,Middle Tennessee Blue Raiders,free throw,True,True,False,Ta'Mia Scott,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell missed Jumper.,48,48,3,92,692,Louisville Cardinals,jumper,True,False,False,Merissah Russell,False,,25.0,10.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Middle Tennessee Defensive Rebound.,48,48,3,92,692,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler made Layup.,48,50,3,50,650,Middle Tennessee Blue Raiders,layup,True,True,False,Savannah Wheeler,False,,22.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards missed Layup.,48,50,3,25,625,Louisville Cardinals,layup,True,False,False,Nina Rickards,False,,22.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Block.,48,50,3,25,625,Middle Tennessee Blue Raiders,block,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry Offensive Rebound.,48,50,3,25,625,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Savannah Wheeler.,48,50,3,20,620,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards made Free Throw.,49,50,3,20,620,Louisville Cardinals,free throw,True,True,False,Nina Rickards,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards made Free Throw.,50,50,3,20,620,Louisville Cardinals,free throw,True,True,False,Nina Rickards,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Nina Rickards.,50,50,3,18,618,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler missed Free Throw.,50,50,3,18,618,Middle Tennessee Blue Raiders,free throw,True,False,False,Savannah Wheeler,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Middle Tennessee Deadball Team Rebound.,50,50,3,18,618,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler made Free Throw.,50,51,3,18,618,Middle Tennessee Blue Raiders,free throw,True,True,False,Savannah Wheeler,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards missed Jumper.,50,51,3,4,604,Louisville Cardinals,jumper,True,False,False,Nina Rickards,False,,29.0,9.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell Offensive Rebound.,50,51,3,4,604,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,End of 3rd Quarter,50,51,3,0,600,,end,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jump Ball won by Middle Tennessee,50,51,4,600,600,Middle Tennessee Blue Raiders,jump ball,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson missed Three Point Jumper.,50,51,4,591,591,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Courtney Whitson,False,,29.0,25.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry Defensive Rebound.,50,51,4,591,591,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran made Layup. Assisted by Sydney Taylor.,52,51,4,580,580,Louisville Cardinals,layup,True,True,False,Olivia Cochran,True,Sydney Taylor,28.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler missed Layup.,52,51,4,560,560,Middle Tennessee Blue Raiders,layup,True,False,False,Savannah Wheeler,False,,28.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville Defensive Rebound.,52,51,4,560,560,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry missed Layup.,52,51,4,541,541,Louisville Cardinals,layup,True,False,False,Jayda Curry,False,,28.0,3.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler Defensive Rebound.,52,51,4,541,541,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Nina Rickards.,52,51,4,534,534,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler made Free Throw.,52,52,4,534,534,Middle Tennessee Blue Raiders,free throw,True,True,False,Savannah Wheeler,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler made Free Throw.,52,53,4,534,534,Middle Tennessee Blue Raiders,free throw,True,True,False,Savannah Wheeler,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Courtney Whitson.,52,53,4,519,519,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry missed Jumper.,52,53,4,512,512,Louisville Cardinals,jumper,True,False,False,Jayda Curry,False,,21.0,11.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Block.,52,53,4,512,512,Middle Tennessee Blue Raiders,block,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Defensive Rebound.,52,53,4,512,512,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva missed Three Point Jumper.,52,53,4,486,486,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Anastasiia Boldyreva,False,,19.0,24.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards Defensive Rebound.,52,53,4,486,486,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran made Jumper. Assisted by Merissah Russell.,54,53,4,472,472,Louisville Cardinals,jumper,True,True,False,Olivia Cochran,True,Merissah Russell,35.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Anastasiia Boldyreva.,54,53,4,451,451,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Turnover.,54,53,4,451,451,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell missed Jumper.,54,53,4,435,435,Louisville Cardinals,jumper,True,False,False,Merissah Russell,False,,19.0,20.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott Defensive Rebound.,54,53,4,435,435,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva made Jumper. Assisted by Savannah Wheeler.,54,55,4,409,409,Middle Tennessee Blue Raiders,jumper,True,True,False,Anastasiia Boldyreva,True,Savannah Wheeler,25.0,6.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Nina Rickards.,54,55,4,391,391,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards Turnover.,54,55,4,391,391,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva made Layup. Assisted by Jalynn Gregory.,54,57,4,371,371,Middle Tennessee Blue Raiders,layup,True,True,False,Anastasiia Boldyreva,True,Jalynn Gregory,22.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran missed Layup.,54,57,4,347,347,Louisville Cardinals,layup,True,False,False,Olivia Cochran,False,,29.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards Offensive Rebound.,54,57,4,347,347,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell missed Jumper.,54,57,4,337,337,Louisville Cardinals,jumper,True,False,False,Merissah Russell,False,,12.0,17.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory Defensive Rebound.,54,57,4,337,337,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Jayda Curry.,54,57,4,324,324,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson missed Three Point Jumper.,54,57,4,318,318,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Courtney Whitson,False,,45.0,17.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott Offensive Rebound.,54,57,4,318,318,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Layup.,54,57,4,311,311,Middle Tennessee Blue Raiders,layup,True,False,False,Ta'Mia Scott,False,,22.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson Offensive Rebound.,54,57,4,311,311,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Merissah Russell.,54,57,4,311,311,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson missed Free Throw.,54,57,4,311,311,Middle Tennessee Blue Raiders,free throw,True,False,False,Courtney Whitson,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Middle Tennessee Deadball Team Rebound.,54,57,4,311,311,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson missed Free Throw.,54,57,4,311,311,Middle Tennessee Blue Raiders,free throw,True,False,False,Courtney Whitson,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran Defensive Rebound.,54,57,4,311,311,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris Turnover.,54,57,4,304,304,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Turnover.,54,57,4,286,286,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders, Official TV Timeout,54,57,4,286,286,,tv timeout,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Sydney Taylor missed Three Point Jumper.,54,57,4,276,276,Louisville Cardinals,three point jumper,True,False,True,Sydney Taylor,False,,39.0,20.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran Offensive Rebound.,54,57,4,276,276,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Savannah Wheeler.,54,57,4,273,273,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Sydney Taylor Turnover.,54,57,4,270,270,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Sydney Taylor.,54,57,4,270,270,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson missed Three Point Jumper.,54,57,4,246,246,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Courtney Whitson,False,,25.0,25.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran Defensive Rebound.,54,57,4,246,246,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry missed Three Point Jumper.,54,57,4,236,236,Louisville Cardinals,three point jumper,True,False,True,Jayda Curry,False,,45.0,13.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Defensive Rebound.,54,57,4,236,236,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson made Three Point Jumper. Assisted by Jalynn Gregory.,54,60,4,225,225,Middle Tennessee Blue Raiders,three point jumper,True,True,True,Courtney Whitson,True,Jalynn Gregory,49.0,-1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran missed Layup.,54,60,4,191,191,Louisville Cardinals,layup,True,False,False,Olivia Cochran,False,,28.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Block.,54,60,4,191,191,Middle Tennessee Blue Raiders,block,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville Offensive Rebound.,54,60,4,191,191,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry Turnover.,54,60,4,191,191,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler made Jumper.,54,62,4,178,178,Middle Tennessee Blue Raiders,jumper,True,True,False,Savannah Wheeler,False,,15.0,14.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran missed Jumper.,54,62,4,151,151,Louisville Cardinals,jumper,True,False,False,Olivia Cochran,False,,12.0,6.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell Offensive Rebound.,54,62,4,151,151,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Courtney Whitson.,54,62,4,149,149,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran missed Three Point Jumper.,54,62,4,146,146,Louisville Cardinals,three point jumper,True,False,True,Olivia Cochran,False,,7.0,18.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry Offensive Rebound.,54,62,4,146,146,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Courtney Whitson.,54,62,4,144,144,Middle Tennessee Blue Raiders,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry made Free Throw.,55,62,4,144,144,Louisville Cardinals,free throw,True,True,False,Jayda Curry,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jayda Curry made Free Throw.,56,62,4,144,144,Louisville Cardinals,free throw,True,True,False,Jayda Curry,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Middle Tennessee  Timeout,56,62,4,136,136,Middle Tennessee Blue Raiders,timeout,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva made Layup. Assisted by Ta'Mia Scott.,56,64,4,127,127,Middle Tennessee Blue Raiders,layup,True,True,False,Anastasiia Boldyreva,True,Ta'Mia Scott,22.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards made Jumper.,58,64,4,112,112,Louisville Cardinals,jumper,True,True,False,Nina Rickards,False,,21.0,14.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Three Point Jumper.,58,64,4,97,97,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Ta'Mia Scott,False,,2.0,7.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards Defensive Rebound.,58,64,4,97,97,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards made Jumper.,60,64,4,88,88,Louisville Cardinals,jumper,True,True,False,Nina Rickards,False,,28.0,10.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson missed Three Point Jumper.,60,64,4,69,69,Middle Tennessee Blue Raiders,three point jumper,True,False,True,Courtney Whitson,False,,1.0,5.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott Offensive Rebound.,60,64,4,69,69,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Layup.,60,64,4,65,65,Middle Tennessee Blue Raiders,layup,True,False,False,Ta'Mia Scott,False,,21.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Courtney Whitson Offensive Rebound.,60,64,4,65,65,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Middle Tennessee  Timeout,60,64,4,65,65,Middle Tennessee Blue Raiders,timeout,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott Turnover.,60,64,4,57,57,Middle Tennessee Blue Raiders,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran Steal.,60,64,4,57,57,Louisville Cardinals,steal,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Olivia Cochran made Layup.,62,64,4,53,53,Louisville Cardinals,layup,True,True,False,Olivia Cochran,False,,28.0,0.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Jayda Curry.,62,64,4,40,40,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Free Throw.,62,65,4,40,40,Middle Tennessee Blue Raiders,free throw,True,True,False,Jalynn Gregory,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Free Throw.,62,66,4,40,40,Middle Tennessee Blue Raiders,free throw,True,True,False,Jalynn Gregory,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville  Timeout,62,66,4,40,40,Louisville Cardinals,timeout,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards Turnover.,62,66,4,40,40,Louisville Cardinals,turnover,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Sydney Taylor.,62,66,4,34,34,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory missed Free Throw.,62,66,4,34,34,Middle Tennessee Blue Raiders,free throw,True,False,False,Jalynn Gregory,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Middle Tennessee Deadball Team Rebound.,62,66,4,34,34,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Free Throw.,62,67,4,34,34,Middle Tennessee Blue Raiders,free throw,True,True,False,Jalynn Gregory,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nina Rickards made Jumper.,64,67,4,28,28,Louisville Cardinals,jumper,True,True,False,Nina Rickards,False,,27.0,15.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Middle Tennessee  Timeout,64,67,4,28,28,Middle Tennessee Blue Raiders,timeout,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Nina Rickards.,64,67,4,23,23,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Free Throw.,64,68,4,23,23,Middle Tennessee Blue Raiders,free throw,True,True,False,Jalynn Gregory,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Jalynn Gregory made Free Throw.,64,69,4,23,23,Middle Tennessee Blue Raiders,free throw,True,True,False,Jalynn Gregory,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Sydney Taylor missed Three Point Jumper.,64,69,4,17,17,Louisville Cardinals,three point jumper,True,False,True,Sydney Taylor,False,,7.0,23.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell Offensive Rebound.,64,69,4,17,17,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell made Layup.,66,69,4,13,13,Louisville Cardinals,layup,True,True,False,Merissah Russell,False,,28.0,1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Merissah Russell.,66,69,4,11,11,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler made Free Throw.,66,70,4,11,11,Middle Tennessee Blue Raiders,free throw,True,True,False,Savannah Wheeler,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Savannah Wheeler made Free Throw.,66,71,4,11,11,Middle Tennessee Blue Raiders,free throw,True,True,False,Savannah Wheeler,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville  Timeout,66,71,4,11,11,Louisville Cardinals,timeout,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell missed Three Point Jumper.,66,71,4,8,8,Louisville Cardinals,three point jumper,True,False,True,Merissah Russell,False,,48.0,-1.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott Block.,66,71,4,8,8,Middle Tennessee Blue Raiders,block,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Louisville Offensive Rebound.,66,71,4,8,8,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Sydney Taylor made Three Point Jumper. Assisted by Merissah Russell.,69,71,4,5,5,Louisville Cardinals,three point jumper,True,True,True,Sydney Taylor,True,Merissah Russell,48.0,4.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Middle Tennessee  Timeout,69,71,4,4,4,Middle Tennessee Blue Raiders,timeout,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Foul on Kiki Jefferson.,69,71,4,3,3,Louisville Cardinals,foul,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Free Throw.,69,71,4,3,3,Middle Tennessee Blue Raiders,free throw,True,False,False,Ta'Mia Scott,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Middle Tennessee Deadball Team Rebound.,69,71,4,3,3,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Ta'Mia Scott missed Free Throw.,69,71,4,3,3,Middle Tennessee Blue Raiders,free throw,True,False,False,Ta'Mia Scott,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Nyla Harris Defensive Rebound.,69,71,4,3,3,Louisville Cardinals,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Merissah Russell missed Three Point Jumper.,69,71,4,1,1,Louisville Cardinals,three point jumper,True,False,True,Merissah Russell,False,,32.0,53.0
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,Anastasiia Boldyreva Defensive Rebound.,69,71,4,1,1,Middle Tennessee Blue Raiders,rebound,False,False,False,,False,,,
+401637554,Louisville Cardinals,Middle Tennessee Blue Raiders,End of Game,69,71,4,0,0,,end,False,False,False,,False,,,

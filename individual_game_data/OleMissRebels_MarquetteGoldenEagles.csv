@@ -1,0 +1,339 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jump Ball won by Ole Miss,0,0,1,600,2400,Ole Miss Rebels,jump ball,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton missed Layup.,0,0,1,582,2382,Ole Miss Rebels,layup,True,False,False,Tyia Singleton,False,,23.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton Offensive Rebound.,0,0,1,582,2382,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton made Layup.,2,0,1,577,2377,Ole Miss Rebels,layup,True,True,False,Tyia Singleton,False,,23.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King made Jumper. Assisted by Liza Karlen.,2,2,1,561,2361,Marquette Golden Eagles,jumper,True,True,False,Jordan King,True,Liza Karlen,24.0,5.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton made Layup. Assisted by Madison Scott.,4,2,1,539,2339,Ole Miss Rebels,layup,True,True,False,Tyia Singleton,True,Madison Scott,21.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Jumper.,4,2,1,527,2327,Marquette Golden Eagles,jumper,True,False,False,Liza Karlen,False,,32.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe Defensive Rebound.,4,2,1,527,2327,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton missed Jumper.,4,2,1,510,2310,Ole Miss Rebels,jumper,True,False,False,Tyia Singleton,False,,29.0,4.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Defensive Rebound.,4,2,1,510,2310,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King missed Three Point Jumper.,4,2,1,500,2300,Marquette Golden Eagles,three point jumper,True,False,True,Jordan King,False,,48.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Elauna Eaton Defensive Rebound.,4,2,1,500,2300,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott made Jumper. Assisted by Marquesha Davis.,6,2,1,491,2291,Ole Miss Rebels,jumper,True,True,False,Madison Scott,True,Marquesha Davis,31.0,4.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King Turnover.,6,2,1,468,2268,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe Steal.,6,2,1,468,2268,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe missed Jumper.,6,2,1,456,2256,Ole Miss Rebels,jumper,True,False,False,Rita Igbokwe,False,,30.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu Defensive Rebound.,6,2,1,456,2256,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Layup.,6,2,1,443,2243,Marquette Golden Eagles,layup,True,False,False,Liza Karlen,False,,22.0,3.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Offensive Rebound.,6,2,1,443,2243,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen made Layup.,6,4,1,437,2237,Marquette Golden Eagles,layup,True,True,False,Liza Karlen,False,,27.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams missed Jumper.,6,4,1,429,2229,Ole Miss Rebels,jumper,True,False,False,Kennedy Todd-Williams,False,,27.0,7.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Defensive Rebound.,6,4,1,429,2229,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare missed Jumper.,6,4,1,415,2215,Marquette Golden Eagles,jumper,True,False,False,Mackenzie Hare,False,,21.0,16.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton Defensive Rebound.,6,4,1,415,2215,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Frannie Hottinger.,6,4,1,410,2210,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson missed Jumper.,6,4,1,392,2192,Ole Miss Rebels,jumper,True,False,False,Kharyssa Richardson,False,,17.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Defensive Rebound.,6,4,1,392,2192,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Frannie Hottinger missed Layup.,6,4,1,381,2181,Marquette Golden Eagles,layup,True,False,False,Frannie Hottinger,False,,29.0,0.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Frannie Hottinger Offensive Rebound.,6,4,1,381,2181,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu made Three Point Jumper. Assisted by Jordan King.,6,7,1,371,2171,Marquette Golden Eagles,three point jumper,True,True,True,Rose Nkumu,True,Jordan King,38.0,19.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott made Jumper.,8,7,1,341,2141,Ole Miss Rebels,jumper,True,True,False,Madison Scott,False,,28.0,15.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen made Layup. Assisted by Jordan King.,8,9,1,319,2119,Marquette Golden Eagles,layup,True,True,False,Liza Karlen,True,Jordan King,27.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Marquesha Davis.,8,9,1,312,2112,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis Turnover.,8,9,1,312,2112,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen made Jumper. Assisted by Rose Nkumu.,8,11,1,296,2096,Marquette Golden Eagles,jumper,True,True,False,Liza Karlen,True,Rose Nkumu,19.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Zakiya Stephenson missed Layup.,8,11,1,283,2083,Ole Miss Rebels,layup,True,False,False,Zakiya Stephenson,False,,21.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe Offensive Rebound.,8,11,1,283,2083,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe Turnover.,8,11,1,282,2082,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King Steal.,8,11,1,282,2082,Marquette Golden Eagles,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles, Official TV Timeout,8,11,1,275,2075,,tv timeout,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Turnover.,8,11,1,271,2071,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott missed Jumper.,8,11,1,257,2057,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,26.0,5.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ole Miss Offensive Rebound.,8,11,1,257,2057,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Jordan King.,8,11,1,257,2057,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis missed Jumper.,8,11,1,244,2044,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,20.0,12.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe Offensive Rebound.,8,11,1,244,2044,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe missed Layup.,8,11,1,238,2038,Ole Miss Rebels,layup,True,False,False,Rita Igbokwe,False,,28.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Defensive Rebound.,8,11,1,238,2038,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu made Layup. Assisted by Liza Karlen.,8,13,1,226,2026,Marquette Golden Eagles,layup,True,True,False,Rose Nkumu,True,Liza Karlen,29.0,-1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott Turnover.,8,13,1,217,2017,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Steal.,8,13,1,217,2017,Marquette Golden Eagles,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King missed Jumper.,8,13,1,209,2009,Marquette Golden Eagles,jumper,True,False,False,Jordan King,False,,28.0,19.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Zakiya Stephenson Defensive Rebound.,8,13,1,209,2009,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson made Jumper. Assisted by Zakiya Stephenson.,10,13,1,194,1994,Ole Miss Rebels,jumper,True,True,False,Kharyssa Richardson,True,Zakiya Stephenson,19.0,4.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Madison Scott.,10,13,1,172,1972,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Three Point Jumper.,10,13,1,155,1955,Marquette Golden Eagles,three point jumper,True,False,True,Liza Karlen,False,,38.0,19.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Zakiya Stephenson Defensive Rebound.,10,13,1,155,1955,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams missed Jumper.,10,13,1,147,1947,Ole Miss Rebels,jumper,True,False,False,Kennedy Todd-Williams,False,,16.0,0.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu Defensive Rebound.,10,13,1,147,1947,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare made Three Point Jumper. Assisted by Rose Nkumu.,10,16,1,139,1939,Marquette Golden Eagles,three point jumper,True,True,True,Mackenzie Hare,True,Rose Nkumu,5.0,15.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott made Jumper.,12,16,1,126,1926,Ole Miss Rebels,jumper,True,True,False,Madison Scott,False,,17.0,5.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King missed Jumper.,12,16,1,103,1903,Marquette Golden Eagles,jumper,True,False,False,Jordan King,False,,25.0,8.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ole Miss Defensive Rebound.,12,16,1,103,1903,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams missed Three Point Jumper.,12,16,1,84,1884,Ole Miss Rebels,three point jumper,True,False,True,Kennedy Todd-Williams,False,,2.0,-1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes Defensive Rebound.,12,16,1,84,1884,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare Turnover.,12,16,1,75,1875,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis missed Jumper.,12,16,1,61,1861,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,27.0,13.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe Offensive Rebound.,12,16,1,61,1861,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe made Layup.,14,16,1,54,1854,Ole Miss Rebels,layup,True,True,False,Rita Igbokwe,False,,22.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Jumper.,14,16,1,27,1827,Marquette Golden Eagles,jumper,True,False,False,Liza Karlen,False,,31.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe Defensive Rebound.,14,16,1,27,1827,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis missed Jumper.,14,16,1,2,1802,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,20.0,14.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquette Deadball Team Rebound.,14,16,1,2,1802,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,End of 1st Quarter,14,16,1,0,1800,,end,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jump Ball won by Ole Miss,14,16,2,600,1800,Ole Miss Rebels,jump ball,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ayanna Thompson missed Layup.,14,16,2,577,1777,Ole Miss Rebels,layup,True,False,False,Ayanna Thompson,False,,25.0,4.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes Defensive Rebound.,14,16,2,577,1777,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes Turnover.,14,16,2,576,1776,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ayanna Thompson Steal.,14,16,2,576,1776,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ayanna Thompson missed Three Point Jumper.,14,16,2,561,1761,Ole Miss Rebels,three point jumper,True,False,True,Ayanna Thompson,False,,5.0,15.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King Defensive Rebound.,14,16,2,561,1761,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Jumper.,14,16,2,553,1753,Marquette Golden Eagles,jumper,True,False,False,Liza Karlen,False,,15.0,9.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Offensive Rebound.,14,16,2,553,1753,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen made Layup.,14,18,2,545,1745,Marquette Golden Eagles,layup,True,True,False,Liza Karlen,False,,23.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Jordan King.,14,18,2,543,1743,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis made Free Throw.,15,18,2,543,1743,Ole Miss Rebels,free throw,True,True,False,Marquesha Davis,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis made Free Throw.,16,18,2,543,1743,Ole Miss Rebels,free throw,True,True,False,Marquesha Davis,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare missed Three Point Jumper.,16,18,2,524,1724,Marquette Golden Eagles,three point jumper,True,False,True,Mackenzie Hare,False,,2.0,4.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott Defensive Rebound.,16,18,2,524,1724,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams made Three Point Jumper. Assisted by Ayanna Thompson.,19,18,2,512,1712,Ole Miss Rebels,three point jumper,True,True,True,Kennedy Todd-Williams,True,Ayanna Thompson,48.0,3.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Mackenzie Hare.,19,18,2,491,1691,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare Turnover.,19,18,2,491,1691,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott missed Jumper.,19,18,2,481,1681,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,20.0,16.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Lee Volker Defensive Rebound.,19,18,2,481,1681,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Jumper.,19,18,2,469,1669,Marquette Golden Eagles,jumper,True,False,False,Liza Karlen,False,,19.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott Defensive Rebound.,19,18,2,469,1669,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Lee Volker.,19,18,2,463,1663,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott made Jumper.,21,18,2,455,1655,Ole Miss Rebels,jumper,True,True,False,Madison Scott,False,,35.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes missed Layup.,21,18,2,429,1629,Marquette Golden Eagles,layup,True,False,False,Skylar Forbes,False,,30.0,0.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton Block.,21,18,2,429,1629,Ole Miss Rebels,block,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton Defensive Rebound.,21,18,2,429,1629,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams made Three Point Jumper.,24,18,2,417,1617,Ole Miss Rebels,three point jumper,True,True,True,Kennedy Todd-Williams,False,,8.0,16.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquette  Timeout,24,18,2,410,1610,Marquette Golden Eagles,timeout,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu made Layup.,24,20,2,388,1588,Marquette Golden Eagles,layup,True,True,False,Rose Nkumu,False,,22.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis made Jumper.,26,20,2,380,1580,Ole Miss Rebels,jumper,True,True,False,Marquesha Davis,False,,19.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen made Layup. Assisted by Jordan King.,26,22,2,371,1571,Marquette Golden Eagles,layup,True,True,False,Liza Karlen,True,Jordan King,22.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott Turnover.,26,22,2,354,1554,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Jordan King.,26,22,2,342,1542,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King Turnover.,26,22,2,342,1542,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott missed Jumper.,26,22,2,330,1530,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,27.0,16.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe Offensive Rebound.,26,22,2,330,1530,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Lee Volker.,26,22,2,326,1526,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe missed Free Throw.,26,22,2,326,1526,Ole Miss Rebels,free throw,True,False,False,Rita Igbokwe,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ole Miss Deadball Team Rebound.,26,22,2,326,1526,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe missed Free Throw.,26,22,2,326,1526,Ole Miss Rebels,free throw,True,False,False,Rita Igbokwe,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Defensive Rebound.,26,22,2,326,1526,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu made Layup. Assisted by Liza Karlen.,26,24,2,312,1512,Marquette Golden Eagles,layup,True,True,False,Rose Nkumu,True,Liza Karlen,28.0,0.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ayanna Thompson missed Layup.,26,24,2,293,1493,Ole Miss Rebels,layup,True,False,False,Ayanna Thompson,False,,23.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Block.,26,24,2,293,1493,Marquette Golden Eagles,block,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams Offensive Rebound.,26,24,2,292,1492,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams made Layup.,28,24,2,291,1491,Ole Miss Rebels,layup,True,True,False,Kennedy Todd-Williams,False,,28.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes missed Jumper.,28,24,2,264,1464,Marquette Golden Eagles,jumper,True,False,False,Skylar Forbes,False,,3.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Offensive Rebound.,28,24,2,264,1464,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Rita Igbokwe.,28,24,2,262,1462,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles, Official TV Timeout,28,24,2,261,1461,,tv timeout,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Frannie Hottinger made Layup.,28,26,2,250,1450,Marquette Golden Eagles,layup,True,True,False,Frannie Hottinger,False,,21.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Rita Igbokwe.,28,26,2,250,1450,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Frannie Hottinger made Free Throw.,28,27,2,250,1450,Marquette Golden Eagles,free throw,True,True,False,Frannie Hottinger,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton made Layup. Assisted by Madison Scott.,30,27,2,235,1435,Ole Miss Rebels,layup,True,True,False,Tyia Singleton,True,Madison Scott,28.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare missed Three Point Jumper.,30,27,2,209,1409,Marquette Golden Eagles,three point jumper,True,False,True,Mackenzie Hare,False,,5.0,15.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton Defensive Rebound.,30,27,2,209,1409,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott missed Jumper.,30,27,2,187,1387,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,30.0,13.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Claire Kaifes Defensive Rebound.,30,27,2,187,1387,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Madison Scott.,30,27,2,179,1379,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare made Free Throw.,30,28,2,179,1379,Marquette Golden Eagles,free throw,True,True,False,Mackenzie Hare,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare made Free Throw.,30,29,2,179,1379,Marquette Golden Eagles,free throw,True,True,False,Mackenzie Hare,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Zakiya Stephenson missed Layup.,30,29,2,167,1367,Ole Miss Rebels,layup,True,False,False,Zakiya Stephenson,False,,30.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Zakiya Stephenson Offensive Rebound.,30,29,2,167,1367,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams missed Jumper.,30,29,2,161,1361,Ole Miss Rebels,jumper,True,False,False,Kennedy Todd-Williams,False,,32.0,21.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis Offensive Rebound.,30,29,2,161,1361,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis Turnover.,30,29,2,152,1352,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu Steal.,30,29,2,152,1352,Marquette Golden Eagles,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Zakiya Stephenson.,30,29,2,152,1352,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu missed Free Throw.,30,29,2,152,1352,Marquette Golden Eagles,free throw,True,False,False,Rose Nkumu,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquette Deadball Team Rebound.,30,29,2,152,1352,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu missed Free Throw.,30,29,2,152,1352,Marquette Golden Eagles,free throw,True,False,False,Rose Nkumu,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Offensive Rebound.,30,29,2,152,1352,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Layup.,30,29,2,148,1348,Marquette Golden Eagles,layup,True,False,False,Liza Karlen,False,,29.0,3.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton Defensive Rebound.,30,29,2,148,1348,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis missed Jumper.,30,29,2,141,1341,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,10.0,3.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Frannie Hottinger Defensive Rebound.,30,29,2,141,1341,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Marquesha Davis.,30,29,2,134,1334,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu made Free Throw.,30,30,2,134,1334,Marquette Golden Eagles,free throw,True,True,False,Rose Nkumu,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu made Free Throw.,30,31,2,134,1334,Marquette Golden Eagles,free throw,True,True,False,Rose Nkumu,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton made Layup. Assisted by Kennedy Todd-Williams.,32,31,2,114,1314,Ole Miss Rebels,layup,True,True,False,Tyia Singleton,True,Kennedy Todd-Williams,28.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare missed Layup.,32,31,2,94,1294,Marquette Golden Eagles,layup,True,False,False,Mackenzie Hare,False,,30.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams Defensive Rebound.,32,31,2,94,1294,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Frannie Hottinger.,32,31,2,93,1293,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams made Free Throw.,33,31,2,93,1293,Ole Miss Rebels,free throw,True,True,False,Kennedy Todd-Williams,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams made Free Throw.,34,31,2,93,1293,Ole Miss Rebels,free throw,True,True,False,Kennedy Todd-Williams,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu missed Three Point Jumper.,34,31,2,77,1277,Marquette Golden Eagles,three point jumper,True,False,True,Rose Nkumu,False,,14.0,22.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ole Miss Defensive Rebound.,34,31,2,77,1277,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ayanna Thompson made Jumper. Assisted by Zakiya Stephenson.,36,31,2,60,1260,Ole Miss Rebels,jumper,True,True,False,Ayanna Thompson,True,Zakiya Stephenson,11.0,4.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Zakiya Stephenson.,36,31,2,45,1245,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu made Free Throw.,36,32,2,45,1245,Marquette Golden Eagles,free throw,True,True,False,Rose Nkumu,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu made Free Throw.,36,33,2,45,1245,Marquette Golden Eagles,free throw,True,True,False,Rose Nkumu,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ayanna Thompson Turnover.,36,33,2,21,1221,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu Steal.,36,33,2,21,1221,Marquette Golden Eagles,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Three Point Jumper.,36,33,2,2,1202,Marquette Golden Eagles,three point jumper,True,False,True,Liza Karlen,False,,5.0,13.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams Defensive Rebound.,36,33,2,2,1202,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,End of 2nd Quarter,36,33,2,0,1200,,end,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jump Ball won by Marquette,36,33,3,600,1200,Marquette Golden Eagles,jump ball,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Jumper.,36,33,3,585,1185,Marquette Golden Eagles,jumper,True,False,False,Liza Karlen,False,,12.0,8.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Offensive Rebound.,36,33,3,585,1185,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen made Jumper.,36,35,3,579,1179,Marquette Golden Eagles,jumper,True,True,False,Liza Karlen,False,,19.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott made Jumper.,38,35,3,562,1162,Ole Miss Rebels,jumper,True,True,False,Madison Scott,False,,13.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Frannie Hottinger made Layup.,38,37,3,550,1150,Marquette Golden Eagles,layup,True,True,False,Frannie Hottinger,False,,28.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton Turnover.,38,37,3,534,1134,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Frannie Hottinger.,38,37,3,516,1116,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Frannie Hottinger Turnover.,38,37,3,516,1116,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis missed Jumper.,38,37,3,501,1101,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,17.0,13.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Block.,38,37,3,501,1101,Marquette Golden Eagles,block,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ole Miss Offensive Rebound.,38,37,3,501,1101,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott missed Jumper.,38,37,3,487,1087,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,11.0,10.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu Defensive Rebound.,38,37,3,487,1087,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu missed Layup.,38,37,3,479,1079,Marquette Golden Eagles,layup,True,False,False,Rose Nkumu,False,,21.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott Defensive Rebound.,38,37,3,479,1079,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams missed Layup.,38,37,3,470,1070,Ole Miss Rebels,layup,True,False,False,Kennedy Todd-Williams,False,,22.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Defensive Rebound.,38,37,3,470,1070,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Claire Kaifes missed Three Point Jumper.,38,37,3,453,1053,Marquette Golden Eagles,three point jumper,True,False,True,Claire Kaifes,False,,10.0,19.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes Offensive Rebound.,38,37,3,453,1053,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Marquesha Davis.,38,37,3,442,1042,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen made Free Throw.,38,38,3,442,1042,Marquette Golden Eagles,free throw,True,True,False,Liza Karlen,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen made Free Throw.,38,39,3,442,1042,Marquette Golden Eagles,free throw,True,True,False,Liza Karlen,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Liza Karlen.,38,39,3,431,1031,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson made Free Throw.,39,39,3,431,1031,Ole Miss Rebels,free throw,True,True,False,Kharyssa Richardson,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson made Free Throw.,40,39,3,431,1031,Ole Miss Rebels,free throw,True,True,False,Kharyssa Richardson,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Ayanna Thompson.,40,39,3,411,1011,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu missed Layup.,40,39,3,398,998,Marquette Golden Eagles,layup,True,False,False,Rose Nkumu,False,,22.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes Offensive Rebound.,40,39,3,397,997,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes Turnover.,40,39,3,396,996,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ayanna Thompson Steal.,40,39,3,396,996,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson Turnover.,40,39,3,385,985,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Tyia Singleton.,40,39,3,372,972,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu made Layup. Assisted by Liza Karlen.,40,41,3,358,958,Marquette Golden Eagles,layup,True,True,False,Rose Nkumu,True,Liza Karlen,28.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson Turnover.,40,41,3,341,941,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes Turnover.,40,41,3,328,928,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ayanna Thompson Steal.,40,41,3,328,928,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Skylar Forbes.,40,41,3,323,923,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams made Free Throw.,41,41,3,323,923,Ole Miss Rebels,free throw,True,True,False,Kennedy Todd-Williams,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams missed Free Throw.,41,41,3,323,923,Ole Miss Rebels,free throw,True,False,False,Kennedy Todd-Williams,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe Offensive Rebound.,41,41,3,323,923,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott made Jumper.,43,41,3,314,914,Ole Miss Rebels,jumper,True,True,False,Madison Scott,False,,36.0,12.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King missed Jumper.,43,41,3,295,895,Marquette Golden Eagles,jumper,True,False,False,Jordan King,False,,31.0,16.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson Defensive Rebound.,43,41,3,295,895,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson Turnover.,43,41,3,288,888,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare Steal.,43,41,3,288,888,Marquette Golden Eagles,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu Turnover.,43,41,3,280,880,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson Steal.,43,41,3,279,879,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson made Jumper. Assisted by Madison Scott.,45,41,3,255,855,Ole Miss Rebels,jumper,True,True,False,Kharyssa Richardson,True,Madison Scott,31.0,18.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare missed Three Point Jumper.,45,41,3,244,844,Marquette Golden Eagles,three point jumper,True,False,True,Mackenzie Hare,False,,47.0,10.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson Defensive Rebound.,45,41,3,244,844,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott Turnover.,45,41,3,233,833,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu Steal.,45,41,3,233,833,Marquette Golden Eagles,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu missed Layup.,45,41,3,228,828,Marquette Golden Eagles,layup,True,False,False,Rose Nkumu,False,,28.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson Block.,45,41,3,228,828,Ole Miss Rebels,block,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquette Offensive Rebound.,45,41,3,227,827,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles, Official TV Timeout,45,41,3,226,826,,tv timeout,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes Turnover.,45,41,3,222,822,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams Steal.,45,41,3,222,822,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jump Ball won by Ole Miss,45,41,3,205,805,Ole Miss Rebels,jump ball,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott missed Jumper.,45,41,3,195,795,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,12.0,3.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Defensive Rebound.,45,41,3,195,795,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King missed Jumper.,45,41,3,172,772,Marquette Golden Eagles,jumper,True,False,False,Jordan King,False,,19.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams Defensive Rebound.,45,41,3,172,772,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jump Ball won by Marquette,45,41,3,159,759,Marquette Golden Eagles,jump ball,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe Turnover.,45,41,3,155,755,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King Steal.,45,41,3,155,755,Marquette Golden Eagles,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Claire Kaifes Turnover.,45,41,3,139,739,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ole Miss  Timeout,45,41,3,134,734,Ole Miss Rebels,timeout,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson missed Jumper.,45,41,3,108,708,Ole Miss Rebels,jumper,True,False,False,Kharyssa Richardson,False,,24.0,6.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe Offensive Rebound.,45,41,3,108,708,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jump Ball won by Ole Miss,45,41,3,107,707,Ole Miss Rebels,jump ball,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson made Jumper.,47,41,3,101,701,Ole Miss Rebels,jumper,True,True,False,Kharyssa Richardson,False,,29.0,9.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare made Layup.,47,43,3,82,682,Marquette Golden Eagles,layup,True,True,False,Mackenzie Hare,False,,21.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson missed Layup.,47,43,3,60,660,Ole Miss Rebels,layup,True,False,False,Kharyssa Richardson,False,,29.0,0.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Block.,47,43,3,60,660,Marquette Golden Eagles,block,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Defensive Rebound.,47,43,3,60,660,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu made Three Point Jumper. Assisted by Claire Kaifes.,47,46,3,47,647,Marquette Golden Eagles,three point jumper,True,True,True,Rose Nkumu,True,Claire Kaifes,49.0,0.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott made Jumper.,49,46,3,30,630,Ole Miss Rebels,jumper,True,True,False,Madison Scott,False,,26.0,17.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare missed Three Point Jumper.,49,46,3,4,604,Marquette Golden Eagles,three point jumper,True,False,True,Mackenzie Hare,False,,12.0,20.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes Offensive Rebound.,49,46,3,2,602,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,End of 3rd Quarter,49,46,3,0,600,,end,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jump Ball won by Marquette,49,46,4,600,600,Marquette Golden Eagles,jump ball,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King Turnover.,49,46,4,582,582,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott made Jumper.,51,46,4,571,571,Ole Miss Rebels,jumper,True,True,False,Madison Scott,False,,12.0,6.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Ayanna Thompson.,51,46,4,555,555,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes missed Free Throw.,51,46,4,555,555,Marquette Golden Eagles,free throw,True,False,False,Skylar Forbes,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquette Deadball Team Rebound.,51,46,4,555,555,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes made Free Throw.,51,47,4,555,555,Marquette Golden Eagles,free throw,True,True,False,Skylar Forbes,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jump Ball won by Ole Miss,51,47,4,543,543,Ole Miss Rebels,jump ball,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams missed Three Point Jumper.,51,47,4,525,525,Ole Miss Rebels,three point jumper,True,False,True,Kennedy Todd-Williams,False,,45.0,12.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe Offensive Rebound.,51,47,4,525,525,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton made Jumper. Assisted by Kennedy Todd-Williams.,53,47,4,512,512,Ole Miss Rebels,jumper,True,True,False,Tyia Singleton,True,Kennedy Todd-Williams,23.0,4.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquette  Timeout,53,47,4,504,504,Marquette Golden Eagles,timeout,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Rita Igbokwe.,53,47,4,496,496,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare missed Three Point Jumper.,53,47,4,491,491,Marquette Golden Eagles,three point jumper,True,False,True,Mackenzie Hare,False,,43.0,17.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rose Nkumu Offensive Rebound.,53,47,4,491,491,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare missed Jumper.,53,47,4,470,470,Marquette Golden Eagles,jumper,True,False,False,Mackenzie Hare,False,,31.0,14.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott Defensive Rebound.,53,47,4,470,470,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott made Layup.,55,47,4,441,441,Ole Miss Rebels,layup,True,True,False,Madison Scott,False,,21.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Three Point Jumper.,55,47,4,425,425,Marquette Golden Eagles,three point jumper,True,False,True,Liza Karlen,False,,42.0,19.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott Defensive Rebound.,55,47,4,425,425,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott missed Jumper.,55,47,4,401,401,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,14.0,7.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Defensive Rebound.,55,47,4,401,401,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare made Three Point Jumper. Assisted by Rose Nkumu.,55,50,4,392,392,Marquette Golden Eagles,three point jumper,True,True,True,Mackenzie Hare,True,Rose Nkumu,9.0,17.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ole Miss  Timeout,55,50,4,384,384,Ole Miss Rebels,timeout,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton Turnover.,55,50,4,362,362,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King Turnover.,55,50,4,352,352,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton Steal.,55,50,4,352,352,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton made Layup.,57,50,4,346,346,Ole Miss Rebels,layup,True,True,False,Tyia Singleton,False,,22.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King Turnover.,57,50,4,331,331,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams Steal.,57,50,4,331,331,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams missed Layup.,57,50,4,331,331,Ole Miss Rebels,layup,True,False,False,Kennedy Todd-Williams,False,,29.0,0.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen Block.,57,50,4,331,331,Marquette Golden Eagles,block,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ole Miss Offensive Rebound.,57,50,4,331,331,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams made Jumper. Assisted by Marquesha Davis.,59,50,4,320,320,Ole Miss Rebels,jumper,True,True,False,Kennedy Todd-Williams,True,Marquesha Davis,46.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquette  Timeout,59,50,4,314,314,Marquette Golden Eagles,timeout,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Jumper.,59,50,4,296,296,Marquette Golden Eagles,jumper,True,False,False,Liza Karlen,False,,23.0,5.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams Defensive Rebound.,59,50,4,296,296,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams missed Layup.,59,50,4,286,286,Ole Miss Rebels,layup,True,False,False,Kennedy Todd-Williams,False,,21.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott Offensive Rebound.,59,50,4,286,286,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Mackenzie Hare.,59,50,4,286,286,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis missed Jumper.,59,50,4,284,284,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,37.0,-2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ole Miss Offensive Rebound.,59,50,4,284,284,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis missed Jumper.,59,50,4,261,261,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,16.0,17.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton Offensive Rebound.,59,50,4,261,261,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Tyia Singleton Turnover.,59,50,4,260,260,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King missed Three Point Jumper.,59,50,4,238,238,Marquette Golden Eagles,three point jumper,True,False,True,Jordan King,False,,9.0,17.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ole Miss Defensive Rebound.,59,50,4,238,238,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson missed Layup.,59,50,4,215,215,Ole Miss Rebels,layup,True,False,False,Kharyssa Richardson,False,,21.0,2.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare Defensive Rebound.,59,50,4,215,215,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare missed Three Point Jumper.,59,50,4,206,206,Marquette Golden Eagles,three point jumper,True,False,True,Mackenzie Hare,False,,32.0,26.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquesha Davis Defensive Rebound.,59,50,4,206,206,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams made Jumper. Assisted by Madison Scott.,61,50,4,184,184,Ole Miss Rebels,jumper,True,True,False,Kennedy Todd-Williams,True,Madison Scott,4.0,3.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen made Layup. Assisted by Rose Nkumu.,61,52,4,173,173,Marquette Golden Eagles,layup,True,True,False,Liza Karlen,True,Rose Nkumu,21.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Madison Scott made Jumper.,63,52,4,157,157,Ole Miss Rebels,jumper,True,True,False,Madison Scott,False,,13.0,4.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jump Ball won by Marquette,63,52,4,139,139,Marquette Golden Eagles,jump ball,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Kennedy Todd-Williams.,63,52,4,134,134,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Layup.,63,52,4,128,128,Marquette Golden Eagles,layup,True,False,False,Liza Karlen,False,,21.0,1.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Marquette Offensive Rebound.,63,52,4,128,128,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Three Point Jumper.,63,52,4,123,123,Marquette Golden Eagles,three point jumper,True,False,True,Liza Karlen,False,,9.0,17.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams Defensive Rebound.,63,52,4,123,123,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Rose Nkumu.,63,52,4,113,113,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Jordan King.,63,52,4,109,109,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Rose Nkumu.,63,52,4,105,105,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Frannie Hottinger.,63,52,4,103,103,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe made Free Throw.,64,52,4,103,103,Ole Miss Rebels,free throw,True,True,False,Rita Igbokwe,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Rita Igbokwe made Free Throw.,65,52,4,103,103,Ole Miss Rebels,free throw,True,True,False,Rita Igbokwe,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare Turnover.,65,52,4,94,94,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ayanna Thompson Turnover.,65,52,4,90,90,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Jumper.,65,52,4,70,70,Marquette Golden Eagles,jumper,True,False,False,Liza Karlen,False,,20.0,3.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams Defensive Rebound.,65,52,4,70,70,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Liza Karlen.,65,52,4,69,69,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams missed Free Throw.,65,52,4,69,69,Ole Miss Rebels,free throw,True,False,False,Kennedy Todd-Williams,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Ole Miss Deadball Team Rebound.,65,52,4,69,69,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kennedy Todd-Williams missed Free Throw.,65,52,4,69,69,Ole Miss Rebels,free throw,True,False,False,Kennedy Todd-Williams,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Jordan King Defensive Rebound.,65,52,4,69,69,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Mackenzie Hare.,65,52,4,62,62,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Mackenzie Hare Turnover.,65,52,4,62,62,Marquette Golden Eagles,turnover,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Liza Karlen.,65,52,4,35,35,Marquette Golden Eagles,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson made Free Throw.,66,52,4,35,35,Ole Miss Rebels,free throw,True,True,False,Kharyssa Richardson,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Kharyssa Richardson made Free Throw.,67,52,4,35,35,Ole Miss Rebels,free throw,True,True,False,Kharyssa Richardson,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen missed Three Point Jumper.,67,52,4,26,26,Marquette Golden Eagles,three point jumper,True,False,True,Liza Karlen,False,,21.0,25.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Skylar Forbes Offensive Rebound.,67,52,4,26,26,Marquette Golden Eagles,rebound,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Foul on Ayanna Thompson.,67,52,4,24,24,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637563,Ole Miss Rebels,Marquette Golden Eagles,Liza Karlen made Three Point Jumper. Assisted by Rose Nkumu.,67,55,4,21,21,Marquette Golden Eagles,three point jumper,True,True,True,Liza Karlen,True,Rose Nkumu,41.0,19.0
+401637563,Ole Miss Rebels,Marquette Golden Eagles,End of Game,67,55,4,0,0,,end,False,False,False,,False,,,

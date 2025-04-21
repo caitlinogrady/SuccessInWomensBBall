@@ -1,0 +1,331 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Jump Ball won by Gonzaga,0,0,1,600,2400,Gonzaga Bulldogs,jump ball,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell missed Jumper.,0,0,1,576,2376,Gonzaga Bulldogs,jumper,True,False,False,Brynna Maxwell,False,,29.0,19.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Defensive Rebound.,0,0,1,576,2376,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate made Jumper.,0,2,1,569,2369,UC Irvine Anteaters,jumper,True,True,False,Diaba Konate,False,,20.0,16.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell missed Three Point Jumper.,0,2,1,552,2352,Gonzaga Bulldogs,three point jumper,True,False,True,Brynna Maxwell,False,,42.0,19.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Defensive Rebound.,0,2,1,552,2352,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Kayleigh Truong.,0,2,1,532,2332,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate Turnover.,0,2,1,529,2329,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong Steal.,0,2,1,529,2329,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Kayleigh Truong.,0,2,1,504,2304,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong Turnover.,0,2,1,504,2304,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba missed Jumper.,0,2,1,483,2283,UC Irvine Anteaters,jumper,True,False,False,Moulayna Johnson Sidi Baba,False,,12.0,10.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell Defensive Rebound.,0,2,1,483,2283,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell Turnover.,0,2,1,476,2276,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee Steal.,0,2,1,476,2276,UC Irvine Anteaters,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Kaylynne Truong.,0,2,1,473,2273,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba missed Jumper.,0,2,1,467,2267,UC Irvine Anteaters,jumper,True,False,False,Moulayna Johnson Sidi Baba,False,,23.0,17.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Defensive Rebound.,0,2,1,467,2267,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Diaba Konate.,0,2,1,467,2267,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim made Layup. Assisted by Eliza Hollingsworth.,2,2,1,453,2253,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,True,Eliza Hollingsworth,23.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nikki Tom made Three Point Jumper.,2,5,1,439,2239,UC Irvine Anteaters,three point jumper,True,True,True,Nikki Tom,False,,30.0,26.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong missed Three Point Jumper.,2,5,1,417,2217,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,49.0,0.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate Defensive Rebound.,2,5,1,417,2217,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate Turnover.,2,5,1,413,2213,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell Steal.,2,5,1,413,2213,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong missed Three Point Jumper.,2,5,1,393,2193,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,11.0,21.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Offensive Rebound.,2,5,1,393,2193,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim missed Layup.,2,5,1,386,2186,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,29.0,3.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nikki Tom Defensive Rebound.,2,5,1,386,2186,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Jump Ball won by UC Irvine,2,5,1,386,2186,UC Irvine Anteaters,jump ball,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee missed Three Point Jumper.,2,5,1,371,2171,UC Irvine Anteaters,three point jumper,True,False,True,Deja Lee,False,,24.0,26.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Defensive Rebound.,2,5,1,371,2171,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Deja Lee.,2,5,1,363,2163,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell made Jumper.,4,5,1,352,2152,Gonzaga Bulldogs,jumper,True,True,False,Brynna Maxwell,False,,26.0,11.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson made Layup. Assisted by Diaba Konate.,4,7,1,328,2128,UC Irvine Anteaters,layup,True,True,False,Nevaeh Parkinson,True,Diaba Konate,26.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong missed Three Point Jumper.,4,7,1,300,2100,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,49.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,UC Irvine Defensive Rebound.,4,7,1,300,2100,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters, Official TV Timeout,4,7,1,300,2100,,tv timeout,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson made Layup. Assisted by Diaba Konate.,4,9,1,279,2079,UC Irvine Anteaters,layup,True,True,False,Nevaeh Parkinson,True,Diaba Konate,22.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth Turnover.,4,9,1,257,2057,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate Steal.,4,9,1,257,2057,UC Irvine Anteaters,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Shirel Nahum missed Three Point Jumper.,4,9,1,250,2050,UC Irvine Anteaters,three point jumper,True,False,True,Shirel Nahum,False,,40.0,20.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong Defensive Rebound.,4,9,1,250,2050,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell missed Three Point Jumper.,4,9,1,242,2042,Gonzaga Bulldogs,three point jumper,True,False,True,Brynna Maxwell,False,,5.0,13.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Defensive Rebound.,4,9,1,242,2042,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate made Three Point Jumper. Assisted by Moulayna Johnson Sidi Baba.,4,12,1,216,2016,UC Irvine Anteaters,three point jumper,True,True,True,Diaba Konate,True,Moulayna Johnson Sidi Baba,12.0,22.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Maud Huijbens made Jumper. Assisted by Esther Little.,6,12,1,186,1986,Gonzaga Bulldogs,jumper,True,True,False,Maud Huijbens,True,Esther Little,21.0,19.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Shirel Nahum Turnover.,6,12,1,167,1967,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell Steal.,6,12,1,167,1967,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Jump Ball won by Gonzaga,6,12,1,167,1967,Gonzaga Bulldogs,jump ball,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim missed Layup.,6,12,1,157,1957,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,27.0,3.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Defensive Rebound.,6,12,1,157,1957,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee made Layup.,6,14,1,148,1948,UC Irvine Anteaters,layup,True,True,False,Deja Lee,False,,22.0,0.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Esther Little.,6,14,1,148,1948,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee made Free Throw.,6,15,1,148,1948,UC Irvine Anteaters,free throw,True,True,False,Deja Lee,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Shirel Nahum.,6,15,1,146,1946,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth Turnover.,6,15,1,130,1930,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Steal.,6,15,1,130,1930,UC Irvine Anteaters,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba made Layup.,6,17,1,115,1915,UC Irvine Anteaters,layup,True,True,False,Moulayna Johnson Sidi Baba,False,,21.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong missed Three Point Jumper.,6,17,1,86,1886,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,17.0,23.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Gonzaga Offensive Rebound.,6,17,1,86,1886,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Nevaeh Dean.,6,17,1,84,1884,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell missed Three Point Jumper.,6,17,1,78,1878,Gonzaga Bulldogs,three point jumper,True,False,True,Brynna Maxwell,False,,28.0,25.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Claire O'Connor Offensive Rebound.,6,17,1,78,1878,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Claire O'Connor made Layup.,8,17,1,73,1873,Gonzaga Bulldogs,layup,True,True,False,Claire O'Connor,False,,27.0,0.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Shirel Nahum missed Layup.,8,17,1,59,1859,UC Irvine Anteaters,layup,True,False,False,Shirel Nahum,False,,28.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth Block.,8,17,1,59,1859,Gonzaga Bulldogs,block,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,UC Irvine Offensive Rebound.,8,17,1,59,1859,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee Turnover.,8,17,1,57,1857,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell Steal.,8,17,1,57,1857,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim made Layup. Assisted by Kayleigh Truong.,10,17,1,42,1842,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,True,Kayleigh Truong,22.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Amelia Scharpf missed Three Point Jumper.,10,17,1,15,1815,UC Irvine Anteaters,three point jumper,True,False,True,Amelia Scharpf,False,,48.0,-1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,UC Irvine Offensive Rebound.,10,17,1,15,1815,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,UC Irvine  Turnover.,10,17,1,5,1805,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim missed Three Point Jumper.,10,17,1,1,1801,Gonzaga Bulldogs,three point jumper,True,False,True,Yvonne Ejim,False,,8.0,28.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Gonzaga Deadball Team Rebound.,10,17,1,1,1801,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,End of 1st Quarter,10,17,1,0,1800,,end,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Jump Ball won by UC Irvine,10,17,2,600,1800,UC Irvine Anteaters,jump ball,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson missed Layup.,10,17,2,579,1779,UC Irvine Anteaters,layup,True,False,False,Nevaeh Parkinson,False,,21.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Defensive Rebound.,10,17,2,579,1779,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim missed Layup.,10,17,2,569,1769,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,28.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson Defensive Rebound.,10,17,2,569,1769,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba missed Jumper.,10,17,2,550,1750,UC Irvine Anteaters,jumper,True,False,False,Moulayna Johnson Sidi Baba,False,,19.0,15.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Esther Little Defensive Rebound.,10,17,2,550,1750,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim made Jumper. Assisted by Kayleigh Truong.,12,17,2,529,1729,Gonzaga Bulldogs,jumper,True,True,False,Yvonne Ejim,True,Kayleigh Truong,41.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nikki Tom Turnover.,12,17,2,505,1705,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth Steal.,12,17,2,505,1705,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Moulayna Johnson Sidi Baba.,12,17,2,499,1699,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong made Free Throw.,13,17,2,499,1699,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong made Free Throw.,14,17,2,499,1699,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nikki Tom missed Three Point Jumper.,14,17,2,487,1687,UC Irvine Anteaters,three point jumper,True,False,True,Nikki Tom,False,,3.0,12.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong Defensive Rebound.,14,17,2,487,1687,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell missed Three Point Jumper.,14,17,2,475,1675,Gonzaga Bulldogs,three point jumper,True,False,True,Brynna Maxwell,False,,46.0,15.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong Offensive Rebound.,14,17,2,475,1675,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong made Jumper.,16,17,2,469,1669,Gonzaga Bulldogs,jumper,True,True,False,Kayleigh Truong,False,,16.0,13.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee missed Three Point Jumper.,16,17,2,455,1655,UC Irvine Anteaters,three point jumper,True,False,True,Deja Lee,False,,8.0,21.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Offensive Rebound.,16,17,2,455,1655,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Turnover.,16,17,2,452,1652,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong Steal.,16,17,2,452,1652,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim missed Layup.,16,17,2,445,1645,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,28.0,3.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Dean Defensive Rebound.,16,17,2,445,1645,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba made Layup.,16,19,2,425,1625,UC Irvine Anteaters,layup,True,True,False,Moulayna Johnson Sidi Baba,False,,28.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell missed Three Point Jumper.,16,19,2,406,1606,Gonzaga Bulldogs,three point jumper,True,False,True,Brynna Maxwell,False,,10.0,19.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Offensive Rebound.,16,19,2,406,1606,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim made Layup.,18,19,2,402,1602,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,False,,28.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Dean Turnover.,18,19,2,388,1588,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth Steal.,18,19,2,388,1588,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim missed Layup.,18,19,2,371,1571,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,28.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth Offensive Rebound.,18,19,2,371,1571,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth made Layup.,20,19,2,368,1568,Gonzaga Bulldogs,layup,True,True,False,Eliza Hollingsworth,False,,23.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Turnover.,20,19,2,356,1556,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong Steal.,20,19,2,356,1556,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell missed Layup.,20,19,2,347,1547,Gonzaga Bulldogs,layup,True,False,False,Brynna Maxwell,False,,26.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Defensive Rebound.,20,19,2,347,1547,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Yvonne Ejim.,20,19,2,347,1547,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba missed Jumper.,20,19,2,334,1534,UC Irvine Anteaters,jumper,True,False,False,Moulayna Johnson Sidi Baba,False,,29.0,16.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson Offensive Rebound.,20,19,2,334,1534,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson made Layup.,20,21,2,330,1530,UC Irvine Anteaters,layup,True,True,False,Nevaeh Parkinson,False,,27.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Shirel Nahum.,20,21,2,316,1516,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth made Three Point Jumper. Assisted by Kayleigh Truong.,23,21,2,311,1511,Gonzaga Bulldogs,three point jumper,True,True,True,Eliza Hollingsworth,True,Kayleigh Truong,1.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Amelia Scharpf missed Three Point Jumper.,23,21,2,283,1483,UC Irvine Anteaters,three point jumper,True,False,True,Amelia Scharpf,False,,25.0,25.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson Offensive Rebound.,23,21,2,283,1483,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Eliza Hollingsworth.,23,21,2,283,1483,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters, Official TV Timeout,23,21,2,283,1483,,tv timeout,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee made Jumper.,23,23,2,277,1477,UC Irvine Anteaters,jumper,True,True,False,Deja Lee,False,,24.0,19.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Claire O'Connor Turnover.,23,23,2,250,1450,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson Steal.,23,23,2,250,1450,UC Irvine Anteaters,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee missed Jumper.,23,23,2,222,1422,UC Irvine Anteaters,jumper,True,False,False,Deja Lee,False,,21.0,11.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson Offensive Rebound.,23,23,2,222,1422,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson missed Layup.,23,23,2,215,1415,UC Irvine Anteaters,layup,True,False,False,Nevaeh Parkinson,False,,26.0,3.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Maud Huijbens Block.,23,23,2,215,1415,Gonzaga Bulldogs,block,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Maud Huijbens Defensive Rebound.,23,23,2,215,1415,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong missed Three Point Jumper.,23,23,2,205,1405,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,9.0,18.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong Offensive Rebound.,23,23,2,205,1405,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong missed Jumper.,23,23,2,200,1400,Gonzaga Bulldogs,jumper,True,False,False,Kaylynne Truong,False,,19.0,10.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson Defensive Rebound.,23,23,2,200,1400,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson made Layup. Assisted by Nevaeh Dean.,23,25,2,190,1390,UC Irvine Anteaters,layup,True,True,False,Nevaeh Parkinson,True,Nevaeh Dean,23.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong made Three Point Jumper. Assisted by Yvonne Ejim.,26,25,2,170,1370,Gonzaga Bulldogs,three point jumper,True,True,True,Kaylynne Truong,True,Yvonne Ejim,11.0,21.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Dean Turnover.,26,25,2,143,1343,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong Steal.,26,25,2,143,1343,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong Turnover.,26,25,2,143,1343,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate missed Jumper.,26,25,2,126,1326,UC Irvine Anteaters,jumper,True,False,False,Diaba Konate,False,,25.0,14.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Defensive Rebound.,26,25,2,126,1326,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong missed Three Point Jumper.,26,25,2,96,1296,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,8.0,23.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell Offensive Rebound.,26,25,2,96,1296,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Jump Ball won by Gonzaga,26,25,2,96,1296,Gonzaga Bulldogs,jump ball,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim missed Layup.,26,25,2,89,1289,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,27.0,3.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Defensive Rebound.,26,25,2,89,1289,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee missed Three Point Jumper.,26,25,2,81,1281,UC Irvine Anteaters,three point jumper,True,False,True,Deja Lee,False,,11.0,24.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Defensive Rebound.,26,25,2,81,1281,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim made Layup. Assisted by Kaylynne Truong.,28,25,2,75,1275,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,True,Kaylynne Truong,26.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Shirel Nahum missed Three Point Jumper.,28,25,2,49,1249,UC Irvine Anteaters,three point jumper,True,False,True,Shirel Nahum,False,,6.0,22.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Offensive Rebound.,28,25,2,49,1249,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba missed Layup.,28,25,2,46,1246,UC Irvine Anteaters,layup,True,False,False,Moulayna Johnson Sidi Baba,False,,21.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Block.,28,25,2,46,1246,Gonzaga Bulldogs,block,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong Defensive Rebound.,28,25,2,46,1246,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Nevaeh Parkinson.,28,25,2,46,1246,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim made Layup. Assisted by Kaylynne Truong.,30,25,2,29,1229,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,True,Kaylynne Truong,27.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate missed Three Point Jumper.,30,25,2,2,1202,UC Irvine Anteaters,three point jumper,True,False,True,Diaba Konate,False,,16.0,27.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Gonzaga Defensive Rebound.,30,25,2,2,1202,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,End of 2nd Quarter,30,25,2,0,1200,,end,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Jump Ball won by UC Irvine,30,25,3,600,1200,UC Irvine Anteaters,jump ball,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba missed Layup.,30,25,3,585,1185,UC Irvine Anteaters,layup,True,False,False,Moulayna Johnson Sidi Baba,False,,22.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Defensive Rebound.,30,25,3,585,1185,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong missed Three Point Jumper.,30,25,3,577,1177,Gonzaga Bulldogs,three point jumper,True,False,True,Kayleigh Truong,False,,48.0,6.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,UC Irvine Defensive Rebound.,30,25,3,577,1177,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate missed Layup.,30,25,3,553,1153,UC Irvine Anteaters,layup,True,False,False,Diaba Konate,False,,20.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nikki Tom Offensive Rebound.,30,25,3,553,1153,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nikki Tom missed Three Point Jumper.,30,25,3,545,1145,UC Irvine Anteaters,three point jumper,True,False,True,Nikki Tom,False,,45.0,17.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Gonzaga Defensive Rebound.,30,25,3,545,1145,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell missed Jumper.,30,25,3,523,1123,Gonzaga Bulldogs,jumper,True,False,False,Brynna Maxwell,False,,14.0,15.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Offensive Rebound.,30,25,3,523,1123,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Nevaeh Dean.,30,25,3,521,1121,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim made Layup. Assisted by Kaylynne Truong.,32,25,3,519,1119,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,True,Kaylynne Truong,24.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee missed Jumper.,32,25,3,496,1096,UC Irvine Anteaters,jumper,True,False,False,Deja Lee,False,,25.0,20.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Defensive Rebound.,32,25,3,496,1096,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong made Jumper.,34,25,3,487,1087,Gonzaga Bulldogs,jumper,True,True,False,Kaylynne Truong,False,,30.0,12.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate missed Jumper.,34,25,3,464,1064,UC Irvine Anteaters,jumper,True,False,False,Diaba Konate,False,,13.0,3.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Defensive Rebound.,34,25,3,464,1064,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell made Three Point Jumper. Assisted by Kaylynne Truong.,37,25,3,451,1051,Gonzaga Bulldogs,three point jumper,True,True,True,Brynna Maxwell,True,Kaylynne Truong,18.0,24.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,UC Irvine  Timeout,37,25,3,450,1050,UC Irvine Anteaters,timeout,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee missed Three Point Jumper.,37,25,3,434,1034,UC Irvine Anteaters,three point jumper,True,False,True,Deja Lee,False,,49.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong Defensive Rebound.,37,25,3,434,1034,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth missed Three Point Jumper.,37,25,3,426,1026,Gonzaga Bulldogs,three point jumper,True,False,True,Eliza Hollingsworth,False,,16.0,24.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee Defensive Rebound.,37,25,3,426,1026,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba missed Jumper.,37,25,3,413,1013,UC Irvine Anteaters,jumper,True,False,False,Moulayna Johnson Sidi Baba,False,,14.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Defensive Rebound.,37,25,3,413,1013,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Turnover.,37,25,3,397,997,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nikki Tom Steal.,37,25,3,397,997,UC Irvine Anteaters,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba missed Jumper.,37,25,3,372,972,UC Irvine Anteaters,jumper,True,False,False,Moulayna Johnson Sidi Baba,False,,18.0,6.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson Offensive Rebound.,37,25,3,372,972,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson made Layup.,37,27,3,369,969,UC Irvine Anteaters,layup,True,True,False,Nevaeh Parkinson,False,,28.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Nevaeh Parkinson.,37,27,3,352,952,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell made Three Point Jumper. Assisted by Kayleigh Truong.,40,27,3,347,947,Gonzaga Bulldogs,three point jumper,True,True,True,Brynna Maxwell,True,Kayleigh Truong,1.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee missed Three Point Jumper.,40,27,3,335,935,UC Irvine Anteaters,three point jumper,True,False,True,Deja Lee,False,,34.0,26.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Offensive Rebound.,40,27,3,335,935,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Maud Huijbens.,40,27,3,333,933,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba missed Free Throw.,40,27,3,333,933,UC Irvine Anteaters,free throw,True,False,False,Moulayna Johnson Sidi Baba,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,UC Irvine Deadball Team Rebound.,40,27,3,333,933,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba missed Free Throw.,40,27,3,333,933,UC Irvine Anteaters,free throw,True,False,False,Moulayna Johnson Sidi Baba,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth Defensive Rebound.,40,27,3,333,933,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell made Jumper. Assisted by Kayleigh Truong.,42,27,3,319,919,Gonzaga Bulldogs,jumper,True,True,False,Brynna Maxwell,True,Kayleigh Truong,12.0,18.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba missed Jumper.,42,27,3,310,910,UC Irvine Anteaters,jumper,True,False,False,Moulayna Johnson Sidi Baba,False,,41.0,14.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong Defensive Rebound.,42,27,3,310,910,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth made Layup. Assisted by Maud Huijbens.,44,27,3,284,884,Gonzaga Bulldogs,layup,True,True,False,Eliza Hollingsworth,True,Maud Huijbens,27.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Eliza Hollingsworth.,44,27,3,270,870,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters, Official TV Timeout,44,27,3,270,870,,tv timeout,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba made Free Throw.,44,28,3,270,870,UC Irvine Anteaters,free throw,True,True,False,Moulayna Johnson Sidi Baba,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba made Free Throw.,44,29,3,270,870,UC Irvine Anteaters,free throw,True,True,False,Moulayna Johnson Sidi Baba,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong made Three Point Jumper. Assisted by Yvonne Ejim.,47,29,3,254,854,Gonzaga Bulldogs,three point jumper,True,True,True,Kayleigh Truong,True,Yvonne Ejim,35.0,23.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate Turnover.,47,29,3,245,845,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Shirel Nahum.,47,29,3,236,836,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong made Three Point Jumper. Assisted by Yvonne Ejim.,50,29,3,226,826,Gonzaga Bulldogs,three point jumper,True,True,True,Kayleigh Truong,True,Yvonne Ejim,15.0,23.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee made Layup.,50,31,3,203,803,UC Irvine Anteaters,layup,True,True,False,Deja Lee,False,,22.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim made Layup.,52,31,3,177,777,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,False,,24.0,0.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,UC Irvine  Turnover.,52,31,3,142,742,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Jump Ball won by Gonzaga,52,31,3,118,718,Gonzaga Bulldogs,jump ball,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Maud Huijbens missed Layup.,52,31,3,115,715,Gonzaga Bulldogs,layup,True,False,False,Maud Huijbens,False,,27.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson Defensive Rebound.,52,31,3,115,715,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Maud Huijbens.,52,31,3,115,715,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate missed Three Point Jumper.,52,31,3,100,700,UC Irvine Anteaters,three point jumper,True,False,True,Diaba Konate,False,,32.0,24.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Claire O'Connor Defensive Rebound.,52,31,3,100,700,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Nikki Tom.,52,31,3,83,683,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong Turnover.,52,31,3,68,668,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee missed Three Point Jumper.,52,31,3,56,656,UC Irvine Anteaters,three point jumper,True,False,True,Deja Lee,False,,48.0,-1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson Offensive Rebound.,52,31,3,56,656,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Yvonne Ejim.,52,31,3,55,655,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson made Free Throw.,52,32,3,55,655,UC Irvine Anteaters,free throw,True,True,False,Nevaeh Parkinson,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson made Free Throw.,52,33,3,55,655,UC Irvine Anteaters,free throw,True,True,False,Nevaeh Parkinson,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim made Jumper.,54,33,3,34,634,Gonzaga Bulldogs,jumper,True,True,False,Yvonne Ejim,False,,24.0,11.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Nevaeh Parkinson.,54,33,3,34,634,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim made Free Throw.,55,33,3,34,634,Gonzaga Bulldogs,free throw,True,True,False,Yvonne Ejim,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee made Three Point Jumper. Assisted by Nikki Tom.,55,36,3,10,610,UC Irvine Anteaters,three point jumper,True,True,True,Deja Lee,True,Nikki Tom,2.0,0.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong missed Three Point Jumper.,55,36,3,1,601,Gonzaga Bulldogs,three point jumper,True,False,True,Kaylynne Truong,False,,8.0,20.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Gonzaga Deadball Team Rebound.,55,36,3,1,601,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,End of 3rd Quarter,55,36,3,0,600,,end,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Jump Ball won by UC Irvine,55,36,4,600,600,UC Irvine Anteaters,jump ball,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee Turnover.,55,36,4,592,592,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong Steal.,55,36,4,592,592,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Deja Lee.,55,36,4,588,588,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong made Jumper.,57,36,4,574,574,Gonzaga Bulldogs,jumper,True,True,False,Kayleigh Truong,False,,33.0,7.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nikki Tom missed Three Point Jumper.,57,36,4,556,556,UC Irvine Anteaters,three point jumper,True,False,True,Nikki Tom,False,,37.0,23.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong Defensive Rebound.,57,36,4,556,556,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Nevaeh Dean.,57,36,4,547,547,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Nikki Tom.,57,36,4,529,529,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell made Free Throw.,58,36,4,529,529,Gonzaga Bulldogs,free throw,True,True,False,Brynna Maxwell,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell missed Free Throw.,58,36,4,529,529,Gonzaga Bulldogs,free throw,True,False,False,Brynna Maxwell,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Defensive Rebound.,58,36,4,529,529,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Brynna Maxwell.,58,36,4,529,529,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Jump Ball won by Gonzaga,58,36,4,505,505,Gonzaga Bulldogs,jump ball,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson Turnover.,58,36,4,505,505,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Maud Huijbens Steal.,58,36,4,505,505,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Turnover.,58,36,4,501,501,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee Steal.,58,36,4,501,501,UC Irvine Anteaters,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee missed Jumper.,58,36,4,496,496,UC Irvine Anteaters,jumper,True,False,False,Deja Lee,False,,38.0,6.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Defensive Rebound.,58,36,4,496,496,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Nikki Tom.,58,36,4,479,479,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Maud Huijbens Turnover.,58,36,4,460,460,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee Steal.,58,36,4,460,460,UC Irvine Anteaters,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Kayleigh Truong.,58,36,4,454,454,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee made Three Point Jumper. Assisted by Amelia Scharpf.,58,39,4,440,440,UC Irvine Anteaters,three point jumper,True,True,True,Deja Lee,True,Amelia Scharpf,13.0,22.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim made Jumper.,60,39,4,422,422,Gonzaga Bulldogs,jumper,True,True,False,Yvonne Ejim,False,,26.0,13.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Deja Lee Turnover.,60,39,4,406,406,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kaylynne Truong made Three Point Jumper. Assisted by Yvonne Ejim.,63,39,4,394,394,Gonzaga Bulldogs,three point jumper,True,True,True,Kaylynne Truong,True,Yvonne Ejim,38.0,21.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Amelia Scharpf Turnover.,63,39,4,381,381,UC Irvine Anteaters,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Brynna Maxwell Steal.,63,39,4,381,381,Gonzaga Bulldogs,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim made Layup. Assisted by Kaylynne Truong.,65,39,4,375,375,Gonzaga Bulldogs,layup,True,True,False,Yvonne Ejim,True,Kaylynne Truong,24.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,UC Irvine  Timeout,65,39,4,373,373,UC Irvine Anteaters,timeout,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate missed Jumper.,65,39,4,361,361,UC Irvine Anteaters,jumper,True,False,False,Diaba Konate,False,,18.0,13.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Dean Offensive Rebound.,65,39,4,361,361,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Yvonne Ejim.,65,39,4,357,357,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Dean made Free Throw.,65,40,4,357,357,UC Irvine Anteaters,free throw,True,True,False,Nevaeh Dean,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Dean made Free Throw.,65,41,4,357,357,UC Irvine Anteaters,free throw,True,True,False,Nevaeh Dean,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim missed Layup.,65,41,4,332,332,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,27.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Dean Defensive Rebound.,65,41,4,332,332,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Dean missed Three Point Jumper.,65,41,4,323,323,UC Irvine Anteaters,three point jumper,True,False,True,Nevaeh Dean,False,,9.0,20.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Offensive Rebound.,65,41,4,323,323,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Dean missed Jumper.,65,41,4,306,306,UC Irvine Anteaters,jumper,True,False,False,Nevaeh Dean,False,,34.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Esther Little Defensive Rebound.,65,41,4,306,306,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim missed Layup.,65,41,4,281,281,Gonzaga Bulldogs,layup,True,False,False,Yvonne Ejim,False,,28.0,0.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth Offensive Rebound.,65,41,4,281,281,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth made Layup.,67,41,4,277,277,Gonzaga Bulldogs,layup,True,True,False,Eliza Hollingsworth,False,,24.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nikki Tom missed Jumper.,67,41,4,260,260,UC Irvine Anteaters,jumper,True,False,False,Nikki Tom,False,,14.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth Defensive Rebound.,67,41,4,260,260,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Eliza Hollingsworth.,67,41,4,244,244,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Eliza Hollingsworth Turnover.,67,41,4,244,244,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson made Layup. Assisted by Moulayna Johnson Sidi Baba.,67,43,4,226,226,UC Irvine Anteaters,layup,True,True,False,Nevaeh Parkinson,True,Moulayna Johnson Sidi Baba,23.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong missed Jumper.,67,43,4,202,202,Gonzaga Bulldogs,jumper,True,False,False,Kayleigh Truong,False,,26.0,20.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Maud Huijbens Offensive Rebound.,67,43,4,202,202,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Maud Huijbens made Layup.,69,43,4,198,198,Gonzaga Bulldogs,layup,True,True,False,Maud Huijbens,False,,26.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Diaba Konate missed Jumper.,69,43,4,195,195,UC Irvine Anteaters,jumper,True,False,False,Diaba Konate,False,,31.0,17.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Offensive Rebound.,69,43,4,195,195,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Eliza Hollingsworth.,69,43,4,195,195,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba made Free Throw.,69,44,4,195,195,UC Irvine Anteaters,free throw,True,True,False,Moulayna Johnson Sidi Baba,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba made Free Throw.,69,45,4,195,195,UC Irvine Anteaters,free throw,True,True,False,Moulayna Johnson Sidi Baba,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Gonzaga  Timeout,69,45,4,194,194,Gonzaga Bulldogs,timeout,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong missed Three Point Jumper.,69,45,4,182,182,Gonzaga Bulldogs,three point jumper,True,False,True,Kayleigh Truong,False,,4.0,12.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Claire O'Connor Offensive Rebound.,69,45,4,182,182,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim missed Jumper.,69,45,4,162,162,Gonzaga Bulldogs,jumper,True,False,False,Yvonne Ejim,False,,43.0,6.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Offensive Rebound.,69,45,4,162,162,Gonzaga Bulldogs,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Yvonne Ejim.,69,45,4,160,160,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim Turnover.,69,45,4,160,160,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Esther Little.,69,45,4,147,147,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba made Free Throw.,69,46,4,147,147,UC Irvine Anteaters,free throw,True,True,False,Moulayna Johnson Sidi Baba,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba made Free Throw.,69,47,4,147,147,UC Irvine Anteaters,free throw,True,True,False,Moulayna Johnson Sidi Baba,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim made Jumper.,71,47,4,121,121,Gonzaga Bulldogs,jumper,True,True,False,Yvonne Ejim,False,,25.0,9.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,UC Irvine  Timeout,71,47,4,110,110,UC Irvine Anteaters,timeout,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Esther Little.,71,47,4,104,104,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba made Free Throw.,71,48,4,104,104,UC Irvine Anteaters,free throw,True,True,False,Moulayna Johnson Sidi Baba,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba made Free Throw.,71,49,4,104,104,UC Irvine Anteaters,free throw,True,True,False,Moulayna Johnson Sidi Baba,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong Turnover.,71,49,4,97,97,Gonzaga Bulldogs,turnover,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba Steal.,71,49,4,97,97,UC Irvine Anteaters,steal,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba made Layup.,71,51,4,96,96,UC Irvine Anteaters,layup,True,True,False,Moulayna Johnson Sidi Baba,False,,24.0,2.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Kaylynne Truong.,71,51,4,96,96,Gonzaga Bulldogs,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba made Free Throw.,71,52,4,96,96,UC Irvine Anteaters,free throw,True,True,False,Moulayna Johnson Sidi Baba,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Yvonne Ejim missed Jumper.,71,52,4,66,66,Gonzaga Bulldogs,jumper,True,False,False,Yvonne Ejim,False,,37.0,1.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nikki Tom Defensive Rebound.,71,52,4,66,66,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Moulayna Johnson Sidi Baba missed Jumper.,71,52,4,42,42,UC Irvine Anteaters,jumper,True,False,False,Moulayna Johnson Sidi Baba,False,,24.0,10.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson Offensive Rebound.,71,52,4,42,42,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson made Layup.,71,54,4,38,38,UC Irvine Anteaters,layup,True,True,False,Nevaeh Parkinson,False,,25.0,3.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Gonzaga  Timeout,71,54,4,35,35,Gonzaga Bulldogs,timeout,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong made Jumper.,73,54,4,26,26,Gonzaga Bulldogs,jumper,True,True,False,Kayleigh Truong,False,,32.0,15.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson made Layup.,73,56,4,9,9,UC Irvine Anteaters,layup,True,True,False,Nevaeh Parkinson,False,,23.0,0.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Dean missed Three Point Jumper.,73,56,4,7,7,UC Irvine Anteaters,three point jumper,True,False,True,Nevaeh Dean,False,,2.0,0.0
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Nevaeh Parkinson Offensive Rebound.,73,56,4,7,7,UC Irvine Anteaters,rebound,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Foul on Deja Lee.,73,56,4,5,5,UC Irvine Anteaters,foul,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong made Free Throw.,74,56,4,5,5,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,Kayleigh Truong made Free Throw.,75,56,4,5,5,Gonzaga Bulldogs,free throw,True,True,False,Kayleigh Truong,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,End of 4th Quarter,75,56,4,0,0,,end,False,False,False,,False,,,
+401637566,Gonzaga Bulldogs,UC Irvine Anteaters,End of Game,75,56,4,0,0,,end,False,False,False,,False,,,

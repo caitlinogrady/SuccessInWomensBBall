@@ -1,0 +1,296 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637587,UCLA Bruins,Creighton Bluejays,Jump Ball won by UCLA,0,0,1,600,2400,UCLA Bruins,jump ball,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts missed Jumper.,0,0,1,589,2389,UCLA Bruins,jumper,True,False,False,Lauren Betts,False,,28.0,16.0
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen Defensive Rebound.,0,0,1,589,2389,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek made Layup. Assisted by Lauren Jensen.,0,2,1,568,2368,Creighton Bluejays,layup,True,True,False,Emma Ronsiek,True,Lauren Jensen,27.0,0.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts made Jumper. Assisted by Londynn Jones.,2,2,1,553,2353,UCLA Bruins,jumper,True,True,False,Lauren Betts,True,Londynn Jones,25.0,4.0
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Angela Dugalic.,2,2,1,540,2340,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen made Three Point Jumper. Assisted by Morgan Maly.,2,5,1,533,2333,Creighton Bluejays,three point jumper,True,True,True,Lauren Jensen,True,Morgan Maly,34.0,26.0
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Molly Mogensen.,2,5,1,515,2315,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne missed Jumper.,2,5,1,512,2312,UCLA Bruins,jumper,True,False,False,Charisma Osborne,False,,33.0,8.0
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen Block.,2,5,1,512,2312,Creighton Bluejays,block,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen Defensive Rebound.,2,5,1,512,2312,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Jump Ball won by Creighton,2,5,1,507,2307,Creighton Bluejays,jump ball,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly missed Three Point Jumper.,2,5,1,494,2294,Creighton Bluejays,three point jumper,True,False,True,Morgan Maly,False,,48.0,5.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts Defensive Rebound.,2,5,1,494,2294,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts made Layup. Assisted by Charisma Osborne.,4,5,1,479,2279,UCLA Bruins,layup,True,True,False,Lauren Betts,True,Charisma Osborne,21.0,0.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen made Three Point Jumper.,4,8,1,450,2250,Creighton Bluejays,three point jumper,True,True,True,Lauren Jensen,False,,23.0,25.0
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne missed Three Point Jumper.,4,8,1,430,2230,UCLA Bruins,three point jumper,True,False,True,Charisma Osborne,False,,6.0,17.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen Defensive Rebound.,4,8,1,430,2230,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Mallory Brake missed Jumper.,4,8,1,399,2199,Creighton Bluejays,jumper,True,False,False,Mallory Brake,False,,19.0,13.0
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne Defensive Rebound.,4,8,1,399,2199,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts made Layup. Assisted by Charisma Osborne.,6,8,1,391,2191,UCLA Bruins,layup,True,True,False,Lauren Betts,True,Charisma Osborne,29.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Londynn Jones.,6,8,1,367,2167,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly missed Jumper.,6,8,1,358,2158,Creighton Bluejays,jumper,True,False,False,Morgan Maly,False,,36.0,13.0
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez Defensive Rebound.,6,8,1,358,2158,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne Turnover.,6,8,1,345,2145,UCLA Bruins,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen Steal.,6,8,1,345,2145,Creighton Bluejays,steal,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek made Jumper. Assisted by Jayme Horan.,6,10,1,335,2135,Creighton Bluejays,jumper,True,True,False,Emma Ronsiek,True,Jayme Horan,33.0,3.0
+401637587,UCLA Bruins,Creighton Bluejays,UCLA  Turnover.,6,10,1,300,2100,UCLA Bruins,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays, Official TV Timeout,6,10,1,300,2100,,tv timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Jayme Horan Turnover.,6,10,1,279,2079,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez Steal.,6,10,1,279,2079,UCLA Bruins,steal,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Jayme Horan.,6,10,1,272,2072,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Free Throw.,7,10,1,272,2072,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Free Throw.,8,10,1,272,2072,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek missed Jumper.,8,10,1,259,2059,Creighton Bluejays,jumper,True,False,False,Emma Ronsiek,False,,39.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez Defensive Rebound.,8,10,1,259,2059,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Three Point Jumper. Assisted by Charisma Osborne.,11,10,1,250,2050,UCLA Bruins,three point jumper,True,True,True,Kiki Rice,True,Charisma Osborne,9.0,19.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen made Layup. Assisted by Molly Mogensen.,11,12,1,227,2027,Creighton Bluejays,layup,True,True,False,Lauren Jensen,True,Molly Mogensen,26.0,2.0
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Kiki Rice.,11,12,1,227,2027,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen made Free Throw.,11,13,1,227,2027,Creighton Bluejays,free throw,True,True,False,Lauren Jensen,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts missed Jumper.,11,13,1,210,2010,UCLA Bruins,jumper,True,False,False,Lauren Betts,False,,27.0,3.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts Offensive Rebound.,11,13,1,210,2010,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts made Layup.,13,13,1,207,2007,UCLA Bruins,layup,True,True,False,Lauren Betts,False,,22.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Gabriela Jaquez.,13,13,1,195,1995,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly made Layup. Assisted by Molly Mogensen.,13,15,1,182,1982,Creighton Bluejays,layup,True,True,False,Morgan Maly,True,Molly Mogensen,21.0,0.0
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne missed Jumper.,13,15,1,161,1961,UCLA Bruins,jumper,True,False,False,Charisma Osborne,False,,28.0,19.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts Offensive Rebound.,13,15,1,161,1961,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Lauren Jensen.,13,15,1,157,1957,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez missed Three Point Jumper.,13,15,1,152,1952,UCLA Bruins,three point jumper,True,False,True,Gabriela Jaquez,False,,25.0,24.0
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez Offensive Rebound.,13,15,1,152,1952,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts made Layup. Assisted by Gabriela Jaquez.,15,15,1,143,1943,UCLA Bruins,layup,True,True,False,Lauren Betts,True,Gabriela Jaquez,23.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Kiani Lockett Turnover.,15,15,1,123,1923,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts missed Jumper.,15,15,1,106,1906,UCLA Bruins,jumper,True,False,False,Lauren Betts,False,,31.0,2.0
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez Offensive Rebound.,15,15,1,106,1906,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Morgan Maly.,15,15,1,103,1903,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez made Free Throw.,16,15,1,103,1903,UCLA Bruins,free throw,True,True,False,Gabriela Jaquez,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez made Free Throw.,17,15,1,103,1903,UCLA Bruins,free throw,True,True,False,Gabriela Jaquez,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly made Three Point Jumper. Assisted by Emma Ronsiek.,17,18,1,94,1894,Creighton Bluejays,three point jumper,True,True,True,Morgan Maly,True,Emma Ronsiek,33.0,26.0
+401637587,UCLA Bruins,Creighton Bluejays,Londynn Jones missed Jumper.,17,18,1,75,1875,UCLA Bruins,jumper,True,False,False,Londynn Jones,False,,20.0,19.0
+401637587,UCLA Bruins,Creighton Bluejays,Creighton Defensive Rebound.,17,18,1,75,1875,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Lauren Betts.,17,18,1,73,1873,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly made Free Throw.,17,19,1,73,1873,Creighton Bluejays,free throw,True,True,False,Morgan Maly,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly made Free Throw.,17,20,1,73,1873,Creighton Bluejays,free throw,True,True,False,Morgan Maly,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Londynn Jones missed Three Point Jumper.,17,20,1,68,1868,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,49.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne Offensive Rebound.,17,20,1,68,1868,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts made Layup. Assisted by Angela Dugalic.,19,20,1,56,1856,UCLA Bruins,layup,True,True,False,Lauren Betts,True,Angela Dugalic,22.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Jumper.,19,20,1,38,1838,Creighton Bluejays,jumper,True,False,False,Lauren Jensen,False,,38.0,12.0
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne Defensive Rebound.,19,20,1,38,1838,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne Turnover.,19,20,1,12,1812,UCLA Bruins,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek Steal.,19,20,1,12,1812,Creighton Bluejays,steal,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Jumper.,19,20,1,4,1804,Creighton Bluejays,jumper,True,False,False,Lauren Jensen,False,,14.0,6.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts Defensive Rebound.,19,20,1,4,1804,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,End of 1st Quarter,19,20,1,0,1800,,end,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Jump Ball won by UCLA,19,20,2,600,1800,UCLA Bruins,jump ball,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Angela Dugalic Turnover.,19,20,2,588,1788,UCLA Bruins,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly Steal.,19,20,2,588,1788,Creighton Bluejays,steal,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Jumper.,19,20,2,562,1762,Creighton Bluejays,jumper,True,False,False,Lauren Jensen,False,,14.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts Defensive Rebound.,19,20,2,562,1762,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez missed Three Point Jumper.,19,20,2,549,1749,UCLA Bruins,three point jumper,True,False,True,Gabriela Jaquez,False,,49.0,2.0
+401637587,UCLA Bruins,Creighton Bluejays,Creighton Defensive Rebound.,19,20,2,549,1749,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly made Layup. Assisted by Emma Ronsiek.,19,22,2,527,1727,Creighton Bluejays,layup,True,True,False,Morgan Maly,True,Emma Ronsiek,27.0,0.0
+401637587,UCLA Bruins,Creighton Bluejays,Londynn Jones missed Three Point Jumper.,19,22,2,518,1718,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,1.0,9.0
+401637587,UCLA Bruins,Creighton Bluejays,Mallory Brake Defensive Rebound.,19,22,2,518,1718,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Three Point Jumper.,19,22,2,504,1704,Creighton Bluejays,three point jumper,True,False,True,Lauren Jensen,False,,37.0,23.0
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez Defensive Rebound.,19,22,2,504,1704,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Londynn Jones missed Three Point Jumper.,19,22,2,496,1696,UCLA Bruins,three point jumper,True,False,True,Londynn Jones,False,,48.0,-1.0
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek Defensive Rebound.,19,22,2,496,1696,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen made Jumper. Assisted by Mallory Brake.,19,24,2,476,1676,Creighton Bluejays,jumper,True,True,False,Lauren Jensen,True,Mallory Brake,14.0,-1.0
+401637587,UCLA Bruins,Creighton Bluejays,Angela Dugalic Turnover.,19,24,2,455,1655,UCLA Bruins,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen made Jumper.,19,26,2,451,1651,Creighton Bluejays,jumper,True,True,False,Molly Mogensen,False,,25.0,12.0
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice missed Three Point Jumper.,19,26,2,433,1633,UCLA Bruins,three point jumper,True,False,True,Kiki Rice,False,,22.0,25.0
+401637587,UCLA Bruins,Creighton Bluejays,Jayme Horan Defensive Rebound.,19,26,2,433,1633,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Jump Ball won by Creighton,19,26,2,429,1629,Creighton Bluejays,jump ball,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek made Jumper. Assisted by Molly Mogensen.,19,28,2,420,1620,Creighton Bluejays,jumper,True,True,False,Emma Ronsiek,True,Molly Mogensen,34.0,8.0
+401637587,UCLA Bruins,Creighton Bluejays,UCLA  Timeout,19,28,2,418,1618,UCLA Bruins,timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays, Official TV Timeout,19,28,2,418,1618,,tv timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice missed Layup.,19,28,2,399,1599,UCLA Bruins,layup,True,False,False,Kiki Rice,False,,22.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice Offensive Rebound.,19,28,2,399,1599,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Layup.,21,28,2,394,1594,UCLA Bruins,layup,True,True,False,Kiki Rice,False,,22.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek made Three Point Jumper. Assisted by Molly Mogensen.,21,31,2,386,1586,Creighton Bluejays,three point jumper,True,True,True,Emma Ronsiek,True,Molly Mogensen,35.0,23.0
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne made Three Point Jumper. Assisted by Camryn Brown.,24,31,2,360,1560,UCLA Bruins,three point jumper,True,True,True,Charisma Osborne,True,Camryn Brown,43.0,17.0
+401637587,UCLA Bruins,Creighton Bluejays,Kennedy Townsend Turnover.,24,31,2,332,1532,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Mallory Brake.,24,31,2,321,1521,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts missed Jumper.,24,31,2,315,1515,UCLA Bruins,jumper,True,False,False,Lauren Betts,False,,25.0,5.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen Defensive Rebound.,24,31,2,315,1515,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Jumper.,24,31,2,296,1496,Creighton Bluejays,jumper,True,False,False,Lauren Jensen,False,,18.0,13.0
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez Defensive Rebound.,24,31,2,296,1496,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts made Layup. Assisted by Gabriela Jaquez.,26,31,2,284,1484,UCLA Bruins,layup,True,True,False,Lauren Betts,True,Gabriela Jaquez,23.0,0.0
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek made Three Point Jumper. Assisted by Morgan Maly.,26,34,2,276,1476,Creighton Bluejays,three point jumper,True,True,True,Emma Ronsiek,True,Morgan Maly,46.0,13.0
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez missed Layup.,26,34,2,259,1459,UCLA Bruins,layup,True,False,False,Gabriela Jaquez,False,,22.0,3.0
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez Offensive Rebound.,26,34,2,259,1459,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Emma Ronsiek.,26,34,2,257,1457,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays, Official TV Timeout,26,34,2,257,1457,,tv timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne missed Three Point Jumper.,26,34,2,246,1446,UCLA Bruins,three point jumper,True,False,True,Charisma Osborne,False,,13.0,22.0
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen Defensive Rebound.,26,34,2,246,1446,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek made Layup. Assisted by Kiani Lockett.,26,36,2,237,1437,Creighton Bluejays,layup,True,True,False,Emma Ronsiek,True,Kiani Lockett,27.0,0.0
+401637587,UCLA Bruins,Creighton Bluejays,Camryn Brown made Layup. Assisted by Lauren Betts.,28,36,2,219,1419,UCLA Bruins,layup,True,True,False,Camryn Brown,True,Lauren Betts,28.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly missed Jumper.,28,36,2,197,1397,Creighton Bluejays,jumper,True,False,False,Morgan Maly,False,,21.0,9.0
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen Offensive Rebound.,28,36,2,197,1397,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen made Jumper.,28,38,2,181,1381,Creighton Bluejays,jumper,True,True,False,Lauren Jensen,False,,30.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Kiani Lockett.,28,38,2,168,1368,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Camryn Brown missed Jumper.,28,38,2,161,1361,UCLA Bruins,jumper,True,False,False,Camryn Brown,False,,23.0,12.0
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen Defensive Rebound.,28,38,2,161,1361,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Charisma Osborne.,28,38,2,147,1347,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek missed Three Point Jumper.,28,38,2,138,1338,Creighton Bluejays,three point jumper,True,False,True,Emma Ronsiek,False,,11.0,20.0
+401637587,UCLA Bruins,Creighton Bluejays,Creighton Deadball Team Rebound.,28,38,2,138,1338,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Lina Sontag.,28,38,2,135,1335,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen missed Three Point Jumper.,28,38,2,133,1333,Creighton Bluejays,three point jumper,True,False,True,Molly Mogensen,False,,47.0,13.0
+401637587,UCLA Bruins,Creighton Bluejays,Londynn Jones Defensive Rebound.,28,38,2,133,1333,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez made Layup.,30,38,2,105,1305,UCLA Bruins,layup,True,True,False,Gabriela Jaquez,False,,28.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Kiani Lockett made Layup. Assisted by Molly Mogensen.,30,40,2,95,1295,Creighton Bluejays,layup,True,True,False,Kiani Lockett,True,Molly Mogensen,21.0,0.0
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez made Layup. Assisted by Charisma Osborne.,32,40,2,75,1275,UCLA Bruins,layup,True,True,False,Gabriela Jaquez,True,Charisma Osborne,22.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Kiani Lockett.,32,40,2,51,1251,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiani Lockett Turnover.,32,40,2,51,1251,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice missed Layup.,32,40,2,42,1242,UCLA Bruins,layup,True,False,False,Kiki Rice,False,,29.0,0.0
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly Defensive Rebound.,32,40,2,42,1242,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Angela Dugalic.,32,40,2,39,1239,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen made Jumper.,32,42,2,22,1222,Creighton Bluejays,jumper,True,True,False,Lauren Jensen,False,,24.0,11.0
+401637587,UCLA Bruins,Creighton Bluejays,Camryn Brown made Layup. Assisted by Kiki Rice.,34,42,2,6,1206,UCLA Bruins,layup,True,True,False,Camryn Brown,True,Kiki Rice,29.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,End of 2nd Quarter,34,42,2,0,1200,,end,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Jump Ball won by UCLA,34,42,3,600,1200,UCLA Bruins,jump ball,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne Turnover.,34,42,3,590,1190,UCLA Bruins,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen Steal.,34,42,3,590,1190,Creighton Bluejays,steal,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Mallory Brake made Layup. Assisted by Lauren Jensen.,34,44,3,586,1186,Creighton Bluejays,layup,True,True,False,Mallory Brake,True,Lauren Jensen,22.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts missed Jumper.,34,44,3,564,1164,UCLA Bruins,jumper,True,False,False,Lauren Betts,False,,25.0,4.0
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly Defensive Rebound.,34,44,3,564,1164,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Three Point Jumper.,34,44,3,556,1156,Creighton Bluejays,three point jumper,True,False,True,Lauren Jensen,False,,23.0,25.0
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice Defensive Rebound.,34,44,3,556,1156,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Angela Dugalic missed Layup.,34,44,3,547,1147,UCLA Bruins,layup,True,False,False,Angela Dugalic,False,,21.0,0.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts Offensive Rebound.,34,44,3,547,1147,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Molly Mogensen.,34,44,3,544,1144,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts missed Free Throw.,34,44,3,544,1144,UCLA Bruins,free throw,True,False,False,Lauren Betts,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,UCLA Deadball Team Rebound.,34,44,3,544,1144,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts missed Free Throw.,34,44,3,544,1144,UCLA Bruins,free throw,True,False,False,Lauren Betts,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne Offensive Rebound.,34,44,3,544,1144,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice missed Layup.,34,44,3,540,1140,UCLA Bruins,layup,True,False,False,Kiki Rice,False,,28.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek Defensive Rebound.,34,44,3,540,1140,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Charisma Osborne.,34,44,3,519,1119,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Layup.,34,44,3,508,1108,Creighton Bluejays,layup,True,False,False,Lauren Jensen,False,,28.0,2.0
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez Defensive Rebound.,34,44,3,508,1108,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Jump Ball won by Creighton,34,44,3,504,1104,Creighton Bluejays,jump ball,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Mallory Brake Offensive Rebound.,34,44,3,504,1104,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Jumper.,34,44,3,499,1099,Creighton Bluejays,jumper,True,False,False,Lauren Jensen,False,,30.0,13.0
+401637587,UCLA Bruins,Creighton Bluejays,Angela Dugalic made Three Point Jumper. Assisted by Gabriela Jaquez.,37,44,3,489,1089,UCLA Bruins,three point jumper,True,True,True,Angela Dugalic,True,Gabriela Jaquez,41.0,20.0
+401637587,UCLA Bruins,Creighton Bluejays,Jump Ball won by UCLA,37,44,3,484,1084,UCLA Bruins,jump ball,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen Turnover.,37,44,3,484,1084,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne Steal.,37,44,3,484,1084,UCLA Bruins,steal,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Angela Dugalic missed Three Point Jumper.,37,44,3,481,1081,UCLA Bruins,three point jumper,True,False,True,Angela Dugalic,False,,38.0,22.0
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen Defensive Rebound.,37,44,3,481,1081,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly made Jumper. Assisted by Mallory Brake.,37,46,3,460,1060,Creighton Bluejays,jumper,True,True,False,Morgan Maly,True,Mallory Brake,11.0,3.0
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Lauren Betts.,37,46,3,446,1046,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts Turnover.,37,46,3,446,1046,UCLA Bruins,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Mallory Brake missed Jumper.,37,46,3,438,1038,Creighton Bluejays,jumper,True,False,False,Mallory Brake,False,,34.0,8.0
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice Defensive Rebound.,37,46,3,438,1038,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts made Layup. Assisted by Kiki Rice.,39,46,3,427,1027,UCLA Bruins,layup,True,True,False,Lauren Betts,True,Kiki Rice,28.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Charisma Osborne.,39,46,3,407,1007,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly missed Jumper.,39,46,3,389,989,Creighton Bluejays,jumper,True,False,False,Morgan Maly,False,,34.0,3.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts Defensive Rebound.,39,46,3,389,989,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez made Layup.,41,46,3,372,972,UCLA Bruins,layup,True,True,False,Gabriela Jaquez,False,,20.0,0.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Layup.,41,46,3,349,949,Creighton Bluejays,layup,True,False,False,Lauren Jensen,False,,22.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez Defensive Rebound.,41,46,3,349,949,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Emma Ronsiek.,41,46,3,340,940,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Free Throw.,42,46,3,340,940,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Free Throw.,43,46,3,340,940,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Jump Ball won by Creighton,43,46,3,317,917,Creighton Bluejays,jump ball,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly made Jumper.,43,48,3,312,912,Creighton Bluejays,jumper,True,True,False,Morgan Maly,False,,26.0,6.0
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Three Point Jumper.,46,48,3,289,889,UCLA Bruins,three point jumper,True,True,True,Kiki Rice,False,,9.0,18.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen made Jumper.,46,50,3,267,867,Creighton Bluejays,jumper,True,True,False,Lauren Jensen,False,,30.0,8.0
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Jayme Horan.,46,50,3,251,851,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays, Official TV Timeout,46,50,3,251,851,,tv timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Free Throw.,47,50,3,251,851,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Free Throw.,48,50,3,251,851,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly missed Three Point Jumper.,48,50,3,243,843,Creighton Bluejays,three point jumper,True,False,True,Morgan Maly,False,,49.0,3.0
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez Defensive Rebound.,48,50,3,243,843,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts made Layup. Assisted by Kiki Rice.,50,50,3,232,832,UCLA Bruins,layup,True,True,False,Lauren Betts,True,Kiki Rice,28.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Camryn Brown.,50,50,3,211,811,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen missed Jumper.,50,50,3,193,793,Creighton Bluejays,jumper,True,False,False,Molly Mogensen,False,,11.0,12.0
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice Defensive Rebound.,50,50,3,193,793,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Layup.,52,50,3,184,784,UCLA Bruins,layup,True,True,False,Kiki Rice,False,,21.0,0.0
+401637587,UCLA Bruins,Creighton Bluejays,Creighton  Timeout,52,50,3,182,782,Creighton Bluejays,timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays, Official TV Timeout,52,50,3,182,782,,tv timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen Turnover.,52,50,3,175,775,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lina Sontag Steal.,52,50,3,175,775,UCLA Bruins,steal,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Angela Dugalic missed Jumper.,52,50,3,170,770,UCLA Bruins,jumper,True,False,False,Angela Dugalic,False,,19.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Lina Sontag Offensive Rebound.,52,50,3,170,770,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice missed Three Point Jumper.,52,50,3,153,753,UCLA Bruins,three point jumper,True,False,True,Kiki Rice,False,,30.0,26.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen Block.,52,50,3,153,753,Creighton Bluejays,block,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,UCLA Deadball Team Rebound.,52,50,3,153,753,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,UCLA  Turnover.,52,50,3,151,751,UCLA Bruins,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Lina Sontag.,52,50,3,135,735,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly made Free Throw.,52,51,3,135,735,Creighton Bluejays,free throw,True,True,False,Morgan Maly,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly missed Free Throw.,52,51,3,135,735,Creighton Bluejays,free throw,True,False,False,Morgan Maly,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts Defensive Rebound.,52,51,3,135,735,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne missed Jumper.,52,51,3,109,709,UCLA Bruins,jumper,True,False,False,Charisma Osborne,False,,33.0,12.0
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne Offensive Rebound.,52,51,3,109,709,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Morgan Maly.,52,51,3,102,702,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Free Throw.,53,51,3,102,702,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Free Throw.,54,51,3,102,702,UCLA Bruins,free throw,True,True,False,Kiki Rice,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiani Lockett made Jumper.,54,53,3,75,675,Creighton Bluejays,jumper,True,True,False,Kiani Lockett,False,,20.0,13.0
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Jumper. Assisted by Lauren Betts.,56,53,3,55,655,UCLA Bruins,jumper,True,True,False,Kiki Rice,True,Lauren Betts,34.0,7.0
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly missed Three Point Jumper.,56,53,3,44,644,Creighton Bluejays,three point jumper,True,False,True,Morgan Maly,False,,24.0,28.0
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek Offensive Rebound.,56,53,3,44,644,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen made Three Point Jumper. Assisted by Morgan Maly.,56,56,3,33,633,Creighton Bluejays,three point jumper,True,True,True,Lauren Jensen,True,Morgan Maly,3.0,11.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts Turnover.,56,56,3,2,602,UCLA Bruins,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Mallory Brake Steal.,56,56,3,2,602,Creighton Bluejays,steal,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,End of 3rd Quarter,56,56,3,0,600,,end,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Jump Ball won by UCLA,56,56,4,600,600,UCLA Bruins,jump ball,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Jump Ball won by Creighton,56,56,4,586,586,Creighton Bluejays,jump ball,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts Turnover.,56,56,4,586,586,UCLA Bruins,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Mallory Brake Steal.,56,56,4,586,586,Creighton Bluejays,steal,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek missed Jumper.,56,56,4,566,566,Creighton Bluejays,jumper,True,False,False,Emma Ronsiek,False,,37.0,0.0
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice Defensive Rebound.,56,56,4,566,566,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts missed Layup.,56,56,4,555,555,UCLA Bruins,layup,True,False,False,Lauren Betts,False,,21.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts Offensive Rebound.,56,56,4,555,555,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Morgan Maly.,56,56,4,553,553,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts made Free Throw.,57,56,4,553,553,UCLA Bruins,free throw,True,True,False,Lauren Betts,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts made Free Throw.,58,56,4,553,553,UCLA Bruins,free throw,True,True,False,Lauren Betts,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Jumper.,58,56,4,538,538,Creighton Bluejays,jumper,True,False,False,Lauren Jensen,False,,17.0,15.0
+401637587,UCLA Bruins,Creighton Bluejays,UCLA Defensive Rebound.,58,56,4,538,538,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Mallory Brake.,58,56,4,522,522,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez missed Three Point Jumper.,58,56,4,511,511,UCLA Bruins,three point jumper,True,False,True,Gabriela Jaquez,False,,2.0,2.0
+401637587,UCLA Bruins,Creighton Bluejays,Mallory Brake Defensive Rebound.,58,56,4,511,511,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Mallory Brake Turnover.,58,56,4,507,507,Creighton Bluejays,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Angela Dugalic made Three Point Jumper. Assisted by Lauren Betts.,61,56,4,497,497,UCLA Bruins,three point jumper,True,True,True,Angela Dugalic,True,Lauren Betts,19.0,25.0
+401637587,UCLA Bruins,Creighton Bluejays,Creighton  Timeout,61,56,4,493,493,Creighton Bluejays,timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays, Official TV Timeout,61,56,4,493,493,,tv timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Jumper.,61,56,4,467,467,Creighton Bluejays,jumper,True,False,False,Lauren Jensen,False,,25.0,19.0
+401637587,UCLA Bruins,Creighton Bluejays,UCLA Defensive Rebound.,61,56,4,467,467,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Angela Dugalic Turnover.,61,56,4,443,443,UCLA Bruins,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Mallory Brake Steal.,61,56,4,443,443,Creighton Bluejays,steal,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek missed Jumper.,61,56,4,415,415,Creighton Bluejays,jumper,True,False,False,Emma Ronsiek,False,,35.0,2.0
+401637587,UCLA Bruins,Creighton Bluejays,Angela Dugalic Defensive Rebound.,61,56,4,415,415,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez missed Three Point Jumper.,61,56,4,398,398,UCLA Bruins,three point jumper,True,False,True,Gabriela Jaquez,False,,14.0,23.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen Defensive Rebound.,61,56,4,398,398,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly missed Three Point Jumper.,61,56,4,380,380,Creighton Bluejays,three point jumper,True,False,True,Morgan Maly,False,,5.0,15.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Betts Defensive Rebound.,61,56,4,380,380,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Mallory Brake.,61,56,4,357,357,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Layup.,63,56,4,349,349,UCLA Bruins,layup,True,True,False,Kiki Rice,False,,27.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly made Layup. Assisted by Kiani Lockett.,63,58,4,327,327,Creighton Bluejays,layup,True,True,False,Morgan Maly,True,Kiani Lockett,28.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice made Jumper.,65,58,4,304,304,UCLA Bruins,jumper,True,True,False,Kiki Rice,False,,22.0,15.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Jumper.,65,58,4,279,279,Creighton Bluejays,jumper,True,False,False,Lauren Jensen,False,,25.0,8.0
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice Defensive Rebound.,65,58,4,279,279,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Angela Dugalic Turnover.,65,58,4,249,249,UCLA Bruins,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek Steal.,65,58,4,249,249,Creighton Bluejays,steal,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly made Jumper.,65,60,4,232,232,Creighton Bluejays,jumper,True,True,False,Morgan Maly,False,,23.0,7.0
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Gabriela Jaquez.,65,60,4,232,232,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Morgan Maly missed Free Throw.,65,60,4,232,232,Creighton Bluejays,free throw,True,False,False,Morgan Maly,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Camryn Brown Defensive Rebound.,65,60,4,232,232,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Kiki Rice missed Three Point Jumper.,65,60,4,203,203,UCLA Bruins,three point jumper,True,False,True,Kiki Rice,False,,38.0,21.0
+401637587,UCLA Bruins,Creighton Bluejays,UCLA Deadball Team Rebound.,65,60,4,203,203,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,UCLA  Turnover.,65,60,4,200,200,UCLA Bruins,turnover,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Emma Ronsiek missed Three Point Jumper.,65,60,4,181,181,Creighton Bluejays,three point jumper,True,False,True,Emma Ronsiek,False,,31.0,24.0
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez Defensive Rebound.,65,60,4,181,181,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Gabriela Jaquez missed Three Point Jumper.,65,60,4,160,160,UCLA Bruins,three point jumper,True,False,True,Gabriela Jaquez,False,,2.0,6.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen Defensive Rebound.,65,60,4,160,160,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Creighton  Timeout,65,60,4,150,150,Creighton Bluejays,timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Charisma Osborne.,65,60,4,137,137,UCLA Bruins,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays, Official TV Timeout,65,60,4,137,137,,tv timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen made Three Point Jumper.,65,63,4,123,123,Creighton Bluejays,three point jumper,True,True,True,Molly Mogensen,False,,46.0,12.0
+401637587,UCLA Bruins,Creighton Bluejays,UCLA  Timeout,65,63,4,97,97,UCLA Bruins,timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne made Jumper.,67,63,4,90,90,UCLA Bruins,jumper,True,True,False,Charisma Osborne,False,,29.0,6.0
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Layup.,67,63,4,59,59,Creighton Bluejays,layup,True,False,False,Lauren Jensen,False,,22.0,1.0
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne Defensive Rebound.,67,63,4,59,59,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Charisma Osborne missed Jumper.,67,63,4,32,32,UCLA Bruins,jumper,True,False,False,Charisma Osborne,False,,40.0,4.0
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen Defensive Rebound.,67,63,4,32,32,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Creighton  Timeout,67,63,4,16,16,Creighton Bluejays,timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Lauren Jensen missed Jumper.,67,63,4,9,9,Creighton Bluejays,jumper,True,False,False,Lauren Jensen,False,,8.0,5.0
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen Offensive Rebound.,67,63,4,9,9,Creighton Bluejays,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Molly Mogensen missed Jumper.,67,63,4,7,7,Creighton Bluejays,jumper,True,False,False,Molly Mogensen,False,,25.0,7.0
+401637587,UCLA Bruins,Creighton Bluejays,Angela Dugalic Block.,67,63,4,7,7,UCLA Bruins,block,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Angela Dugalic Defensive Rebound.,67,63,4,7,7,UCLA Bruins,rebound,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Jump Ball won by UCLA,67,63,4,3,3,UCLA Bruins,jump ball,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,UCLA  Timeout,67,63,4,3,3,UCLA Bruins,timeout,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,Foul on Kiani Lockett.,67,63,4,2,2,Creighton Bluejays,foul,False,False,False,,False,,,
+401637587,UCLA Bruins,Creighton Bluejays,End of Game,67,63,4,0,0,,end,False,False,False,,False,,,

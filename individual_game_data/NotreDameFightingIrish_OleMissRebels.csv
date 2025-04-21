@@ -1,0 +1,308 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Jump Ball won by Ole Miss,0,0,1,600,2400,Ole Miss Rebels,jump ball,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis missed Jumper.,0,0,1,583,2383,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,18.0,-1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld Block.,0,0,1,583,2383,Notre Dame Fighting Irish,block,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Tyia Singleton Offensive Rebound.,0,0,1,583,2383,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Rita Igbokwe made Layup.,0,2,1,576,2376,Ole Miss Rebels,layup,True,True,False,Rita Igbokwe,False,,25.0,2.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Marquesha Davis.,0,2,1,565,2365,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo made Jumper.,2,2,1,557,2357,Notre Dame Fighting Irish,jumper,True,True,False,Hannah Hidalgo,False,,19.0,13.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams missed Three Point Jumper.,2,2,1,532,2332,Ole Miss Rebels,three point jumper,True,False,True,Kennedy Todd-Williams,False,,7.0,17.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Notre Dame Defensive Rebound.,2,2,1,532,2332,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Natalija Marshall made Jumper. Assisted by Maddy Westbeld.,4,2,1,514,2314,Notre Dame Fighting Irish,jumper,True,True,False,Natalija Marshall,True,Maddy Westbeld,35.0,11.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis missed Jumper.,4,2,1,498,2298,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,41.0,10.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Natalija Marshall Defensive Rebound.,4,2,1,498,2298,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Rita Igbokwe.,4,2,1,485,2285,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo made Free Throw.,5,2,1,485,2285,Notre Dame Fighting Irish,free throw,True,True,False,Hannah Hidalgo,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo missed Free Throw.,5,2,1,485,2285,Notre Dame Fighting Irish,free throw,True,False,False,Hannah Hidalgo,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Rita Igbokwe Defensive Rebound.,5,2,1,485,2285,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott missed Jumper.,5,2,1,465,2265,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,17.0,13.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ole Miss Offensive Rebound.,5,2,1,465,2265,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Tyia Singleton Turnover.,5,2,1,453,2253,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld missed Jumper.,5,2,1,440,2240,Notre Dame Fighting Irish,jumper,True,False,False,Maddy Westbeld,False,,33.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott Defensive Rebound.,5,2,1,440,2240,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Natalija Marshall.,5,2,1,435,2235,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis missed Jumper.,5,2,1,425,2225,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,15.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Defensive Rebound.,5,2,1,425,2225,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron made Three Point Jumper.,8,2,1,412,2212,Notre Dame Fighting Irish,three point jumper,True,True,True,Sonia Citron,False,,32.0,25.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott made Layup.,8,4,1,398,2198,Ole Miss Rebels,layup,True,True,False,Madison Scott,False,,22.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo missed Three Point Jumper.,8,4,1,384,2184,Notre Dame Fighting Irish,three point jumper,True,False,True,Hannah Hidalgo,False,,36.0,22.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Rita Igbokwe Defensive Rebound.,8,4,1,384,2184,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Sonia Citron.,8,4,1,374,2174,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson Turnover.,8,4,1,367,2167,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Rita Igbokwe.,8,4,1,355,2155,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld made Free Throw.,9,4,1,355,2155,Notre Dame Fighting Irish,free throw,True,True,False,Maddy Westbeld,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld made Free Throw.,10,4,1,355,2155,Notre Dame Fighting Irish,free throw,True,True,False,Maddy Westbeld,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson missed Three Point Jumper.,10,4,1,341,2141,Ole Miss Rebels,three point jumper,True,False,True,Ayanna Thompson,False,,14.0,23.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ole Miss Deadball Team Rebound.,10,4,1,341,2141,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on KK Bransford.,10,4,1,338,2138,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson Turnover.,10,4,1,329,2129,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo Steal.,10,4,1,329,2129,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo Turnover.,10,4,1,324,2124,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson Steal.,10,4,1,324,2124,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott missed Jumper.,10,4,1,320,2120,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,14.0,2.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld Defensive Rebound.,10,4,1,320,2120,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo Turnover.,10,4,1,298,2098,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels, Official TV Timeout,10,4,1,298,2098,,tv timeout,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis missed Layup.,10,4,1,287,2087,Ole Miss Rebels,layup,True,False,False,Marquesha Davis,False,,27.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ole Miss Offensive Rebound.,10,4,1,287,2087,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams made Jumper.,10,6,1,270,2070,Ole Miss Rebels,jumper,True,True,False,Kennedy Todd-Williams,False,,22.0,9.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo made Jumper.,12,6,1,233,2033,Notre Dame Fighting Irish,jumper,True,True,False,Hannah Hidalgo,False,,30.0,6.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Tyia Singleton.,12,6,1,233,2033,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo made Free Throw.,13,6,1,233,2033,Notre Dame Fighting Irish,free throw,True,True,False,Hannah Hidalgo,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott missed Layup.,13,6,1,217,2017,Ole Miss Rebels,layup,True,False,False,Madison Scott,False,,22.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Defensive Rebound.,13,6,1,217,2017,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Madison Scott.,13,6,1,213,2013,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron made Free Throw.,14,6,1,213,2013,Notre Dame Fighting Irish,free throw,True,True,False,Sonia Citron,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron made Free Throw.,15,6,1,213,2013,Notre Dame Fighting Irish,free throw,True,True,False,Sonia Citron,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams Turnover.,15,6,1,203,2003,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron missed Jumper.,15,6,1,191,1991,Notre Dame Fighting Irish,jumper,True,False,False,Sonia Citron,False,,33.0,2.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis Defensive Rebound.,15,6,1,191,1991,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams made Three Point Jumper. Assisted by Madison Scott.,15,9,1,180,1980,Ole Miss Rebels,three point jumper,True,True,True,Kennedy Todd-Williams,True,Madison Scott,49.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld missed Jumper.,15,9,1,144,1944,Notre Dame Fighting Irish,jumper,True,False,False,Maddy Westbeld,False,,33.0,10.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott Defensive Rebound.,15,9,1,144,1944,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis missed Jumper.,15,9,1,136,1936,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,20.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld Block.,15,9,1,136,1936,Notre Dame Fighting Irish,block,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo Defensive Rebound.,15,9,1,136,1936,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron missed Three Point Jumper.,15,9,1,126,1926,Notre Dame Fighting Irish,three point jumper,True,False,True,Sonia Citron,False,,38.0,21.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kharyssa Richardson Defensive Rebound.,15,9,1,126,1926,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott missed Jumper.,15,9,1,110,1910,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,15.0,16.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ole Miss Deadball Team Rebound.,15,9,1,110,1910,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on KK Bransford.,15,9,1,107,1907,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott Turnover.,15,9,1,107,1907,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld Steal.,15,9,1,107,1907,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld Turnover.,15,9,1,107,1907,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams Steal.,15,9,1,107,1907,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams Turnover.,15,9,1,107,1907,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld Steal.,15,9,1,107,1907,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Anna DeWolfe made Three Point Jumper. Assisted by Natalija Marshall.,18,9,1,95,1895,Notre Dame Fighting Irish,three point jumper,True,True,True,Anna DeWolfe,True,Natalija Marshall,1.0,5.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ole Miss  Timeout,18,9,1,90,1890,Ole Miss Rebels,timeout,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kharyssa Richardson missed Jumper.,18,9,1,83,1883,Ole Miss Rebels,jumper,True,False,False,Kharyssa Richardson,False,,33.0,9.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kharyssa Richardson Offensive Rebound.,18,9,1,83,1883,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kharyssa Richardson missed Jumper.,18,9,1,76,1876,Ole Miss Rebels,jumper,True,False,False,Kharyssa Richardson,False,,27.0,3.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Becky Obinma Defensive Rebound.,18,9,1,76,1876,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld made Three Point Jumper. Assisted by Hannah Hidalgo.,21,9,1,51,1851,Notre Dame Fighting Irish,three point jumper,True,True,True,Maddy Westbeld,True,Hannah Hidalgo,28.0,25.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Tyia Singleton Turnover.,21,9,1,29,1829,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo Steal.,21,9,1,29,1829,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld missed Three Point Jumper.,21,9,1,1,1801,Notre Dame Fighting Irish,three point jumper,True,False,True,Maddy Westbeld,False,,38.0,21.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Notre Dame Deadball Team Rebound.,21,9,1,1,1801,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,End of 1st Quarter,21,9,1,0,1800,,end,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Jump Ball won by Notre Dame,21,9,2,600,1800,Notre Dame Fighting Irish,jump ball,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Kennedy Todd-Williams.,21,9,2,596,1796,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Marquesha Davis.,21,9,2,573,1773,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo made Free Throw.,22,9,2,573,1773,Notre Dame Fighting Irish,free throw,True,True,False,Hannah Hidalgo,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo missed Free Throw.,22,9,2,573,1773,Notre Dame Fighting Irish,free throw,True,False,False,Hannah Hidalgo,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott Defensive Rebound.,22,9,2,573,1773,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams missed Three Point Jumper.,22,9,2,565,1765,Ole Miss Rebels,three point jumper,True,False,True,Kennedy Todd-Williams,False,,44.0,14.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Notre Dame Defensive Rebound.,22,9,2,565,1765,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld made Jumper.,24,9,2,551,1751,Notre Dame Fighting Irish,jumper,True,True,False,Maddy Westbeld,False,,44.0,3.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Elauna Eaton made Three Point Jumper.,24,12,2,532,1732,Ole Miss Rebels,three point jumper,True,True,True,Elauna Eaton,False,,44.0,16.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Anna DeWolfe made Jumper.,26,12,2,500,1700,Notre Dame Fighting Irish,jumper,True,True,False,Anna DeWolfe,False,,29.0,9.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams made Jumper. Assisted by Madison Scott.,26,14,2,480,1680,Ole Miss Rebels,jumper,True,True,False,Kennedy Todd-Williams,True,Madison Scott,33.0,20.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron made Layup. Assisted by Hannah Hidalgo.,28,14,2,452,1652,Notre Dame Fighting Irish,layup,True,True,False,Sonia Citron,True,Hannah Hidalgo,27.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson Turnover.,28,14,2,438,1638,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron missed Layup.,28,14,2,418,1618,Notre Dame Fighting Irish,layup,True,False,False,Sonia Citron,False,,21.0,2.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Tyia Singleton Defensive Rebound.,28,14,2,418,1618,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson missed Jumper.,28,14,2,409,1609,Ole Miss Rebels,jumper,True,False,False,Ayanna Thompson,False,,6.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Elauna Eaton Offensive Rebound.,28,14,2,409,1609,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott missed Jumper.,28,14,2,402,1602,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,23.0,10.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Natalija Marshall Defensive Rebound.,28,14,2,402,1602,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Turnover.,28,14,2,391,1591,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams Steal.,28,14,2,391,1591,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams Turnover.,28,14,2,386,1586,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Steal.,28,14,2,386,1586,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Kennedy Todd-Williams.,28,14,2,385,1585,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,KK Bransford made Layup. Assisted by Natalija Marshall.,30,14,2,374,1574,Notre Dame Fighting Irish,layup,True,True,False,KK Bransford,True,Natalija Marshall,28.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Zakiya Stephenson Turnover.,30,14,2,361,1561,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo missed Layup.,30,14,2,353,1553,Notre Dame Fighting Irish,layup,True,False,False,Hannah Hidalgo,False,,22.0,2.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott Defensive Rebound.,30,14,2,353,1553,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Elauna Eaton missed Three Point Jumper.,30,14,2,337,1537,Ole Miss Rebels,three point jumper,True,False,True,Elauna Eaton,False,,38.0,22.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo Defensive Rebound.,30,14,2,337,1537,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld made Three Point Jumper. Assisted by Hannah Hidalgo.,33,14,2,310,1510,Notre Dame Fighting Irish,three point jumper,True,True,True,Maddy Westbeld,True,Hannah Hidalgo,30.0,24.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels, Official TV Timeout,33,14,2,292,1492,,tv timeout,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ole Miss  Turnover.,33,14,2,270,1470,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Natalija Marshall missed Jumper.,33,14,2,245,1445,Notre Dame Fighting Irish,jumper,True,False,False,Natalija Marshall,False,,27.0,17.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kharyssa Richardson Defensive Rebound.,33,14,2,245,1445,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kharyssa Richardson Turnover.,33,14,2,238,1438,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo Steal.,33,14,2,238,1438,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Turnover.,33,14,2,234,1434,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams Steal.,33,14,2,234,1434,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis made Jumper.,33,16,2,228,1428,Ole Miss Rebels,jumper,True,True,False,Marquesha Davis,False,,37.0,5.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld made Layup. Assisted by Natalija Marshall.,35,16,2,209,1409,Notre Dame Fighting Irish,layup,True,True,False,Maddy Westbeld,True,Natalija Marshall,27.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams made Jumper.,35,18,2,199,1399,Ole Miss Rebels,jumper,True,True,False,Kennedy Todd-Williams,False,,22.0,11.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron missed Layup.,35,18,2,177,1377,Notre Dame Fighting Irish,layup,True,False,False,Sonia Citron,False,,23.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Tyia Singleton Defensive Rebound.,35,18,2,177,1377,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Tyia Singleton missed Layup.,35,18,2,154,1354,Ole Miss Rebels,layup,True,False,False,Tyia Singleton,False,,26.0,2.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Defensive Rebound.,35,18,2,154,1354,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Natalija Marshall made Layup. Assisted by Sonia Citron.,37,18,2,137,1337,Notre Dame Fighting Irish,layup,True,True,False,Natalija Marshall,True,Sonia Citron,28.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Tyia Singleton Turnover.,37,18,2,111,1311,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Turnover.,37,18,2,98,1298,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis Steal.,37,18,2,98,1298,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson made Layup. Assisted by Marquesha Davis.,37,20,2,93,1293,Ole Miss Rebels,layup,True,True,False,Ayanna Thompson,True,Marquesha Davis,27.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Maddy Westbeld.,37,20,2,93,1293,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson made Free Throw.,37,21,2,93,1293,Ole Miss Rebels,free throw,True,True,False,Ayanna Thompson,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo made Layup.,39,21,2,75,1275,Notre Dame Fighting Irish,layup,True,True,False,Hannah Hidalgo,False,,26.0,2.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott made Jumper.,39,23,2,59,1259,Ole Miss Rebels,jumper,True,True,False,Madison Scott,False,,16.0,6.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron made Jumper.,41,23,2,48,1248,Notre Dame Fighting Irish,jumper,True,True,False,Sonia Citron,False,,40.0,13.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson made Three Point Jumper. Assisted by Rita Igbokwe.,41,26,2,34,1234,Ole Miss Rebels,three point jumper,True,True,True,Ayanna Thompson,True,Rita Igbokwe,2.0,6.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Ayanna Thompson.,41,26,2,17,1217,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Anna DeWolfe missed Three Point Jumper.,41,26,2,4,1204,Notre Dame Fighting Irish,three point jumper,True,False,True,Anna DeWolfe,False,,48.0,-3.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld Offensive Rebound.,41,26,2,4,1204,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld made Jumper.,43,26,2,1,1201,Notre Dame Fighting Irish,jumper,True,True,False,Maddy Westbeld,False,,21.0,4.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,End of 2nd Quarter,43,26,2,0,1200,,end,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Jump Ball won by Ole Miss,43,26,3,600,1200,Ole Miss Rebels,jump ball,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Rita Igbokwe missed Jumper.,43,26,3,590,1190,Ole Miss Rebels,jumper,True,False,False,Rita Igbokwe,False,,28.0,4.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams Offensive Rebound.,43,26,3,590,1190,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Kennedy Todd-Williams.,43,26,3,578,1178,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams Turnover.,43,26,3,578,1178,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron made Jumper. Assisted by Natalija Marshall.,45,26,3,561,1161,Notre Dame Fighting Irish,jumper,True,True,False,Sonia Citron,True,Natalija Marshall,7.0,13.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams missed Three Point Jumper.,45,26,3,550,1150,Ole Miss Rebels,three point jumper,True,False,True,Kennedy Todd-Williams,False,,1.0,-1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Natalija Marshall Defensive Rebound.,45,26,3,550,1150,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Anna DeWolfe missed Jumper.,45,26,3,531,1131,Notre Dame Fighting Irish,jumper,True,False,False,Anna DeWolfe,False,,22.0,3.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Rita Igbokwe Defensive Rebound.,45,26,3,531,1131,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott missed Jumper.,45,26,3,521,1121,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,30.0,10.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Defensive Rebound.,45,26,3,521,1121,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld made Layup. Assisted by Sonia Citron.,47,26,3,512,1112,Notre Dame Fighting Irish,layup,True,True,False,Maddy Westbeld,True,Sonia Citron,22.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Rita Igbokwe made Jumper. Assisted by Madison Scott.,47,28,3,492,1092,Ole Miss Rebels,jumper,True,True,False,Rita Igbokwe,True,Madison Scott,25.0,5.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld made Jumper. Assisted by Natalija Marshall.,49,28,3,469,1069,Notre Dame Fighting Irish,jumper,True,True,False,Maddy Westbeld,True,Natalija Marshall,22.0,7.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott Turnover.,49,28,3,460,1060,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Anna DeWolfe Steal.,49,28,3,460,1060,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Rita Igbokwe.,49,28,3,459,1059,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo missed Three Point Jumper.,49,28,3,447,1047,Notre Dame Fighting Irish,three point jumper,True,False,True,Hannah Hidalgo,False,,37.0,22.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Anna DeWolfe Offensive Rebound.,49,28,3,447,1047,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Anna DeWolfe made Layup.,51,28,3,438,1038,Notre Dame Fighting Irish,layup,True,True,False,Anna DeWolfe,False,,22.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson Turnover.,51,28,3,427,1027,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Turnover.,51,28,3,414,1014,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis Steal.,51,28,3,414,1014,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis made Layup.,51,30,3,408,1008,Ole Miss Rebels,layup,True,True,False,Marquesha Davis,False,,27.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo Turnover.,51,30,3,381,981,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott missed Jumper.,51,30,3,365,965,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,26.0,10.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis Offensive Rebound.,51,30,3,365,965,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Marquesha Davis.,51,30,3,360,960,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis Turnover.,51,30,3,360,960,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Madison Scott.,51,30,3,354,954,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Natalija Marshall missed Jumper.,51,30,3,340,940,Notre Dame Fighting Irish,jumper,True,False,False,Natalija Marshall,False,,24.0,5.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ole Miss Defensive Rebound.,51,30,3,340,940,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Maddy Westbeld.,51,30,3,319,919,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson made Layup.,51,32,3,306,906,Ole Miss Rebels,layup,True,True,False,Ayanna Thompson,False,,22.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Natalija Marshall.,51,32,3,306,906,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson made Free Throw.,51,33,3,306,906,Ole Miss Rebels,free throw,True,True,False,Ayanna Thompson,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on KK Bransford.,51,33,3,296,896,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,KK Bransford Turnover.,51,33,3,296,896,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels, Official TV Timeout,51,33,3,296,896,,tv timeout,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis Turnover.,51,33,3,277,877,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Turnover.,51,33,3,252,852,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Tyia Singleton Steal.,51,33,3,252,852,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott made Layup.,51,35,3,241,841,Ole Miss Rebels,layup,True,True,False,Madison Scott,False,,21.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Natalija Marshall.,51,35,3,241,841,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott made Free Throw.,51,36,3,241,841,Ole Miss Rebels,free throw,True,True,False,Madison Scott,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Madison Scott.,51,36,3,216,816,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo made Free Throw.,52,36,3,216,816,Notre Dame Fighting Irish,free throw,True,True,False,Hannah Hidalgo,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo made Free Throw.,53,36,3,216,816,Notre Dame Fighting Irish,free throw,True,True,False,Hannah Hidalgo,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Rita Igbokwe made Jumper. Assisted by Ayanna Thompson.,53,38,3,200,800,Ole Miss Rebels,jumper,True,True,False,Rita Igbokwe,True,Ayanna Thompson,24.0,7.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo Turnover.,53,38,3,181,781,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis Steal.,53,38,3,181,781,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis missed Jumper.,53,38,3,172,772,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,21.0,12.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott Offensive Rebound.,53,38,3,172,772,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott missed Jumper.,53,38,3,162,762,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,32.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo Defensive Rebound.,53,38,3,162,762,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron made Layup. Assisted by Hannah Hidalgo.,55,38,3,160,760,Notre Dame Fighting Irish,layup,True,True,False,Sonia Citron,True,Hannah Hidalgo,26.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ole Miss  Timeout,55,38,3,145,745,Ole Miss Rebels,timeout,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott made Jumper. Assisted by Kennedy Todd-Williams.,55,40,3,144,744,Ole Miss Rebels,jumper,True,True,False,Madison Scott,True,Kennedy Todd-Williams,38.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,KK Bransford missed Jumper.,55,40,3,122,722,Notre Dame Fighting Irish,jumper,True,False,False,KK Bransford,False,,35.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Rita Igbokwe Defensive Rebound.,55,40,3,122,722,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis missed Jumper.,55,40,3,114,714,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,38.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Defensive Rebound.,55,40,3,114,714,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo made Layup. Assisted by Sonia Citron.,57,40,3,102,702,Notre Dame Fighting Irish,layup,True,True,False,Hannah Hidalgo,True,Sonia Citron,22.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson missed Three Point Jumper.,57,40,3,88,688,Ole Miss Rebels,three point jumper,True,False,True,Ayanna Thompson,False,,35.0,23.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Defensive Rebound.,57,40,3,88,688,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo made Layup. Assisted by Sonia Citron.,59,40,3,82,682,Notre Dame Fighting Irish,layup,True,True,False,Hannah Hidalgo,True,Sonia Citron,23.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott Turnover.,59,40,3,66,666,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron missed Layup.,59,40,3,52,652,Notre Dame Fighting Irish,layup,True,False,False,Sonia Citron,False,,27.0,2.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Notre Dame Offensive Rebound.,59,40,3,52,652,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld made Jumper. Assisted by Sonia Citron.,61,40,3,47,647,Notre Dame Fighting Irish,jumper,True,True,False,Maddy Westbeld,True,Sonia Citron,36.0,3.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott made Jumper.,61,42,3,22,622,Ole Miss Rebels,jumper,True,True,False,Madison Scott,False,,35.0,13.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld missed Jumper.,61,42,3,1,601,Notre Dame Fighting Irish,jumper,True,False,False,Maddy Westbeld,False,,23.0,16.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Notre Dame Deadball Team Rebound.,61,42,3,1,601,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,End of 3rd Quarter,61,42,3,0,600,,end,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Jump Ball won by Notre Dame,61,42,4,600,600,Notre Dame Fighting Irish,jump ball,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Ayanna Thompson.,61,42,4,593,593,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Anna DeWolfe Turnover.,61,42,4,583,583,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Anna DeWolfe.,61,42,4,583,583,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott missed Jumper.,61,42,4,575,575,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,23.0,11.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Defensive Rebound.,61,42,4,575,575,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron missed Layup.,61,42,4,560,560,Notre Dame Fighting Irish,layup,True,False,False,Sonia Citron,False,,29.0,2.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Rita Igbokwe Defensive Rebound.,61,42,4,560,560,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams made Jumper.,61,44,4,553,553,Ole Miss Rebels,jumper,True,True,False,Kennedy Todd-Williams,False,,25.0,11.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Madison Scott.,61,44,4,517,517,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron made Free Throw.,62,44,4,517,517,Notre Dame Fighting Irish,free throw,True,True,False,Sonia Citron,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron made Free Throw.,63,44,4,517,517,Notre Dame Fighting Irish,free throw,True,True,False,Sonia Citron,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Sonia Citron.,63,44,4,505,505,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams made Free Throw.,63,45,4,505,505,Ole Miss Rebels,free throw,True,True,False,Kennedy Todd-Williams,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams made Free Throw.,63,46,4,505,505,Ole Miss Rebels,free throw,True,True,False,Kennedy Todd-Williams,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo missed Layup.,63,46,4,482,482,Notre Dame Fighting Irish,layup,True,False,False,Hannah Hidalgo,False,,22.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams Defensive Rebound.,63,46,4,482,482,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Natalija Marshall.,63,46,4,469,469,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis made Free Throw.,63,47,4,469,469,Ole Miss Rebels,free throw,True,True,False,Marquesha Davis,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis missed Free Throw.,63,47,4,469,469,Ole Miss Rebels,free throw,True,False,False,Marquesha Davis,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Defensive Rebound.,63,47,4,469,469,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Turnover.,63,47,4,462,462,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kharyssa Richardson Turnover.,63,47,4,452,452,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,KK Bransford Steal.,63,47,4,452,452,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo missed Layup.,63,47,4,445,445,Notre Dame Fighting Irish,layup,True,False,False,Hannah Hidalgo,False,,21.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson Defensive Rebound.,63,47,4,445,445,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Rita Igbokwe made Layup. Assisted by Kennedy Todd-Williams.,63,49,4,435,435,Ole Miss Rebels,layup,True,True,False,Rita Igbokwe,True,Kennedy Todd-Williams,27.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Notre Dame  Timeout,63,49,4,433,433,Notre Dame Fighting Irish,timeout,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,KK Bransford missed Jumper.,63,49,4,418,418,Notre Dame Fighting Irish,jumper,True,False,False,KK Bransford,False,,38.0,17.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Rita Igbokwe Defensive Rebound.,63,49,4,418,418,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Tyia Singleton Turnover.,63,49,4,400,400,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Anna DeWolfe missed Jumper.,63,49,4,374,374,Notre Dame Fighting Irish,jumper,True,False,False,Anna DeWolfe,False,,23.0,16.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld Offensive Rebound.,63,49,4,374,374,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld missed Jumper.,63,49,4,355,355,Notre Dame Fighting Irish,jumper,True,False,False,Maddy Westbeld,False,,18.0,11.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams Defensive Rebound.,63,49,4,355,355,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Maddy Westbeld.,63,49,4,346,346,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis missed Free Throw.,63,49,4,346,346,Ole Miss Rebels,free throw,True,False,False,Marquesha Davis,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ole Miss Deadball Team Rebound.,63,49,4,346,346,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis made Free Throw.,63,50,4,346,346,Ole Miss Rebels,free throw,True,True,False,Marquesha Davis,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Anna DeWolfe made Jumper. Assisted by Sonia Citron.,65,50,4,337,337,Notre Dame Fighting Irish,jumper,True,True,False,Anna DeWolfe,True,Sonia Citron,40.0,10.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ayanna Thompson missed Three Point Jumper.,65,50,4,324,324,Ole Miss Rebels,three point jumper,True,False,True,Ayanna Thompson,False,,37.0,21.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis Offensive Rebound.,65,50,4,324,324,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis missed Layup.,65,50,4,320,320,Ole Miss Rebels,layup,True,False,False,Marquesha Davis,False,,28.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ole Miss Offensive Rebound.,65,50,4,320,320,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Jump Ball won by Ole Miss,65,50,4,314,314,Ole Miss Rebels,jump ball,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams missed Three Point Jumper.,65,50,4,312,312,Ole Miss Rebels,three point jumper,True,False,True,Kennedy Todd-Williams,False,,16.0,23.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Defensive Rebound.,65,50,4,312,312,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld Turnover.,65,50,4,286,286,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott Steal.,65,50,4,286,286,Ole Miss Rebels,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams missed Jumper.,65,50,4,267,267,Ole Miss Rebels,jumper,True,False,False,Kennedy Todd-Williams,False,,17.0,6.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron Defensive Rebound.,65,50,4,267,267,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo made Layup. Assisted by Anna DeWolfe.,67,50,4,258,258,Notre Dame Fighting Irish,layup,True,True,False,Hannah Hidalgo,True,Anna DeWolfe,22.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Ole Miss  Timeout,67,50,4,248,248,Ole Miss Rebels,timeout,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott made Jumper. Assisted by Tyia Singleton.,67,52,4,235,235,Ole Miss Rebels,jumper,True,True,False,Madison Scott,True,Tyia Singleton,32.0,10.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo missed Layup.,67,52,4,203,203,Notre Dame Fighting Irish,layup,True,False,False,Hannah Hidalgo,False,,22.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Tyia Singleton Defensive Rebound.,67,52,4,203,203,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Maddy Westbeld.,67,52,4,182,182,Notre Dame Fighting Irish,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams made Free Throw.,67,53,4,182,182,Ole Miss Rebels,free throw,True,True,False,Kennedy Todd-Williams,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams made Free Throw.,67,54,4,182,182,Ole Miss Rebels,free throw,True,True,False,Kennedy Todd-Williams,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Tyia Singleton.,67,54,4,160,160,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo made Free Throw.,68,54,4,160,160,Notre Dame Fighting Irish,free throw,True,True,False,Hannah Hidalgo,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo made Free Throw.,69,54,4,160,160,Notre Dame Fighting Irish,free throw,True,True,False,Hannah Hidalgo,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Marquesha Davis missed Jumper.,69,54,4,137,137,Ole Miss Rebels,jumper,True,False,False,Marquesha Davis,False,,15.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Rita Igbokwe Offensive Rebound.,69,54,4,137,137,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams missed Three Point Jumper.,69,54,4,132,132,Ole Miss Rebels,three point jumper,True,False,True,Kennedy Todd-Williams,False,,30.0,25.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo Defensive Rebound.,69,54,4,132,132,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo missed Layup.,69,54,4,126,126,Notre Dame Fighting Irish,layup,True,False,False,Hannah Hidalgo,False,,22.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams Defensive Rebound.,69,54,4,126,126,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott missed Jumper.,69,54,4,119,119,Ole Miss Rebels,jumper,True,False,False,Madison Scott,False,,26.0,7.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld Defensive Rebound.,69,54,4,119,119,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron missed Jumper.,69,54,4,91,91,Notre Dame Fighting Irish,jumper,True,False,False,Sonia Citron,False,,14.0,14.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott Defensive Rebound.,69,54,4,91,91,Ole Miss Rebels,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott Turnover.,69,54,4,79,79,Ole Miss Rebels,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Hannah Hidalgo Steal.,69,54,4,79,79,Notre Dame Fighting Irish,steal,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Notre Dame  Turnover.,69,54,4,56,56,Notre Dame Fighting Irish,turnover,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Madison Scott made Jumper.,69,56,4,40,40,Ole Miss Rebels,jumper,True,True,False,Madison Scott,False,,13.0,1.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Foul on Rita Igbokwe.,69,56,4,16,16,Ole Miss Rebels,foul,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron made Free Throw.,70,56,4,16,16,Notre Dame Fighting Irish,free throw,True,True,False,Sonia Citron,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Sonia Citron made Free Throw.,71,56,4,16,16,Notre Dame Fighting Irish,free throw,True,True,False,Sonia Citron,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Kennedy Todd-Williams missed Jumper.,71,56,4,5,5,Ole Miss Rebels,jumper,True,False,False,Kennedy Todd-Williams,False,,14.0,0.0
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,Maddy Westbeld Defensive Rebound.,71,56,4,5,5,Notre Dame Fighting Irish,rebound,False,False,False,,False,,,
+401637589,Notre Dame Fighting Irish,Ole Miss Rebels,End of Game,71,56,4,0,0,,end,False,False,False,,False,,,

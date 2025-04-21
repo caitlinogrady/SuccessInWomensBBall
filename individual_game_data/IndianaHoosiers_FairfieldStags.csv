@@ -1,0 +1,337 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637569,Indiana Hoosiers,Fairfield Stags,Jump Ball won by Indiana,0,0,1,600,2400,Indiana Hoosiers,jump ball,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish missed Three Point Jumper.,0,0,1,585,2385,Indiana Hoosiers,three point jumper,True,False,True,Sydney Parrish,False,,48.0,-1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Nicole Gallagher Defensive Rebound.,0,0,1,585,2385,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown made Layup.,0,2,1,568,2368,Fairfield Stags,layup,True,True,False,Janelle Brown,False,,25.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil missed Layup.,0,2,1,539,2339,Indiana Hoosiers,layup,True,False,False,Chloe Moore-McNeil,False,,28.0,1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux Defensive Rebound.,0,2,1,539,2339,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic missed Three Point Jumper.,0,2,1,528,2328,Fairfield Stags,three point jumper,True,False,True,Emina Selimovic,False,,17.0,24.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish Defensive Rebound.,0,2,1,528,2328,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes made Layup. Assisted by Yarden Garzon.,2,2,1,514,2314,Indiana Hoosiers,layup,True,True,False,Mackenzie Holmes,True,Yarden Garzon,26.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown Turnover.,2,2,1,507,2307,Fairfield Stags,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish Steal.,2,2,1,507,2307,Indiana Hoosiers,steal,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon missed Three Point Jumper.,2,2,1,491,2291,Indiana Hoosiers,three point jumper,True,False,True,Yarden Garzon,False,,15.0,25.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux Defensive Rebound.,2,2,1,491,2291,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown made Three Point Jumper. Assisted by Meghan Andersen.,2,5,1,476,2276,Fairfield Stags,three point jumper,True,True,True,Janelle Brown,True,Meghan Andersen,37.0,23.0
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon missed Three Point Jumper.,2,5,1,453,2253,Indiana Hoosiers,three point jumper,True,False,True,Yarden Garzon,False,,48.0,0.0
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen Block.,2,5,1,453,2253,Fairfield Stags,block,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon Offensive Rebound.,2,5,1,453,2253,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon made Layup.,4,5,1,443,2243,Indiana Hoosiers,layup,True,True,False,Yarden Garzon,False,,28.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Nicole Gallagher made Three Point Jumper. Assisted by Janelle Brown.,4,8,1,438,2238,Fairfield Stags,three point jumper,True,True,True,Nicole Gallagher,True,Janelle Brown,25.0,26.0
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon made Layup. Assisted by Chloe Moore-McNeil.,6,8,1,421,2221,Indiana Hoosiers,layup,True,True,False,Yarden Garzon,True,Chloe Moore-McNeil,28.0,0.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux missed Three Point Jumper.,6,8,1,397,2197,Fairfield Stags,three point jumper,True,False,True,Kaety L'Amoreaux,False,,7.0,18.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish Defensive Rebound.,6,8,1,397,2197,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia made Layup. Assisted by Sydney Parrish.,8,8,1,389,2189,Indiana Hoosiers,layup,True,True,False,Sara Scalia,True,Sydney Parrish,28.0,0.0
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic missed Three Point Jumper.,8,8,1,377,2177,Fairfield Stags,three point jumper,True,False,True,Emina Selimovic,False,,24.0,26.0
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon Defensive Rebound.,8,8,1,377,2177,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon Turnover.,8,8,1,370,2170,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown Steal.,8,8,1,370,2170,Fairfield Stags,steal,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Jump Ball won by Fairfield,8,8,1,370,2170,Fairfield Stags,jump ball,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Nicole Gallagher missed Layup.,8,8,1,355,2155,Fairfield Stags,layup,True,False,False,Nicole Gallagher,False,,28.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish Block.,8,8,1,355,2155,Indiana Hoosiers,block,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes Defensive Rebound.,8,8,1,355,2155,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia missed Three Point Jumper.,8,8,1,346,2146,Indiana Hoosiers,three point jumper,True,False,True,Sara Scalia,False,,9.0,24.0
+401637569,Indiana Hoosiers,Fairfield Stags,Fairfield Deadball Team Rebound.,8,8,1,346,2146,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux made Layup. Assisted by Kendall McGruder.,8,10,1,332,2132,Fairfield Stags,layup,True,True,False,Kaety L'Amoreaux,True,Kendall McGruder,27.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia made Layup. Assisted by Sydney Parrish.,10,10,1,317,2117,Indiana Hoosiers,layup,True,True,False,Sara Scalia,True,Sydney Parrish,28.0,0.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kendall McGruder missed Three Point Jumper.,10,10,1,305,2105,Fairfield Stags,three point jumper,True,False,True,Kendall McGruder,False,,23.0,27.0
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes Defensive Rebound.,10,10,1,305,2105,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes missed Layup.,10,10,1,293,2093,Indiana Hoosiers,layup,True,False,False,Mackenzie Holmes,False,,29.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Izabela Nicoletti Leite Defensive Rebound.,10,10,1,293,2093,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Nicole Gallagher missed Three Point Jumper.,10,10,1,286,2086,Fairfield Stags,three point jumper,True,False,True,Nicole Gallagher,False,,49.0,-1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux Offensive Rebound.,10,10,1,286,2086,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux Turnover.,10,10,1,281,2081,Fairfield Stags,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon Steal.,10,10,1,281,2081,Indiana Hoosiers,steal,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes Turnover.,10,10,1,269,2069,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Izabela Nicoletti Leite Steal.,10,10,1,269,2069,Fairfield Stags,steal,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux missed Jumper.,10,10,1,263,2063,Fairfield Stags,jumper,True,False,False,Kaety L'Amoreaux,False,,24.0,5.0
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon Defensive Rebound.,10,10,1,263,2063,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon made Three Point Jumper. Assisted by Sara Scalia.,13,10,1,240,2040,Indiana Hoosiers,three point jumper,True,True,True,Yarden Garzon,True,Sara Scalia,24.0,27.0
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Izabela Nicoletti Leite.,13,10,1,234,2034,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags, Official TV Timeout,13,10,1,234,2034,,tv timeout,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia made Jumper. Assisted by Lexus Bargesser.,15,10,1,225,2025,Indiana Hoosiers,jumper,True,True,False,Sara Scalia,True,Lexus Bargesser,10.0,4.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kendall McGruder made Three Point Jumper.,15,13,1,225,2025,Fairfield Stags,three point jumper,True,True,True,Kendall McGruder,False,,5.0,14.0
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Yarden Garzon.,15,13,1,193,1993,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon Turnover.,15,13,1,193,1993,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Fairfield  Turnover.,15,13,1,163,1963,Fairfield Stags,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia missed Jumper.,15,13,1,140,1940,Indiana Hoosiers,jumper,True,False,False,Sara Scalia,False,,23.0,6.0
+401637569,Indiana Hoosiers,Fairfield Stags,MacKenzie Daleba Defensive Rebound.,15,13,1,140,1940,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown made Jumper.,15,15,1,131,1931,Fairfield Stags,jumper,True,True,False,Janelle Brown,False,,19.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil made Layup.,17,15,1,113,1913,Indiana Hoosiers,layup,True,True,False,Chloe Moore-McNeil,False,,22.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Lauren Beach.,17,15,1,113,1913,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil missed Free Throw.,17,15,1,113,1913,Indiana Hoosiers,free throw,True,False,False,Chloe Moore-McNeil,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lauren Beach Defensive Rebound.,17,15,1,113,1913,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,MacKenzie Daleba missed Layup.,17,15,1,106,1906,Fairfield Stags,layup,True,False,False,MacKenzie Daleba,False,,28.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser Defensive Rebound.,17,15,1,106,1906,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser missed Jumper.,17,15,1,92,1892,Indiana Hoosiers,jumper,True,False,False,Lexus Bargesser,False,,23.0,5.0
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown Defensive Rebound.,17,15,1,92,1892,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,MacKenzie Daleba made Layup. Assisted by Lauren Beach.,17,17,1,73,1873,Fairfield Stags,layup,True,True,False,MacKenzie Daleba,True,Lauren Beach,27.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes made Layup. Assisted by Lexus Bargesser.,19,17,1,52,1852,Indiana Hoosiers,layup,True,True,False,Mackenzie Holmes,True,Lexus Bargesser,26.0,1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Janelle Brown.,19,17,1,52,1852,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes made Free Throw.,20,17,1,52,1852,Indiana Hoosiers,free throw,True,True,False,Mackenzie Holmes,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic missed Jumper.,20,17,1,29,1829,Fairfield Stags,jumper,True,False,False,Emina Selimovic,False,,27.0,8.0
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes Defensive Rebound.,20,17,1,29,1829,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser missed Jumper.,20,17,1,1,1801,Indiana Hoosiers,jumper,True,False,False,Lexus Bargesser,False,,25.0,8.0
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes Offensive Rebound.,20,17,1,1,1801,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes missed Layup.,20,17,1,1,1801,Indiana Hoosiers,layup,True,False,False,Mackenzie Holmes,False,,25.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Indiana Deadball Team Rebound.,20,17,1,1,1801,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,End of 1st Quarter,20,17,1,0,1800,,end,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Jump Ball won by Indiana,20,17,2,600,1800,Indiana Hoosiers,jump ball,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Nicole Gallagher.,20,17,2,589,1789,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes made Free Throw.,21,17,2,589,1789,Indiana Hoosiers,free throw,True,True,False,Mackenzie Holmes,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes missed Free Throw.,21,17,2,589,1789,Indiana Hoosiers,free throw,True,False,False,Mackenzie Holmes,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic Defensive Rebound.,21,17,2,589,1789,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic made Three Point Jumper. Assisted by Kendall McGruder.,21,20,2,564,1764,Fairfield Stags,three point jumper,True,True,True,Emina Selimovic,True,Kendall McGruder,49.0,-1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon Turnover.,21,20,2,546,1746,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kendall McGruder Turnover.,21,20,2,530,1730,Fairfield Stags,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia made Three Point Jumper. Assisted by Chloe Moore-McNeil.,24,20,2,512,1712,Indiana Hoosiers,three point jumper,True,True,True,Sara Scalia,True,Chloe Moore-McNeil,7.0,19.0
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Chloe Moore-McNeil.,24,20,2,486,1686,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kendall McGruder missed Three Point Jumper.,24,20,2,482,1682,Fairfield Stags,three point jumper,True,False,True,Kendall McGruder,False,,2.0,-1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown Offensive Rebound.,24,20,2,482,1682,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown made Three Point Jumper. Assisted by Kendall McGruder.,24,23,2,475,1675,Fairfield Stags,three point jumper,True,True,True,Janelle Brown,True,Kendall McGruder,1.0,-1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon Turnover.,24,23,2,466,1666,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic Steal.,24,23,2,466,1666,Fairfield Stags,steal,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen made Layup. Assisted by Kendall McGruder.,24,25,2,462,1662,Fairfield Stags,layup,True,True,False,Meghan Andersen,True,Kendall McGruder,23.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil missed Jumper.,24,25,2,449,1649,Indiana Hoosiers,jumper,True,False,False,Chloe Moore-McNeil,False,,24.0,7.0
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown Defensive Rebound.,24,25,2,449,1649,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen missed Three Point Jumper.,24,25,2,442,1642,Fairfield Stags,three point jumper,True,False,True,Meghan Andersen,False,,8.0,18.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish Defensive Rebound.,24,25,2,442,1642,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia missed Three Point Jumper.,24,25,2,421,1621,Indiana Hoosiers,three point jumper,True,False,True,Sara Scalia,False,,48.0,7.0
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic Defensive Rebound.,24,25,2,421,1621,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown made Layup.,24,27,2,391,1591,Fairfield Stags,layup,True,True,False,Janelle Brown,False,,28.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia missed Three Point Jumper.,24,27,2,376,1576,Indiana Hoosiers,three point jumper,True,False,True,Sara Scalia,False,,1.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Lilly Meister Offensive Rebound.,24,27,2,376,1576,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lilly Meister Turnover.,24,27,2,372,1572,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,MacKenzie Daleba Steal.,24,27,2,372,1572,Fairfield Stags,steal,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kendall McGruder Turnover.,24,27,2,353,1553,Fairfield Stags,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser Steal.,24,27,2,353,1553,Indiana Hoosiers,steal,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil missed Three Point Jumper.,24,27,2,346,1546,Indiana Hoosiers,three point jumper,True,False,True,Chloe Moore-McNeil,False,,41.0,19.0
+401637569,Indiana Hoosiers,Fairfield Stags,Lilly Meister Offensive Rebound.,24,27,2,346,1546,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Kendall McGruder.,24,27,2,344,1544,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish missed Three Point Jumper.,24,27,2,341,1541,Indiana Hoosiers,three point jumper,True,False,True,Sydney Parrish,False,,43.0,17.0
+401637569,Indiana Hoosiers,Fairfield Stags,MacKenzie Daleba Defensive Rebound.,24,27,2,341,1541,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Jump Ball won by Fairfield,24,27,2,323,1523,Fairfield Stags,jump ball,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,MacKenzie Daleba made Jumper.,24,29,2,318,1518,Fairfield Stags,jumper,True,True,False,MacKenzie Daleba,False,,21.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil missed Layup.,24,29,2,308,1508,Indiana Hoosiers,layup,True,False,False,Chloe Moore-McNeil,False,,26.0,4.0
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil Offensive Rebound.,24,29,2,308,1508,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil made Layup.,26,29,2,303,1503,Indiana Hoosiers,layup,True,True,False,Chloe Moore-McNeil,False,,25.0,1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen made Layup.,26,31,2,287,1487,Fairfield Stags,layup,True,True,False,Meghan Andersen,False,,29.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Izabela Nicoletti Leite.,26,31,2,273,1473,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags, Official TV Timeout,26,31,2,273,1473,,tv timeout,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Lexus Bargesser.,26,31,2,259,1459,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser Turnover.,26,31,2,259,1459,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic missed Three Point Jumper.,26,31,2,250,1450,Fairfield Stags,three point jumper,True,False,True,Emina Selimovic,False,,27.0,26.0
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown Offensive Rebound.,26,31,2,250,1450,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux missed Three Point Jumper.,26,31,2,244,1444,Fairfield Stags,three point jumper,True,False,True,Kaety L'Amoreaux,False,,11.0,21.0
+401637569,Indiana Hoosiers,Fairfield Stags,Julianna LaMendola Defensive Rebound.,26,31,2,244,1444,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Lauren Beach.,26,31,2,236,1436,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil missed Free Throw.,26,31,2,236,1436,Indiana Hoosiers,free throw,True,False,False,Chloe Moore-McNeil,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Indiana Deadball Team Rebound.,26,31,2,236,1436,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil made Free Throw.,27,31,2,236,1436,Indiana Hoosiers,free throw,True,True,False,Chloe Moore-McNeil,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown missed Layup.,27,31,2,220,1420,Fairfield Stags,layup,True,False,False,Janelle Brown,False,,22.0,1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes Block.,27,31,2,220,1420,Indiana Hoosiers,block,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Fairfield Offensive Rebound.,27,31,2,220,1420,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux missed Layup.,27,31,2,213,1413,Fairfield Stags,layup,True,False,False,Kaety L'Amoreaux,False,,22.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Julianna LaMendola Defensive Rebound.,27,31,2,213,1413,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser made Layup. Assisted by Mackenzie Holmes.,29,31,2,191,1391,Indiana Hoosiers,layup,True,True,False,Lexus Bargesser,True,Mackenzie Holmes,24.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic missed Layup.,29,31,2,170,1370,Fairfield Stags,layup,True,False,False,Emina Selimovic,False,,21.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon Defensive Rebound.,29,31,2,170,1370,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon made Three Point Jumper. Assisted by Julianna LaMendola.,32,31,2,157,1357,Indiana Hoosiers,three point jumper,True,True,True,Yarden Garzon,True,Julianna LaMendola,2.0,4.0
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown missed Jumper.,32,31,2,136,1336,Fairfield Stags,jumper,True,False,False,Janelle Brown,False,,20.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes Block.,32,31,2,136,1336,Indiana Hoosiers,block,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown Offensive Rebound.,32,31,2,136,1336,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Julianna LaMendola.,32,31,2,134,1334,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux missed Layup.,32,31,2,129,1329,Fairfield Stags,layup,True,False,False,Kaety L'Amoreaux,False,,21.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil Block.,32,31,2,129,1329,Indiana Hoosiers,block,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes Defensive Rebound.,32,31,2,129,1329,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon missed Three Point Jumper.,32,31,2,119,1319,Indiana Hoosiers,three point jumper,True,False,True,Yarden Garzon,False,,48.0,0.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux Defensive Rebound.,32,31,2,119,1319,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic Turnover.,32,31,2,105,1305,Fairfield Stags,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Janelle Brown.,32,31,2,93,1293,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil made Free Throw.,33,31,2,93,1293,Indiana Hoosiers,free throw,True,True,False,Chloe Moore-McNeil,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil made Free Throw.,34,31,2,93,1293,Indiana Hoosiers,free throw,True,True,False,Chloe Moore-McNeil,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kendall McGruder missed Layup.,34,31,2,73,1273,Fairfield Stags,layup,True,False,False,Kendall McGruder,False,,22.0,1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish Defensive Rebound.,34,31,2,73,1273,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes missed Layup.,34,31,2,60,1260,Indiana Hoosiers,layup,True,False,False,Mackenzie Holmes,False,,26.0,1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen Block.,34,31,2,60,1260,Fairfield Stags,block,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Indiana Offensive Rebound.,34,31,2,60,1260,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes made Layup. Assisted by Yarden Garzon.,36,31,2,55,1255,Indiana Hoosiers,layup,True,True,False,Mackenzie Holmes,True,Yarden Garzon,22.0,1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen made Three Point Jumper. Assisted by Kaety L'Amoreaux.,36,34,2,33,1233,Fairfield Stags,three point jumper,True,True,True,Meghan Andersen,True,Kaety L'Amoreaux,32.0,27.0
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Meghan Andersen.,36,34,2,11,1211,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon made Free Throw.,37,34,2,11,1211,Indiana Hoosiers,free throw,True,True,False,Yarden Garzon,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon made Free Throw.,38,34,2,11,1211,Indiana Hoosiers,free throw,True,True,False,Yarden Garzon,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux missed Three Point Jumper.,38,34,2,1,1201,Fairfield Stags,three point jumper,True,False,True,Kaety L'Amoreaux,False,,7.0,17.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia Defensive Rebound.,38,34,2,1,1201,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,End of 2nd Quarter,38,34,2,0,1200,,end,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Jump Ball won by Indiana,38,34,3,600,1200,Indiana Hoosiers,jump ball,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes made Layup. Assisted by Sara Scalia.,40,34,3,588,1188,Indiana Hoosiers,layup,True,True,False,Mackenzie Holmes,True,Sara Scalia,26.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Nicole Gallagher.,40,34,3,588,1188,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes made Free Throw.,41,34,3,588,1188,Indiana Hoosiers,free throw,True,True,False,Mackenzie Holmes,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic made Three Point Jumper. Assisted by Kaety L'Amoreaux.,41,37,3,575,1175,Fairfield Stags,three point jumper,True,True,True,Emina Selimovic,True,Kaety L'Amoreaux,12.0,21.0
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Nicole Gallagher.,41,37,3,559,1159,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes made Layup. Assisted by Chloe Moore-McNeil.,43,37,3,543,1143,Indiana Hoosiers,layup,True,True,False,Mackenzie Holmes,True,Chloe Moore-McNeil,23.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic made Three Point Jumper. Assisted by Kaety L'Amoreaux.,43,40,3,526,1126,Fairfield Stags,three point jumper,True,True,True,Emina Selimovic,True,Kaety L'Amoreaux,24.0,26.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish missed Three Point Jumper.,43,40,3,488,1088,Indiana Hoosiers,three point jumper,True,False,True,Sydney Parrish,False,,2.0,1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic Defensive Rebound.,43,40,3,488,1088,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux Turnover.,43,40,3,470,1070,Fairfield Stags,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia made Three Point Jumper. Assisted by Sydney Parrish.,46,40,3,459,1059,Indiana Hoosiers,three point jumper,True,True,True,Sara Scalia,True,Sydney Parrish,47.0,8.0
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen made Three Point Jumper. Assisted by Emina Selimovic.,46,43,3,447,1047,Fairfield Stags,three point jumper,True,True,True,Meghan Andersen,True,Emina Selimovic,25.0,26.0
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil made Three Point Jumper. Assisted by Sydney Parrish.,49,43,3,426,1026,Indiana Hoosiers,three point jumper,True,True,True,Chloe Moore-McNeil,True,Sydney Parrish,47.0,10.0
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic missed Layup.,49,43,3,402,1002,Fairfield Stags,layup,True,False,False,Emina Selimovic,False,,28.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes Block.,49,43,3,402,1002,Indiana Hoosiers,block,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia Defensive Rebound.,49,43,3,402,1002,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Kaety L'Amoreaux.,49,43,3,390,990,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia made Free Throw.,50,43,3,390,990,Indiana Hoosiers,free throw,True,True,False,Sara Scalia,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia made Free Throw.,51,43,3,390,990,Indiana Hoosiers,free throw,True,True,False,Sara Scalia,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kendall McGruder missed Three Point Jumper.,51,43,3,365,965,Fairfield Stags,three point jumper,True,False,True,Kendall McGruder,False,,5.0,17.0
+401637569,Indiana Hoosiers,Fairfield Stags,Indiana Defensive Rebound.,51,43,3,365,965,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish made Three Point Jumper. Assisted by Chloe Moore-McNeil.,54,43,3,353,953,Indiana Hoosiers,three point jumper,True,True,True,Sydney Parrish,True,Chloe Moore-McNeil,7.0,16.0
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen missed Three Point Jumper.,54,43,3,343,943,Fairfield Stags,three point jumper,True,False,True,Meghan Andersen,False,,12.0,23.0
+401637569,Indiana Hoosiers,Fairfield Stags,MacKenzie Daleba Offensive Rebound.,54,43,3,343,943,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Sydney Parrish.,54,43,3,336,936,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Sydney Parrish.,54,43,3,336,936,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,MacKenzie Daleba missed Jumper.,54,43,3,332,932,Fairfield Stags,jumper,True,False,False,MacKenzie Daleba,False,,24.0,7.0
+401637569,Indiana Hoosiers,Fairfield Stags,Lilly Meister Block.,54,43,3,332,932,Indiana Hoosiers,block,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil Defensive Rebound.,54,43,3,332,932,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on MacKenzie Daleba.,54,43,3,324,924,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia made Free Throw.,55,43,3,324,924,Indiana Hoosiers,free throw,True,True,False,Sara Scalia,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia made Free Throw.,56,43,3,324,924,Indiana Hoosiers,free throw,True,True,False,Sara Scalia,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown missed Layup.,56,43,3,315,915,Fairfield Stags,layup,True,False,False,Janelle Brown,False,,23.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia Block.,56,43,3,315,915,Indiana Hoosiers,block,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia Defensive Rebound.,56,43,3,315,915,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia missed Three Point Jumper.,56,43,3,305,905,Indiana Hoosiers,three point jumper,True,False,True,Sara Scalia,False,,33.0,27.0
+401637569,Indiana Hoosiers,Fairfield Stags,Fairfield Defensive Rebound.,56,43,3,305,905,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen missed Jumper.,56,43,3,290,890,Fairfield Stags,jumper,True,False,False,Meghan Andersen,False,,24.0,6.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish Block.,56,43,3,290,890,Indiana Hoosiers,block,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish Defensive Rebound.,56,43,3,290,890,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia made Three Point Jumper. Assisted by Lexus Bargesser.,59,43,3,267,867,Indiana Hoosiers,three point jumper,True,True,True,Sara Scalia,True,Lexus Bargesser,3.0,10.0
+401637569,Indiana Hoosiers,Fairfield Stags,Fairfield  Timeout,59,43,3,260,860,Fairfield Stags,timeout,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags, Official TV Timeout,59,43,3,260,860,,tv timeout,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown made Layup.,59,45,3,255,855,Fairfield Stags,layup,True,True,False,Janelle Brown,False,,23.0,1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia missed Layup.,59,45,3,246,846,Indiana Hoosiers,layup,True,False,False,Sara Scalia,False,,21.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Izabela Nicoletti Leite Defensive Rebound.,59,45,3,246,846,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Izabela Nicoletti Leite Turnover.,59,45,3,238,838,Fairfield Stags,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser Steal.,59,45,3,238,838,Indiana Hoosiers,steal,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Izabela Nicoletti Leite.,59,45,3,222,822,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags, Official TV Timeout,59,45,3,222,822,,tv timeout,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon missed Free Throw.,59,45,3,222,822,Indiana Hoosiers,free throw,True,False,False,Yarden Garzon,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Indiana Deadball Team Rebound.,59,45,3,222,822,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon made Free Throw.,60,45,3,222,822,Indiana Hoosiers,free throw,True,True,False,Yarden Garzon,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Lexus Bargesser.,60,45,3,216,816,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown missed Three Point Jumper.,60,45,3,214,814,Fairfield Stags,three point jumper,True,False,True,Janelle Brown,False,,24.0,26.0
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon Defensive Rebound.,60,45,3,214,814,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia missed Three Point Jumper.,60,45,3,191,791,Indiana Hoosiers,three point jumper,True,False,True,Sara Scalia,False,,6.0,16.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kendall McGruder Defensive Rebound.,60,45,3,191,791,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen missed Three Point Jumper.,60,45,3,177,777,Fairfield Stags,three point jumper,True,False,True,Meghan Andersen,False,,42.0,20.0
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser Defensive Rebound.,60,45,3,177,777,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish missed Three Point Jumper.,60,45,3,162,762,Indiana Hoosiers,three point jumper,True,False,True,Sydney Parrish,False,,8.0,20.0
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic Defensive Rebound.,60,45,3,162,762,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Lexus Bargesser.,60,45,3,155,755,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown made Free Throw.,60,46,3,155,755,Fairfield Stags,free throw,True,True,False,Janelle Brown,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown made Free Throw.,60,47,3,155,755,Fairfield Stags,free throw,True,True,False,Janelle Brown,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia made Jumper. Assisted by Chloe Moore-McNeil.,62,47,3,128,728,Indiana Hoosiers,jumper,True,True,False,Sara Scalia,True,Chloe Moore-McNeil,23.0,12.0
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen missed Three Point Jumper.,62,47,3,118,718,Fairfield Stags,three point jumper,True,False,True,Meghan Andersen,False,,2.0,5.0
+401637569,Indiana Hoosiers,Fairfield Stags,Julianna LaMendola Defensive Rebound.,62,47,3,118,718,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Julianna LaMendola missed Three Point Jumper.,62,47,3,108,708,Indiana Hoosiers,three point jumper,True,False,True,Julianna LaMendola,False,,18.0,24.0
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic Defensive Rebound.,62,47,3,108,708,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Jump Ball won by Fairfield,62,47,3,78,678,Fairfield Stags,jump ball,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown missed Jumper.,62,47,3,75,675,Fairfield Stags,jumper,True,False,False,Janelle Brown,False,,5.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser Block.,62,47,3,75,675,Indiana Hoosiers,block,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Fairfield Offensive Rebound.,62,47,3,75,675,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Emina Selimovic missed Jumper.,62,47,3,69,669,Fairfield Stags,jumper,True,False,False,Emina Selimovic,False,,14.0,15.0
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser Defensive Rebound.,62,47,3,69,669,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on MacKenzie Daleba.,62,47,3,57,657,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser made Free Throw.,63,47,3,57,657,Indiana Hoosiers,free throw,True,True,False,Lexus Bargesser,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser made Free Throw.,64,47,3,57,657,Indiana Hoosiers,free throw,True,True,False,Lexus Bargesser,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown made Layup.,64,49,3,47,647,Fairfield Stags,layup,True,True,False,Janelle Brown,False,,27.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Julianna LaMendola missed Three Point Jumper.,64,49,3,20,620,Indiana Hoosiers,three point jumper,True,False,True,Julianna LaMendola,False,,28.0,27.0
+401637569,Indiana Hoosiers,Fairfield Stags,Nicole Gallagher Defensive Rebound.,64,49,3,20,620,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown missed Jumper.,64,49,3,1,601,Fairfield Stags,jumper,True,False,False,Janelle Brown,False,,21.0,8.0
+401637569,Indiana Hoosiers,Fairfield Stags,Indiana Defensive Rebound.,64,49,3,1,601,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,End of 3rd Quarter,64,49,3,0,600,,end,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Jump Ball won by Indiana,64,49,4,600,600,Indiana Hoosiers,jump ball,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Lauren Beach.,64,49,4,590,590,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish made Layup. Assisted by Chloe Moore-McNeil.,66,49,4,587,587,Indiana Hoosiers,layup,True,True,False,Sydney Parrish,True,Chloe Moore-McNeil,28.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Nicole Gallagher missed Three Point Jumper.,66,49,4,563,563,Fairfield Stags,three point jumper,True,False,True,Nicole Gallagher,False,,37.0,23.0
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil Defensive Rebound.,66,49,4,563,563,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon Turnover.,66,49,4,546,546,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Yarden Garzon.,66,49,4,546,546,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown Turnover.,66,49,4,527,527,Fairfield Stags,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil made Three Point Jumper. Assisted by Mackenzie Holmes.,69,49,4,508,508,Indiana Hoosiers,three point jumper,True,True,True,Chloe Moore-McNeil,True,Mackenzie Holmes,49.0,-2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux made Three Point Jumper. Assisted by Janelle Brown.,69,52,4,497,497,Fairfield Stags,three point jumper,True,True,True,Kaety L'Amoreaux,True,Janelle Brown,9.0,19.0
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon missed Three Point Jumper.,69,52,4,478,478,Indiana Hoosiers,three point jumper,True,False,True,Yarden Garzon,False,,48.0,8.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish Offensive Rebound.,69,52,4,478,478,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish missed Layup.,69,52,4,472,472,Indiana Hoosiers,layup,True,False,False,Sydney Parrish,False,,24.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish Offensive Rebound.,69,52,4,472,472,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish missed Layup.,69,52,4,466,466,Indiana Hoosiers,layup,True,False,False,Sydney Parrish,False,,25.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown Block.,69,52,4,466,466,Fairfield Stags,block,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown Defensive Rebound.,69,52,4,466,466,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen missed Jumper.,69,52,4,463,463,Fairfield Stags,jumper,True,False,False,Meghan Andersen,False,,22.0,7.0
+401637569,Indiana Hoosiers,Fairfield Stags,Indiana Deadball Team Rebound.,69,52,4,463,463,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Emina Selimovic.,69,52,4,459,459,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Chloe Moore-McNeil Turnover.,69,52,4,450,450,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown Steal.,69,52,4,450,450,Fairfield Stags,steal,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown missed Three Point Jumper.,69,52,4,440,440,Fairfield Stags,three point jumper,True,False,True,Janelle Brown,False,,48.0,1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Mackenzie Holmes Defensive Rebound.,69,52,4,440,440,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish made Layup. Assisted by Yarden Garzon.,71,52,4,433,433,Indiana Hoosiers,layup,True,True,False,Sydney Parrish,True,Yarden Garzon,22.0,1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux missed Layup.,71,52,4,424,424,Fairfield Stags,layup,True,False,False,Kaety L'Amoreaux,False,,28.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Yarden Garzon Defensive Rebound.,71,52,4,424,424,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sydney Parrish missed Layup.,71,52,4,417,417,Indiana Hoosiers,layup,True,False,False,Sydney Parrish,False,,28.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Fairfield Deadball Team Rebound.,71,52,4,417,417,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Mackenzie Holmes.,71,52,4,415,415,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kendall McGruder missed Three Point Jumper.,71,52,4,390,390,Fairfield Stags,three point jumper,True,False,True,Kendall McGruder,False,,16.0,27.0
+401637569,Indiana Hoosiers,Fairfield Stags,Indiana Defensive Rebound.,71,52,4,390,390,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Kaety L'Amoreaux.,71,52,4,372,372,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia made Three Point Jumper. Assisted by Lexus Bargesser.,74,52,4,364,364,Indiana Hoosiers,three point jumper,True,True,True,Sara Scalia,True,Lexus Bargesser,19.0,26.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux missed Three Point Jumper.,74,52,4,347,347,Fairfield Stags,three point jumper,True,False,True,Kaety L'Amoreaux,False,,6.0,20.0
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia Defensive Rebound.,74,52,4,347,347,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Sara Scalia made Three Point Jumper. Assisted by Lexus Bargesser.,77,52,4,328,328,Indiana Hoosiers,three point jumper,True,True,True,Sara Scalia,True,Lexus Bargesser,1.0,0.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux Turnover.,77,52,4,308,308,Fairfield Stags,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Julianna LaMendola.,77,52,4,298,298,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Julianna LaMendola Turnover.,77,52,4,298,298,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags, Official TV Timeout,77,52,4,298,298,,tv timeout,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown missed Layup.,77,52,4,277,277,Fairfield Stags,layup,True,False,False,Janelle Brown,False,,29.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser Defensive Rebound.,77,52,4,277,277,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser Turnover.,77,52,4,272,272,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux missed Three Point Jumper.,77,52,4,261,261,Fairfield Stags,three point jumper,True,False,True,Kaety L'Amoreaux,False,,20.0,27.0
+401637569,Indiana Hoosiers,Fairfield Stags,Lenee Beaumont Defensive Rebound.,77,52,4,261,261,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lilly Meister made Layup. Assisted by Henna Sandvik.,79,52,4,242,242,Indiana Hoosiers,layup,True,True,False,Lilly Meister,True,Henna Sandvik,28.0,2.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux missed Layup.,79,52,4,223,223,Fairfield Stags,layup,True,False,False,Kaety L'Amoreaux,False,,28.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Lilly Meister Block.,79,52,4,223,223,Indiana Hoosiers,block,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Fairfield Offensive Rebound.,79,52,4,223,223,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Julianna LaMendola.,79,52,4,222,222,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Izabela Nicoletti Leite Turnover.,79,52,4,221,221,Fairfield Stags,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lenee Beaumont Steal.,79,52,4,221,221,Indiana Hoosiers,steal,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Izabela Nicoletti Leite.,79,52,4,206,206,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lilly Meister made Layup. Assisted by Lexus Bargesser.,81,52,4,203,203,Indiana Hoosiers,layup,True,True,False,Lilly Meister,True,Lexus Bargesser,25.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen missed Jumper.,81,52,4,191,191,Fairfield Stags,jumper,True,False,False,Meghan Andersen,False,,21.0,5.0
+401637569,Indiana Hoosiers,Fairfield Stags,Lilly Meister Defensive Rebound.,81,52,4,191,191,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Meghan Andersen.,81,52,4,186,186,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser missed Free Throw.,81,52,4,186,186,Indiana Hoosiers,free throw,True,False,False,Lexus Bargesser,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Indiana Deadball Team Rebound.,81,52,4,186,186,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lilly Meister Turnover.,81,52,4,186,186,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Meghan Andersen missed Three Point Jumper.,81,52,4,178,178,Fairfield Stags,three point jumper,True,False,True,Meghan Andersen,False,,35.0,23.0
+401637569,Indiana Hoosiers,Fairfield Stags,Henna Sandvik Defensive Rebound.,81,52,4,178,178,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Julianna LaMendola made Layup.,83,52,4,157,157,Indiana Hoosiers,layup,True,True,False,Julianna LaMendola,False,,23.0,1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Lexus Bargesser.,83,52,4,145,145,Indiana Hoosiers,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown made Free Throw.,83,53,4,145,145,Fairfield Stags,free throw,True,True,False,Janelle Brown,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Janelle Brown missed Free Throw.,83,53,4,145,145,Fairfield Stags,free throw,True,False,False,Janelle Brown,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Julianna LaMendola Defensive Rebound.,83,53,4,145,145,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser made Layup.,85,53,4,129,129,Indiana Hoosiers,layup,True,True,False,Lexus Bargesser,False,,21.0,1.0
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Karly Fischer.,85,53,4,129,129,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lexus Bargesser made Free Throw.,86,53,4,129,129,Indiana Hoosiers,free throw,True,True,False,Lexus Bargesser,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,MacKenzie Daleba made Three Point Jumper. Assisted by Lauren Beach.,86,56,4,122,122,Fairfield Stags,three point jumper,True,True,True,MacKenzie Daleba,True,Lauren Beach,29.0,25.0
+401637569,Indiana Hoosiers,Fairfield Stags,Lenee Beaumont missed Jumper.,86,56,4,101,101,Indiana Hoosiers,jumper,True,False,False,Lenee Beaumont,False,,25.0,7.0
+401637569,Indiana Hoosiers,Fairfield Stags,Kaety L'Amoreaux Defensive Rebound.,86,56,4,101,101,Fairfield Stags,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,MacKenzie Daleba missed Three Point Jumper.,86,56,4,83,83,Fairfield Stags,three point jumper,True,False,True,MacKenzie Daleba,False,,38.0,21.0
+401637569,Indiana Hoosiers,Fairfield Stags,Indiana Defensive Rebound.,86,56,4,83,83,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Julianna LaMendola Turnover.,86,56,4,68,68,Indiana Hoosiers,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Karly Fischer Steal.,86,56,4,68,68,Fairfield Stags,steal,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,MacKenzie Daleba Turnover.,86,56,4,54,54,Fairfield Stags,turnover,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lenee Beaumont made Layup.,88,56,4,38,38,Indiana Hoosiers,layup,True,True,False,Lenee Beaumont,False,,26.0,3.0
+401637569,Indiana Hoosiers,Fairfield Stags,Foul on Nicole Gallagher.,88,56,4,38,38,Fairfield Stags,foul,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Lenee Beaumont made Free Throw.,89,56,4,38,38,Indiana Hoosiers,free throw,True,True,False,Lenee Beaumont,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Fairfield  Timeout,89,56,4,34,34,Fairfield Stags,timeout,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,Izabela Nicoletti Leite missed Jumper.,89,56,4,14,14,Fairfield Stags,jumper,True,False,False,Izabela Nicoletti Leite,False,,23.0,18.0
+401637569,Indiana Hoosiers,Fairfield Stags,Henna Sandvik Defensive Rebound.,89,56,4,14,14,Indiana Hoosiers,rebound,False,False,False,,False,,,
+401637569,Indiana Hoosiers,Fairfield Stags,End of Game,89,56,4,0,0,,end,False,False,False,,False,,,

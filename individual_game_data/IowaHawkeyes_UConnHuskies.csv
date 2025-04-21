@@ -1,0 +1,315 @@
+game_id,home_team,away_team,play_desc,home_score,away_score,quarter,secs_left_qt,secs_left_reg,play_team,play_type,shooting_play,scoring_play,is_three,shooter,is_assisted,assist_player,shot_x,shot_y
+401637612,Iowa Hawkeyes,UConn Huskies,Jump Ball won by UConn,0,0,1,600,2400,UConn Huskies,jump ball,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold Turnover.,0,0,1,592,2392,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark made Layup.,2,0,1,580,2380,Iowa Hawkeyes,layup,True,True,False,Caitlin Clark,False,,20.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade made Jumper. Assisted by Aaliyah Edwards.,2,2,1,556,2356,UConn Huskies,jumper,True,True,False,Ashlynn Shade,True,Aaliyah Edwards,42.0,9.0
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter Turnover.,2,2,1,536,2336,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Steal.,2,2,1,536,2336,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold made Three Point Jumper. Assisted by Aaliyah Edwards.,2,5,1,525,2325,UConn Huskies,three point jumper,True,True,True,KK Arnold,True,Aaliyah Edwards,46.0,14.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark missed Three Point Jumper.,2,5,1,511,2311,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,40.0,21.0
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter Offensive Rebound.,2,5,1,511,2311,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Jump Ball won by Iowa,2,5,1,505,2305,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin made Three Point Jumper. Assisted by Sydney Affolter.,5,5,1,497,2297,Iowa Hawkeyes,three point jumper,True,True,True,Kate Martin,True,Sydney Affolter,48.0,3.0
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers made Jumper. Assisted by Nika Muhl.,5,7,1,476,2276,UConn Huskies,jumper,True,True,False,Paige Bueckers,True,Nika Muhl,21.0,16.0
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin missed Three Point Jumper.,5,7,1,464,2264,Iowa Hawkeyes,three point jumper,True,False,True,Kate Martin,False,,5.0,15.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Defensive Rebound.,5,7,1,464,2264,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl made Three Point Jumper. Assisted by Aaliyah Edwards.,5,10,1,450,2250,UConn Huskies,three point jumper,True,True,True,Nika Muhl,True,Aaliyah Edwards,25.0,25.0
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Turnover.,5,10,1,419,2219,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Steal.,5,10,1,419,2219,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl Turnover.,5,10,1,406,2206,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Steal.,5,10,1,406,2206,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall missed Three Point Jumper.,5,10,1,400,2200,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,5.0,14.0
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter Offensive Rebound.,5,10,1,400,2200,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter Turnover.,5,10,1,393,2193,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold Steal.,5,10,1,393,2193,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Jump Ball won by UConn,5,10,1,393,2193,UConn Huskies,jump ball,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers missed Jumper.,5,10,1,383,2183,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,27.0,21.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Defensive Rebound.,5,10,1,383,2183,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark missed Three Point Jumper.,5,10,1,375,2175,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,43.0,25.0
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl Defensive Rebound.,5,10,1,375,2175,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold made Layup. Assisted by Nika Muhl.,5,12,1,363,2163,UConn Huskies,layup,True,True,False,KK Arnold,True,Nika Muhl,26.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Caitlin Clark.,5,12,1,363,2163,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold made Free Throw.,5,13,1,363,2163,UConn Huskies,free throw,True,True,False,KK Arnold,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Layup. Assisted by Caitlin Clark.,7,13,1,340,2140,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,True,Caitlin Clark,28.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards missed Jumper.,7,13,1,330,2130,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,26.0,18.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Defensive Rebound.,7,13,1,330,2130,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark missed Layup.,7,13,1,321,2121,Iowa Hawkeyes,layup,True,False,False,Caitlin Clark,False,,23.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,UConn Defensive Rebound.,7,13,1,321,2121,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers missed Jumper.,7,13,1,302,2102,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,29.0,10.0
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Defensive Rebound.,7,13,1,302,2102,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Aaliyah Edwards.,7,13,1,299,2099,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies, Official TV Timeout,7,13,1,299,2099,,tv timeout,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Layup.,9,13,1,287,2087,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,False,,22.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers Turnover.,9,13,1,277,2077,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall missed Three Point Jumper.,9,13,1,268,2068,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,47.0,5.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade Defensive Rebound.,9,13,1,268,2068,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl missed Layup.,9,13,1,242,2042,UConn Huskies,layup,True,False,False,Nika Muhl,False,,25.0,4.0
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Defensive Rebound.,9,13,1,242,2042,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin missed Layup.,9,13,1,233,2033,Iowa Hawkeyes,layup,True,False,False,Kate Martin,False,,28.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Block.,9,13,1,233,2033,UConn Huskies,block,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade Defensive Rebound.,9,13,1,233,2033,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl missed Three Point Jumper.,9,13,1,214,2014,UConn Huskies,three point jumper,True,False,True,Nika Muhl,False,,43.0,17.0
+401637612,Iowa Hawkeyes,UConn Huskies,Iowa Defensive Rebound.,9,13,1,214,2014,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Layup.,11,13,1,191,1991,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,False,,24.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Ice Brady.,11,13,1,191,1991,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke missed Free Throw.,11,13,1,191,1991,Iowa Hawkeyes,free throw,True,False,False,Hannah Stuelke,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall Offensive Rebound.,11,13,1,191,1991,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark missed Three Point Jumper.,11,13,1,186,1986,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,36.0,27.0
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter Offensive Rebound.,11,13,1,186,1986,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Turnover.,11,13,1,178,1978,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold Steal.,11,13,1,178,1978,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers missed Three Point Jumper.,11,13,1,168,1968,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,42.0,20.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ice Brady Offensive Rebound.,11,13,1,168,1968,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade made Three Point Jumper. Assisted by KK Arnold.,11,16,1,158,1958,UConn Huskies,three point jumper,True,True,True,Ashlynn Shade,True,KK Arnold,48.0,-1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke Turnover.,11,16,1,135,1935,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Ice Brady missed Three Point Jumper.,11,16,1,126,1926,UConn Huskies,three point jumper,True,False,True,Ice Brady,False,,39.0,20.0
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Defensive Rebound.,11,16,1,126,1926,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kylie Feuerbach missed Three Point Jumper.,11,16,1,115,1915,Iowa Hawkeyes,three point jumper,True,False,True,Kylie Feuerbach,False,,48.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl Defensive Rebound.,11,16,1,115,1915,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Kylie Feuerbach.,11,16,1,110,1910,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl made Three Point Jumper. Assisted by KK Arnold.,11,19,1,96,1896,UConn Huskies,three point jumper,True,True,True,Nika Muhl,True,KK Arnold,7.0,15.0
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Nika Muhl.,11,19,1,76,1876,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kylie Feuerbach made Three Point Jumper. Assisted by Caitlin Clark.,14,19,1,62,1862,Iowa Hawkeyes,three point jumper,True,True,True,Kylie Feuerbach,True,Caitlin Clark,39.0,21.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ice Brady missed Jumper.,14,19,1,46,1846,UConn Huskies,jumper,True,False,False,Ice Brady,False,,27.0,20.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Defensive Rebound.,14,19,1,46,1846,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Addison O'Grady Turnover.,14,19,1,40,1840,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold Steal.,14,19,1,40,1840,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold Turnover.,14,19,1,33,1833,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Turnover.,14,19,1,6,1806,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade Steal.,14,19,1,6,1806,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,End of 1st Quarter,14,19,1,0,1800,,end,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Jump Ball won by Iowa,14,19,2,600,1800,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Turnover.,14,19,2,594,1794,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Steal.,14,19,2,594,1794,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards made Layup. Assisted by Paige Bueckers.,14,21,2,570,1770,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,Paige Bueckers,23.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin missed Three Point Jumper.,14,21,2,541,1741,Iowa Hawkeyes,three point jumper,True,False,True,Kate Martin,False,,48.0,6.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Defensive Rebound.,14,21,2,541,1741,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade missed Three Point Jumper.,14,21,2,521,1721,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,30.0,24.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Offensive Rebound.,14,21,2,521,1721,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards missed Layup.,14,21,2,516,1716,UConn Huskies,layup,True,False,False,Aaliyah Edwards,False,,27.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl Offensive Rebound.,14,21,2,516,1716,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers missed Three Point Jumper.,14,21,2,492,1692,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,37.0,22.0
+401637612,Iowa Hawkeyes,UConn Huskies,Iowa Defensive Rebound.,14,21,2,492,1692,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke Turnover.,14,21,2,474,1674,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade Steal.,14,21,2,474,1674,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards missed Layup.,14,21,2,467,1667,UConn Huskies,layup,True,False,False,Aaliyah Edwards,False,,22.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke Block.,14,21,2,467,1667,Iowa Hawkeyes,block,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Defensive Rebound.,14,21,2,467,1667,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Layup. Assisted by Caitlin Clark.,16,21,2,460,1660,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,True,Caitlin Clark,27.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold made Layup.,16,23,2,437,1637,UConn Huskies,layup,True,True,False,KK Arnold,False,,27.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark missed Three Point Jumper.,16,23,2,421,1621,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,41.0,21.0
+401637612,Iowa Hawkeyes,UConn Huskies,Iowa Offensive Rebound.,16,23,2,421,1621,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Turnover.,16,23,2,410,1610,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Steal.,16,23,2,410,1610,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards made Layup.,16,25,2,407,1607,UConn Huskies,layup,True,True,False,Aaliyah Edwards,False,,23.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,Iowa  Timeout,16,25,2,406,1606,Iowa Hawkeyes,timeout,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter missed Layup.,16,25,2,386,1586,Iowa Hawkeyes,layup,True,False,False,Sydney Affolter,False,,29.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Defensive Rebound.,16,25,2,386,1586,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Nika Muhl.,16,25,2,366,1566,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl Turnover.,16,25,2,366,1566,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke missed Jumper.,16,25,2,350,1550,Iowa Hawkeyes,jumper,True,False,False,Hannah Stuelke,False,,29.0,3.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade Defensive Rebound.,16,25,2,350,1550,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold missed Jumper.,16,25,2,338,1538,UConn Huskies,jumper,True,False,False,KK Arnold,False,,29.0,15.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Defensive Rebound.,16,25,2,338,1538,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall Turnover.,16,25,2,329,1529,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold Steal.,16,25,2,329,1529,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers made Three Point Jumper. Assisted by KK Arnold.,16,28,2,324,1524,UConn Huskies,three point jumper,True,True,True,Paige Bueckers,True,KK Arnold,47.0,10.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark made Layup.,18,28,2,305,1505,Iowa Hawkeyes,layup,True,True,False,Caitlin Clark,False,,22.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade missed Jumper.,18,28,2,292,1492,UConn Huskies,jumper,True,False,False,Ashlynn Shade,False,,42.0,10.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Defensive Rebound.,18,28,2,292,1492,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter missed Layup.,18,28,2,286,1486,Iowa Hawkeyes,layup,True,False,False,Sydney Affolter,False,,23.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers Defensive Rebound.,18,28,2,286,1486,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold missed Three Point Jumper.,18,28,2,277,1477,UConn Huskies,three point jumper,True,False,True,KK Arnold,False,,46.0,12.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Defensive Rebound.,18,28,2,277,1477,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin missed Layup.,18,28,2,262,1462,Iowa Hawkeyes,layup,True,False,False,Kate Martin,False,,28.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Defensive Rebound.,18,28,2,262,1462,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on KK Arnold.,18,28,2,236,1436,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold Turnover.,18,28,2,236,1436,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies, Official TV Timeout,18,28,2,236,1436,,tv timeout,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark missed Jumper.,18,28,2,223,1423,Iowa Hawkeyes,jumper,True,False,False,Caitlin Clark,False,,16.0,6.0
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold Defensive Rebound.,18,28,2,223,1423,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Kylie Feuerbach.,18,28,2,208,1408,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers missed Jumper.,18,28,2,205,1405,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,28.0,15.0
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Defensive Rebound.,18,28,2,205,1405,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark missed Three Point Jumper.,18,28,2,194,1394,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,6.0,26.0
+401637612,Iowa Hawkeyes,UConn Huskies,Iowa Offensive Rebound.,18,28,2,194,1394,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Aaliyah Edwards.,18,28,2,194,1394,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on KK Arnold.,18,28,2,189,1389,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter missed Free Throw.,18,28,2,189,1389,Iowa Hawkeyes,free throw,True,False,False,Sydney Affolter,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Iowa Deadball Team Rebound.,18,28,2,189,1389,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter made Free Throw.,19,28,2,189,1389,Iowa Hawkeyes,free throw,True,True,False,Sydney Affolter,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers Turnover.,19,28,2,172,1372,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Steal.,19,28,2,172,1372,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter made Three Point Jumper.,22,28,2,159,1359,Iowa Hawkeyes,three point jumper,True,True,True,Sydney Affolter,False,,5.0,13.0
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold made Layup.,22,30,2,143,1343,UConn Huskies,layup,True,True,False,KK Arnold,False,,21.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Turnover.,22,30,2,127,1327,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl Steal.,22,30,2,127,1327,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade missed Three Point Jumper.,22,30,2,109,1309,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,2.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall Defensive Rebound.,22,30,2,109,1309,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark made Jumper.,24,30,2,97,1297,Iowa Hawkeyes,jumper,True,True,False,Caitlin Clark,False,,20.0,3.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards missed Jumper.,24,30,2,74,1274,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,23.0,8.0
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Defensive Rebound.,24,30,2,74,1274,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter made Layup. Assisted by Caitlin Clark.,26,30,2,68,1268,Iowa Hawkeyes,layup,True,True,False,Sydney Affolter,True,Caitlin Clark,21.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers missed Jumper.,26,30,2,44,1244,UConn Huskies,jumper,True,False,False,Paige Bueckers,False,,29.0,3.0
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke Defensive Rebound.,26,30,2,44,1244,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark missed Three Point Jumper.,26,30,2,17,1217,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,4.0,20.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade Defensive Rebound.,26,30,2,17,1217,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers made Layup.,26,32,2,2,1202,UConn Huskies,layup,True,True,False,Paige Bueckers,False,,28.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,End of 2nd Quarter,26,32,2,0,1200,,end,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Jump Ball won by UConn,26,32,3,600,1200,UConn Huskies,jump ball,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade Turnover.,26,32,3,587,1187,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Steal.,26,32,3,587,1187,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall made Three Point Jumper. Assisted by Kate Martin.,29,32,3,581,1181,Iowa Hawkeyes,three point jumper,True,True,True,Gabbie Marshall,True,Kate Martin,18.0,23.0
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold made Layup. Assisted by Nika Muhl.,29,34,3,565,1165,UConn Huskies,layup,True,True,False,KK Arnold,True,Nika Muhl,28.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin missed Layup.,29,34,3,558,1158,Iowa Hawkeyes,layup,True,False,False,Kate Martin,False,,23.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold Defensive Rebound.,29,34,3,558,1158,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold Turnover.,29,34,3,543,1143,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter Steal.,29,34,3,543,1143,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Layup.,31,34,3,529,1129,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,False,,21.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers made Layup. Assisted by Ashlynn Shade.,31,36,3,511,1111,UConn Huskies,layup,True,True,False,Paige Bueckers,True,Ashlynn Shade,28.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark made Three Point Jumper.,34,36,3,491,1091,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,False,,38.0,21.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards missed Jumper.,34,36,3,475,1075,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,26.0,19.0
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter Defensive Rebound.,34,36,3,475,1075,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark missed Three Point Jumper.,34,36,3,467,1067,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,45.0,17.0
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall Offensive Rebound.,34,36,3,467,1067,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin made Layup.,36,36,3,456,1056,Iowa Hawkeyes,layup,True,True,False,Kate Martin,False,,27.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers made Three Point Jumper.,36,39,3,446,1046,UConn Huskies,three point jumper,True,True,True,Paige Bueckers,False,,33.0,23.0
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Paige Bueckers.,36,39,3,436,1036,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Ice Brady.,36,39,3,427,1027,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Free Throw.,37,39,3,427,1027,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke missed Free Throw.,37,39,3,427,1027,Iowa Hawkeyes,free throw,True,False,False,Hannah Stuelke,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade Defensive Rebound.,37,39,3,427,1027,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Caitlin Clark.,37,39,3,412,1012,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers missed Three Point Jumper.,37,39,3,408,1008,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,3.0,21.0
+401637612,Iowa Hawkeyes,UConn Huskies,Iowa Defensive Rebound.,37,39,3,408,1008,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall missed Three Point Jumper.,37,39,3,394,994,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,2.0,-1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ice Brady Defensive Rebound.,37,39,3,394,994,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl missed Three Point Jumper.,37,39,3,384,984,UConn Huskies,three point jumper,True,False,True,Nika Muhl,False,,28.0,24.0
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers Offensive Rebound.,37,39,3,384,984,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade missed Jumper.,37,39,3,375,975,UConn Huskies,jumper,True,False,False,Ashlynn Shade,False,,32.0,10.0
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Defensive Rebound.,37,39,3,375,975,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall missed Layup.,37,39,3,352,952,Iowa Hawkeyes,layup,True,False,False,Gabbie Marshall,False,,27.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade Defensive Rebound.,37,39,3,352,952,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers made Layup. Assisted by Ice Brady.,37,41,3,331,931,UConn Huskies,layup,True,True,False,Paige Bueckers,True,Ice Brady,23.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke missed Layup.,37,41,3,309,909,Iowa Hawkeyes,layup,True,False,False,Hannah Stuelke,False,,27.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl Defensive Rebound.,37,41,3,309,909,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers missed Layup.,37,41,3,303,903,UConn Huskies,layup,True,False,False,Paige Bueckers,False,,23.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall Defensive Rebound.,37,41,3,303,903,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on KK Arnold.,37,41,3,299,899,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies, Official TV Timeout,37,41,3,299,899,,tv timeout,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter missed Layup.,37,41,3,286,886,Iowa Hawkeyes,layup,True,False,False,Sydney Affolter,False,,26.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter Offensive Rebound.,37,41,3,286,886,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Jump Ball won by Iowa,37,41,3,281,881,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Ice Brady.,37,41,3,263,863,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Free Throw.,38,41,3,263,863,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Free Throw.,39,41,3,263,863,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Ice Brady made Layup. Assisted by Nika Muhl.,39,43,3,247,847,UConn Huskies,layup,True,True,False,Ice Brady,True,Nika Muhl,28.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Hannah Stuelke.,39,43,3,247,847,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Ice Brady made Free Throw.,39,44,3,247,847,UConn Huskies,free throw,True,True,False,Ice Brady,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark made Three Point Jumper. Assisted by Hannah Stuelke.,42,44,3,229,829,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,True,Hannah Stuelke,48.0,12.0
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Ashlynn Shade.,42,44,3,229,829,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark made Free Throw.,43,44,3,229,829,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Kate Martin.,43,44,3,205,805,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards missed Free Throw.,43,44,3,205,805,UConn Huskies,free throw,True,False,False,Aaliyah Edwards,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,UConn Deadball Team Rebound.,43,44,3,205,805,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards made Free Throw.,43,45,3,205,805,UConn Huskies,free throw,True,True,False,Aaliyah Edwards,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Layup. Assisted by Caitlin Clark.,45,45,3,196,796,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,True,Caitlin Clark,28.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers Turnover.,45,45,3,187,787,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall Steal.,45,45,3,187,787,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,UConn  Timeout,45,45,3,187,787,UConn Huskies,timeout,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall missed Three Point Jumper.,45,45,3,182,782,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,2.0,4.0
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl Defensive Rebound.,45,45,3,182,782,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold missed Three Point Jumper.,45,45,3,165,765,UConn Huskies,three point jumper,True,False,True,KK Arnold,False,,47.0,8.0
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall Defensive Rebound.,45,45,3,165,765,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on KK Arnold.,45,45,3,154,754,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Free Throw.,46,45,3,154,754,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Free Throw.,47,45,3,154,754,Iowa Hawkeyes,free throw,True,True,False,Hannah Stuelke,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards made Layup. Assisted by KK Arnold.,47,47,3,140,740,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,KK Arnold,24.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Layup. Assisted by Caitlin Clark.,49,47,3,113,713,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,True,Caitlin Clark,27.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards made Jumper. Assisted by Nika Muhl.,49,49,3,91,691,UConn Huskies,jumper,True,True,False,Aaliyah Edwards,True,Nika Muhl,28.0,11.0
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke missed Layup.,49,49,3,73,673,Iowa Hawkeyes,layup,True,False,False,Hannah Stuelke,False,,28.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke Offensive Rebound.,49,49,3,73,673,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter made Layup.,51,49,3,61,661,Iowa Hawkeyes,layup,True,True,False,Sydney Affolter,False,,21.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade missed Three Point Jumper.,51,49,3,47,647,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,2.0,3.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Defensive Rebound.,51,49,3,47,647,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter missed Jumper.,51,49,3,39,639,Iowa Hawkeyes,jumper,True,False,False,Sydney Affolter,False,,21.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade Defensive Rebound.,51,49,3,39,639,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards made Layup. Assisted by Ice Brady.,51,51,3,18,618,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,Ice Brady,23.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall missed Three Point Jumper.,51,51,3,1,601,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,47.0,10.0
+401637612,Iowa Hawkeyes,UConn Huskies,Iowa Deadball Team Rebound.,51,51,3,1,601,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,End of 3rd Quarter,51,51,3,0,600,,end,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Jump Ball won by Iowa,51,51,4,600,600,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards missed Layup.,51,51,4,590,590,UConn Huskies,layup,True,False,False,Aaliyah Edwards,False,,24.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke Defensive Rebound.,51,51,4,590,590,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Layup. Assisted by Gabbie Marshall.,53,51,4,574,574,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,True,Gabbie Marshall,22.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers missed Three Point Jumper.,53,51,4,558,558,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,4.0,13.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Defensive Rebound.,53,51,4,558,558,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark made Three Point Jumper.,56,51,4,546,546,Iowa Hawkeyes,three point jumper,True,True,True,Caitlin Clark,False,,34.0,26.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ice Brady made Jumper. Assisted by Nika Muhl.,56,53,4,527,527,UConn Huskies,jumper,True,True,False,Ice Brady,True,Nika Muhl,9.0,7.0
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Ice Brady.,56,53,4,510,510,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark made Free Throw.,57,53,4,510,510,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark made Free Throw.,58,53,4,510,510,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards made Jumper. Assisted by Paige Bueckers.,58,55,4,492,492,UConn Huskies,jumper,True,True,False,Aaliyah Edwards,True,Paige Bueckers,7.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark made Jumper.,60,55,4,478,478,Iowa Hawkeyes,jumper,True,True,False,Caitlin Clark,False,,29.0,10.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ice Brady made Jumper.,60,57,4,465,465,UConn Huskies,jumper,True,True,False,Ice Brady,False,,33.0,17.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark missed Three Point Jumper.,60,57,4,452,452,Iowa Hawkeyes,three point jumper,True,False,True,Caitlin Clark,False,,36.0,29.0
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter Offensive Rebound.,60,57,4,452,452,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Iowa  Timeout,60,57,4,447,447,Iowa Hawkeyes,timeout,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall missed Three Point Jumper.,60,57,4,435,435,Iowa Hawkeyes,three point jumper,True,False,True,Gabbie Marshall,False,,49.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Defensive Rebound.,60,57,4,435,435,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl Turnover.,60,57,4,422,422,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Steal.,60,57,4,422,422,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke made Layup. Assisted by Caitlin Clark.,62,57,4,416,416,Iowa Hawkeyes,layup,True,True,False,Hannah Stuelke,True,Caitlin Clark,21.0,0.0
+401637612,Iowa Hawkeyes,UConn Huskies,Ice Brady missed Three Point Jumper.,62,57,4,404,404,UConn Huskies,three point jumper,True,False,True,Ice Brady,False,,9.0,18.0
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Defensive Rebound.,62,57,4,404,404,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin made Jumper.,64,57,4,388,388,Iowa Hawkeyes,jumper,True,True,False,Kate Martin,False,,30.0,8.0
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl missed Three Point Jumper.,64,57,4,377,377,UConn Huskies,three point jumper,True,False,True,Nika Muhl,False,,46.0,10.0
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers Offensive Rebound.,64,57,4,377,377,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards missed Jumper.,64,57,4,368,368,UConn Huskies,jumper,True,False,False,Aaliyah Edwards,False,,14.0,12.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Defensive Rebound.,64,57,4,368,368,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Gabbie Marshall made Jumper. Assisted by Sydney Affolter.,66,57,4,342,342,Iowa Hawkeyes,jumper,True,True,False,Gabbie Marshall,True,Sydney Affolter,42.0,14.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards made Layup.,66,59,4,320,320,UConn Huskies,layup,True,True,False,Aaliyah Edwards,False,,22.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter Turnover.,66,59,4,304,304,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Steal.,66,59,4,304,304,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Addison O'Grady.,66,59,4,301,301,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Ashlynn Shade missed Three Point Jumper.,66,59,4,280,280,UConn Huskies,three point jumper,True,False,True,Ashlynn Shade,False,,48.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,UConn Offensive Rebound.,66,59,4,280,280,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Addison O'Grady.,66,59,4,279,279,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold missed Three Point Jumper.,66,59,4,276,276,UConn Huskies,three point jumper,True,False,True,KK Arnold,False,,16.0,24.0
+401637612,Iowa Hawkeyes,UConn Huskies,Iowa Defensive Rebound.,66,59,4,276,276,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark Turnover.,66,59,4,259,259,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl Steal.,66,59,4,259,259,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers made Three Point Jumper. Assisted by Nika Muhl.,66,62,4,253,253,UConn Huskies,three point jumper,True,True,True,Paige Bueckers,True,Nika Muhl,6.0,16.0
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin missed Three Point Jumper.,66,62,4,233,233,Iowa Hawkeyes,three point jumper,True,False,True,Kate Martin,False,,28.0,25.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Defensive Rebound.,66,62,4,233,233,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Hannah Stuelke.,66,62,4,231,231,Iowa Hawkeyes,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Turnover.,66,62,4,205,205,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin made Jumper.,68,62,4,179,179,Iowa Hawkeyes,jumper,True,True,False,Kate Martin,False,,20.0,3.0
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold made Layup.,68,64,4,161,161,UConn Huskies,layup,True,True,False,KK Arnold,False,,29.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,UConn  Timeout,68,64,4,161,161,UConn Huskies,timeout,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin made Layup.,70,64,4,136,136,Iowa Hawkeyes,layup,True,True,False,Kate Martin,False,,24.0,3.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards made Layup. Assisted by Paige Bueckers.,70,66,4,114,114,UConn Huskies,layup,True,True,False,Aaliyah Edwards,True,Paige Bueckers,23.0,1.0
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark missed Layup.,70,66,4,93,93,Iowa Hawkeyes,layup,True,False,False,Caitlin Clark,False,,21.0,2.0
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Defensive Rebound.,70,66,4,93,93,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers missed Three Point Jumper.,70,66,4,73,73,UConn Huskies,three point jumper,True,False,True,Paige Bueckers,False,,2.0,5.0
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers Offensive Rebound.,70,66,4,73,73,UConn Huskies,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Paige Bueckers Turnover.,70,66,4,70,70,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter Steal.,70,66,4,70,70,Iowa Hawkeyes,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Nika Muhl.,70,66,4,62,62,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Ashlynn Shade.,70,66,4,55,55,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Kate Martin Turnover.,70,66,4,53,53,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl Steal.,70,66,4,53,53,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Nika Muhl made Three Point Jumper. Assisted by KK Arnold.,70,69,4,49,49,UConn Huskies,three point jumper,True,True,True,Nika Muhl,True,KK Arnold,33.0,23.0
+401637612,Iowa Hawkeyes,UConn Huskies,Iowa  Timeout,70,69,4,39,39,Iowa Hawkeyes,timeout,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Hannah Stuelke Turnover.,70,69,4,12,12,Iowa Hawkeyes,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,KK Arnold Steal.,70,69,4,12,12,UConn Huskies,steal,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,UConn  Timeout,70,69,4,10,10,UConn Huskies,timeout,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Aaliyah Edwards.,70,69,4,4,4,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Aaliyah Edwards Turnover.,70,69,4,4,4,UConn Huskies,turnover,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Iowa  Timeout,70,69,4,4,4,Iowa Hawkeyes,timeout,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Foul on Paige Bueckers.,70,69,4,3,3,UConn Huskies,foul,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark made Free Throw.,71,69,4,3,3,Iowa Hawkeyes,free throw,True,True,False,Caitlin Clark,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Caitlin Clark missed Free Throw.,71,69,4,3,3,Iowa Hawkeyes,free throw,True,False,False,Caitlin Clark,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Sydney Affolter Offensive Rebound.,71,69,4,3,3,Iowa Hawkeyes,rebound,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,Jump Ball won by Iowa,71,69,4,1,1,Iowa Hawkeyes,jump ball,False,False,False,,False,,,
+401637612,Iowa Hawkeyes,UConn Huskies,End of Game,71,69,4,0,0,,end,False,False,False,,False,,,
